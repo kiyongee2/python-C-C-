@@ -1,0 +1,6 @@
+git 설정
+
+git config --global user.name “아이디”
+git config --global user.email “이메일”
+git config --global init.defaultBranch main
+git config --global --list
