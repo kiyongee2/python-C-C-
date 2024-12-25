@@ -1,0 +1,3 @@
+﻿  const_arrray.cpp
+D:\korea_IT\c++works\Basic\Basic\const_arrray.cpp(11,20): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Basic.vcxproj -> D:\korea_IT\c++works\Basic\x64\Debug\Basic.exe
