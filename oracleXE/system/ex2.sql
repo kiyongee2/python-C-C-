@@ -1,0 +1,8 @@
+
+CREATE TABLE ex2(
+    col_date DATE
+);
+
+INSERT INTO ex2 VALUES (SYSDATE);
+
+SELECT col_date FROM ex2;

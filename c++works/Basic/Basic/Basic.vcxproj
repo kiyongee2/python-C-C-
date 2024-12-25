@@ -130,6 +130,8 @@
     <ClCompile Include="basic.cpp" />
     <ClCompile Include="const_arrray.cpp" />
     <ClCompile Include="input.cpp" />
+    <ClCompile Include="pointer.cpp" />
+    <ClCompile Include="구조체.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
