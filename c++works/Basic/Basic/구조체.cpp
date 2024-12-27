@@ -1,13 +1,14 @@
 #include <iostream>
 
 using namespace std;
+
 //구조체(사람)
 struct Person {
 	char name[20];
 	int age;
 };
 
-int main() {
+int main_struct() {
 	//구조체 - 다른 형의 데이터를 저장할 수 있는 자료 구조
 
 	struct MyStruct {
