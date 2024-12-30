@@ -128,12 +128,24 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="basic.cpp" />
+    <ClCompile Include="call_by_reference.cpp" />
+    <ClCompile Include="call_by_value.cpp" />
     <ClCompile Include="Circle.cpp" />
     <ClCompile Include="Circle_main.cpp" />
     <ClCompile Include="classes.cpp" />
     <ClCompile Include="const_arrray.cpp" />
+    <ClCompile Include="deep_copy.cpp" />
+    <ClCompile Include="default_param.cpp" />
     <ClCompile Include="input.cpp" />
+    <ClCompile Include="new_delete.cpp" />
+    <ClCompile Include="operator1.cpp" />
+    <ClCompile Include="operator2.cpp" />
     <ClCompile Include="pointer.cpp" />
+    <ClCompile Include="reference1.cpp" />
+    <ClCompile Include="reference2.cpp" />
+    <ClCompile Include="shallow_copy.cpp" />
+    <ClCompile Include="static_person.cpp" />
+    <ClCompile Include="string_main.cpp" />
     <ClCompile Include="구조체.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -1,2 +1,9 @@
-﻿  if_ex.c
-  MyProject.vcxproj -> D:\korea_IT\c++2024\MyProject\x64\Debug\MyProject.exe
+﻿  hello.c
+  if_ex.c
+D:\korea_IT\c2024\MyProject\MyProject\hello.c(39,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+      D:\korea_IT\c2024\MyProject\MyProject\hello.c(39,10):
+      이 인수는 버퍼 크기로 사용됩니다.
+  
+  loop.c
+  코드를 생성하고 있습니다...
+  MyProject.vcxproj -> D:\korea_IT\c2024\MyProject\x64\Debug\MyProject.exe

@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "MyProject\\if_ex.c",
               "ToolTip": "D:\\korea_IT\\c2024\\MyProject\\MyProject\\if_ex.c",
               "RelativeToolTip": "MyProject\\if_ex.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-23T08:13:37.494Z",
               "EditorCaption": ""
@@ -47,7 +47,8 @@
               "RelativeToolTip": "MyProject\\loop.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-21T22:02:00.4Z"
+              "WhenOpened": "2024-12-21T22:02:00.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

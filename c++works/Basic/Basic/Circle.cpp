@@ -8,12 +8,12 @@ Circle::Circle() : Circle(1) {}
 
 Circle::Circle(int r) {
 	radius = r;
-	cout << "반지름 " << radius << " 원 생성" << endl;
+	cout << "반지름 " << radius << "인 원 생성" << endl;
 }
 
 //객체는 생성의 반대로 소멸됨
 Circle::~Circle() {
-	cout << "반지름 " << radius << " 원 소멸" << endl;
+	cout << "반지름 " << radius << "인 원 소멸" << endl;
 }
 
 double Circle::getArea() {

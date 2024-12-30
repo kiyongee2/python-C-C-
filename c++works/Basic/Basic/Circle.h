@@ -9,6 +9,7 @@ public:
 	Circle(int r);
 	~Circle();  //¼Ò¸êÀÚ
 
+	void setRadius(int r) { radius = r; }
 	double getArea();
 };
 

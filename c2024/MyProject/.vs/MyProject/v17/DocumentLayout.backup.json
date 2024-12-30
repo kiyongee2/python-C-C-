@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2024\\MyProject\\",
+  "WorkspaceRootPath": "D:\\korea_IT\\c2024\\MyProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29F28C32-0889-437B-86BE-CA94D06B1D31}|MyProject\\MyProject.vcxproj|D:\\korea_IT\\c\u002B\u002B2024\\MyProject\\MyProject\\if_ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{29F28C32-0889-437B-86BE-CA94D06B1D31}|MyProject\\MyProject.vcxproj|D:\\korea_IT\\c2024\\MyProject\\MyProject\\if_ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{29F28C32-0889-437B-86BE-CA94D06B1D31}|MyProject\\MyProject.vcxproj|solutionrelative:MyProject\\if_ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F28C32-0889-437B-86BE-CA94D06B1D31}|MyProject\\MyProject.vcxproj|D:\\korea_IT\\c\u002B\u002B2024\\MyProject\\MyProject\\loop.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{29F28C32-0889-437B-86BE-CA94D06B1D31}|MyProject\\MyProject.vcxproj|D:\\korea_IT\\c2024\\MyProject\\MyProject\\loop.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{29F28C32-0889-437B-86BE-CA94D06B1D31}|MyProject\\MyProject.vcxproj|solutionrelative:MyProject\\loop.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F28C32-0889-437B-86BE-CA94D06B1D31}|MyProject\\MyProject.vcxproj|D:\\korea_IT\\c\u002B\u002B2024\\MyProject\\MyProject\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{29F28C32-0889-437B-86BE-CA94D06B1D31}|MyProject\\MyProject.vcxproj|D:\\korea_IT\\c2024\\MyProject\\MyProject\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{29F28C32-0889-437B-86BE-CA94D06B1D31}|MyProject\\MyProject.vcxproj|solutionrelative:MyProject\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "if_ex.c",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2024\\MyProject\\MyProject\\if_ex.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\MyProject\\MyProject\\if_ex.c",
               "RelativeDocumentMoniker": "MyProject\\if_ex.c",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2024\\MyProject\\MyProject\\if_ex.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\MyProject\\MyProject\\if_ex.c",
               "RelativeToolTip": "MyProject\\if_ex.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-23T08:13:37.494Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "loop.c",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2024\\MyProject\\MyProject\\loop.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\MyProject\\MyProject\\loop.c",
               "RelativeDocumentMoniker": "MyProject\\loop.c",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2024\\MyProject\\MyProject\\loop.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\MyProject\\MyProject\\loop.c",
               "RelativeToolTip": "MyProject\\loop.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -54,9 +54,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "hello.c",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2024\\MyProject\\MyProject\\hello.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\MyProject\\MyProject\\hello.c",
               "RelativeDocumentMoniker": "MyProject\\hello.c",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2024\\MyProject\\MyProject\\hello.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\MyProject\\MyProject\\hello.c",
               "RelativeToolTip": "MyProject\\hello.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
