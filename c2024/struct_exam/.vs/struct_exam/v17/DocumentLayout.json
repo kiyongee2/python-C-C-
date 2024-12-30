@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c2024\\struct_exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\struct_student.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\struct_student.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\struct_score.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\struct_score.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "struct_score.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\struct_score.c",
+              "RelativeDocumentMoniker": "struct_exam\\struct_score.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\struct_score.c",
+              "RelativeToolTip": "struct_exam\\struct_score.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-30T09:11:29.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "struct_student.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\struct_student.c",
+              "RelativeDocumentMoniker": "struct_exam\\struct_student.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\struct_student.c",
+              "RelativeToolTip": "struct_exam\\struct_student.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-30T08:58:16.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

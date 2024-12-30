@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c2024\\banking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB27A8A-0919-481B-B702-FB7656CFF588}|banking\\banking.vcxproj|D:\\korea_IT\\c2024\\banking\\banking\\bank_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEB27A8A-0919-481B-B702-FB7656CFF588}|banking\\banking.vcxproj|solutionrelative:banking\\bank_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bank_main.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\banking\\banking\\bank_main.c",
+              "RelativeDocumentMoniker": "banking\\bank_main.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\banking\\banking\\bank_main.c*",
+              "RelativeToolTip": "banking\\bank_main.c*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-30T08:24:23.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
