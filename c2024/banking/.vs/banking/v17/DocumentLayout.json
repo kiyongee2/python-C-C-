@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2024\\banking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEB27A8A-0919-481B-B702-FB7656CFF588}|banking\\banking.vcxproj|D:\\korea_IT\\c2024\\banking\\banking\\bank_array_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEB27A8A-0919-481B-B702-FB7656CFF588}|banking\\banking.vcxproj|solutionrelative:banking\\bank_array_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FEB27A8A-0919-481B-B702-FB7656CFF588}|banking\\banking.vcxproj|D:\\korea_IT\\c2024\\banking\\banking\\bank_array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEB27A8A-0919-481B-B702-FB7656CFF588}|banking\\banking.vcxproj|solutionrelative:banking\\bank_array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEB27A8A-0919-481B-B702-FB7656CFF588}|banking\\banking.vcxproj|D:\\korea_IT\\c2024\\banking\\banking\\bank_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEB27A8A-0919-481B-B702-FB7656CFF588}|banking\\banking.vcxproj|solutionrelative:banking\\bank_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB27A8A-0919-481B-B702-FB7656CFF588}|banking\\banking.vcxproj|D:\\korea_IT\\c2024\\banking\\banking\\bank_array_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEB27A8A-0919-481B-B702-FB7656CFF588}|banking\\banking.vcxproj|solutionrelative:banking\\bank_array_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "bank_array.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\banking\\banking\\bank_array.c",
+              "RelativeDocumentMoniker": "banking\\bank_array.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\banking\\banking\\bank_array.c",
+              "RelativeToolTip": "banking\\bank_array.c",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-30T11:53:06.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "bank_array_main.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\banking\\banking\\bank_array_main.c",
               "RelativeDocumentMoniker": "banking\\bank_array_main.c",
               "ToolTip": "D:\\korea_IT\\c2024\\banking\\banking\\bank_array_main.c",
               "RelativeToolTip": "banking\\bank_array_main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-30T08:49:06.732Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "banking\\bank_main.c",
               "ToolTip": "D:\\korea_IT\\c2024\\banking\\banking\\bank_main.c",
               "RelativeToolTip": "banking\\bank_main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-30T08:24:23.38Z",
               "EditorCaption": ""

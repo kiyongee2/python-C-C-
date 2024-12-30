@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bank_array.c" />
     <ClCompile Include="bank_array_main.c" />
     <ClCompile Include="bank_main.c" />
   </ItemGroup>
