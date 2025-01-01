@@ -130,6 +130,10 @@
     <ClCompile Include="callby_reference.c" />
     <ClCompile Include="callby_value.c" />
     <ClCompile Include="constant.c" />
+    <ClCompile Include="malloc1.c" />
+    <ClCompile Include="malloc2.c" />
+    <ClCompile Include="malloc3.c" />
+    <ClCompile Include="malloc4.c" />
     <ClCompile Include="pointer1.c" />
     <ClCompile Include="pointer_array.c" />
     <ClCompile Include="pointer_array2.c" />

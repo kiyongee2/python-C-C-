@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="abstract_class.cpp" />
     <ClCompile Include="default_cons.cpp" />
+    <ClCompile Include="file1.cpp" />
     <ClCompile Include="generic1.cpp" />
     <ClCompile Include="generic_stack.cpp" />
     <ClCompile Include="inheritance_point.cpp" />

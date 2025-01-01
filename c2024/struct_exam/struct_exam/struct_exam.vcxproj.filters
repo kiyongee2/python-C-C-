@@ -21,5 +21,20 @@
     <ClCompile Include="struct_score.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="file_write.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_read.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_fputc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_copy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dic.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

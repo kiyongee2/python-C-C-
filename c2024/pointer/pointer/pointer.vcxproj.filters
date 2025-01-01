@@ -36,5 +36,17 @@
     <ClCompile Include="struct_person.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="malloc1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
