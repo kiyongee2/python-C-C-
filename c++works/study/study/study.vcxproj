@@ -132,6 +132,7 @@
     <ClCompile Include="file1.cpp" />
     <ClCompile Include="generic1.cpp" />
     <ClCompile Include="generic_stack.cpp" />
+    <ClCompile Include="IncomeTax.cpp" />
     <ClCompile Include="inheritance_point.cpp" />
     <ClCompile Include="inheritance_tv.cpp" />
     <ClCompile Include="map1.cpp" />

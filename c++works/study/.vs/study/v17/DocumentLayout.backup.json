@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\IncomeTax.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|solutionrelative:study\\IncomeTax.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\file1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|solutionrelative:study\\file1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|solutionrelative:study\\vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\map1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|solutionrelative:study\\map1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\vector1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|solutionrelative:study\\vector1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\generic_stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|solutionrelative:study\\generic_stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\generic1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|solutionrelative:study\\generic1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\abstract_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|solutionrelative:study\\abstract_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\virtual_func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|solutionrelative:study\\virtual_func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\inheritance_tv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|solutionrelative:study\\inheritance_tv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\default_cons.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|solutionrelative:study\\default_cons.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\inheritance_point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|solutionrelative:study\\inheritance_point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27E1E331-6F2C-4DA5-9A5C-C43B9A448231}|study\\study.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\protected1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -59,115 +31,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "vector2.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\vector2.cpp",
-              "RelativeDocumentMoniker": "study\\vector2.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\vector2.cpp",
-              "RelativeToolTip": "study\\vector2.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Title": "IncomeTax.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\IncomeTax.cpp",
+              "RelativeDocumentMoniker": "study\\IncomeTax.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\IncomeTax.cpp",
+              "RelativeToolTip": "study\\IncomeTax.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-29T22:04:35.45Z",
+              "WhenOpened": "2025-01-10T08:34:57.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "map1.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\map1.cpp",
-              "RelativeDocumentMoniker": "study\\map1.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\map1.cpp",
-              "RelativeToolTip": "study\\map1.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Title": "file1.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\file1.cpp",
+              "RelativeDocumentMoniker": "study\\file1.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\file1.cpp",
+              "RelativeToolTip": "study\\file1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-29T10:10:46.287Z"
+              "WhenOpened": "2024-12-31T08:19:42.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "vector1.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\vector1.cpp",
-              "RelativeDocumentMoniker": "study\\vector1.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\vector1.cpp",
-              "RelativeToolTip": "study\\vector1.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Title": "vector2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\vector2.cpp",
+              "RelativeDocumentMoniker": "study\\vector2.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\vector2.cpp",
+              "RelativeToolTip": "study\\vector2.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-29T10:03:12.062Z"
+              "WhenOpened": "2024-12-29T22:04:35.45Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "generic_stack.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\generic_stack.cpp",
-              "RelativeDocumentMoniker": "study\\generic_stack.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\generic_stack.cpp",
-              "RelativeToolTip": "study\\generic_stack.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-29T09:09:00.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "generic1.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\generic1.cpp",
-              "RelativeDocumentMoniker": "study\\generic1.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\generic1.cpp",
-              "RelativeToolTip": "study\\generic1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-29T08:39:48.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "abstract_class.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\abstract_class.cpp",
-              "RelativeDocumentMoniker": "study\\abstract_class.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\abstract_class.cpp",
-              "RelativeToolTip": "study\\abstract_class.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwBgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-29T07:52:33.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "virtual_func.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\virtual_func.cpp",
-              "RelativeDocumentMoniker": "study\\virtual_func.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\virtual_func.cpp",
-              "RelativeToolTip": "study\\virtual_func.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-29T04:26:13.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "inheritance_tv.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\inheritance_tv.cpp",
-              "RelativeDocumentMoniker": "study\\inheritance_tv.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\inheritance_tv.cpp",
-              "RelativeToolTip": "study\\inheritance_tv.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-29T03:50:03.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "default_cons.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\default_cons.cpp",
-              "RelativeDocumentMoniker": "study\\default_cons.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\default_cons.cpp",
-              "RelativeToolTip": "study\\default_cons.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-28T22:59:22.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "protected1.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\protected1.cpp",
               "RelativeDocumentMoniker": "study\\protected1.cpp",
@@ -176,18 +77,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-28T22:41:56.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "inheritance_point.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\inheritance_point.cpp",
-              "RelativeDocumentMoniker": "study\\inheritance_point.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\study\\study\\inheritance_point.cpp",
-              "RelativeToolTip": "study\\inheritance_point.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-28T22:21:26.837Z"
             }
           ]
         }

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\SpeedGugu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|solutionrelative:game1\\SpeedGugu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\GuguMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|solutionrelative:game1\\GuguMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\SpeedGugu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|solutionrelative:game1\\SpeedGugu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\randMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|solutionrelative:game1\\randMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\RouletteMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|solutionrelative:game1\\RouletteMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\RoussianRoulette.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|solutionrelative:game1\\RoussianRoulette.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\RoussianRoullete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|solutionrelative:game1\\RoussianRoullete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\UpAndDownMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|solutionrelative:game1\\UpAndDownMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\UpAndDown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|solutionrelative:game1\\UpAndDown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\UpAndDown.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D4CAF17-1BFC-485E-B033-F682A28FD749}|game1\\game1.vcxproj|solutionrelative:game1\\UpAndDown.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpeedGugu.h",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\SpeedGugu.h",
+              "RelativeDocumentMoniker": "game1\\SpeedGugu.h",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\SpeedGugu.h",
+              "RelativeToolTip": "game1\\SpeedGugu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-09T04:14:43.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuguMain.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\GuguMain.cpp",
+              "RelativeDocumentMoniker": "game1\\GuguMain.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\GuguMain.cpp",
+              "RelativeToolTip": "game1\\GuguMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T04:28:41.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpeedGugu.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\SpeedGugu.cpp",
+              "RelativeDocumentMoniker": "game1\\SpeedGugu.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\SpeedGugu.cpp",
+              "RelativeToolTip": "game1\\SpeedGugu.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T04:14:14.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "randMain.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\randMain.cpp",
+              "RelativeDocumentMoniker": "game1\\randMain.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\randMain.cpp",
+              "RelativeToolTip": "game1\\randMain.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T01:52:33.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouletteMain.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\RouletteMain.cpp",
+              "RelativeDocumentMoniker": "game1\\RouletteMain.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\RouletteMain.cpp",
+              "RelativeToolTip": "game1\\RouletteMain.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T01:26:08.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoussianRoulette.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\RoussianRoulette.cpp",
+              "RelativeDocumentMoniker": "game1\\RoussianRoulette.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\RoussianRoulette.cpp",
+              "RelativeToolTip": "game1\\RoussianRoulette.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T01:15:03.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoussianRoullete.h",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\RoussianRoullete.h",
+              "RelativeDocumentMoniker": "game1\\RoussianRoullete.h",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\RoussianRoullete.h",
+              "RelativeToolTip": "game1\\RoussianRoullete.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-09T01:12:14.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpAndDownMain.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\UpAndDownMain.cpp",
+              "RelativeDocumentMoniker": "game1\\UpAndDownMain.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\UpAndDownMain.cpp",
+              "RelativeToolTip": "game1\\UpAndDownMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T03:30:22.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpAndDown.h",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\UpAndDown.h",
+              "RelativeDocumentMoniker": "game1\\UpAndDown.h",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\UpAndDown.h",
+              "RelativeToolTip": "game1\\UpAndDown.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T03:22:13.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpAndDown.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\UpAndDown.cpp",
+              "RelativeDocumentMoniker": "game1\\UpAndDown.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\game1\\game1\\UpAndDown.cpp",
+              "RelativeToolTip": "game1\\UpAndDown.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T03:16:14.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
