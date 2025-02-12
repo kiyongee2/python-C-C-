@@ -15,8 +15,8 @@ public class ConnectionTest {
 			// 연결
 			conn = DriverManager.getConnection(
 					"jdbc:oracle:thin:@localhost:1521/xe",
-					"system",
-					"pw1234");
+					"javauser",
+					"pwjava");
 			System.out.println(conn + "DB 연결 성공!!");
 		} catch (ClassNotFoundException e) {
 			e.printStackTrace();

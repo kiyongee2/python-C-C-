@@ -132,6 +132,7 @@
     <ClCompile Include="file_fputc.c" />
     <ClCompile Include="file_write.c" />
     <ClCompile Include="file_read.c" />
+    <ClCompile Include="structPerson.c" />
     <ClCompile Include="struct_score.c" />
     <ClCompile Include="struct_student.c" />
   </ItemGroup>

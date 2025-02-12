@@ -127,9 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="array1.c" />
+    <ClCompile Include="ascii.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="if_ex.c" />
     <ClCompile Include="loop.c" />
+    <ClCompile Include="RandomCalc.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

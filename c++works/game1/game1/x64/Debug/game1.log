@@ -1,2 +1,5 @@
-﻿  SpeedGugu.cpp
+﻿  GuguMain.cpp
+  RouletteMain.cpp
+  코드를 생성하고 있습니다...
+D:\korea_IT\c++works\game1\game1\RouletteMain.cpp(4,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
   game1.vcxproj -> D:\korea_IT\c++works\game1\x64\Debug\game1.exe

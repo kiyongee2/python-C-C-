@@ -17,8 +17,8 @@ public class UsersInsertTest {
 			// 연결
 			conn = DriverManager.getConnection(
 					"jdbc:oracle:thin:@localhost:1521/xe",
-					"system",
-					"pw1234");
+					"javauser",
+					"pwjava");
 			System.out.println(conn + "DB 연결 성공!!");
 			
 			// db 작업 - 추가
@@ -27,8 +27,8 @@ public class UsersInsertTest {
 			pstmt = conn.prepareStatement(sql);
 			pstmt.setString(1, "elsa");
 			pstmt.setString(2, "박미량");
-			pstmt.setString(3, "u1234");
-			pstmt.setInt(4, 31);
+			pstmt.setString(3, "u8688");
+			pstmt.setInt(4, 50);
 			pstmt.setString(5, "elsa@naver.com");
 			
 			// sql 실행

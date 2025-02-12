@@ -24,5 +24,14 @@
     <ClCompile Include="if_ex.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="RandomCalc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ascii.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

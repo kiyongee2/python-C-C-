@@ -8,8 +8,12 @@
 //	int x, y;
 //	x = 1, y = 2;
 //
+//	//swap 전
+//	printf("(main 함수 내)x = %d, y = %d\n", x, y);
+//
 //	swap(x, y);  //swap() 호출 - swap의 x, y는 소멸됨
-//  //값이 교환되지 않음
+// 
+//	//swap 후
 //	printf("x = %d, y = %d\n", x, y);
 //
 //	return 0;
@@ -20,4 +24,6 @@
 //	temp = x;
 //	x = y;
 //	y = temp;
+//
+//	printf("(swap 함수 내)x = %d, y = %d\n", x, y);
 //}

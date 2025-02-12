@@ -1,0 +1,28 @@
+RogicCode
+004
+MAIN
+{
+    LOOP    4
+    {
+PORT_ON    1  2  3  
+DELAY    0.5
+PORT_OFF    1  2  3  
+DELAY    0.5
+PORT_ON    1  2  3  
+DELAY    0.5
+PORT_OFF    1  2  3  
+DELAY    0.5
+PORT_ON    1  
+DELAY    0.5
+PORT_OFF    1  
+PORT_ON    2  
+DELAY    0.5
+PORT_OFF    2  
+PORT_ON    3  
+DELAY    0.5
+PORT_OFF    3  
+PORT_ON    4  
+DELAY    0.5
+PORT_OFF    4  
+    }
+}

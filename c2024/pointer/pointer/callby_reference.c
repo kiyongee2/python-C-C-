@@ -8,10 +8,12 @@
 //	int x, y;
 //	x = 1, y = 2;
 //
+//	printf("(main 함수 내)x = %d, y = %d\n", x, y);
+//
 //	// 값이 아닌 주소를 매개변수로 전달함
-//	swap(&x, &y);  //swap() 호출 - swap의 x, y값은 유지됨
+//	swap(&x, &y); 
 //	// 값이 교환됨
-//	printf("x = %d, y = %d\n", x, y);
+//	printf("(main 함수 내)x = %d, y = %d\n", x, y);
 //
 //	return 0;
 //}
@@ -21,4 +23,6 @@
 //	temp = *x;
 //	*x = *y;
 //	*y = temp;
+//
+//	printf("(swap 함수 내)x = %d, y = %d\n", *x, *y);
 //}

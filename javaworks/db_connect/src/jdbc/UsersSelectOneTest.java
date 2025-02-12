@@ -20,8 +20,8 @@ public class UsersSelectOneTest {
 			// 연결
 			conn = DriverManager.getConnection(
 					"jdbc:oracle:thin:@localhost:1521/xe",
-					"system",
-					"pw1234");
+					"javauser",
+					"pwjava");
 			System.out.println(conn + "DB 연결 성공!!");
 			
 			// db 작업 - 추가

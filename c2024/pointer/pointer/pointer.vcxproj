@@ -135,8 +135,10 @@
     <ClCompile Include="malloc3.c" />
     <ClCompile Include="malloc4.c" />
     <ClCompile Include="pointer1.c" />
+    <ClCompile Include="PointerFunction.c" />
     <ClCompile Include="pointer_array.c" />
     <ClCompile Include="pointer_array2.c" />
+    <ClCompile Include="ptr_arr.c" />
     <ClCompile Include="struct_person.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
