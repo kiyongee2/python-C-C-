@@ -146,6 +146,7 @@
     <ClCompile Include="Strcmp.c" />
     <ClCompile Include="Time.c" />
     <ClCompile Include="Time2.c" />
+    <ClCompile Include="Time3.c" />
     <ClCompile Include="TypingGame.c" />
     <ClCompile Include="UnAndDown.c" />
     <ClCompile Include="UpperCase.c" />
