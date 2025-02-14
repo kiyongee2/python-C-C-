@@ -18,5 +18,76 @@
     <ClCompile Include="TypingGame.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="RandEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UnAndDown.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Coin.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Strcmp.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UpperCase.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UpperCase2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InputString.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EnglishTyping.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Time2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DateTime.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sayHello.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Square.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MyAbs.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="findMax.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LocalVar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GlovalVar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticVar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CalculatorMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ascii.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Calculator.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

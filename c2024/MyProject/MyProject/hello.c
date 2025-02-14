@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main_hello() {
+int main_Hello() {
 	//printf("Hello World!!\n");
 	/*int age = 12;
 	printf("%d\n", age);

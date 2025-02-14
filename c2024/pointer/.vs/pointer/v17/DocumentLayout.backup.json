@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2024\\pointer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|D:\\korea_IT\\c2024\\pointer\\pointer\\PointerFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|solutionrelative:pointer\\PointerFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|D:\\korea_IT\\c2024\\pointer\\pointer\\EnglishTyping.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|solutionrelative:pointer\\EnglishTyping.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|D:\\korea_IT\\c2024\\pointer\\pointer\\callby_reference.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|solutionrelative:pointer\\callby_reference.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|D:\\korea_IT\\c2024\\pointer\\pointer\\constant.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|solutionrelative:pointer\\constant.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|D:\\korea_IT\\c2024\\pointer\\pointer\\PointerString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|solutionrelative:pointer\\PointerString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|D:\\korea_IT\\c2024\\pointer\\pointer\\pointer1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|solutionrelative:pointer\\pointer1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|D:\\korea_IT\\c2024\\pointer\\pointer\\pointer_array2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|solutionrelative:pointer\\pointer_array2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|D:\\korea_IT\\c2024\\pointer\\pointer\\ptr_arr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|solutionrelative:pointer\\ptr_arr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|D:\\korea_IT\\c2024\\pointer\\pointer\\pointer_array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|solutionrelative:pointer\\pointer_array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|D:\\korea_IT\\c2024\\pointer\\pointer\\callby_value.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|solutionrelative:pointer\\callby_value.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|D:\\korea_IT\\c2024\\pointer\\pointer\\PointerFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21FF05C5-237E-425B-9000-324636C2745D}|pointer\\pointer.vcxproj|solutionrelative:pointer\\PointerFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PointerFunction.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\pointer\\pointer\\PointerFunction.c",
-              "RelativeDocumentMoniker": "pointer\\PointerFunction.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\pointer\\pointer\\PointerFunction.c*",
-              "RelativeToolTip": "pointer\\PointerFunction.c*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "constant.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\pointer\\pointer\\constant.c",
+              "RelativeDocumentMoniker": "pointer\\constant.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\pointer\\pointer\\constant.c",
+              "RelativeToolTip": "pointer\\constant.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-12T06:10:25.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T06:46:23.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pointer1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\pointer\\pointer\\pointer1.c",
+              "RelativeDocumentMoniker": "pointer\\pointer1.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\pointer\\pointer\\pointer1.c",
+              "RelativeToolTip": "pointer\\pointer1.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-13T03:28:05.582Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "pointer_array2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\pointer\\pointer\\pointer_array2.c",
-              "RelativeDocumentMoniker": "pointer\\pointer_array2.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\pointer\\pointer\\pointer_array2.c",
-              "RelativeToolTip": "pointer\\pointer_array2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "PointerString.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\pointer\\pointer\\PointerString.c",
+              "RelativeDocumentMoniker": "pointer\\PointerString.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\pointer\\pointer\\PointerString.c",
+              "RelativeToolTip": "pointer\\PointerString.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-12T06:08:32.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T03:10:01.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "callby_reference.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\pointer\\pointer\\callby_reference.c",
-              "RelativeDocumentMoniker": "pointer\\callby_reference.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\pointer\\pointer\\callby_reference.c",
-              "RelativeToolTip": "pointer\\callby_reference.c",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EnglishTyping.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\pointer\\pointer\\EnglishTyping.c",
+              "RelativeDocumentMoniker": "pointer\\EnglishTyping.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\pointer\\pointer\\EnglishTyping.c",
+              "RelativeToolTip": "pointer\\EnglishTyping.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-12T05:50:00.293Z",
+              "WhenOpened": "2025-02-13T02:36:50.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "callby_value.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\pointer\\pointer\\callby_value.c",
-              "RelativeDocumentMoniker": "pointer\\callby_value.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\pointer\\pointer\\callby_value.c",
-              "RelativeToolTip": "pointer\\callby_value.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Title": "pointer_array2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\pointer\\pointer\\pointer_array2.c",
+              "RelativeDocumentMoniker": "pointer\\pointer_array2.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\pointer\\pointer\\pointer_array2.c",
+              "RelativeToolTip": "pointer\\pointer_array2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-12T05:41:13.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T00:54:31.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ptr_arr.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\pointer\\pointer\\ptr_arr.c",
-              "RelativeDocumentMoniker": "pointer\\ptr_arr.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\pointer\\pointer\\ptr_arr.c",
-              "RelativeToolTip": "pointer\\ptr_arr.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "PointerFunction.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\pointer\\pointer\\PointerFunction.c",
+              "RelativeDocumentMoniker": "pointer\\PointerFunction.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\pointer\\pointer\\PointerFunction.c",
+              "RelativeToolTip": "pointer\\PointerFunction.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-12T05:23:08.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T00:49:18.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pointer_array.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\pointer\\pointer\\pointer_array.c",
+              "RelativeDocumentMoniker": "pointer\\pointer_array.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\pointer\\pointer\\pointer_array.c",
+              "RelativeToolTip": "pointer\\pointer_array.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-13T00:45:51.456Z"
             }
           ]
         }

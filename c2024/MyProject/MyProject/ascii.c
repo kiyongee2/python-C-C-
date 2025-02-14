@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main_ascii() {
+int main_Ascii() {
 
 	// 아스키(ASCII) 코드 
 	// 미국 ANSI에서 표준화한 정보 교환용 7비트 부호체계 

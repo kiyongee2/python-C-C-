@@ -128,11 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="dic.c" />
+    <ClCompile Include="EnglishTyping.c" />
+    <ClCompile Include="FileWriteRead.c" />
     <ClCompile Include="file_copy.c" />
     <ClCompile Include="file_fputc.c" />
     <ClCompile Include="file_write.c" />
     <ClCompile Include="file_read.c" />
-    <ClCompile Include="structPerson.c" />
+    <ClCompile Include="structFruit.c" />
+    <ClCompile Include="StructPerson.c" />
     <ClCompile Include="struct_score.c" />
     <ClCompile Include="struct_student.c" />
   </ItemGroup>

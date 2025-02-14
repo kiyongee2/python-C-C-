@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pointer1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="callby_value.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -52,6 +49,18 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="PointerFunction.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CharArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EnglishTyping.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerString.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

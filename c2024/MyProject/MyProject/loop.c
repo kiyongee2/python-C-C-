@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main_loop(void)
+int main_Loop(void)
 {
 	/*int a = 1;
 	printf("a´Â %d\n", a);

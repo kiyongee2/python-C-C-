@@ -2,7 +2,7 @@
 
 void changeArray(int*);
 
-int main()
+int main_ChangeArray()
 {
 	//배열 요소 변경 - 포인터 사용
 	int arr[] = { 10, 20, 30 };
@@ -14,6 +14,7 @@ int main()
 	{
 		printf("%d\n", arr[i]);
 	}
+
 
 	return 0;
 }

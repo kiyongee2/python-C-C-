@@ -127,7 +127,32 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Ascii.c" />
+    <ClCompile Include="Calculator.c" />
+    <ClCompile Include="CalculatorMain.c" />
+    <ClCompile Include="StaticVar.c" />
+    <ClCompile Include="Coin.c" />
+    <ClCompile Include="DateTime.c" />
+    <ClCompile Include="EnglishTyping.c" />
+    <ClCompile Include="findMax.c" />
+    <ClCompile Include="GlovalVar.c" />
+    <ClCompile Include="InputString.c" />
+    <ClCompile Include="LocalVar.c" />
+    <ClCompile Include="Math.c" />
+    <ClCompile Include="MyAbs.c" />
+    <ClCompile Include="RandEx.c" />
+    <ClCompile Include="sayHello.c" />
+    <ClCompile Include="Square.c" />
+    <ClCompile Include="Strcmp.c" />
+    <ClCompile Include="Time.c" />
+    <ClCompile Include="Time2.c" />
     <ClCompile Include="TypingGame.c" />
+    <ClCompile Include="UnAndDown.c" />
+    <ClCompile Include="UpperCase.c" />
+    <ClCompile Include="UpperCase2.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Calculator.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,21 +1,36 @@
+#define _CRT_SECURE_NO_WARNINGS
+#define NAME_LENGTH 10
 #include <stdio.h>
 
 typedef struct {
-	char name[20];
-	int quantity;
-	char* type;
-}Fruit;
+	char name[NAME_LENGTH];
+	float height;
+}Person;
 
-int main() {
-	char types[][10] = { "Apple", "Banana", "Orange" };
-	Fruit f = { "Fuji Apple", 10, types[0] };
-	Fruit* ptr = &f;
+int main_StructPerson() {
+	Person p1, p2;
+	
+	/*strcpy(p1.name, "고담덕");
+	p1.height = 174.9;*/
 
-	printf("Fruit Name: %s\n", ptr->name);
-	printf("Quantity: %d\n", ptr->quantity);
+	//입력 받기
+	printf("이름: ");
+	//scanf_s("%s", &p1.name);
+	gets_s(p1.name, NAME_LENGTH);
 
-	ptr->type = "Kiwi";
-	printf("Fruit Type: %s\n", ptr->type);
+	printf("키: ");
+	scanf_s("%f", &p1.height);
+
+	while (getchar() != '\n');
+
+	printf("이름: ");
+	gets_s(p2.name, NAME_LENGTH);
+
+	printf("키: ");
+	scanf_s("%f", &p2.height);
+
+	printf("%s %.1f\n", p1.name, p1.height);
+	printf("%s %.1f\n", p2.name, p2.height);
 
 	return 0;
 }

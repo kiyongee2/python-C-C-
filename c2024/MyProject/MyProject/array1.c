@@ -2,7 +2,7 @@
 #include <stdio.h>
 #define SIZE 4
 
-int main_array() {
+int main_Array() {
 
 	//int arr[SIZE] = { 10, 20, 30, 40 };
 	int arr[4] = { 10, 20 };

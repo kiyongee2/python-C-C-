@@ -3,9 +3,10 @@
 //#include <string.h>
 //
 //int main() {
-//	FILE* fp;
 //	//스트림 생성
-//	//모두 - 'r', 'w', 'a'
+//	FILE* fp;
+//	
+//	//모드 - 'r', 'w', 'a'
 //	fp = fopen("out.txt", "w");
 //
 //	if (fp == NULL) {

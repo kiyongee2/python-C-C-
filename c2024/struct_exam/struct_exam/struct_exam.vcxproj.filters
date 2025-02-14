@@ -36,7 +36,16 @@
     <ClCompile Include="dic.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="structPerson.c">
+    <ClCompile Include="structFruit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructPerson.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EnglishTyping.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileWriteRead.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -131,6 +131,7 @@
     <ClCompile Include="ascii.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="if_ex.c" />
+    <ClCompile Include="InputChar.c" />
     <ClCompile Include="loop.c" />
     <ClCompile Include="RandomCalc.c" />
   </ItemGroup>
