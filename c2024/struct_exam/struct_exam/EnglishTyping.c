@@ -3,14 +3,28 @@
 #include <stdlib.h>
 #include <time.h>
 
-int main_Typing()
+#define MAX_WORDS 100  // 최대 단어 개수
+#define MAX_LENGTH 50  // 단어 최대 길이
+
+int main()
 {
 	//영어 타자 게임
-	char* words[] = { "ant", "bear", "chicken", "cow", "dog", "elephant",
-			"monkey", "lion", "tiger", "horse", "snake" };
+	FILE* fp = fopen("words.txt", "r");
+	
+	char words[MAX_WORDS][MAX_LENGTH]; // 단어를 저장할 배열
+	int count = 0; //단어의 개수
+
+	// 파일에서 단어 읽기
+    while (fgets(words[count], MAX_LENGTH, fp) != NULL && count < MAX_WORDS) {
+        // 개행 문자 제거 (fgets는 개행 문자도 포함함)
+        words[count][strcspn(words[count], "\n")] = '\0';
+        count++;
+    }
+	printf("단어의 개수: %d\n", count);
+
+	fclose(fp);
 
 	char answer[30];  //사용자 입력
-	int size = strlen(words);
 
 	srand(time(NULL)); //seed 설정
 
@@ -22,7 +36,7 @@ int main_Typing()
 	{
 		printf("문제 %d", n);
 
-		int rndIdx = rand() % size;
+		int rndIdx = rand() % count;
 		char* question = words[rndIdx];
 		printf("\n%s\n", question);
 

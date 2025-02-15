@@ -136,6 +136,7 @@
     <ClCompile Include="malloc2.c" />
     <ClCompile Include="malloc3.c" />
     <ClCompile Include="malloc4.c" />
+    <ClCompile Include="MallocPointer.c" />
     <ClCompile Include="pointer1.c" />
     <ClCompile Include="PointerFunction.c" />
     <ClCompile Include="PointerString.c" />

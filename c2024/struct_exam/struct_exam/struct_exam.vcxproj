@@ -138,6 +138,9 @@
     <ClCompile Include="StructPerson.c" />
     <ClCompile Include="struct_score.c" />
     <ClCompile Include="struct_student.c" />
+    <ClCompile Include="WordRandomRead.c" />
+    <ClCompile Include="WordRead.c" />
+    <ClCompile Include="WordWrite.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

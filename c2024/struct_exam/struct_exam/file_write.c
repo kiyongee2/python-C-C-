@@ -15,7 +15,7 @@
 //	}
 //
 //	fprintf(fp, "%s\n", "Hello World!");
-//	fprintf(fp, "%s\n", "문자열을 출력합니다.");
+//	fprintf(fp, "%s\n", "좋은 하루 되세요~");
 //
 //	fclose(fp);
 //	return 0;

@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main()
+int main_InputChar()
 {
     /* scanf() 
       공백(space) 또는 개행(\n)을 만나면 입력이 끝남.

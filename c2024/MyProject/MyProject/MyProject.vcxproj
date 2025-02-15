@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="array1.c" />
     <ClCompile Include="ascii.c" />
+    <ClCompile Include="Char.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="if_ex.c" />
     <ClCompile Include="InputChar.c" />

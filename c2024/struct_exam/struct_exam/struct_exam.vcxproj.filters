@@ -48,5 +48,14 @@
     <ClCompile Include="FileWriteRead.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="WordWrite.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WordRead.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WordRandomRead.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
