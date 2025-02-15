@@ -132,7 +132,7 @@
     <ClCompile Include="ArrayChar.c" />
     <ClCompile Include="ArrayCopy.c" />
     <ClCompile Include="ArrayString.c" />
-    <ClCompile Include="ArrayString2.c" />
+    <ClCompile Include="ArrayString2D.c" />
     <ClCompile Include="InputArray.c" />
     <ClCompile Include="InputArray2D.c" />
     <ClCompile Include="PutsGets.c" />

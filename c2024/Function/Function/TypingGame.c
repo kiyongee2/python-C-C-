@@ -21,12 +21,12 @@ int main()
 
 	time_t start, end;
 	time(&start);
-	while (n <= 5)
+	while (n <= 10)
 	{
 		printf("문제 %d", n);
 
 		int rndIdx = rand() % size;
-		char* question = words[rndIdx];
+		char* question = words[rndIdx];  // 포인터 필수 사용
 		printf("\n%s\n", question);
 
 		scanf("%s", answer);

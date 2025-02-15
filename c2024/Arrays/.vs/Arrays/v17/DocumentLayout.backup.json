@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2024\\Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayString2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayString2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\Array2D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\Array2D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\InputArray2D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\InputArray2D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\InputArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\InputArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\Array1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\Array1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\StringFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\StringFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\InputArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\InputArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\Array2D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\Array2D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayString2D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayString2D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\Array1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\Array1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\PutsGets.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\PutsGets.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\StringFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\StringFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|D:\\korea_IT\\c2024\\Arrays\\Arrays\\InputArray2D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99CDF079-2196-431A-9DEF-D3C3EFB8816B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\InputArray2D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,43 +50,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ArrayString2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayString2.c",
-              "RelativeDocumentMoniker": "Arrays\\ArrayString2.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayString2.c*",
-              "RelativeToolTip": "Arrays\\ArrayString2.c*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ArrayString2D.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayString2D.c",
+              "RelativeDocumentMoniker": "Arrays\\ArrayString2D.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayString2D.c",
+              "RelativeToolTip": "Arrays\\ArrayString2D.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-14T13:52:32.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InputArray2D.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\InputArray2D.c",
-              "RelativeDocumentMoniker": "Arrays\\InputArray2D.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\InputArray2D.c",
-              "RelativeToolTip": "Arrays\\InputArray2D.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-14T13:35:12.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Array2D.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\Array2D.c",
               "RelativeDocumentMoniker": "Arrays\\Array2D.c",
               "ToolTip": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\Array2D.c",
               "RelativeToolTip": "Arrays\\Array2D.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-14T13:20:49.373Z",
               "EditorCaption": ""
@@ -99,13 +86,14 @@
               "RelativeDocumentMoniker": "Arrays\\InputArray.c",
               "ToolTip": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\InputArray.c",
               "RelativeToolTip": "Arrays\\InputArray.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-14T12:58:26.866Z"
+              "WhenOpened": "2025-02-14T12:58:26.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "ArrayCopy.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayCopy.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayCopy.c",
@@ -113,36 +101,38 @@
               "RelativeToolTip": "Arrays\\ArrayCopy.c",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-14T12:46:47.726Z"
+              "WhenOpened": "2025-02-14T12:46:47.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ArrayString.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayString.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayString.c",
               "ToolTip": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayString.c",
               "RelativeToolTip": "Arrays\\ArrayString.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-14T12:27:49.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ArrayChar.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayChar.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayChar.c",
               "ToolTip": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\ArrayChar.c",
               "RelativeToolTip": "Arrays\\ArrayChar.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-14T12:22:38.62Z"
+              "WhenOpened": "2025-02-14T12:22:38.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Array1.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\Array1.c",
               "RelativeDocumentMoniker": "Arrays\\Array1.c",
@@ -150,7 +140,8 @@
               "RelativeToolTip": "Arrays\\Array1.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-14T12:09:14.661Z"
+              "WhenOpened": "2025-02-14T12:09:14.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -162,19 +153,33 @@
               "RelativeToolTip": "Arrays\\PutsGets.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-14T02:59:57.336Z"
+              "WhenOpened": "2025-02-14T02:59:57.336Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "StringFunction.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\StringFunction.c",
               "RelativeDocumentMoniker": "Arrays\\StringFunction.c",
               "ToolTip": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\StringFunction.c",
               "RelativeToolTip": "Arrays\\StringFunction.c",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-14T02:49:27.49Z"
+              "WhenOpened": "2025-02-14T02:49:27.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputArray2D.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\InputArray2D.c",
+              "RelativeDocumentMoniker": "Arrays\\InputArray2D.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\Arrays\\Arrays\\InputArray2D.c",
+              "RelativeToolTip": "Arrays\\InputArray2D.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-14T13:35:12.772Z"
             }
           ]
         }
