@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2024\\Function\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B68C643-C43C-4BFD-8ED8-084191A07796}|Function\\Function.vcxproj|D:\\korea_IT\\c2024\\Function\\Function\\Strcmp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B68C643-C43C-4BFD-8ED8-084191A07796}|Function\\Function.vcxproj|solutionrelative:Function\\Strcmp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7B68C643-C43C-4BFD-8ED8-084191A07796}|Function\\Function.vcxproj|D:\\korea_IT\\c2024\\Function\\Function\\InputString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B68C643-C43C-4BFD-8ED8-084191A07796}|Function\\Function.vcxproj|solutionrelative:Function\\InputString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B68C643-C43C-4BFD-8ED8-084191A07796}|Function\\Function.vcxproj|D:\\korea_IT\\c2024\\Function\\Function\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B68C643-C43C-4BFD-8ED8-084191A07796}|Function\\Function.vcxproj|solutionrelative:Function\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B68C643-C43C-4BFD-8ED8-084191A07796}|Function\\Function.vcxproj|D:\\korea_IT\\c2024\\Function\\Function\\PrimeNumber.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B68C643-C43C-4BFD-8ED8-084191A07796}|Function\\Function.vcxproj|solutionrelative:Function\\PrimeNumber.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7B68C643-C43C-4BFD-8ED8-084191A07796}|Function\\Function.vcxproj|D:\\korea_IT\\c2024\\Function\\Function\\RandEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B68C643-C43C-4BFD-8ED8-084191A07796}|Function\\Function.vcxproj|solutionrelative:Function\\RandEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Strcmp.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Function\\Function\\Strcmp.c",
-              "RelativeDocumentMoniker": "Function\\Strcmp.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Function\\Function\\Strcmp.c",
-              "RelativeToolTip": "Function\\Strcmp.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Title": "InputString.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\Function\\Function\\InputString.c",
+              "RelativeDocumentMoniker": "Function\\InputString.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\Function\\Function\\InputString.c",
+              "RelativeToolTip": "Function\\InputString.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-20T21:26:04.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PrimeNumber.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Function\\Function\\PrimeNumber.c",
-              "RelativeDocumentMoniker": "Function\\PrimeNumber.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Function\\Function\\PrimeNumber.c",
-              "RelativeToolTip": "Function\\PrimeNumber.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-18T02:17:07.703Z",
+              "WhenOpened": "2025-02-21T21:16:24.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TypingGame.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Function\\Function\\TypingGame.c",
-              "RelativeDocumentMoniker": "Function\\TypingGame.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Function\\Function\\TypingGame.c",
-              "RelativeToolTip": "Function\\TypingGame.c",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAADAAAAAAAAAA==",
+              "Title": "RandEx.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\Function\\Function\\RandEx.c",
+              "RelativeDocumentMoniker": "Function\\RandEx.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\Function\\Function\\RandEx.c",
+              "RelativeToolTip": "Function\\RandEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-14T09:39:50.742Z",
+              "WhenOpened": "2025-02-21T20:58:56.74Z",
               "EditorCaption": ""
             }
           ]
