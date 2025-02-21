@@ -42,7 +42,7 @@
     <ClCompile Include="malloc3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="malloc4.c">
+    <ClCompile Include="malloc0.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ptr_arr.c">
@@ -64,6 +64,33 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="MallocPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer0.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerString0.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CallByValue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CallByReference.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Malloc00.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FindMax.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FindMaxIdx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Malloc000.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Malloc0000.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

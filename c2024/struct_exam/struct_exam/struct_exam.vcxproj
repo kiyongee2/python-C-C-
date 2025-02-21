@@ -134,13 +134,26 @@
     <ClCompile Include="file_fputc.c" />
     <ClCompile Include="file_write.c" />
     <ClCompile Include="file_read.c" />
+    <ClCompile Include="ScoreCalcMain.c" />
+    <ClCompile Include="ScoreCalcMain2.cpp" />
+    <ClCompile Include="StructArrayPerson.c" />
+    <ClCompile Include="StructBook.c" />
     <ClCompile Include="structFruit.c" />
     <ClCompile Include="StructPerson.c" />
+    <ClCompile Include="StructPerson0.c" />
+    <ClCompile Include="StructPointer.c" />
+    <ClCompile Include="StructReference.c" />
     <ClCompile Include="struct_score.c" />
     <ClCompile Include="struct_student.c" />
+    <ClCompile Include="typedefPerson.c" />
+    <ClCompile Include="ScoreMain.c" />
+    <ClCompile Include="typedefPerson2.c" />
     <ClCompile Include="WordRandomRead.c" />
     <ClCompile Include="WordRead.c" />
     <ClCompile Include="WordWrite.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Student.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

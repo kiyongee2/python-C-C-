@@ -57,5 +57,40 @@
     <ClCompile Include="WordRandomRead.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="StructPerson0.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="typedefPerson.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructArrayPerson.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructReference.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="typedefPerson2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructBook.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreCalcMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreCalcMain2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Student.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

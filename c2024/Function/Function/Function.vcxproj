@@ -130,6 +130,7 @@
     <ClCompile Include="Ascii.c" />
     <ClCompile Include="Calculator.c" />
     <ClCompile Include="CalculatorMain.c" />
+    <ClCompile Include="PrimeNumber.c" />
     <ClCompile Include="StaticVar.c" />
     <ClCompile Include="Coin.c" />
     <ClCompile Include="DateTime.c" />

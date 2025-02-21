@@ -129,12 +129,16 @@
   <ItemGroup>
     <ClCompile Include="array1.c" />
     <ClCompile Include="ascii.c" />
+    <ClCompile Include="Casting.c" />
     <ClCompile Include="Char.c" />
+    <ClCompile Include="Continue.c" />
+    <ClCompile Include="DoWhile.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="if_ex.c" />
     <ClCompile Include="InputChar.c" />
     <ClCompile Include="loop.c" />
     <ClCompile Include="RandomCalc.c" />
+    <ClCompile Include="WhileBreak.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

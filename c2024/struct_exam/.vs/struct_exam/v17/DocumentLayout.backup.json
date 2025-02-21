@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2024\\struct_exam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\EnglishTyping.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\EnglishTyping.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\structFruit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\structFruit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\WordRandomRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\WordRandomRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\typedefPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\typedefPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\WordWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\WordWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\typedefPerson2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\typedefPerson2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\WordRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\WordRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\ScoreCalcMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\ScoreCalcMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\file_read.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\file_read.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\FileWriteRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\FileWriteRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\dic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\dic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\ScoreCalcMain2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\ScoreCalcMain2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\StructPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\StructPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\file_write.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\file_write.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\ScoreMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\ScoreMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,119 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WordRandomRead.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\WordRandomRead.c",
-              "RelativeDocumentMoniker": "struct_exam\\WordRandomRead.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\WordRandomRead.c",
-              "RelativeToolTip": "struct_exam\\WordRandomRead.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "structFruit.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\structFruit.c",
+              "RelativeDocumentMoniker": "struct_exam\\structFruit.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\structFruit.c",
+              "RelativeToolTip": "struct_exam\\structFruit.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-15T12:13:40.887Z",
+              "WhenOpened": "2025-02-21T06:17:54.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WordRead.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\WordRead.c",
-              "RelativeDocumentMoniker": "struct_exam\\WordRead.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\WordRead.c",
-              "RelativeToolTip": "struct_exam\\WordRead.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "typedefPerson.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\typedefPerson.c",
+              "RelativeDocumentMoniker": "struct_exam\\typedefPerson.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\typedefPerson.c",
+              "RelativeToolTip": "struct_exam\\typedefPerson.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-15T11:45:13.618Z",
+              "WhenOpened": "2025-02-21T06:17:43.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WordWrite.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\WordWrite.c",
-              "RelativeDocumentMoniker": "struct_exam\\WordWrite.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\WordWrite.c",
-              "RelativeToolTip": "struct_exam\\WordWrite.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Title": "typedefPerson2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\typedefPerson2.c",
+              "RelativeDocumentMoniker": "struct_exam\\typedefPerson2.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\typedefPerson2.c",
+              "RelativeToolTip": "struct_exam\\typedefPerson2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-15T11:37:36.191Z",
+              "WhenOpened": "2025-02-21T06:17:36.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EnglishTyping.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\EnglishTyping.c",
-              "RelativeDocumentMoniker": "struct_exam\\EnglishTyping.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\EnglishTyping.c*",
-              "RelativeToolTip": "struct_exam\\EnglishTyping.c*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ScoreCalcMain2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\ScoreCalcMain2.cpp",
+              "RelativeDocumentMoniker": "struct_exam\\ScoreCalcMain2.cpp",
+              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\ScoreCalcMain2.cpp",
+              "RelativeToolTip": "struct_exam\\ScoreCalcMain2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T03:18:23.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreCalcMain.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\ScoreCalcMain.c",
+              "RelativeDocumentMoniker": "struct_exam\\ScoreCalcMain.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\ScoreCalcMain.c",
+              "RelativeToolTip": "struct_exam\\ScoreCalcMain.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-13T06:29:16.669Z",
+              "WhenOpened": "2025-02-21T03:09:38.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.h",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\Student.h",
+              "RelativeDocumentMoniker": "struct_exam\\Student.h",
+              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\Student.h",
+              "RelativeToolTip": "struct_exam\\Student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-21T03:09:20.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "dic.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\dic.c",
-              "RelativeDocumentMoniker": "struct_exam\\dic.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\dic.c",
-              "RelativeToolTip": "struct_exam\\dic.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Title": "ScoreMain.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\ScoreMain.c",
+              "RelativeDocumentMoniker": "struct_exam\\ScoreMain.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\ScoreMain.c",
+              "RelativeToolTip": "struct_exam\\ScoreMain.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-14T08:06:27.607Z"
+              "WhenOpened": "2025-02-21T03:09:14.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FileWriteRead.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\FileWriteRead.c",
-              "RelativeDocumentMoniker": "struct_exam\\FileWriteRead.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\FileWriteRead.c",
-              "RelativeToolTip": "struct_exam\\FileWriteRead.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-13T06:48:28.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "file_read.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\file_read.c",
-              "RelativeDocumentMoniker": "struct_exam\\file_read.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\file_read.c",
-              "RelativeToolTip": "struct_exam\\file_read.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-13T06:38:59.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "file_write.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\file_write.c",
-              "RelativeDocumentMoniker": "struct_exam\\file_write.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\file_write.c",
-              "RelativeToolTip": "struct_exam\\file_write.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-13T06:33:39.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "StructPerson.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\StructPerson.c",
               "RelativeDocumentMoniker": "struct_exam\\StructPerson.c",
               "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\StructPerson.c",
               "RelativeToolTip": "struct_exam\\StructPerson.c",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-12T23:01:42.536Z"
+              "WhenOpened": "2025-02-20T21:50:57.763Z",
+              "EditorCaption": ""
             }
           ]
         }

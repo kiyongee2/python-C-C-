@@ -1,12 +1,15 @@
 #include <stdio.h>
 
-typedef struct {
+//과일 구조체
+typedef struct 
+{
 	char name[20];
 	int quantity;
 	char* type;
 }Fruit;
 
-int main_Fruit() {
+int main() 
+{
 	//2차원 문자열 배열
 	//char types[][10] = { "Apple", "Banana", "Orange" };
 
@@ -15,6 +18,7 @@ int main_Fruit() {
 
 	//Fruit 객체 생성
 	Fruit f = { "Daegu Apple", 10, types[0] };
+
 	printf("Fruit Name: %s\n", f.name);
 	printf("Quantity: %d\n", f.quantity);
 	f.type = "Kiwi";
@@ -26,7 +30,7 @@ int main_Fruit() {
 	printf("Fruit Name: %s\n", ptr->name);
 	printf("Quantity: %d\n", ptr->quantity);
 
-	ptr->type = "Kiwi";
+	ptr->type = "Kiwi";  //type 변경(업데이트)
 	printf("Fruit Type: %s\n", ptr->type);
 
 	return 0;
