@@ -3,29 +3,46 @@
 //
 //int main() {
 //
-//	//문자열을 2차원 배열로 선언
-//	//fruits[단어의 개수][단어의 최대 길이]
-//	char fruits[3][20] = {
-//		"apple",
-//		"banana",
-//		"orange"
+//	char greet[] = "hello";
+//	int i, j;
+//
+//	//문자열로 출력
+//	printf("%s\n", greet);
+//
+//	//문자로 출력
+//	for (i = 0; greet[i] != NULL; i++)
+//	{
+//		printf("%c", greet[i]);
+//	}
+//
+//	printf("\n=====================\n");
+//
+//	//words[단어의 개수][최대 문자의 수]
+//	char words[3][10] = { 
+//		"sun", 
+//		"moon", 
+//		"earth"
 //	};
 //
-//	printf("%s\n", fruits[0]);    
-//	printf("0x%x\n", fruits[0]);  //16진수 주소
-//	printf("%d\n", &fruits[0]);   //10진수 주소
+//	//요소 전체 조회(문자로 출력)
+//	for (i = 0; i < 3; i++)
+//	{
+//		for (j = 0; words[i][j] != NULL; j++)
+//		{
+//			printf("%c", words[i][j]);
+//		}
+//		printf("\n");
+//	}
 //
-//	printf("%s\n", fruits);
-//	printf("0x%x\n", fruits);
-//	printf("%d\n", fruits);  //배열의 이름이 첫번째 주소
+//	//printf("\n=====================\n");
+//	//요소 전체 조회(문자열로 출력)
 //
-//	// 배열 요소에 접근
-//	/*printf("%s\n", fruits[0]);
-//	printf("%s\n", fruits[1]);
-//	printf("%s\n", fruits[2]);*/
+//	int size = sizeof(words) / sizeof(words[0]); //요소의 개수
+//	printf("%d\n", size);
 //
-//	for (int i = 0; i < 3; i++) {
-//		printf("%s\n", fruits[i]);
+//	for (i = 0; i < size; i++)
+//	{
+//		printf("%s\n", words[i]);
 //	}
 //
 //	return 0;

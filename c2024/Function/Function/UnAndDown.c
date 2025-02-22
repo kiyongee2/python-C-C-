@@ -1,4 +1,4 @@
-//#define _CRT_SECURE_NO_WARNINGS
+////#define _CRT_SECURE_NO_WARNINGS
 //#include <stdio.h>
 //#include <stdlib.h>
 //#include <time.h>
@@ -18,7 +18,7 @@
 //		printf("남은 횟수 %d 번\n", count--);
 //
 //		printf("맞혀보세요(1~50): ");
-//		scanf("%d", &guessNum);
+//		scanf_s("%d", &guessNum);
 //
 //		if (guessNum == randNum)
 //		{

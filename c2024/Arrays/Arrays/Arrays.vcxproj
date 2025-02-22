@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Array1.c" />
+    <ClCompile Include="Array2D-2.c" />
     <ClCompile Include="Array2D.c" />
     <ClCompile Include="ArrayChar.c" />
     <ClCompile Include="ArrayCopy.c" />
