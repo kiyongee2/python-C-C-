@@ -127,13 +127,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CallByRef.c" />
     <ClCompile Include="DateTime.c" />
+    <ClCompile Include="findMax.c" />
+    <ClCompile Include="findMaxIdx.c" />
+    <ClCompile Include="Malloc1.c" />
+    <ClCompile Include="Malloc2.c" />
+    <ClCompile Include="MallocChar.c" />
     <ClCompile Include="Pointer1.c" />
     <ClCompile Include="Pointer2.c" />
     <ClCompile Include="PointerArray.c" />
+    <ClCompile Include="PointerArray2.c" />
     <ClCompile Include="PointerString.c" />
     <ClCompile Include="StringFunction.c" />
-    <ClCompile Include="UpAndDown.c" />
+    <ClCompile Include="Typing Game.c" />
     <ClCompile Include="UpperCase.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

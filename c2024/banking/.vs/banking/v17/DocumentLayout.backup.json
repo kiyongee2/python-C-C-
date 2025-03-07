@@ -51,8 +51,7 @@
               "RelativeToolTip": "banking\\bank_array.c",
               "ViewState": "AgIAAH4AAAAAAAAAAAAAAIsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-30T11:53:06.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T11:53:06.747Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "banking\\bank_array_main.c",
               "ViewState": "AgIAADsAAAAAAAAAAAAgwEQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-30T08:49:06.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T08:49:06.732Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "banking\\bank_main.c",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-30T08:24:23.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T08:24:23.38Z"
             }
           ]
         }

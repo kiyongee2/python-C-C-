@@ -27,11 +27,18 @@
 //	int size = sizeof(msg) / sizeof(msg[0]);
 //	printf("%d\n", size);
 //
-//	//포인터 역참조로 출력
+//	// 포인터 역참조 출력
+//	printf("%c\n", *p);  //*(p + 0)
+//	printf("%c\n", *(p + 1));
+//	printf("%c\n", *(p + 2));
+//	printf("%c\n", *(p + 3));
+//
 //	for (i = 0; i < size; i++)
 //	{
 //		printf("%c", *(p + i));
 //	}
+//
+//	printf("\n\n");
 //
 //	return 0;
 //}

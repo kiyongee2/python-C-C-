@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c2024\\DrinkOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99BC0695-F1CF-4DB4-BD3C-4ADFE3C680AD}|DrinkOrder\\DrinkOrder.vcxproj|D:\\korea_IT\\c2024\\DrinkOrder\\DrinkOrder\\Cafe12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99BC0695-F1CF-4DB4-BD3C-4ADFE3C680AD}|DrinkOrder\\DrinkOrder.vcxproj|solutionrelative:DrinkOrder\\Cafe12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BC0695-F1CF-4DB4-BD3C-4ADFE3C680AD}|DrinkOrder\\DrinkOrder.vcxproj|D:\\korea_IT\\c2024\\DrinkOrder\\DrinkOrder\\ArrayTest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99BC0695-F1CF-4DB4-BD3C-4ADFE3C680AD}|DrinkOrder\\DrinkOrder.vcxproj|solutionrelative:DrinkOrder\\ArrayTest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cafe12.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\DrinkOrder\\DrinkOrder\\Cafe12.c",
+              "RelativeDocumentMoniker": "DrinkOrder\\Cafe12.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\DrinkOrder\\DrinkOrder\\Cafe12.c",
+              "RelativeToolTip": "DrinkOrder\\Cafe12.c",
+              "ViewState": "AgIAALoAAAAAAAAAAAAkwMEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-01T22:10:08.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayTest.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\DrinkOrder\\DrinkOrder\\ArrayTest.c",
+              "RelativeDocumentMoniker": "DrinkOrder\\ArrayTest.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\DrinkOrder\\DrinkOrder\\ArrayTest.c",
+              "RelativeToolTip": "DrinkOrder\\ArrayTest.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-02T00:49:41.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

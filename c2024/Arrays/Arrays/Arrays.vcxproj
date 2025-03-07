@@ -130,9 +130,11 @@
     <ClCompile Include="Array1.c" />
     <ClCompile Include="Array2D-2.c" />
     <ClCompile Include="Array2D.c" />
+    <ClCompile Include="ArrayAdd.c" />
     <ClCompile Include="ArrayChar.c" />
     <ClCompile Include="ArrayCopy.c" />
     <ClCompile Include="ArrayInit.c" />
+    <ClCompile Include="ArraysRemove.c" />
     <ClCompile Include="ArrayString.c" />
     <ClCompile Include="ArrayString0.c" />
     <ClCompile Include="ArrayString2D.c" />
