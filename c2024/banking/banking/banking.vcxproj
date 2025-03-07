@@ -127,10 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BankAccount.c" />
+    <ClCompile Include="BankAccount2.c" />
     <ClCompile Include="bank_array.c" />
     <ClCompile Include="bank_array2.c" />
     <ClCompile Include="bank_array_main.c" />
     <ClCompile Include="bank_main.c" />
+    <ClCompile Include="InputException.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
