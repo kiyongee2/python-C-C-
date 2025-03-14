@@ -1,0 +1,12 @@
+﻿  FileCalcScore.c
+D:\korea_IT\c2024\FileInputOutput\FileInputOutput\FileCalcScore.c(31,28): warning C4477: 'sscanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'size_t'입니다.
+      D:\korea_IT\c2024\FileInputOutput\FileInputOutput\FileCalcScore.c(31,28):
+      이 인수는 버퍼 크기로 사용됩니다.
+  
+D:\korea_IT\c2024\FileInputOutput\FileInputOutput\FileCalcScore.c(44,5): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다.
+  1 of 9 functions (11.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  FileInputOutput.vcxproj -> D:\korea_IT\c2024\FileInputOutput\x64\Release\FileInputOutput.exe

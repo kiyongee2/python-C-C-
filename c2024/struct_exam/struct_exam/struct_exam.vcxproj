@@ -127,13 +127,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AppendWrite.c" />
+    <ClCompile Include="CountUpperCase.c" />
     <ClCompile Include="dic.c" />
     <ClCompile Include="EnglishTyping.c" />
+    <ClCompile Include="FileCalcScore.c" />
+    <ClCompile Include="FileCopy.c" />
+    <ClCompile Include="FileReadScore.c" />
+    <ClCompile Include="FileReadScore22.c" />
+    <ClCompile Include="FileReadScorelist.c" />
+    <ClCompile Include="FileReadScorelist22.c" />
+    <ClCompile Include="FileWriteScore.c" />
+    <ClCompile Include="FileWriteScoreList.c" />
+    <ClCompile Include="FileScoreList2.c" />
     <ClCompile Include="FileWriteRead.c" />
-    <ClCompile Include="file_copy.c" />
-    <ClCompile Include="file_fputc.c" />
+    <ClCompile Include="AsciiWrite.c" />
+    <ClCompile Include="FileWriteScorelist22.cpp" />
     <ClCompile Include="file_write.c" />
     <ClCompile Include="file_read.c" />
+    <ClCompile Include="GugudanWrite.c" />
+    <ClCompile Include="InputBuffer.c" />
     <ClCompile Include="ScoreCalcMain.c" />
     <ClCompile Include="ScoreCalcMain2.cpp" />
     <ClCompile Include="StructArrayPerson.c" />

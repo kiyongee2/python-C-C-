@@ -3,48 +3,20 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2024\\Pointer2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\MallocChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\MallocChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\WordWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\WordWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\Malloc2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\Malloc2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\FileTypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\FileTypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\Malloc1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\Malloc1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\CallByRef.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\CallByRef.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\findMaxIdx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\findMaxIdx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\findMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\findMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\PointerString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\PointerString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\DateTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\DateTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\TypingGame2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\TypingGame2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\Typing Game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\Typing Game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\PointerArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\PointerArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\PointerArray2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A61A0580-623A-4EC8-B320-00AE22A2652F}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\PointerArray2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,138 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MallocChar.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\MallocChar.c",
-              "RelativeDocumentMoniker": "Pointer2\\MallocChar.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\MallocChar.c",
-              "RelativeToolTip": "Pointer2\\MallocChar.c",
-              "ViewState": "AgIAABQAAAAAAAAAAAAMwCUAAAAAAAAAAAAAAA==",
+              "Title": "WordWrite.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\WordWrite.c",
+              "RelativeDocumentMoniker": "Pointer2\\WordWrite.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\WordWrite.c",
+              "RelativeToolTip": "Pointer2\\WordWrite.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-06T22:17:05.189Z",
+              "WhenOpened": "2025-03-14T04:05:30.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Malloc2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\Malloc2.c",
-              "RelativeDocumentMoniker": "Pointer2\\Malloc2.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\Malloc2.c",
-              "RelativeToolTip": "Pointer2\\Malloc2.c",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Title": "FileTypingGame.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\FileTypingGame.c",
+              "RelativeDocumentMoniker": "Pointer2\\FileTypingGame.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\FileTypingGame.c",
+              "RelativeToolTip": "Pointer2\\FileTypingGame.c",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-06T21:58:06.547Z",
+              "WhenOpened": "2025-03-14T04:00:24.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Malloc1.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\Malloc1.c",
-              "RelativeDocumentMoniker": "Pointer2\\Malloc1.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\Malloc1.c",
-              "RelativeToolTip": "Pointer2\\Malloc1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Title": "TypingGame2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\TypingGame2.c",
+              "RelativeDocumentMoniker": "Pointer2\\TypingGame2.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\TypingGame2.c",
+              "RelativeToolTip": "Pointer2\\TypingGame2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-06T21:38:27.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T21:27:02.402Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CallByRef.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\CallByRef.c",
-              "RelativeDocumentMoniker": "Pointer2\\CallByRef.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\CallByRef.c",
-              "RelativeToolTip": "Pointer2\\CallByRef.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-06T11:26:16.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "findMaxIdx.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\findMaxIdx.c",
-              "RelativeDocumentMoniker": "Pointer2\\findMaxIdx.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\findMaxIdx.c",
-              "RelativeToolTip": "Pointer2\\findMaxIdx.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-06T10:44:03.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "findMax.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\findMax.c",
-              "RelativeDocumentMoniker": "Pointer2\\findMax.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\findMax.c",
-              "RelativeToolTip": "Pointer2\\findMax.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-06T10:19:59.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PointerArray2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\PointerArray2.c",
-              "RelativeDocumentMoniker": "Pointer2\\PointerArray2.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\PointerArray2.c",
-              "RelativeToolTip": "Pointer2\\PointerArray2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-05T08:01:12.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PointerArray.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\PointerArray.c",
-              "RelativeDocumentMoniker": "Pointer2\\PointerArray.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\PointerArray.c",
-              "RelativeToolTip": "Pointer2\\PointerArray.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-05T08:00:37.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Typing Game.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\Typing Game.c",
               "RelativeDocumentMoniker": "Pointer2\\Typing Game.c",
               "ToolTip": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\Typing Game.c",
               "RelativeToolTip": "Pointer2\\Typing Game.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-22T21:46:45.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DateTime.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\DateTime.c",
-              "RelativeDocumentMoniker": "Pointer2\\DateTime.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\DateTime.c",
-              "RelativeToolTip": "Pointer2\\DateTime.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-22T21:36:18.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PointerString.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\PointerString.c",
-              "RelativeDocumentMoniker": "Pointer2\\PointerString.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Pointer2\\Pointer2\\PointerString.c",
-              "RelativeToolTip": "Pointer2\\PointerString.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-22T12:41:42.954Z"
             }
           ]
         }

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c2024\\FileInputOutput\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1EBBF-19F5-4F85-8AA3-F805DC9D1C01}|FileInputOutput\\FileInputOutput.vcxproj|D:\\korea_IT\\c2024\\FileInputOutput\\FileInputOutput\\FileCalcScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81C1EBBF-19F5-4F85-8AA3-F805DC9D1C01}|FileInputOutput\\FileInputOutput.vcxproj|solutionrelative:FileInputOutput\\FileCalcScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1EBBF-19F5-4F85-8AA3-F805DC9D1C01}|FileInputOutput\\FileInputOutput.vcxproj|D:\\korea_IT\\c2024\\FileInputOutput\\FileInputOutput\\FileWriteScorelist.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81C1EBBF-19F5-4F85-8AA3-F805DC9D1C01}|FileInputOutput\\FileInputOutput.vcxproj|solutionrelative:FileInputOutput\\FileWriteScorelist.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1EBBF-19F5-4F85-8AA3-F805DC9D1C01}|FileInputOutput\\FileInputOutput.vcxproj|D:\\korea_IT\\c2024\\FileInputOutput\\FileInputOutput\\FileReadScorelist2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81C1EBBF-19F5-4F85-8AA3-F805DC9D1C01}|FileInputOutput\\FileInputOutput.vcxproj|solutionrelative:FileInputOutput\\FileReadScorelist2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1EBBF-19F5-4F85-8AA3-F805DC9D1C01}|FileInputOutput\\FileInputOutput.vcxproj|D:\\korea_IT\\c2024\\FileInputOutput\\FileInputOutput\\FileReadScorelist.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81C1EBBF-19F5-4F85-8AA3-F805DC9D1C01}|FileInputOutput\\FileInputOutput.vcxproj|solutionrelative:FileInputOutput\\FileReadScorelist.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileReadScorelist2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\FileInputOutput\\FileInputOutput\\FileReadScorelist2.c",
+              "RelativeDocumentMoniker": "FileInputOutput\\FileReadScorelist2.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\FileInputOutput\\FileInputOutput\\FileReadScorelist2.c",
+              "RelativeToolTip": "FileInputOutput\\FileReadScorelist2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-14T02:16:17.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileCalcScore.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\FileInputOutput\\FileInputOutput\\FileCalcScore.c",
+              "RelativeDocumentMoniker": "FileInputOutput\\FileCalcScore.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\FileInputOutput\\FileInputOutput\\FileCalcScore.c",
+              "RelativeToolTip": "FileInputOutput\\FileCalcScore.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-14T01:59:01.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileWriteScorelist.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\FileInputOutput\\FileInputOutput\\FileWriteScorelist.c",
+              "RelativeDocumentMoniker": "FileInputOutput\\FileWriteScorelist.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\FileInputOutput\\FileInputOutput\\FileWriteScorelist.c",
+              "RelativeToolTip": "FileInputOutput\\FileWriteScorelist.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-14T01:51:01.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileReadScorelist.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\FileInputOutput\\FileInputOutput\\FileReadScorelist.c",
+              "RelativeDocumentMoniker": "FileInputOutput\\FileReadScorelist.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\FileInputOutput\\FileInputOutput\\FileReadScorelist.c",
+              "RelativeToolTip": "FileInputOutput\\FileReadScorelist.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-14T01:48:49.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

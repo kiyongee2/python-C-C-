@@ -6,7 +6,6 @@
 //
 //int get_valid_integer() {
 //    int num;
-//    char ch;
 //
 //    while (1) {
 //        printf("정수를 입력하세요: ");

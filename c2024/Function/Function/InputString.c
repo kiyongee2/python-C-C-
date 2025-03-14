@@ -9,15 +9,15 @@
 //      입력 버퍼에는 '\n'이 남아있음.
 //      즉, 공백 포함문자를 입력받을 수 없음
 //    */
-//    char name[20];
-//    printf("이름을 입력하세요: ");  //name - apple 
-//    //scanf_s("%s", name, sizeof(name));
-//    //gets(name);  //지금 사용하지 않음
-//    fgets(name, sizeof(name), stdin);
-//    
-//    //printf("입력된 이름: %s\n", name);
-//    printf("입력된 이름:");
-//    puts(name);
+//    //char name[20];
+//    //printf("이름을 입력하세요: ");  //name - apple 
+//    ////scanf_s("%s", name, sizeof(name));
+//    ////gets(name);  //지금 사용하지 않음
+//    //fgets(name, sizeof(name), stdin);
+//    //
+//    ////printf("입력된 이름: %s\n", name);
+//    //printf("입력된 이름:");
+//    //puts(name);
 //
 //    /* fgets()
 //    * 공백을 포함한 문자열 입력 가능
@@ -37,12 +37,14 @@
 //    printf("이름을 입력하세요: ");
 //    scanf_s("%s", name, sizeof(name));
 //
-//    while (getchar() != '\n');  // 입력 버퍼 비우기
+//    //getchar()는 한 개의 문자를 읽어오는 함수.
+//    while (getchar() != '\n') continue;  // 입력 버퍼 비우기
 //
 //    printf("나이를 입력하세요: ");
 //    scanf_s("%d", &age);
 //
 //    printf("이름: %s, 나이: %d\n", name, age);
 //
+//    
 //    return 0;
 //}

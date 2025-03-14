@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="CallByRef.c" />
     <ClCompile Include="DateTime.c" />
+    <ClCompile Include="FileTypingGame.c" />
     <ClCompile Include="findMax.c" />
     <ClCompile Include="findMaxIdx.c" />
     <ClCompile Include="Malloc1.c" />
@@ -140,8 +141,11 @@
     <ClCompile Include="PointerArray2.c" />
     <ClCompile Include="PointerString.c" />
     <ClCompile Include="StringFunction.c" />
+    <ClCompile Include="Time.c" />
     <ClCompile Include="Typing Game.c" />
+    <ClCompile Include="TypingGame2.c" />
     <ClCompile Include="UpperCase.c" />
+    <ClCompile Include="WordWrite.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

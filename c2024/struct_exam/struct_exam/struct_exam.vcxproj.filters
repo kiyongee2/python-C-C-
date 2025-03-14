@@ -27,10 +27,7 @@
     <ClCompile Include="file_read.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="file_fputc.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_copy.c">
+    <ClCompile Include="AsciiWrite.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="dic.c">
@@ -85,6 +82,48 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ScoreCalcMain2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CountUpperCase.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GugudanWrite.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileCopy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InputBuffer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileWriteScore.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileWriteScoreList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileScoreList2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="AppendWrite.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileReadScore.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileReadScorelist.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileCalcScore.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileWriteScorelist22.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileReadScore22.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileReadScorelist22.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

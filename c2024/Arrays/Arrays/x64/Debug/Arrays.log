@@ -1,2 +1,6 @@
-﻿  ArrayAdd.c
+﻿  PutsGets.c
+D:\korea_IT\c2024\Arrays\Arrays\PutsGets.c(23,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+      D:\korea_IT\c2024\Arrays\Arrays\PutsGets.c(23,10):
+      이 인수는 버퍼 크기로 사용됩니다.
+  
   Arrays.vcxproj -> D:\korea_IT\c2024\Arrays\x64\Debug\Arrays.exe

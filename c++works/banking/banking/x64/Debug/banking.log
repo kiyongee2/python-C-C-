@@ -1,4 +1,23 @@
-﻿  BankAccount2.cpp
+﻿  BankAccount3.cpp
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(29,17): warning C4566: 유니버설 문자 이름 '\U0001F4CC'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(39,21): warning C4566: 유니버설 문자 이름 '\u2705'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(42,21): warning C4566: 유니버설 문자 이름 '\u26A0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(42,21): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(50,21): warning C4566: 유니버설 문자 이름 '\u2705'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(53,21): warning C4566: 유니버설 문자 이름 '\u26A0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(53,21): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(71,13): warning C4566: 유니버설 문자 이름 '\u2705'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(100,17): warning C4566: 유니버설 문자 이름 '\u26A0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(100,17): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(119,17): warning C4566: 유니버설 문자 이름 '\u26A0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(119,17): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(134,17): warning C4566: 유니버설 문자 이름 '\u26A0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(134,17): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(156,21): warning C4566: 유니버설 문자 이름 '\u26A0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(156,21): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(174,21): warning C4566: 유니버설 문자 이름 '\U0001F3E6'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(177,21): warning C4566: 유니버설 문자 이름 '\u26A0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\korea_IT\c++works\banking\banking\BankAccount3.cpp(177,21): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
   Banking_main.cpp
   코드를 생성하고 있습니다...
   banking.vcxproj -> D:\korea_IT\c++works\banking\x64\Debug\banking.exe

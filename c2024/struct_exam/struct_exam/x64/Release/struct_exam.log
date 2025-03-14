@@ -1,0 +1,10 @@
+﻿  EnglishTyping.c
+D:\korea_IT\c2024\struct_exam\struct_exam\EnglishTyping.c(20,22): warning C4013: 'strcspn'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\korea_IT\c2024\struct_exam\struct_exam\EnglishTyping.c(29,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WordRandomRead.c
+  코드를 생성하고 있습니다.
+  8 of 8 functions (100.0%) were compiled.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  struct_exam.vcxproj -> D:\korea_IT\c2024\struct_exam\x64\Release\struct_exam.exe

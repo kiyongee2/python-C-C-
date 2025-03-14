@@ -1,2 +1,11 @@
-﻿  MallocChar.c
+﻿  FileTypingGame.c
+D:\korea_IT\c2024\Pointer2\Pointer2\FileTypingGame.c(21,16): warning C4013: 'strcspn'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\korea_IT\c2024\Pointer2\Pointer2\FileTypingGame.c(40,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\korea_IT\c2024\Pointer2\Pointer2\FileTypingGame.c(55,11): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+      D:\korea_IT\c2024\Pointer2\Pointer2\FileTypingGame.c(55,11):
+      이 인수는 버퍼 크기로 사용됩니다.
+  
+D:\korea_IT\c2024\Pointer2\Pointer2\FileTypingGame.c(57,7): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  WordWrite.c
+  코드를 생성하고 있습니다...
   Pointer2.vcxproj -> D:\korea_IT\c2024\Pointer2\x64\Debug\Pointer2.exe

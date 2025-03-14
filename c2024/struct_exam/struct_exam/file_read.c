@@ -1,17 +1,16 @@
 //#define _CRT_SECURE_NO_WARNINGS
 //#include <stdio.h>
-//#include <string.h>
 //
 //int main() {
 //
-//	char ch;
-//	FILE* fp;
+//	FILE* fp;  //파일 포인터 객체 생성
+//	int ch;
 //
 //	fp = fopen("out.txt", "r");
 //
 //	if (fp == NULL) {
 //		printf("파일 열기에 실패함\n");
-//		return 0;
+//		return 1;  //에러시 1 or -1 반환
 //	}
 //
 //	//fgetc(FILE*) 파일에서 한글자 읽어오는 함수
@@ -26,24 +25,12 @@
 //		printf("%c", ch);
 //	}
 //
-//	//char buf[100]; // 한 줄씩 읽을 버퍼
-//	//while (fgets(buf, sizeof(buf), fp) != NULL) { // 파일에서 한 줄씩 읽기
-//	//	printf("%s", buf);
-//	//}
-//
-//	// 대문자의 개수 세기
-//	//int count = 0;
-//	//while (1) {
-//	//	ch = fgetc(fp);
-//	//	if (ch >= 'A' && ch <= 'Z') {
-//	//		++count;
-//	//	}
-//	//	if (ch == EOF)  // EOF(End Of File) = -1
-//	//		break;
-//	//	printf("%c", ch);
-//	//}
-//	//printf("대문자의 개수 : %d\n", count);
+//	/*while ((ch = fgetc(fp)) != EOF)
+//	{
+//		printf("%c", ch);
+//	}*/
 //
 //	fclose(fp);
+//
 //	return 0;
 //}

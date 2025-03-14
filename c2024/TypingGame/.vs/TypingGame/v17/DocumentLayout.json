@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c2024\\TypingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D06AE79D-DED4-4165-9358-A893FC76788C}|TypingGame\\TypingGame.vcxproj|D:\\korea_IT\\c2024\\TypingGame\\TypingGame\\GameMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D06AE79D-DED4-4165-9358-A893FC76788C}|TypingGame\\TypingGame.vcxproj|solutionrelative:TypingGame\\GameMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06AE79D-DED4-4165-9358-A893FC76788C}|TypingGame\\TypingGame.vcxproj|D:\\korea_IT\\c2024\\TypingGame\\TypingGame\\WordWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D06AE79D-DED4-4165-9358-A893FC76788C}|TypingGame\\TypingGame.vcxproj|solutionrelative:TypingGame\\WordWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordWrite.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\TypingGame\\TypingGame\\WordWrite.c",
+              "RelativeDocumentMoniker": "TypingGame\\WordWrite.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\TypingGame\\TypingGame\\WordWrite.c",
+              "RelativeToolTip": "TypingGame\\WordWrite.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-14T05:33:56.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameMain.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\TypingGame\\TypingGame\\GameMain.c",
+              "RelativeDocumentMoniker": "TypingGame\\GameMain.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\TypingGame\\TypingGame\\GameMain.c",
+              "RelativeToolTip": "TypingGame\\GameMain.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-14T05:32:11.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

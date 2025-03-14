@@ -28,5 +28,7 @@
 //	printf("Á¡1(%d, %d), Á¡2(%d, %d)\n",
 //		rect.p1.x, rect.p1.y, rect.p2.x, rect.p2.y);
 //
+//	system("pause");
+//
 //	return 0;
 //}

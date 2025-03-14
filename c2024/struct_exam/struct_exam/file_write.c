@@ -1,6 +1,5 @@
-//#define _CRT_SECURE_NO_WARNINGS
+//#define _CRT_SECURE_NO_WARNINGS  //fopen() 사용에 필요
 //#include <stdio.h>
-//#include <string.h>
 //
 //int main() {
 //	//스트림 생성
@@ -14,8 +13,16 @@
 //		return 0;
 //	}
 //
-//	fprintf(fp, "%s\n", "Hello World!");
-//	fprintf(fp, "%s\n", "좋은 하루 되세요~");
+//	//한 문자 쓰기
+//	fputc('H', fp);
+//	fputc('e', fp);
+//	fputc('l', fp);
+//	fputc('l', fp);
+//	fputc('o', fp);
+//
+//	//문자열 쓰기
+//	fputs("\nApple\n", fp);
+//	fputs("\n사과\n", fp);  //한글 저장
 //
 //	fclose(fp);
 //	return 0;
