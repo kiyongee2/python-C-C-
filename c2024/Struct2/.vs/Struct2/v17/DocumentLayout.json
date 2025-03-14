@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2024\\Struct2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2024\\Struct2\\Struct2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B81.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B81.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructFruit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\StructFruit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructPerson3-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\StructPerson3-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2024\\Struct2\\Struct2\\RectanglePoint.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\RectanglePoint.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2024\\Struct2\\Struct2\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2024\\Struct2\\Struct2\\StrudentScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\StrudentScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\StructScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -37,6 +17,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructPerson3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\StructPerson3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2024\\Struct2\\Struct2\\FileStructPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\FileStructPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructFruit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\StructFruit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2024\\Struct2\\Struct2\\RectanglePoint.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\RectanglePoint.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,38 +38,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StructPerson3-2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructPerson3-2.c",
-              "RelativeDocumentMoniker": "Struct2\\StructPerson3-2.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructPerson3-2.c",
-              "RelativeToolTip": "Struct2\\StructPerson3-2.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "StructScore.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructScore.c",
+              "RelativeDocumentMoniker": "Struct2\\StructScore.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructScore.c",
+              "RelativeToolTip": "Struct2\\StructScore.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T05:42:50.547Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-03-14T11:51:53.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "\uC5F0\uACB0\uB9AC\uC2A4\uD2B81.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B81.c",
-              "RelativeDocumentMoniker": "Struct2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B81.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B81.c",
-              "RelativeToolTip": "Struct2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B81.c",
+              "DocumentIndex": 4,
+              "Title": "FileStructPerson.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\FileStructPerson.c",
+              "RelativeDocumentMoniker": "Struct2\\FileStructPerson.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\FileStructPerson.c",
+              "RelativeToolTip": "Struct2\\FileStructPerson.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T07:06:26.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T11:20:03.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "StructPerson3.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructPerson3.c",
               "RelativeDocumentMoniker": "Struct2\\StructPerson3.c",
@@ -85,86 +75,55 @@
               "RelativeToolTip": "Struct2\\StructPerson3.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T01:54:56.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T10:24:46.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "StructPerson2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructPerson2.c",
               "RelativeDocumentMoniker": "Struct2\\StructPerson2.c",
               "ToolTip": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructPerson2.c",
               "RelativeToolTip": "Struct2\\StructPerson2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T00:52:31.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T10:24:33.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "StructPerson.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructPerson.c",
               "RelativeDocumentMoniker": "Struct2\\StructPerson.c",
               "ToolTip": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructPerson.c",
               "RelativeToolTip": "Struct2\\StructPerson.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T03:56:45.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T10:22:59.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "StructFruit.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructFruit.c",
               "RelativeDocumentMoniker": "Struct2\\StructFruit.c",
               "ToolTip": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\StructFruit.c",
               "RelativeToolTip": "Struct2\\StructFruit.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T02:49:56.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T10:21:57.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.h",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\Student.h",
-              "RelativeDocumentMoniker": "Struct2\\Student.h",
-              "ToolTip": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\Student.h",
-              "RelativeToolTip": "Struct2\\Student.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-07T01:22:32.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StrudentScore.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\StrudentScore.c",
-              "RelativeDocumentMoniker": "Struct2\\StrudentScore.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\StrudentScore.c",
-              "RelativeToolTip": "Struct2\\StrudentScore.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T01:04:35.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "RectanglePoint.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\RectanglePoint.c",
               "RelativeDocumentMoniker": "Struct2\\RectanglePoint.c",
               "ToolTip": "D:\\korea_IT\\c2024\\Struct2\\Struct2\\RectanglePoint.c",
               "RelativeToolTip": "Struct2\\RectanglePoint.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T00:56:12.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T00:56:12.061Z"
             }
           ]
         }

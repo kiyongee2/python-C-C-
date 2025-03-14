@@ -43,6 +43,7 @@
 //	printf("입금할 계좌번호: ");
 //	scanf_s("%d", &accountNumber);
 //
+//	//계좌 검색
 //	for (int i = 0; i < idxOfAccount; i++)
 //	{
 //		//이미 등록된 계좌와 입력 계좌가 일치하면
@@ -78,14 +79,20 @@
 //		{
 //			printf("출금액: ");
 //			scanf_s("%d", &money);
-//			if (money < 0)
+//			//if (money < 0)
+//			//{
+//			//	printf("금액은 음수일 수 없습니다.\n");
+//			//	return; //즉시 종료
+//			//}
+//			//if (accounts[i].balance < money)
+//			//{
+//			//	printf("출금 불가(잔액 부족 또는 잘못된 금액): %d\n", accounts[i].balance);
+//			//	return;
+//			//}
+//
+//			if (accounts[i].balance < money || money < 0)
 //			{
-//				printf("금액은 음수일 수 없습니다.\n");
-//				return; //즉시 종료
-//			}
-//			if (accounts[i].balance < money)
-//			{
-//				printf("잔액이 부족합니다. 현재 잔액: %d\n", accounts[i].balance);
+//				printf("잔액이 부족하거나 올바른 금액이 아닙니다. 현재 잔액: %d\n", accounts[i].balance);
 //				return;
 //			}
 //			accounts[i].balance -= money;
@@ -142,7 +149,7 @@
 //			break;
 //		case 5:
 //			printf("프로그램을 종료합니다.\n");
-//			return 0;
+//			return 0;  //정상 종료
 //		default:
 //			printf("잘못된 입력입니다. 다시 선택하세요.\n");
 //		}

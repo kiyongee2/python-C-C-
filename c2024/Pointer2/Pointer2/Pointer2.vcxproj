@@ -132,7 +132,7 @@
     <ClCompile Include="FileTypingGame.c" />
     <ClCompile Include="findMax.c" />
     <ClCompile Include="findMaxIdx.c" />
-    <ClCompile Include="Malloc1.c" />
+    <ClCompile Include="MallocInt.c" />
     <ClCompile Include="Malloc2.c" />
     <ClCompile Include="MallocChar.c" />
     <ClCompile Include="Pointer1.c" />

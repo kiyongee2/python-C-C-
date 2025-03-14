@@ -1,18 +1,6 @@
-﻿  BankAccount2.c
-D:\korea_IT\c2024\banking\banking\BankAccount2.c(28,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-      D:\korea_IT\c2024\banking\banking\BankAccount2.c(28,10):
+﻿  BankAccount3.c
+D:\korea_IT\c2024\banking\banking\BankAccount3.c(31,13): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+      D:\korea_IT\c2024\banking\banking\BankAccount3.c(31,13):
       이 인수는 버퍼 크기로 사용됩니다.
-  
-D:\korea_IT\c2024\banking\banking\BankAccount2.c(31,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-      D:\korea_IT\c2024\banking\banking\BankAccount2.c(31,10):
-      이 인수는 버퍼 크기로 사용됩니다.
-  
-D:\korea_IT\c2024\banking\banking\BankAccount2.c(45,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char (*)[10]'입니다.
-      D:\korea_IT\c2024\banking\banking\BankAccount2.c(45,10):
-      서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
-  
-D:\korea_IT\c2024\banking\banking\BankAccount2.c(74,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char (*)[10]'입니다.
-      D:\korea_IT\c2024\banking\banking\BankAccount2.c(74,10):
-      서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
   
   banking.vcxproj -> D:\korea_IT\c2024\banking\x64\Debug\banking.exe

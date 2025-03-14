@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2024\\struct_exam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\WordWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\WordWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\EnglishTyping.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C9D27543-7460-4CB9-A120-BD37C132AAA3}|struct_exam\\struct_exam.vcxproj|solutionrelative:struct_exam\\EnglishTyping.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WordWrite.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\WordWrite.c",
+              "RelativeDocumentMoniker": "struct_exam\\WordWrite.c",
+              "ToolTip": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\WordWrite.c",
+              "RelativeToolTip": "struct_exam\\WordWrite.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-14T04:04:06.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EnglishTyping.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\EnglishTyping.c",
               "RelativeDocumentMoniker": "struct_exam\\EnglishTyping.c",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WordRandomRead.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\WordRandomRead.c",
               "RelativeDocumentMoniker": "struct_exam\\WordRandomRead.c",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "struct_exam\\WordRandomRead.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-14T03:56:21.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T03:56:21.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StructReference.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\StructReference.c",
               "RelativeDocumentMoniker": "struct_exam\\StructReference.c",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "struct_exam\\StructReference.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-14T03:47:26.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T03:47:26.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "typedefPerson2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\typedefPerson2.c",
               "RelativeDocumentMoniker": "struct_exam\\typedefPerson2.c",
@@ -85,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ScoreMain.c",
               "DocumentMoniker": "D:\\korea_IT\\c2024\\struct_exam\\struct_exam\\ScoreMain.c",
               "RelativeDocumentMoniker": "struct_exam\\ScoreMain.c",

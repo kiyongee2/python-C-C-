@@ -51,7 +51,7 @@
     <ClCompile Include="CallByRef.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Malloc1.c">
+    <ClCompile Include="MallocInt.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Malloc2.c">

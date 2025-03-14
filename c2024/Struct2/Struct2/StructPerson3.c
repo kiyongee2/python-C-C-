@@ -26,7 +26,7 @@
 //	printf("키: %.1f\n", pp1->height);*/
 //
 //	//구조체 포인터 배열
-//	Person* p = (Person*)malloc(sizeof(p) * 3);  //동적 할당
+//	Person* p = (Person*)malloc(sizeof(Person) * 3); 
 //	if (p == NULL)
 //	{
 //		printf("동적 메모리 할당에 실패했습니다.\n");

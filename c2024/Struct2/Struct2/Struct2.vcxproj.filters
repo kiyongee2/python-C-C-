@@ -39,6 +39,12 @@
     <ClCompile Include="연결리스트1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="FileStructPerson.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructScore.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Student.h">

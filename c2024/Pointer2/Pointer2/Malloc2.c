@@ -8,6 +8,7 @@
 //	int* ptr2;
 //
 //	ptr1 = &num1;  //정적 할당(메모리 스택영역)
+//
 //	//동적 할당(힙 영역) 
 //	ptr2 = (int*)malloc(sizeof(int) * 3);
 //	if (ptr2 == NULL)

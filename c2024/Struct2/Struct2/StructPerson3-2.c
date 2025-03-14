@@ -10,15 +10,14 @@
 //	float height;
 //}Person;
 //
-//void showpInfo(Person*);
 //int main()
 //{
 //	//구조체 포인터 배열
 //	Person* p[3];
 //
-//	for (int i = 0; i <= 3; i++)
+//	for (int i = 0; i < 3; i++)
 //	{
-//		p[i] = malloc(sizeof(Person*));
+//		p[i] = malloc(sizeof(Person));
 //	}
 //
 //	strcpy(p[0]->name, "이산");
@@ -36,10 +35,13 @@
 //	for (int i = 0; i < 3; i++)
 //	{
 //		printf("이름:%s, 나이:%d, 키:%.1f\n",
-//						p[i]->name, p[i]->age, p[i]->height);
+//			p[i]->name, p[i]->age, p[i]->height);
 //	}
 //
-//	free(p); //동적 메모리 해제 
+//	for (int i = 0; i < 3; i++)
+//	{
+//		free(p[i]);
+//	}
 //
 //	return 0;
 //}
