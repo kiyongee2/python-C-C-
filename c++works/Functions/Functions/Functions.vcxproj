@@ -130,11 +130,16 @@
     <ClCompile Include="ArrayFunction.cpp" />
     <ClCompile Include="DateTime.cpp" />
     <ClCompile Include="GlobalVar.cpp" />
+    <ClCompile Include="Inline.cpp" />
     <ClCompile Include="MathEx.cpp" />
     <ClCompile Include="RandEx.cpp" />
+    <ClCompile Include="Reference.cpp" />
+    <ClCompile Include="Reference0.cpp" />
     <ClCompile Include="ReturnFunction.cpp" />
     <ClCompile Include="StaticVar.cpp" />
     <ClCompile Include="TimeEx.cpp" />
+    <ClCompile Include="TypingGame.cpp" />
+    <ClCompile Include="TypingGame2.cpp" />
     <ClCompile Include="VoidFunction.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

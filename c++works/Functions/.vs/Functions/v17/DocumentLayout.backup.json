@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\Inline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|solutionrelative:Functions\\Inline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\Reference0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|solutionrelative:Functions\\Reference0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\Reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|solutionrelative:Functions\\Reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\TypingGame2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|solutionrelative:Functions\\TypingGame2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\RandEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|solutionrelative:Functions\\RandEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\DateTime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|solutionrelative:Functions\\DateTime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\MathEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|solutionrelative:Functions\\MathEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\TimeEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|solutionrelative:Functions\\TimeEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\StaticVar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|solutionrelative:Functions\\StaticVar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\GlobalVar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|solutionrelative:Functions\\GlobalVar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\ArrayFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|solutionrelative:Functions\\ArrayFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\ReturnFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|solutionrelative:Functions\\ReturnFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\VoidFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|solutionrelative:Functions\\VoidFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\TypingGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E357A5D5-88C5-4D68-849A-6275A8905881}|Functions\\Functions.vcxproj|solutionrelative:Functions\\TypingGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,114 +43,93 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RandEx.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\RandEx.cpp",
-              "RelativeDocumentMoniker": "Functions\\RandEx.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\RandEx.cpp",
-              "RelativeToolTip": "Functions\\RandEx.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Inline.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\Inline.cpp",
+              "RelativeDocumentMoniker": "Functions\\Inline.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\Inline.cpp*",
+              "RelativeToolTip": "Functions\\Inline.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-21T03:02:57.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TimeEx.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\TimeEx.cpp",
-              "RelativeDocumentMoniker": "Functions\\TimeEx.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\TimeEx.cpp",
-              "RelativeToolTip": "Functions\\TimeEx.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T02:50:08.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MathEx.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\MathEx.cpp",
-              "RelativeDocumentMoniker": "Functions\\MathEx.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\MathEx.cpp",
-              "RelativeToolTip": "Functions\\MathEx.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T02:36:37.414Z",
+              "WhenOpened": "2025-03-21T21:59:56.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DateTime.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\DateTime.cpp",
-              "RelativeDocumentMoniker": "Functions\\DateTime.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\DateTime.cpp",
-              "RelativeToolTip": "Functions\\DateTime.cpp",
+              "Title": "Reference0.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\Reference0.cpp",
+              "RelativeDocumentMoniker": "Functions\\Reference0.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\Reference0.cpp",
+              "RelativeToolTip": "Functions\\Reference0.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T02:27:23.624Z",
+              "WhenOpened": "2025-03-21T21:40:45.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reference.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\Reference.cpp",
+              "RelativeDocumentMoniker": "Functions\\Reference.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\Reference.cpp",
+              "RelativeToolTip": "Functions\\Reference.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T21:20:18.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TypingGame2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\TypingGame2.cpp",
+              "RelativeDocumentMoniker": "Functions\\TypingGame2.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\TypingGame2.cpp",
+              "RelativeToolTip": "Functions\\TypingGame2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T20:34:51.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TypingGame.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\TypingGame.cpp",
+              "RelativeDocumentMoniker": "Functions\\TypingGame.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\TypingGame.cpp",
+              "RelativeToolTip": "Functions\\TypingGame.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T20:16:05.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimeEx.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\TimeEx.cpp",
+              "RelativeDocumentMoniker": "Functions\\TimeEx.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\TimeEx.cpp",
+              "RelativeToolTip": "Functions\\TimeEx.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T20:20:11.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "StaticVar.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\StaticVar.cpp",
-              "RelativeDocumentMoniker": "Functions\\StaticVar.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\StaticVar.cpp",
-              "RelativeToolTip": "Functions\\StaticVar.cpp",
+              "Title": "RandEx.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\RandEx.cpp",
+              "RelativeDocumentMoniker": "Functions\\RandEx.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\RandEx.cpp",
+              "RelativeToolTip": "Functions\\RandEx.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T01:57:31.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GlobalVar.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\GlobalVar.cpp",
-              "RelativeDocumentMoniker": "Functions\\GlobalVar.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\GlobalVar.cpp",
-              "RelativeToolTip": "Functions\\GlobalVar.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T01:43:35.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ArrayFunction.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\ArrayFunction.cpp",
-              "RelativeDocumentMoniker": "Functions\\ArrayFunction.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\ArrayFunction.cpp",
-              "RelativeToolTip": "Functions\\ArrayFunction.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T01:23:31.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ReturnFunction.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\ReturnFunction.cpp",
-              "RelativeDocumentMoniker": "Functions\\ReturnFunction.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\ReturnFunction.cpp",
-              "RelativeToolTip": "Functions\\ReturnFunction.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T01:12:34.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VoidFunction.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\VoidFunction.cpp",
-              "RelativeDocumentMoniker": "Functions\\VoidFunction.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Functions\\Functions\\VoidFunction.cpp",
-              "RelativeToolTip": "Functions\\VoidFunction.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T01:01:29.671Z"
+              "WhenOpened": "2025-03-21T03:02:57.826Z",
+              "EditorCaption": ""
             }
           ]
         }

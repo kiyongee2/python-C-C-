@@ -1,3 +1,2 @@
-﻿  RandEx.cpp
-D:\korea_IT\c++works\Functions\Functions\RandEx.cpp(9,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  Inline.cpp
   Functions.vcxproj -> D:\korea_IT\c++works\Functions\x64\Debug\Functions.exe
