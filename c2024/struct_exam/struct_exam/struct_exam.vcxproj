@@ -145,6 +145,7 @@
     <ClCompile Include="FileWriteScorelist22.cpp" />
     <ClCompile Include="file_write.c" />
     <ClCompile Include="file_read.c" />
+    <ClCompile Include="GugudanRead.c" />
     <ClCompile Include="GugudanWrite.c" />
     <ClCompile Include="InputBuffer.c" />
     <ClCompile Include="ScoreCalcMain.c" />

@@ -27,5 +27,23 @@
     <ClCompile Include="FileReadScorelist2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="FileFseek.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileFseek2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileDic.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WordSearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WordSearch2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WordSearch3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

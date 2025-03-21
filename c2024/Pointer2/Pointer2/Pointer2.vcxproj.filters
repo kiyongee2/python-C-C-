@@ -72,5 +72,17 @@
     <ClCompile Include="WordWrite.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PointerString2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerOfPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileTypingGame2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TypingRepeat.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

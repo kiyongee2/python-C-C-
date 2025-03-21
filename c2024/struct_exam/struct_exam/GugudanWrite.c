@@ -7,10 +7,9 @@
 //	int i, j;
 //
 //	fp = fopen("gugudan.txt", "w");
-//
 //	if (fp == NULL) {
 //		printf("파일 열기에 실패함\n");
-//		return 0;
+//		return 1;
 //	}
 //
 //	printf("=== Gugudan 테이블을 작성합니다. ===");
@@ -22,7 +21,6 @@
 //		}
 //		fprintf(fp, "\n");
 //	}
-//
 //	fclose(fp);
 //
 //	return 0;

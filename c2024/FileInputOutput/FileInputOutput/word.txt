@@ -1,0 +1,11 @@
+ant
+beer
+chicken
+deer
+fox
+elephant
+horse
+lion
+monkey
+snake
+tiger

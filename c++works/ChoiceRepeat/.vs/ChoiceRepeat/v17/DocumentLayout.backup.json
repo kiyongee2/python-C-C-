@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\ChoiceRepeat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC663740-1923-4181-9D6C-4FAD2436690D}|ChoiceRepeat\\ChoiceRepeat.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\KeyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC663740-1923-4181-9D6C-4FAD2436690D}|ChoiceRepeat\\ChoiceRepeat.vcxproj|solutionrelative:ChoiceRepeat\\KeyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC663740-1923-4181-9D6C-4FAD2436690D}|ChoiceRepeat\\ChoiceRepeat.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\For1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC663740-1923-4181-9D6C-4FAD2436690D}|ChoiceRepeat\\ChoiceRepeat.vcxproj|solutionrelative:ChoiceRepeat\\For1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC663740-1923-4181-9D6C-4FAD2436690D}|ChoiceRepeat\\ChoiceRepeat.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\Gugudan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC663740-1923-4181-9D6C-4FAD2436690D}|ChoiceRepeat\\ChoiceRepeat.vcxproj|solutionrelative:ChoiceRepeat\\Gugudan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyRepeat.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\KeyRepeat.cpp",
+              "RelativeDocumentMoniker": "ChoiceRepeat\\KeyRepeat.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\KeyRepeat.cpp*",
+              "RelativeToolTip": "ChoiceRepeat\\KeyRepeat.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T22:59:57.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gugudan.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\Gugudan.cpp",
+              "RelativeDocumentMoniker": "ChoiceRepeat\\Gugudan.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\Gugudan.cpp",
+              "RelativeToolTip": "ChoiceRepeat\\Gugudan.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T22:07:30.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "For1.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\For1.cpp",
+              "RelativeDocumentMoniker": "ChoiceRepeat\\For1.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\For1.cpp",
+              "RelativeToolTip": "ChoiceRepeat\\For1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T21:45:31.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

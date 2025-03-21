@@ -3,40 +3,8 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\operator1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|solutionrelative:Basic\\operator1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\static_person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|solutionrelative:Basic\\static_person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\default_param.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|solutionrelative:Basic\\default_param.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\deep_copy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|solutionrelative:Basic\\deep_copy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\reference2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|solutionrelative:Basic\\reference2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\reference1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|solutionrelative:Basic\\reference1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\shallow_copy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|solutionrelative:Basic\\shallow_copy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\call_by_reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|solutionrelative:Basic\\call_by_reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\call_by_value.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|solutionrelative:Basic\\call_by_value.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\basic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7661A09A-33B1-45D7-AA43-D70D7D2616F8}|Basic\\Basic.vcxproj|solutionrelative:Basic\\basic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,118 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "operator1.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\operator1.cpp",
-              "RelativeDocumentMoniker": "Basic\\operator1.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\operator1.cpp",
-              "RelativeToolTip": "Basic\\operator1.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAADAAAAAAAAAA==",
+              "Title": "basic.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\basic.cpp",
+              "RelativeDocumentMoniker": "Basic\\basic.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\basic.cpp",
+              "RelativeToolTip": "Basic\\basic.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-28T05:09:27.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "static_person.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\static_person.cpp",
-              "RelativeDocumentMoniker": "Basic\\static_person.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\static_person.cpp",
-              "RelativeToolTip": "Basic\\static_person.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-28T02:33:46.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "default_param.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\default_param.cpp",
-              "RelativeDocumentMoniker": "Basic\\default_param.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\default_param.cpp",
-              "RelativeToolTip": "Basic\\default_param.cpp",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAACwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-28T02:06:09.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "deep_copy.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\deep_copy.cpp",
-              "RelativeDocumentMoniker": "Basic\\deep_copy.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\deep_copy.cpp",
-              "RelativeToolTip": "Basic\\deep_copy.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAD4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-28T01:12:11.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "shallow_copy.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\shallow_copy.cpp",
-              "RelativeDocumentMoniker": "Basic\\shallow_copy.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\shallow_copy.cpp",
-              "RelativeToolTip": "Basic\\shallow_copy.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-28T00:42:05.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "reference2.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\reference2.cpp",
-              "RelativeDocumentMoniker": "Basic\\reference2.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\reference2.cpp",
-              "RelativeToolTip": "Basic\\reference2.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-28T00:25:01.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "reference1.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\reference1.cpp",
-              "RelativeDocumentMoniker": "Basic\\reference1.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\reference1.cpp",
-              "RelativeToolTip": "Basic\\reference1.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-27T22:23:33.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "call_by_reference.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\call_by_reference.cpp",
-              "RelativeDocumentMoniker": "Basic\\call_by_reference.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\call_by_reference.cpp",
-              "RelativeToolTip": "Basic\\call_by_reference.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-27T21:41:00.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "call_by_value.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\call_by_value.cpp",
-              "RelativeDocumentMoniker": "Basic\\call_by_value.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Basic\\Basic\\call_by_value.cpp",
-              "RelativeToolTip": "Basic\\call_by_value.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-27T21:35:13.341Z",
+              "WhenOpened": "2025-03-16T11:18:35.465Z",
               "EditorCaption": ""
             }
           ]

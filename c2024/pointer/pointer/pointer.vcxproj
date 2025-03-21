@@ -145,6 +145,7 @@
     <ClCompile Include="malloc0.c" />
     <ClCompile Include="MallocPointer.c" />
     <ClCompile Include="pointer1.c" />
+    <ClCompile Include="PointerArray2D.c" />
     <ClCompile Include="PointerFunction.c" />
     <ClCompile Include="Pointer0.c" />
     <ClCompile Include="PointerString.c" />

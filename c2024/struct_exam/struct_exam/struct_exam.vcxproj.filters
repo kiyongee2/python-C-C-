@@ -126,6 +126,9 @@
     <ClCompile Include="FileReadScorelist22.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="GugudanRead.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Student.h">

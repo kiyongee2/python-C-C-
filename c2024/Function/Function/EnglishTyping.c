@@ -17,10 +17,10 @@
 //        int randomIndex = rand() % wordCount;  // 랜덤 단어 선택
 //        char* targetWord = wordList[randomIndex];
 //
-//        printf("\n다음 단어를 입력하세요 (0 입력 시 종료): %s\n", targetWord);
+//        printf("\n다음 단어를 입력하세요 (exit 입력 시 종료): %s\n", targetWord);
 //        scanf("%s", input);
 //
-//        if (strcmp(input, "0") == 0) {  // 0 입력 시 종료
+//        if (strcmp(input, "exit") == 0) {  // 0 입력 시 종료
 //            printf("프로그램을 종료합니다.\n");
 //            break;
 //        }

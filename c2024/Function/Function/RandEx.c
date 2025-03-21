@@ -5,7 +5,7 @@
 //int main()
 //{
 //    //srand(10); //seed값 설정(고정)
-//    //srand(time(NULL));  //seed값 설정(변경)
+//    srand(time(NULL));  //seed값 설정(변경)
 //
 //    int rndVal = rand();
 //    printf("%d\n", rndVal);

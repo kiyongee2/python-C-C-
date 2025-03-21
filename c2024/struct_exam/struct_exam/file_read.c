@@ -18,17 +18,17 @@
 //	printf("%c", ch);*/
 //
 //	// 모든 글자 읽기
-//	while (1) {
-//		ch = fgetc(fp);
-//		if (ch == EOF)  // EOF(End Of File) = -1
-//			break;
-//		printf("%c", ch);
-//	}
+//	//while (1) {
+//	//	ch = fgetc(fp);
+//	//	if (ch == EOF)  // EOF(End Of File) = -1
+//	//		break;
+//	//	printf("%c", ch);
+//	//}
 //
-//	/*while ((ch = fgetc(fp)) != EOF)
+//	while ((ch = fgetc(fp)) != EOF)
 //	{
 //		printf("%c", ch);
-//	}*/
+//	}
 //
 //	fclose(fp);
 //

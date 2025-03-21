@@ -130,6 +130,7 @@
     <ClCompile Include="CallByRef.c" />
     <ClCompile Include="DateTime.c" />
     <ClCompile Include="FileTypingGame.c" />
+    <ClCompile Include="FileTypingGame2.c" />
     <ClCompile Include="findMax.c" />
     <ClCompile Include="findMaxIdx.c" />
     <ClCompile Include="MallocInt.c" />
@@ -139,11 +140,14 @@
     <ClCompile Include="Pointer2.c" />
     <ClCompile Include="PointerArray.c" />
     <ClCompile Include="PointerArray2.c" />
+    <ClCompile Include="PointerOfPointer.c" />
     <ClCompile Include="PointerString.c" />
+    <ClCompile Include="PointerString2.c" />
     <ClCompile Include="StringFunction.c" />
     <ClCompile Include="Time.c" />
     <ClCompile Include="Typing Game.c" />
     <ClCompile Include="TypingGame2.c" />
+    <ClCompile Include="TypingRepeat.c" />
     <ClCompile Include="UpperCase.c" />
     <ClCompile Include="WordWrite.c" />
   </ItemGroup>

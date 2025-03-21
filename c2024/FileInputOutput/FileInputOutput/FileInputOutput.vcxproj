@@ -128,9 +128,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="FileCalcScore.c" />
+    <ClCompile Include="FileDic.c" />
+    <ClCompile Include="FileFseek.c" />
+    <ClCompile Include="FileFseek2.c" />
     <ClCompile Include="FileReadScorelist.c" />
     <ClCompile Include="FileReadScorelist2.c" />
     <ClCompile Include="FileWriteScorelist.c" />
+    <ClCompile Include="WordSearch.c" />
+    <ClCompile Include="WordSearch2.c" />
+    <ClCompile Include="WordSearch3.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

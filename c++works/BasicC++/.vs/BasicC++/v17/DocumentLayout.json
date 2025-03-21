@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\BasicC\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76EED840-204F-4524-9D81-EA8E823D641F}|BasicC\u002B\u002B\\BasicC\u002B\u002B.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\BasicC\u002B\u002B\\BasicC\u002B\u002B\\ArrayPractice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76EED840-204F-4524-9D81-EA8E823D641F}|BasicC\u002B\u002B\\BasicC\u002B\u002B.vcxproj|solutionrelative:BasicC\u002B\u002B\\ArrayPractice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EED840-204F-4524-9D81-EA8E823D641F}|BasicC\u002B\u002B\\BasicC\u002B\u002B.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\BasicC\u002B\u002B\\BasicC\u002B\u002B\\Seat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76EED840-204F-4524-9D81-EA8E823D641F}|BasicC\u002B\u002B\\BasicC\u002B\u002B.vcxproj|solutionrelative:BasicC\u002B\u002B\\Seat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayPractice.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\BasicC\u002B\u002B\\BasicC\u002B\u002B\\ArrayPractice.cpp",
+              "RelativeDocumentMoniker": "BasicC\u002B\u002B\\ArrayPractice.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\BasicC\u002B\u002B\\BasicC\u002B\u002B\\ArrayPractice.cpp",
+              "RelativeToolTip": "BasicC\u002B\u002B\\ArrayPractice.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T01:47:48.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seat.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\BasicC\u002B\u002B\\BasicC\u002B\u002B\\Seat.cpp",
+              "RelativeDocumentMoniker": "BasicC\u002B\u002B\\Seat.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\BasicC\u002B\u002B\\BasicC\u002B\u002B\\Seat.cpp",
+              "RelativeToolTip": "BasicC\u002B\u002B\\Seat.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T01:37:00.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
