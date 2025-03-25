@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="ArrayPractice.cpp" />
     <ClCompile Include="Cin.cpp" />
+    <ClCompile Include="Compare.cpp" />
     <ClCompile Include="Constant.cpp" />
     <ClCompile Include="hello.cpp" />
     <ClCompile Include="IFElse1.cpp" />
