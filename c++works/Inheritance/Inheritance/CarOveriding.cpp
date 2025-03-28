@@ -2,7 +2,7 @@
 //#include <string>
 //using namespace std;
 //
-////상속 - 매개변수 있는 생성자
+////함수 재정의
 //class Car {
 //public:
 //	void drive() {
@@ -26,6 +26,9 @@
 //
 //int main()
 //{
+//	Car car;
+//	car.drive();
+//
 //	SportsCar sCar;
 //	sCar.drive();
 //

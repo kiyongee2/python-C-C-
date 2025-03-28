@@ -16,6 +16,10 @@
 //
 //	string getSerial() {return serial;}
 //	int getSpeed() {return speed;}
+//	void carInfo() {
+//		cout << "차량 번호: " << getSerial() << endl;
+//		cout << "주행 속도: " << getSpeed() << endl;
+//	}
 //};
 //
 //class Taxi : public Car {
@@ -26,16 +30,25 @@
 //	Taxi(int passenger, string serial, int speed) : Car(serial, speed) {
 //		this->passenger = passenger;
 //	}
+//
 //	int getPassenger() {return passenger;}
+//	void carInfo() {  //부모 함수 재정의(Overriding)
+//		cout << "차량 번호: " << getSerial() << endl;
+//		cout << "주행 속도: " << getSpeed() << endl;
+//		cout << "승객수: " << getPassenger() << endl;
+//	}
 //};
 //
 //int main()
 //{
-//	Taxi 카카오T(2, "123가 4567", 60);
+//	//Car 객체 생성
+//	Car car1("02허 2424", 80);
+//	car1.carInfo();
+//	cout << "========================\n";
 //
-//	cout << "승객: " << 카카오T.getPassenger() << endl;
-//	cout << "차량번호: " << 카카오T.getSerial() << endl;
-//	cout << "주행속도: " << 카카오T.getSpeed() << endl;
+//	//Taxi 객체 생성
+//	Taxi 카카오T(2, "123가 4567", 60);
+//	카카오T.carInfo();
 //
 //	return 0;
 //}

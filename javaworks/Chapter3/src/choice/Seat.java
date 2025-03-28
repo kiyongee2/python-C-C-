@@ -23,5 +23,7 @@ public class Seat {
 		}
 		
 		System.out.println(row + "줄이 필요합니다.");
+		
+		sc.close();
 	}
 }

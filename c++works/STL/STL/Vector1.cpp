@@ -37,7 +37,7 @@
 //	//저장
 //	list.push_back("jerry");
 //	list.push_back("luna");
-//	list.push_back("han");
+//	list.push_back("hangang");
 //	list.push_back("elsa");
 //
 //	//리스트의 크기

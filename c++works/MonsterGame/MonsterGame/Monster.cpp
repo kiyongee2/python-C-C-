@@ -21,7 +21,7 @@ class monster {
 public:
 	monster() {};
 	void get_damage(int damage) {};
-	void attack(player target_player()) {};
+	void attack(player target_player) {};
 	void attack_special(player target_player); 
 };
 

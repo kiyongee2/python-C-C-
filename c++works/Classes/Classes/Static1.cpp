@@ -2,28 +2,45 @@
 //#include <string>
 //using namespace std;
 //
-////Pont 구조체 정의 - 객체 복사
-//class Student {
-//public:
-//	static int serialNum;
-//	int studentId;
-//	int carNumber;
+///*
+//	카드 번호 자동 발급
+//*/
+//class Card {
+//private:
+//	static int serialNum; //static 변수
+//	string name;     //고객 이름
+//	int cardNumber;  //카드 번호
 //
-//	Student() {
-//		serialNum++;
-//		studentId = serialNum;
-//		carNumber = studentId;
+//public:
+//	Card(string name) {
+//		serialNum++;  //1증가
+//		cardNumber = serialNum;
+//		this->name = name;
+//	}
+//
+//	string getName(){
+//		return name;
+//	}
+//	int getCardNumber() {
+//		return cardNumber;
 //	}
 //};
 //
-//int Student::serialNum = 1000;  //전역 변수
+//int Card::serialNum = 1000;  //전역 변수
+//
 //int main()
 //{
-//	Student s1;
-//	cout << "학번: " << s1.studentId << endl;
+//	Card card1("신유빈");
+//	cout << "고객 이름: " << card1.getName() << endl;
+//	cout << "카드 번호: " << card1.getCardNumber() << endl;
 //
-//	Student s2;
-//	cout << "학번: " << s2.studentId << endl;
+//	Card card2("이정후");
+//	cout << "고객 이름: " << card2.getName() << endl;
+//	cout << "카드 번호: " << card2.getCardNumber() << endl;
+//
+//	Card card3("한강");
+//	cout << "고객 이름: " << card3.getName() << endl;
+//	cout << "카드 번호: " << card3.getCardNumber() << endl;
 //
 //	return 0;
 //}

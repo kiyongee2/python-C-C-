@@ -21,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{43F8C534-19F3-4D28-84C6-31B241C7DDFB}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\StudentPerson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{43F8C534-19F3-4D28-84C6-31B241C7DDFB}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\StudentPerson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F8C534-19F3-4D28-84C6-31B241C7DDFB}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\Protected.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43F8C534-19F3-4D28-84C6-31B241C7DDFB}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Protected.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Protected.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\Protected.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\Protected.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\Protected.cpp",
+              "RelativeToolTip": "Inheritance\\Protected.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T02:22:52.44Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +57,7 @@
               "RelativeDocumentMoniker": "Inheritance\\PointOperator.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\PointOperator.cpp*",
               "RelativeToolTip": "Inheritance\\PointOperator.cpp*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-19T20:56:05.608Z",
               "EditorCaption": ""
@@ -68,7 +85,8 @@
               "RelativeToolTip": "Inheritance\\CarOveriding.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-19T12:48:10.85Z"
+              "WhenOpened": "2025-03-19T12:48:10.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,9 +96,10 @@
               "RelativeDocumentMoniker": "Inheritance\\CarTaxi.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\CarTaxi.cpp",
               "RelativeToolTip": "Inheritance\\CarTaxi.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-19T12:00:03.778Z"
+              "WhenOpened": "2025-03-19T12:00:03.778Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,7 +111,8 @@
               "RelativeToolTip": "Inheritance\\StudentPerson.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-19T10:36:34.297Z"
+              "WhenOpened": "2025-03-19T10:36:34.297Z",
+              "EditorCaption": ""
             }
           ]
         }

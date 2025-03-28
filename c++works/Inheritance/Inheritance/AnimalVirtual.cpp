@@ -2,7 +2,7 @@
 //#include <string>
 //using namespace std;
 //
-////상속 - 매개변수 있는 생성자
+////가상 함수
 //class Animal {
 //public:
 //	void breathe() {
@@ -42,8 +42,8 @@
 //	dog->breathe();
 //	dog->cry();
 //
-//	delete cat;
-//	delete dog;
+//	delete cat;  //메모리 해제
+//	delete dog; 
 //
 //	return 0;
 //}

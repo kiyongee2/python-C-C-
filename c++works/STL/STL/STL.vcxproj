@@ -130,6 +130,7 @@
     <ClCompile Include="Vector1.cpp" />
     <ClCompile Include="VectorBank.cpp" />
     <ClCompile Include="VectorBankAccount.cpp" />
+    <ClCompile Include="VectorBooks.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

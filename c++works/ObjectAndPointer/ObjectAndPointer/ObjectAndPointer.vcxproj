@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="Memory1.cpp" />
     <ClCompile Include="Memory2.cpp" />
+    <ClCompile Include="MemoryClass.cpp" />
+    <ClCompile Include="Pointer0.cpp" />
     <ClCompile Include="Pointer1.cpp" />
     <ClCompile Include="PointerArray.cpp" />
     <ClCompile Include="PointerParam.cpp" />
