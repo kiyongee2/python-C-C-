@@ -33,5 +33,11 @@
     <ClCompile Include="Protected.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MonsterConstructor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InitMemberVariable.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

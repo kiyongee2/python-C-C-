@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{CA7D2F3F-96A7-4189-8B6A-E92668131490}|ObjectAndPointer\\ObjectAndPointer.vcxproj|solutionrelative:ObjectAndPointer\\Memory2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA7D2F3F-96A7-4189-8B6A-E92668131490}|ObjectAndPointer\\ObjectAndPointer.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\ObjectAndPointer\\ObjectAndPointer\\Memory1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA7D2F3F-96A7-4189-8B6A-E92668131490}|ObjectAndPointer\\ObjectAndPointer.vcxproj|solutionrelative:ObjectAndPointer\\Memory1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA7D2F3F-96A7-4189-8B6A-E92668131490}|ObjectAndPointer\\ObjectAndPointer.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\ObjectAndPointer\\ObjectAndPointer\\Pointer0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CA7D2F3F-96A7-4189-8B6A-E92668131490}|ObjectAndPointer\\ObjectAndPointer.vcxproj|solutionrelative:ObjectAndPointer\\Pointer0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -52,14 +48,14 @@
               "RelativeDocumentMoniker": "ObjectAndPointer\\Memory2.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\ObjectAndPointer\\ObjectAndPointer\\Memory2.cpp",
               "RelativeToolTip": "ObjectAndPointer\\Memory2.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-26T21:25:28.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Pointer0.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\ObjectAndPointer\\ObjectAndPointer\\Pointer0.cpp",
               "RelativeDocumentMoniker": "ObjectAndPointer\\Pointer0.cpp",
@@ -67,12 +63,11 @@
               "RelativeToolTip": "ObjectAndPointer\\Pointer0.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-26T12:39:56.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T12:39:56.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "PointerRef.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\ObjectAndPointer\\ObjectAndPointer\\PointerRef.cpp",
               "RelativeDocumentMoniker": "ObjectAndPointer\\PointerRef.cpp",
@@ -84,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "PointerParam.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\ObjectAndPointer\\ObjectAndPointer\\PointerParam.cpp",
               "RelativeDocumentMoniker": "ObjectAndPointer\\PointerParam.cpp",
@@ -96,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "PointerArray.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\ObjectAndPointer\\ObjectAndPointer\\PointerArray.cpp",
               "RelativeDocumentMoniker": "ObjectAndPointer\\PointerArray.cpp",
@@ -108,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Pointer1.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\ObjectAndPointer\\ObjectAndPointer\\Pointer1.cpp",
               "RelativeDocumentMoniker": "ObjectAndPointer\\Pointer1.cpp",
@@ -120,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MemoryClass.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\ObjectAndPointer\\ObjectAndPointer\\MemoryClass.cpp",
               "RelativeDocumentMoniker": "ObjectAndPointer\\MemoryClass.cpp",
@@ -129,19 +124,6 @@
               "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-19T21:57:42.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Memory1.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\ObjectAndPointer\\ObjectAndPointer\\Memory1.cpp",
-              "RelativeDocumentMoniker": "ObjectAndPointer\\Memory1.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\ObjectAndPointer\\ObjectAndPointer\\Memory1.cpp",
-              "RelativeToolTip": "ObjectAndPointer\\Memory1.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-19T21:48:04.192Z",
-              "EditorCaption": ""
             }
           ]
         }

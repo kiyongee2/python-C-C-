@@ -5,13 +5,12 @@ public class Circle {
 	int radius;    //반지름
 	
 	public Circle(int x, int y, int radius) {
-		center = new Point(x, y);
+		center = new Point(x, y); //Point 객체 생성
 		this.radius = radius;
 	}
 	
 	public void showInfo() {
-		System.out.println("원의 중심은 (" + center.x + ", " + center.y + 
-				")이고, 반지름은 " + radius + "입니다.");
+		System.out.println("원의 중심은 (" + center.getX() + ", " + 
+				center.getY() + ")이고, 반지름은 " + radius + "입니다.");
 	}
-
 }

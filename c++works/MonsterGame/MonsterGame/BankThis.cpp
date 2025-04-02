@@ -11,9 +11,9 @@
 //		bank_name = name;
 //		safe = 0;  
 //	}*/
-//	bank(string name) : bank_name(name) { //초기화 목록 사용
-//		safe = 0;  //기본 생성자
-//	}
+//	//초기화 목록 사용
+//	bank(string name) : bank_name(name) { safe = 0;} //기본 생성자
+//
 //	void use_counter(int in, int out);  //입출금 창구 함수
 //	void transfer_account(int safe);    //계좌 이동
 //	void reset_account();  //계좌 초기화

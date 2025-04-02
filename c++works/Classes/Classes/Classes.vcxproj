@@ -134,6 +134,8 @@
     <ClCompile Include="Constructor2.cpp" />
     <ClCompile Include="Dog.cpp" />
     <ClCompile Include="Dog2.cpp" />
+    <ClCompile Include="MemberService.cpp" />
+    <ClCompile Include="MemberTest.cpp" />
     <ClCompile Include="ObjectCopy.cpp" />
     <ClCompile Include="PointerCar0.cpp" />
     <ClCompile Include="PointerCars.cpp" />
@@ -142,6 +144,7 @@
     <ClCompile Include="Static1.cpp" />
     <ClCompile Include="StaticEx.cpp" />
     <ClCompile Include="ThisCar.cpp" />
+    <ClCompile Include="ThisSample.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

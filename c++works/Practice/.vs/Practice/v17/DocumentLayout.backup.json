@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46B051C6-93B1-4BFE-8DC7-A1DA3F7EFC5B}|Practice\\Practice.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Practice\\Practice\\Gugu7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46B051C6-93B1-4BFE-8DC7-A1DA3F7EFC5B}|Practice\\Practice.vcxproj|solutionrelative:Practice\\Gugu7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gugu7.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Practice\\Practice\\Gugu7.cpp",
+              "RelativeDocumentMoniker": "Practice\\Gugu7.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Practice\\Practice\\Gugu7.cpp",
+              "RelativeToolTip": "Practice\\Gugu7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-28T21:35:02.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

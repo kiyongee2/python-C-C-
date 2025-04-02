@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{43F8C534-19F3-4D28-84C6-31B241C7DDFB}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\InitMemberVariable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43F8C534-19F3-4D28-84C6-31B241C7DDFB}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\InitMemberVariable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F8C534-19F3-4D28-84C6-31B241C7DDFB}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\MonsterConstructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43F8C534-19F3-4D28-84C6-31B241C7DDFB}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\MonsterConstructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43F8C534-19F3-4D28-84C6-31B241C7DDFB}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\PointOperator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{43F8C534-19F3-4D28-84C6-31B241C7DDFB}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\PointOperator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -34,11 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "InitMemberVariable.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\InitMemberVariable.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\InitMemberVariable.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\InitMemberVariable.cpp",
+              "RelativeToolTip": "Inheritance\\InitMemberVariable.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T03:11:23.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonsterConstructor.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\MonsterConstructor.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\MonsterConstructor.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\MonsterConstructor.cpp",
+              "RelativeToolTip": "Inheritance\\MonsterConstructor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T01:04:08.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Protected.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\Protected.cpp",
               "RelativeDocumentMoniker": "Inheritance\\Protected.cpp",
@@ -46,25 +80,24 @@
               "RelativeToolTip": "Inheritance\\Protected.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-27T02:22:52.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T02:22:52.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PointOperator.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\PointOperator.cpp",
               "RelativeDocumentMoniker": "Inheritance\\PointOperator.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\PointOperator.cpp",
               "RelativeToolTip": "Inheritance\\PointOperator.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-19T20:56:05.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AnimalVirtual.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\AnimalVirtual.cpp",
               "RelativeDocumentMoniker": "Inheritance\\AnimalVirtual.cpp",
@@ -72,12 +105,11 @@
               "RelativeToolTip": "Inheritance\\AnimalVirtual.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-19T12:54:00.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T12:54:00.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CarOveriding.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\CarOveriding.cpp",
               "RelativeDocumentMoniker": "Inheritance\\CarOveriding.cpp",
@@ -85,12 +117,11 @@
               "RelativeToolTip": "Inheritance\\CarOveriding.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-19T12:48:10.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T12:48:10.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CarTaxi.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\CarTaxi.cpp",
               "RelativeDocumentMoniker": "Inheritance\\CarTaxi.cpp",
@@ -98,12 +129,11 @@
               "RelativeToolTip": "Inheritance\\CarTaxi.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-19T12:00:03.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T12:00:03.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "StudentPerson.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Inheritance\\Inheritance\\StudentPerson.cpp",
               "RelativeDocumentMoniker": "Inheritance\\StudentPerson.cpp",
@@ -111,8 +141,7 @@
               "RelativeToolTip": "Inheritance\\StudentPerson.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-19T10:36:34.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T10:36:34.297Z"
             }
           ]
         }

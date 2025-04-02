@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|solutionrelative:MonsterGame\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\BankThis2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|solutionrelative:MonsterGame\\BankThis2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\BankThis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|solutionrelative:MonsterGame\\BankThis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|solutionrelative:MonsterGame\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Monster.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\Monster.cpp",
-              "RelativeDocumentMoniker": "MonsterGame\\Monster.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\Monster.cpp",
-              "RelativeToolTip": "MonsterGame\\Monster.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEAAAAArAAAAAAAAAA==",
+              "Title": "BankThis2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\BankThis2.cpp",
+              "RelativeDocumentMoniker": "MonsterGame\\BankThis2.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\BankThis2.cpp",
+              "RelativeToolTip": "MonsterGame\\BankThis2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T22:02:54.239Z",
+              "WhenOpened": "2025-04-02T00:50:39.396Z",
               "EditorCaption": ""
             },
             {
@@ -41,9 +45,23 @@
               "RelativeDocumentMoniker": "MonsterGame\\BankThis.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\BankThis.cpp",
               "RelativeToolTip": "MonsterGame\\BankThis.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T21:14:08.628Z"
+              "WhenOpened": "2025-03-20T21:14:08.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monster.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\Monster.cpp",
+              "RelativeDocumentMoniker": "MonsterGame\\Monster.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\Monster.cpp",
+              "RelativeToolTip": "MonsterGame\\Monster.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T22:02:54.239Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -130,6 +130,8 @@
     <ClCompile Include="AnimalVirtual.cpp" />
     <ClCompile Include="CarOveriding.cpp" />
     <ClCompile Include="CarTaxi.cpp" />
+    <ClCompile Include="InitMemberVariable.cpp" />
+    <ClCompile Include="MonsterConstructor.cpp" />
     <ClCompile Include="PointOperator.cpp" />
     <ClCompile Include="Protected.cpp" />
     <ClCompile Include="StudentPerson.cpp" />

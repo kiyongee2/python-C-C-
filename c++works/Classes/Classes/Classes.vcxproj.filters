@@ -60,5 +60,14 @@
     <ClCompile Include="PointerCars0.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MemberTest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MemberService.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ThisSample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

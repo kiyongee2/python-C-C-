@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\StructEnum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76BFCEAD-F4D0-4CDF-936C-FF235197AFFC}|StructEnum\\StructEnum.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\StructEnum\\StructEnum\\EnumEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76BFCEAD-F4D0-4CDF-936C-FF235197AFFC}|StructEnum\\StructEnum.vcxproj|solutionrelative:StructEnum\\EnumEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BFCEAD-F4D0-4CDF-936C-FF235197AFFC}|StructEnum\\StructEnum.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\StructEnum\\StructEnum\\EnumEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76BFCEAD-F4D0-4CDF-936C-FF235197AFFC}|StructEnum\\StructEnum.vcxproj|solutionrelative:StructEnum\\EnumEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnumEx2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\StructEnum\\StructEnum\\EnumEx2.cpp",
+              "RelativeDocumentMoniker": "StructEnum\\EnumEx2.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\StructEnum\\StructEnum\\EnumEx2.cpp*",
+              "RelativeToolTip": "StructEnum\\EnumEx2.cpp*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-28T21:15:50.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnumEx1.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\StructEnum\\StructEnum\\EnumEx1.cpp",
+              "RelativeDocumentMoniker": "StructEnum\\EnumEx1.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\StructEnum\\StructEnum\\EnumEx1.cpp",
+              "RelativeToolTip": "StructEnum\\EnumEx1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-28T21:04:37.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
