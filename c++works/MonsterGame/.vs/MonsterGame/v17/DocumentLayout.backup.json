@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|solutionrelative:MonsterGame\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\BankThis2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|solutionrelative:MonsterGame\\BankThis2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\BankThis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|solutionrelative:MonsterGame\\BankThis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48D12EC1-D713-44D4-AB41-2FE3CB1A4C30}|MonsterGame\\MonsterGame.vcxproj|solutionrelative:MonsterGame\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BankThis2.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\BankThis2.cpp",
               "RelativeDocumentMoniker": "MonsterGame\\BankThis2.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\BankThis2.cpp",
               "RelativeToolTip": "MonsterGame\\BankThis2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-02T00:50:39.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BankThis.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\BankThis.cpp",
               "RelativeDocumentMoniker": "MonsterGame\\BankThis.cpp",
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Monster.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\Monster.cpp",
               "RelativeDocumentMoniker": "MonsterGame\\Monster.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\MonsterGame\\MonsterGame\\Monster.cpp",
               "RelativeToolTip": "MonsterGame\\Monster.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-20T22:02:54.239Z",
               "EditorCaption": ""

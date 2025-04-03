@@ -1,5 +1,4 @@
 //#include <iostream>
-//#include <string>
 //using namespace std;
 ///*
 //	멤버 변수와 함수의 매개변수의 이름이

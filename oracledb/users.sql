@@ -10,7 +10,7 @@ CREATE TABLE users(
 
 -- 회원 추가
 INSERT INTO users
-VALUES ('jerry', '김기용', '12345', 25, 'jerry@korea.kr');
+VALUES ('luna', '신유빈', '12345', 20, 'luna@korea.kr');
 
 COMMIT;
 

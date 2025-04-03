@@ -1,32 +1,32 @@
 //#include <iostream>
-//#include <vector>
+//#include <vector>  //vector 컨테이너 사용
 //#include <string>
 //using namespace std;
 //
 //int main()
 //{
 //	//여러 개의 정수를 저장할 벡터 생성
-//	vector<int> vi;
+//	vector<int> vec;
 //
 //	//정수 추가
-//	vi.push_back(1);
-//	vi.push_back(2);
-//	vi.push_back(3);
+//	vec.push_back(1);
+//	vec.push_back(2);
+//	vec.push_back(3);
 //
 //	//리스트의 크기
-//	cout << vi.size() << endl;
+//	cout << vec.size() << endl;
 //
 //	//요소 검색
-//	cout << vi[0] << endl;
+//	cout << vec[0] << endl;
 //
 //	//2번 인덱스 값 수정
-//	//vi[2] = 10;
-//	vi.at(2) = 10;
+//	//vec[2] = 10;
+//	vec.at(2) = 10;
 //
 //	//전체 조회
-//	for (int i = 0; i < vi.size(); i++)
+//	for (int i = 0; i < vec.size(); i++)
 //	{
-//		cout << vi[i] << " ";
+//		cout << vec[i] << " ";
 //	}
 //	cout << "\n=========================\n";
 //

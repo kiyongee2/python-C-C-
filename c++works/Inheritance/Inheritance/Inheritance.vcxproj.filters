@@ -39,5 +39,14 @@
     <ClCompile Include="InitMemberVariable.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="SaleStatement.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SaleStatement2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -22,7 +22,7 @@
 //		this->radius = radius;
 //	}*/
 //	//생성자 : 초기화 목록
-//	Circle(int x, int y, int radius) : center{x, y}, radius(radius){}
+//	Circle(int x, int y, int radius) : center(x, y), radius(radius){}
 //
 //	double getArea(){  //원의 넓이
 //		return 3.14 * radius * radius; 

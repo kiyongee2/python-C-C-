@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Array1.cpp" />
+    <ClCompile Include="Iterator.cpp" />
     <ClCompile Include="Vector1.cpp" />
+    <ClCompile Include="Vector2.cpp" />
     <ClCompile Include="VectorBank.cpp" />
     <ClCompile Include="VectorBankAccount.cpp" />
     <ClCompile Include="VectorBooks.cpp" />

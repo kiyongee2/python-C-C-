@@ -29,7 +29,7 @@
 //
 //public:
 //    // 생성자: 초기화 목록 사용
-//    Circle(int x, int y, int radius) : center( x, y ), radius(radius) {}
+//    Circle(int x, int y, int radius) : center(x, y), radius(radius) {}
 //
 //    // 원의 넓이 계산
 //    double getArea(){
