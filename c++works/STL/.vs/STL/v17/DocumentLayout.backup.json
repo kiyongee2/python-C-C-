@@ -7,20 +7,32 @@
       "RelativeMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|solutionrelative:STL\\Array1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|solutionrelative:STL\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\VectorBankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|solutionrelative:STL\\VectorBankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\VectorBankAccount2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|solutionrelative:STL\\VectorBankAccount2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|solutionrelative:STL\\Iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Vector1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|solutionrelative:STL\\Vector1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\VectorBank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|solutionrelative:STL\\VectorBank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|solutionrelative:STL\\Auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\VectorBooks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|solutionrelative:STL\\VectorBooks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\FunctionTemplate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|solutionrelative:STL\\FunctionTemplate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\FunctionTemplate2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5CA5D3C-EADD-430D-B6B4-C14AD4D9E932}|STL\\STL.vcxproj|solutionrelative:STL\\FunctionTemplate2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +47,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Vector2.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Vector2.cpp",
-              "RelativeDocumentMoniker": "STL\\Vector2.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Vector2.cpp",
-              "RelativeToolTip": "STL\\Vector2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Title": "VectorBankAccount.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\VectorBankAccount.cpp",
+              "RelativeDocumentMoniker": "STL\\VectorBankAccount.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\VectorBankAccount.cpp",
+              "RelativeToolTip": "STL\\VectorBankAccount.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-02T23:16:08.418Z",
+              "WhenOpened": "2025-04-05T21:27:45.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Vector1.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Vector1.cpp",
-              "RelativeDocumentMoniker": "STL\\Vector1.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Vector1.cpp",
-              "RelativeToolTip": "STL\\Vector1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Title": "VectorBankAccount2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\VectorBankAccount2.cpp",
+              "RelativeDocumentMoniker": "STL\\VectorBankAccount2.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\VectorBankAccount2.cpp",
+              "RelativeToolTip": "STL\\VectorBankAccount2.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-18T07:37:59.314Z",
+              "WhenOpened": "2025-04-05T21:27:35.423Z",
               "EditorCaption": ""
             },
             {
@@ -66,35 +78,74 @@
               "RelativeDocumentMoniker": "STL\\Array1.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Array1.cpp*",
               "RelativeToolTip": "STL\\Array1.cpp*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-02T23:05:46.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VectorBooks.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\VectorBooks.cpp",
-              "RelativeDocumentMoniker": "STL\\VectorBooks.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\VectorBooks.cpp",
-              "RelativeToolTip": "STL\\VectorBooks.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-26T22:56:27.62Z",
+              "WhenOpened": "2025-04-05T21:25:37.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "VectorBank.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\VectorBank.cpp",
-              "RelativeDocumentMoniker": "STL\\VectorBank.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\VectorBank.cpp",
-              "RelativeToolTip": "STL\\VectorBank.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Title": "Iterator.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Iterator.cpp",
+              "RelativeDocumentMoniker": "STL\\Iterator.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Iterator.cpp",
+              "RelativeToolTip": "STL\\Iterator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-18T07:36:14.085Z",
+              "WhenOpened": "2025-04-05T21:23:12.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vector1.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Vector1.cpp",
+              "RelativeDocumentMoniker": "STL\\Vector1.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Vector1.cpp",
+              "RelativeToolTip": "STL\\Vector1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-05T21:17:38.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FunctionTemplate2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\FunctionTemplate2.cpp",
+              "RelativeDocumentMoniker": "STL\\FunctionTemplate2.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\FunctionTemplate2.cpp",
+              "RelativeToolTip": "STL\\FunctionTemplate2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-05T21:16:55.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FunctionTemplate.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\FunctionTemplate.cpp",
+              "RelativeDocumentMoniker": "STL\\FunctionTemplate.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\FunctionTemplate.cpp",
+              "RelativeToolTip": "STL\\FunctionTemplate.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-05T21:16:06.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Auto.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Auto.cpp",
+              "RelativeDocumentMoniker": "STL\\Auto.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\STL\\STL\\Auto.cpp",
+              "RelativeToolTip": "STL\\Auto.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-04T20:54:49.928Z",
               "EditorCaption": ""
             }
           ]

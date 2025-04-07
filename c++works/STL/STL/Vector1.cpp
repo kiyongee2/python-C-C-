@@ -28,11 +28,11 @@
 //	{
 //		cout << vec[i] << " ";
 //	}
-//	cout << "\n=========================\n";
+//	cout << "\n========================================\n";
 //
 //	//여러 개의 문자열을 저장할 벡터 생성
 //	vector<string> list;
-//	string name;
+//	string name1, name2;
 //
 //	//저장
 //	list.push_back("jerry");
@@ -47,16 +47,26 @@
 //	{
 //		cout << list[i] << " ";
 //	}
-//	cout << "\n=========================\n";
+//	cout << "\n========================================\n";
 //
 //	//최대값 계산
-//	name = list.at(0);  //최대값으로 설정
+//	name1 = list.at(0);  //최대값으로 설정
 //	for (int i = 0; i < list.size(); i++)
 //	{
-//		if (list[i] > name)
-//			name = list[i];
+//		if (list[i] > name1)
+//			name1 = list[i];
 //	}
-//	cout << "사전에서 가장 뒤에 나오는 이름은 " << name << endl;
+//	cout << "사전에서 가장 뒤에 나오는 이름은 " << name1 << endl;
+//	cout << "========================================\n";
+//
+//	//최소값 계산
+//	name2 = list.at(0);
+//	for (int i = 0; i < list.size(); i++) {
+//		if (list[i] < name2)
+//			name2 = list[i];
+//	}
+//	cout << "사전에서 가장 앞에 나오는 이름은 " << name2 << endl;
+//	cout << "========================================\n";
 //
 //	return 0;
 //}

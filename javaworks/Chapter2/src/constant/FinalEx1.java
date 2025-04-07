@@ -13,10 +13,12 @@ public class FinalEx1 {
 		System.out.println(MAX_NUM);
 		
 		//원의 넓이 계산하기
-		final double PI = 3.14;
+		final double PI = 3.1415;
 		int radius = 5;
 		double area = PI * radius * radius;
 		
-		System.out.println("원의 넓이 : " + area);
+		//System.out.println("원의 넓이 : " + area);
+		//서식 문자 - %d(정수), %f(실수), %s(문자열)
+		System.out.printf("원의 넓이: %.3f", area);
 	}
 }

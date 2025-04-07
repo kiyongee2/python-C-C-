@@ -33,5 +33,14 @@
     <ClCompile Include="BankAccount3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="StackEx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MapEx1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MapEx2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

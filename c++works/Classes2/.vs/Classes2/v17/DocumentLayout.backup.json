@@ -3,48 +3,12 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\MathStatics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\MathStatics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\PointerCar1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\PointerCar1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\Static1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\Static1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\StaticEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\StaticEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\CircleTest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\CircleTest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\CircleTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\CircleTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\CircleTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\CircleTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\ManageArray2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\ManageArray2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\PointCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\PointCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\RectangleTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\RectangleTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\TransportTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\TransportTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\ManageArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\ManageArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\PointerCars1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1FE8D47-5D08-4F13-9844-C7F63A84EA0D}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\PointerCars1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,142 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MathStatics.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\MathStatics.cpp",
-              "RelativeDocumentMoniker": "Classes2\\MathStatics.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\MathStatics.cpp",
-              "RelativeToolTip": "Classes2\\MathStatics.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-03T10:04:51.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Static1.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\Static1.cpp",
-              "RelativeDocumentMoniker": "Classes2\\Static1.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\Static1.cpp",
-              "RelativeToolTip": "Classes2\\Static1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "PointerCars1.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\PointerCars1.cpp",
+              "RelativeDocumentMoniker": "Classes2\\PointerCars1.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\PointerCars1.cpp*",
+              "RelativeToolTip": "Classes2\\PointerCars1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-03T09:27:13.147Z",
+              "WhenOpened": "2025-04-05T21:06:34.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StaticEx.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\StaticEx.cpp",
-              "RelativeDocumentMoniker": "Classes2\\StaticEx.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\StaticEx.cpp",
-              "RelativeToolTip": "Classes2\\StaticEx.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PointerCar1.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\PointerCar1.cpp",
+              "RelativeDocumentMoniker": "Classes2\\PointerCar1.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\PointerCar1.cpp*",
+              "RelativeToolTip": "Classes2\\PointerCar1.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-03T09:27:03.196Z",
+              "WhenOpened": "2025-04-05T21:06:28.139Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CircleTest3.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\CircleTest3.cpp",
-              "RelativeDocumentMoniker": "Classes2\\CircleTest3.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\CircleTest3.cpp",
-              "RelativeToolTip": "Classes2\\CircleTest3.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-03T08:25:32.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ManageArray2.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\ManageArray2.cpp",
-              "RelativeDocumentMoniker": "Classes2\\ManageArray2.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\ManageArray2.cpp",
-              "RelativeToolTip": "Classes2\\ManageArray2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-02T02:47:08.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ManageArray.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\ManageArray.cpp",
-              "RelativeDocumentMoniker": "Classes2\\ManageArray.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\ManageArray.cpp",
-              "RelativeToolTip": "Classes2\\ManageArray.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-02T02:37:25.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CircleTest2.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\CircleTest2.cpp",
-              "RelativeDocumentMoniker": "Classes2\\CircleTest2.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\CircleTest2.cpp",
-              "RelativeToolTip": "Classes2\\CircleTest2.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T21:05:24.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PointCircle.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\PointCircle.cpp",
-              "RelativeDocumentMoniker": "Classes2\\PointCircle.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\PointCircle.cpp",
-              "RelativeToolTip": "Classes2\\PointCircle.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T20:29:59.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TransportTest.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\TransportTest.cpp",
-              "RelativeDocumentMoniker": "Classes2\\TransportTest.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\TransportTest.cpp",
-              "RelativeToolTip": "Classes2\\TransportTest.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T02:36:10.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CircleTest.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\CircleTest.cpp",
-              "RelativeDocumentMoniker": "Classes2\\CircleTest.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\CircleTest.cpp",
-              "RelativeToolTip": "Classes2\\CircleTest.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T01:23:16.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RectangleTest.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\RectangleTest.cpp",
-              "RelativeDocumentMoniker": "Classes2\\RectangleTest.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Classes2\\Classes2\\RectangleTest.cpp",
-              "RelativeToolTip": "Classes2\\RectangleTest.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T22:56:24.867Z"
             }
           ]
         }

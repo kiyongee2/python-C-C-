@@ -20,7 +20,7 @@ public class Seats {
 		if(customer % column == 0) {
 			row = customer / column;
 		}else {
-			row = customer / column + 1;
+			row = (int)(customer / column) + 1;
 		}
 		
 		//자리 배치(중첩 for문)

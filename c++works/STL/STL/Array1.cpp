@@ -10,6 +10,9 @@ int main()
 	//배열 초기화
 	myArray = { 1, 2, 3, 4, 5 };
 
+	//선언과 동시에 초기화
+	//array<int, 5> myArray{ 1, 2, 3, 4, 5 };
+
 	//배열의 크기
 	cout << "배열 크기: " << myArray.size() << endl;
 
@@ -29,6 +32,7 @@ int main()
 	for (int& element : myArray) {
 		cout << element << " ";
 	}
+	cout << endl;
 
 	return 0;
 }

@@ -130,14 +130,10 @@
     <ClCompile Include="CircleTest.cpp" />
     <ClCompile Include="CircleTest2.cpp" />
     <ClCompile Include="CircleTest3.cpp" />
-    <ClCompile Include="ManageArray.cpp" />
-    <ClCompile Include="ManageArray2.cpp" />
     <ClCompile Include="MathStatics.cpp" />
     <ClCompile Include="PointCircle.cpp" />
-    <ClCompile Include="PointerCar.cpp" />
-    <ClCompile Include="PointerCar0.cpp" />
-    <ClCompile Include="PointerCars.cpp" />
-    <ClCompile Include="PointerCars0.cpp" />
+    <ClCompile Include="PointerCar1.cpp" />
+    <ClCompile Include="PointerCars1.cpp" />
     <ClCompile Include="RectangleTest.cpp" />
     <ClCompile Include="Static1.cpp" />
     <ClCompile Include="StaticEx.cpp" />

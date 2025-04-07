@@ -133,6 +133,7 @@
     <ClCompile Include="Inline.cpp" />
     <ClCompile Include="MathEx.cpp" />
     <ClCompile Include="RandEx.cpp" />
+    <ClCompile Include="Ref2.cpp" />
     <ClCompile Include="Reference.cpp" />
     <ClCompile Include="Reference0.cpp" />
     <ClCompile Include="ReturnFunction.cpp" />

@@ -20,11 +20,14 @@
 //	cout << *(it + 3) << endl;  */
 //
 //	for (int i = 0; i < 5; i++)
-//		vec.push_back(i);
+//		vec.push_back(i + 1);
 //
 //	for (vector<int>::iterator it = vec.begin(); it != vec.end(); it++)
-//		cout << *it << endl;
+//		cout << *it << " ";
+//	cout << endl;
 //
+//	for (auto it = vec.begin(); it != vec.end(); it++)
+//		cout << *it << " ";
 //
 //	return 0;
 //}

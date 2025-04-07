@@ -36,5 +36,20 @@
     <ClCompile Include="Vector2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="FunctionTemplate.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassTemplate.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionTemplate2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorBankAccount2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Auto.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

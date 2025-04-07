@@ -12,7 +12,7 @@ public class ReturnMethods {
 		return x + y;
 	}
 	
-	////반환 자료형이 String 인 경우
+	//반환 자료형이 String 인 경우
 	public static String message() {
 		return "생일 축하해요!!";
 	}

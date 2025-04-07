@@ -39,12 +39,6 @@
     <ClCompile Include="ObjectCopy.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Static1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="StaticEx.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="ThisCar.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>

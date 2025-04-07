@@ -128,11 +128,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Array1.cpp" />
+    <ClCompile Include="Auto.cpp" />
+    <ClCompile Include="ClassTemplate.cpp" />
+    <ClCompile Include="FunctionTemplate.cpp" />
+    <ClCompile Include="FunctionTemplate2.cpp" />
     <ClCompile Include="Iterator.cpp" />
     <ClCompile Include="Vector1.cpp" />
     <ClCompile Include="Vector2.cpp" />
     <ClCompile Include="VectorBank.cpp" />
     <ClCompile Include="VectorBankAccount.cpp" />
+    <ClCompile Include="VectorBankAccount2.cpp" />
     <ClCompile Include="VectorBooks.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

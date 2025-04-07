@@ -28,7 +28,7 @@
 //	}
 //};
 //
-//int Card::serialNum = 1000;  //전역 변수
+//int Card::serialNum = 1000;  //전역 변수(클래스 이름으로 직접 접근)
 //
 //int main()
 //{

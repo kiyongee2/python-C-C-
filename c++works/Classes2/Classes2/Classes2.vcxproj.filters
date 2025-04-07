@@ -30,25 +30,13 @@
     <ClCompile Include="CircleTest2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ManageArray.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ManageArray2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="CircleTest3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="PointerCar.cpp">
+    <ClCompile Include="PointerCar1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="PointerCar0.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="PointerCars.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="PointerCars0.cpp">
+    <ClCompile Include="PointerCars1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Static1.cpp">

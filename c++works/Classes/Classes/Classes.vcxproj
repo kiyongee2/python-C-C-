@@ -143,8 +143,6 @@
     <ClCompile Include="PointerCars.cpp" />
     <ClCompile Include="PointerCar.cpp" />
     <ClCompile Include="PointerCars0.cpp" />
-    <ClCompile Include="Static1.cpp" />
-    <ClCompile Include="StaticEx.cpp" />
     <ClCompile Include="ThisCar.cpp" />
     <ClCompile Include="ThisSample.cpp" />
   </ItemGroup>

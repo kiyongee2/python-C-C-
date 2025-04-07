@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{46B051C6-93B1-4BFE-8DC7-A1DA3F7EFC5B}|Practice\\Practice.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Practice\\Practice\\MemberTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46B051C6-93B1-4BFE-8DC7-A1DA3F7EFC5B}|Practice\\Practice.vcxproj|solutionrelative:Practice\\MemberTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46B051C6-93B1-4BFE-8DC7-A1DA3F7EFC5B}|Practice\\Practice.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Practice\\Practice\\Gugu7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{46B051C6-93B1-4BFE-8DC7-A1DA3F7EFC5B}|Practice\\Practice.vcxproj|solutionrelative:Practice\\Gugu7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MemberTest.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Practice\\Practice\\MemberTest.cpp",
+              "RelativeDocumentMoniker": "Practice\\MemberTest.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Practice\\Practice\\MemberTest.cpp",
+              "RelativeToolTip": "Practice\\MemberTest.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-04T09:41:06.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Gugu7.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Practice\\Practice\\Gugu7.cpp",
               "RelativeDocumentMoniker": "Practice\\Gugu7.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Practice\\Practice\\Gugu7.cpp",
               "RelativeToolTip": "Practice\\Gugu7.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-28T21:35:02.907Z",
               "EditorCaption": ""

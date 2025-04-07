@@ -19,7 +19,7 @@ public class Seat {
 		if(customer % column == 0) {
 			row = customer / column;
 		}else {
-			row = customer / column + 1;
+			row = (int)(customer / column) + 1;
 		}
 		
 		System.out.println(row + "줄이 필요합니다.");

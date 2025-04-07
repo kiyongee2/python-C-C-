@@ -131,6 +131,9 @@
     <ClCompile Include="BankAccount2.cpp" />
     <ClCompile Include="BankAccount3.cpp" />
     <ClCompile Include="Banking_main.cpp" />
+    <ClCompile Include="MapEx1.cpp" />
+    <ClCompile Include="MapEx2.cpp" />
+    <ClCompile Include="StackEx.cpp" />
     <ClCompile Include="stack_main.cpp" />
     <ClCompile Include="vector_main.cpp" />
   </ItemGroup>
