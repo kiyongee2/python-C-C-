@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileClassScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileClassScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileClassStudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileClassStudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileScore2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileScore2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileReadEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileReadEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileClassScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileClassScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileReadEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileReadEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1566609B-2524-4D4D-92D5-9921D2E153FA}|FileIO\\FileIO.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileWriteEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -43,19 +47,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FileClassStudent.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileClassStudent.cpp",
+              "RelativeDocumentMoniker": "FileIO\\FileClassStudent.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileClassStudent.cpp",
+              "RelativeToolTip": "FileIO\\FileClassStudent.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T09:01:51.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FileClassScore.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileClassScore.cpp",
               "RelativeDocumentMoniker": "FileIO\\FileClassScore.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileClassScore.cpp",
               "RelativeToolTip": "FileIO\\FileClassScore.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-07T07:41:35.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T07:41:35.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FileScore2.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileScore2.cpp",
               "RelativeDocumentMoniker": "FileIO\\FileScore2.cpp",
@@ -63,12 +79,11 @@
               "RelativeToolTip": "FileIO\\FileScore2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-07T07:31:02.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T07:31:02.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FileScore.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileScore.cpp",
               "RelativeDocumentMoniker": "FileIO\\FileScore.cpp",
@@ -76,12 +91,11 @@
               "RelativeToolTip": "FileIO\\FileScore.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-07T07:18:53.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T07:18:53.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FileReadEx2.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileReadEx2.cpp",
               "RelativeDocumentMoniker": "FileIO\\FileReadEx2.cpp",
@@ -89,12 +103,11 @@
               "RelativeToolTip": "FileIO\\FileReadEx2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-07T07:11:16.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T07:11:16.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FileWriteEx2.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileWriteEx2.cpp",
               "RelativeDocumentMoniker": "FileIO\\FileWriteEx2.cpp",
@@ -102,12 +115,11 @@
               "RelativeToolTip": "FileIO\\FileWriteEx2.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-07T06:58:53.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T06:58:53.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FileReadEx1.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileReadEx1.cpp",
               "RelativeDocumentMoniker": "FileIO\\FileReadEx1.cpp",
@@ -115,12 +127,11 @@
               "RelativeToolTip": "FileIO\\FileReadEx1.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-07T02:55:57.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T02:55:57.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FileWriteEx1.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\FileIO\\FileIO\\FileWriteEx1.cpp",
               "RelativeDocumentMoniker": "FileIO\\FileWriteEx1.cpp",
@@ -128,8 +139,7 @@
               "RelativeToolTip": "FileIO\\FileWriteEx1.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-07T02:51:08.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T02:51:08.202Z"
             }
           ]
         }

@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Exception0.cpp" />
     <ClCompile Include="Exception1.cpp" />
+    <ClCompile Include="Exception2.cpp" />
+    <ClCompile Include="TryCatch1.cpp" />
+    <ClCompile Include="TryCatch2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
