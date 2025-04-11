@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002Bworks\\Exception\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{264AE11B-9B6D-4D50-97F8-9643EC989174}|Exception\\Exception.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Exception\\Exception\\TryCatch2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{264AE11B-9B6D-4D50-97F8-9643EC989174}|Exception\\Exception.vcxproj|solutionrelative:Exception\\TryCatch2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{264AE11B-9B6D-4D50-97F8-9643EC989174}|Exception\\Exception.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Exception\\Exception\\TryCatch1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{264AE11B-9B6D-4D50-97F8-9643EC989174}|Exception\\Exception.vcxproj|solutionrelative:Exception\\TryCatch1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{264AE11B-9B6D-4D50-97F8-9643EC989174}|Exception\\Exception.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Exception\\Exception\\Exception2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{264AE11B-9B6D-4D50-97F8-9643EC989174}|Exception\\Exception.vcxproj|solutionrelative:Exception\\Exception2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264AE11B-9B6D-4D50-97F8-9643EC989174}|Exception\\Exception.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Exception\\Exception\\TryCatch2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{264AE11B-9B6D-4D50-97F8-9643EC989174}|Exception\\Exception.vcxproj|solutionrelative:Exception\\TryCatch2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{264AE11B-9B6D-4D50-97F8-9643EC989174}|Exception\\Exception.vcxproj|D:\\korea_IT\\c\u002B\u002Bworks\\Exception\\Exception\\Exception1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,37 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TryCatch2.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Exception\\Exception\\TryCatch2.cpp",
               "RelativeDocumentMoniker": "Exception\\TryCatch2.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Exception\\Exception\\TryCatch2.cpp",
-              "RelativeToolTip": "Exception\\TryCatch2.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Exception\\Exception\\TryCatch2.cpp*",
+              "RelativeToolTip": "Exception\\TryCatch2.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-07T21:06:48.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TryCatch1.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Exception\\Exception\\TryCatch1.cpp",
               "RelativeDocumentMoniker": "Exception\\TryCatch1.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Exception\\Exception\\TryCatch1.cpp*",
-              "RelativeToolTip": "Exception\\TryCatch1.cpp*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002Bworks\\Exception\\Exception\\TryCatch1.cpp",
+              "RelativeToolTip": "Exception\\TryCatch1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-07T20:57:34.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Exception2.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002Bworks\\Exception\\Exception\\Exception2.cpp",
               "RelativeDocumentMoniker": "Exception\\Exception2.cpp",
@@ -68,8 +68,7 @@
               "RelativeToolTip": "Exception\\Exception2.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-07T20:49:59.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T20:49:59.537Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "Exception\\Exception0.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-05T20:57:43.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T20:57:43.588Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "Exception\\Exception1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-05T20:56:13.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T20:56:13.081Z"
             }
           ]
         }

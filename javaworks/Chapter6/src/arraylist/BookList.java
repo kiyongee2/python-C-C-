@@ -2,7 +2,7 @@ package arraylist;
 
 import java.util.ArrayList;
 
-import arrays.Book;
+import obj_arrays.Book;
 
 public class BookList {
 

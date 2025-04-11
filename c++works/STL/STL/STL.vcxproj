@@ -133,7 +133,9 @@
     <ClCompile Include="FunctionTemplate.cpp" />
     <ClCompile Include="FunctionTemplate2.cpp" />
     <ClCompile Include="Iterator.cpp" />
+    <ClCompile Include="MapEx.cpp" />
     <ClCompile Include="MapEx1.cpp" />
+    <ClCompile Include="PracticeVector.cpp" />
     <ClCompile Include="StackEx1.cpp" />
     <ClCompile Include="Vector1.cpp" />
     <ClCompile Include="Vector2.cpp" />

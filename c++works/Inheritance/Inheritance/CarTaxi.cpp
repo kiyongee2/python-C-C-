@@ -9,10 +9,12 @@
 //	int speed;
 //
 //public:
-//	Car(string serial, int speed) {
+//	/*Car(string serial, int speed) {
 //		this->serial = serial;
 //		this->speed = speed;
-//	}
+//	}*/
+//
+//	Car(string serial, int speed) : serial(serial), speed(speed) {}
 //
 //	string getSerial() {return serial;}
 //	int getSpeed() {return speed;}
@@ -27,9 +29,12 @@
 //	int passenger;
 //
 //public:
-//	Taxi(int passenger, string serial, int speed) : Car(serial, speed) {
+//	/*Taxi(int passenger, string serial, int speed) : Car(serial, speed) {
 //		this->passenger = passenger;
-//	}
+//	}*/
+//
+//	Taxi(int passenger, string serial, int speed) : 
+//		Car(serial, speed) , passenger(passenger) {}
 //
 //	int getPassenger() {return passenger;}
 //	void carInfo() {  //부모 함수 재정의(Overriding)
