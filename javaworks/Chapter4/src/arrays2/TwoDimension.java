@@ -16,10 +16,10 @@ public class TwoDimension {
 				System.out.print(a[i][j] + " ");
 			}
 			System.out.println();
-		}*/
+		}
 		
 		//저장
-		/*a[0][0] = 1;
+		a[0][0] = 1;
 		a[0][1] = 2;
 		a[0][2] = 3;
 		a[1][0] = 4;
@@ -31,6 +31,9 @@ public class TwoDimension {
 			{1, 2, 3},
 			{4, 5, 6}
 		};
+		
+		//6에 접근
+		System.out.println(a[1][2]);
 		
 		//전체 출력
 		for(int i=0; i<a.length; i++) {

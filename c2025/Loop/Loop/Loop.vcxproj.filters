@@ -18,5 +18,59 @@
     <ClCompile Include="ForSum.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="IfElseEx1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="IfElseEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GradeCalc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SwitchEx1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WhileEx1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WhileSum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WhileBreak.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DoWhileEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyRepeat.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyRepeat2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DoWhileEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CoffeeMachine.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ForEx1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InputDan.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GuguDan.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="NestedFor.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Seats.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WhileSum2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

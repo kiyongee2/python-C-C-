@@ -24,6 +24,7 @@
     <ProjectGuid>{6e476e24-4896-4c3e-90e6-3a523508c302}</ProjectGuid>
     <RootNamespace>Loop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>C_ChoiceRepeat</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,7 +128,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CoffeeMachine.c" />
+    <ClCompile Include="DoWhileEx.c" />
+    <ClCompile Include="DoWhileEx2.c" />
+    <ClCompile Include="ForEx1.c" />
     <ClCompile Include="ForSum.c" />
+    <ClCompile Include="GradeCalc.c" />
+    <ClCompile Include="GuguDan.c" />
+    <ClCompile Include="IfElseEx1.c" />
+    <ClCompile Include="IfElseEx2.c" />
+    <ClCompile Include="InputDan.c" />
+    <ClCompile Include="KeyRepeat.c" />
+    <ClCompile Include="KeyRepeat2.c" />
+    <ClCompile Include="NestedFor.c" />
+    <ClCompile Include="Seats.c" />
+    <ClCompile Include="SwitchEx1.c" />
+    <ClCompile Include="WhileBreak.c" />
+    <ClCompile Include="WhileEx1.c" />
+    <ClCompile Include="WhileSum.c" />
+    <ClCompile Include="WhileSum2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

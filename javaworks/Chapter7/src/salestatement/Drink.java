@@ -1,6 +1,7 @@
 package salestatement;
 
 public class Drink {
+	//protected는 상속받는 클래스에서 접근 가능
 	protected String name;  //상품명
 	protected int price;    //가격
 	protected int quantity;    //수량

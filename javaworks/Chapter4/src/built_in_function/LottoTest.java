@@ -7,14 +7,15 @@ public class LottoTest {
 		int[] lotto = new int[6];
 		
 		//Math.random() 사용
-		//lotto[0] = (int)(Math.random() * 45) + 1;
-		//System.out.println(lotto[0]);
+		lotto[0] = (int)(Math.random() * 45) + 1;
+		System.out.println(lotto[0]);
 		
 		//6개의 번호 출력 - 중복 발생!!
-		/*for(int i=0; i<lotto.length; i++) {
+		for(int i=0; i<lotto.length; i++) {
 			lotto[i] = (int)(Math.random() * 45) + 1;
-			System.out.println(lotto[i]);
-		}*/
+			System.out.print(lotto[i] + " ");
+		}
+		System.out.println();
 		
 		//중복 번호 제거
 		for(int i=0; i<lotto.length; i++) {

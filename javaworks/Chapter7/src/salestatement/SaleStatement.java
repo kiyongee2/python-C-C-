@@ -8,7 +8,7 @@ public class SaleStatement {
 		Drink tea = new Drink("녹차", 3500, 3);
 		Alcohol soju = new Alcohol("소주", 4000, 5, 15.2f);
 		
-		Drink.printTitle();
+		Drink.printTitle();  //클래스 이름으로 직접 접근
 		coffee.printData();
 		tea.printData();
 		System.out.println();

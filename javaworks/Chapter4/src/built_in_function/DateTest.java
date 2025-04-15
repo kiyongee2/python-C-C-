@@ -10,12 +10,11 @@ public class DateTest {
 		Date today = new Date();
 		System.out.println(today);
 		
-		SimpleDateFormat date = new SimpleDateFormat("yyyy-mm-dd");
+		SimpleDateFormat date = new SimpleDateFormat("yyyy-MM-dd");
 		System.out.println(date.format(today));
 		
-		SimpleDateFormat time = new SimpleDateFormat("hh:mm:ss a");
+//		SimpleDateFormat time = new SimpleDateFormat("hh:mm:ss a"); //12시각제
+		SimpleDateFormat time = new SimpleDateFormat("HH:mm:ss"); //24시각제
 		System.out.println(time.format(today));
-
 	}
-
 }

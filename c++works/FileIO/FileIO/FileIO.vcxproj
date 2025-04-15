@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="FileClassScore.cpp" />
     <ClCompile Include="FileClassStudent.cpp" />
+    <ClCompile Include="FileEx1.cpp" />
     <ClCompile Include="FileReadEx1.cpp" />
     <ClCompile Include="FileReadEx2.cpp" />
     <ClCompile Include="FileScore.cpp" />

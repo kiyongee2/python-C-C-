@@ -1,10 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\korea_IT\\c2024\\Loop\\",
+  "WorkspaceRootPath": "D:\\korea_IT\\c2025\\Loop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|D:\\korea_IT\\c2024\\Loop\\Loop\\ForSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|D:\\korea_IT\\c2025\\Loop\\Loop\\WhileSum2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|solutionrelative:Loop\\WhileSum2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|D:\\korea_IT\\c2025\\Loop\\Loop\\WhileBreak.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|solutionrelative:Loop\\WhileBreak.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|D:\\korea_IT\\c2025\\Loop\\Loop\\WhileSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|solutionrelative:Loop\\WhileSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|D:\\korea_IT\\c2025\\Loop\\Loop\\WhileEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|solutionrelative:Loop\\WhileEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|D:\\korea_IT\\c2025\\Loop\\Loop\\ForSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|solutionrelative:Loop\\ForSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|D:\\korea_IT\\c2025\\Loop\\Loop\\ForEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|solutionrelative:Loop\\ForEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|D:\\korea_IT\\c2025\\Loop\\Loop\\InputDan.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|solutionrelative:Loop\\InputDan.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|D:\\korea_IT\\c2025\\Loop\\Loop\\GuguDan.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|solutionrelative:Loop\\GuguDan.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|D:\\korea_IT\\c2025\\Loop\\Loop\\NestedFor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|solutionrelative:Loop\\NestedFor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|D:\\korea_IT\\c2025\\Loop\\Loop\\Seats.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E476E24-4896-4C3E-90E6-3A523508C302}|Loop\\Loop.vcxproj|solutionrelative:Loop\\Seats.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +55,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ForSum.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\Loop\\Loop\\ForSum.c",
-              "RelativeDocumentMoniker": "Loop\\ForSum.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\Loop\\Loop\\ForSum.c",
-              "RelativeToolTip": "Loop\\ForSum.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Title": "WhileSum2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Loop\\Loop\\WhileSum2.c",
+              "RelativeDocumentMoniker": "Loop\\WhileSum2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Loop\\Loop\\WhileSum2.c",
+              "RelativeToolTip": "Loop\\WhileSum2.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-14T06:11:09.533Z",
+              "WhenOpened": "2025-04-15T03:12:21.843Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WhileBreak.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Loop\\Loop\\WhileBreak.c",
+              "RelativeDocumentMoniker": "Loop\\WhileBreak.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Loop\\Loop\\WhileBreak.c",
+              "RelativeToolTip": "Loop\\WhileBreak.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T03:11:26.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Seats.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Loop\\Loop\\Seats.c",
+              "RelativeDocumentMoniker": "Loop\\Seats.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Loop\\Loop\\Seats.c",
+              "RelativeToolTip": "Loop\\Seats.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T01:40:15.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NestedFor.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Loop\\Loop\\NestedFor.c",
+              "RelativeDocumentMoniker": "Loop\\NestedFor.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Loop\\Loop\\NestedFor.c",
+              "RelativeToolTip": "Loop\\NestedFor.c",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwE4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T01:32:12.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuguDan.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Loop\\Loop\\GuguDan.c",
+              "RelativeDocumentMoniker": "Loop\\GuguDan.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Loop\\Loop\\GuguDan.c",
+              "RelativeToolTip": "Loop\\GuguDan.c",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-14T10:43:41.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InputDan.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Loop\\Loop\\InputDan.c",
+              "RelativeDocumentMoniker": "Loop\\InputDan.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Loop\\Loop\\InputDan.c",
+              "RelativeToolTip": "Loop\\InputDan.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-14T10:25:56.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WhileSum.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Loop\\Loop\\WhileSum.c",
+              "RelativeDocumentMoniker": "Loop\\WhileSum.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Loop\\Loop\\WhileSum.c",
+              "RelativeToolTip": "Loop\\WhileSum.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-14T10:04:59.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WhileEx1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Loop\\Loop\\WhileEx1.c",
+              "RelativeDocumentMoniker": "Loop\\WhileEx1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Loop\\Loop\\WhileEx1.c",
+              "RelativeToolTip": "Loop\\WhileEx1.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-14T10:04:45.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForSum.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Loop\\Loop\\ForSum.c",
+              "RelativeDocumentMoniker": "Loop\\ForSum.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Loop\\Loop\\ForSum.c",
+              "RelativeToolTip": "Loop\\ForSum.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-14T10:02:06.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForEx1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Loop\\Loop\\ForEx1.c",
+              "RelativeDocumentMoniker": "Loop\\ForEx1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Loop\\Loop\\ForEx1.c",
+              "RelativeToolTip": "Loop\\ForEx1.c",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-14T09:59:05.679Z"
             }
           ]
         }

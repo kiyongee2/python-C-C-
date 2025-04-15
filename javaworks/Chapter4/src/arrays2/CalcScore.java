@@ -20,6 +20,7 @@ public class CalcScore {
 			total[0] += score[i][0];
 			total[1] += score[i][1];
 		}
+		//평균 계산
 		avg[0] = (double)total[0] / score.length;
 		avg[1] = (double)total[1] / score.length;
 		
