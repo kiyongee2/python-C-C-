@@ -16,11 +16,16 @@
 //
 //	//비트 이동 연산
 //	int num3 = 2;   //00000010
+//	int val1, val2, val3;
 //
-//	printf("result = %d\n", num3 << 1);  //00000100
-//	printf("result = %d\n", num3 << 2);  //00000100
-//	printf("result = %d\n", num3);  //00000010
-//	printf("result = %d\n", num3 >> 1);  //00000001
+//	val1 = (num3 << 1);  //00000100
+//	printf("result = %d\n", val1);  
+//
+//	val2 = (num3 << 2);  //00001000
+//	printf("result = %d\n", val2);  
+//
+//	val3 = (num3 >> 1);  //00000001
+//	printf("result = %d\n", val3);  
 //
 //	return 0;
 //}

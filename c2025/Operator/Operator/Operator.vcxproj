@@ -131,6 +131,7 @@
     <ClCompile Include="BitOperator.c" />
     <ClCompile Include="InputEx1.c" />
     <ClCompile Include="InputEx2.c" />
+    <ClCompile Include="OperatorEx0.c" />
     <ClCompile Include="OperatorEx1.c" />
     <ClCompile Include="OperatorEx2.c" />
     <ClCompile Include="ChoiceOperator.c" />

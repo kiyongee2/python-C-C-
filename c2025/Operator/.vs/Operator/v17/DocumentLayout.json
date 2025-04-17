@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\Operator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|D:\\korea_IT\\c2025\\Operator\\Operator\\OperatorEx0.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|solutionrelative:Operator\\OperatorEx0.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|D:\\korea_IT\\c2025\\Operator\\Operator\\Bread.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|solutionrelative:Operator\\Bread.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,24 +15,24 @@
       "RelativeMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|solutionrelative:Operator\\InputEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|D:\\korea_IT\\c2025\\Operator\\Operator\\BitOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|solutionrelative:Operator\\BitOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|D:\\korea_IT\\c2025\\Operator\\Operator\\InputEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|solutionrelative:Operator\\InputEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|D:\\korea_IT\\c2025\\Operator\\Operator\\BitOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|solutionrelative:Operator\\BitOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|D:\\korea_IT\\c2025\\Operator\\Operator\\ChoiceOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|solutionrelative:Operator\\ChoiceOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|D:\\korea_IT\\c2025\\Operator\\Operator\\OperatorEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|solutionrelative:Operator\\OperatorEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|D:\\korea_IT\\c2025\\Operator\\Operator\\OperatorEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|solutionrelative:Operator\\OperatorEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|D:\\korea_IT\\c2025\\Operator\\Operator\\OperatorEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3601EB44-9BC2-4420-B049-6EFD9485740D}|Operator\\Operator.vcxproj|solutionrelative:Operator\\OperatorEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +42,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Bread.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Operator\\Operator\\Bread.c",
               "RelativeDocumentMoniker": "Operator\\Bread.c",
               "ToolTip": "D:\\korea_IT\\c2025\\Operator\\Operator\\Bread.c",
               "RelativeToolTip": "Operator\\Bread.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-10T02:10:03.755Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "OperatorEx0.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Operator\\Operator\\OperatorEx0.c",
+              "RelativeDocumentMoniker": "Operator\\OperatorEx0.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Operator\\Operator\\OperatorEx0.c",
+              "RelativeToolTip": "Operator\\OperatorEx0.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T07:31:50.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "InputEx2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Operator\\Operator\\InputEx2.c",
               "RelativeDocumentMoniker": "Operator\\InputEx2.c",
               "ToolTip": "D:\\korea_IT\\c2025\\Operator\\Operator\\InputEx2.c",
               "RelativeToolTip": "Operator\\InputEx2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-10T02:01:03.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "InputEx1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Operator\\Operator\\InputEx1.c",
+              "RelativeDocumentMoniker": "Operator\\InputEx1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Operator\\Operator\\InputEx1.c",
+              "RelativeToolTip": "Operator\\InputEx1.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-09T01:12:34.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BitOperator.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Operator\\Operator\\BitOperator.c",
               "RelativeDocumentMoniker": "Operator\\BitOperator.c",
               "ToolTip": "D:\\korea_IT\\c2025\\Operator\\Operator\\BitOperator.c",
               "RelativeToolTip": "Operator\\BitOperator.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswB4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-10T01:39:40.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ChoiceOperator.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Operator\\Operator\\ChoiceOperator.c",
               "RelativeDocumentMoniker": "Operator\\ChoiceOperator.c",
@@ -94,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "OperatorEx1.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Operator\\Operator\\OperatorEx1.c",
               "RelativeDocumentMoniker": "Operator\\OperatorEx1.c",
@@ -113,22 +144,9 @@
               "RelativeDocumentMoniker": "Operator\\OperatorEx2.c",
               "ToolTip": "D:\\korea_IT\\c2025\\Operator\\Operator\\OperatorEx2.c",
               "RelativeToolTip": "Operator\\OperatorEx2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-09T01:36:18.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InputEx1.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Operator\\Operator\\InputEx1.c",
-              "RelativeDocumentMoniker": "Operator\\InputEx1.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Operator\\Operator\\InputEx1.c",
-              "RelativeToolTip": "Operator\\InputEx1.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-09T01:12:34.029Z",
               "EditorCaption": ""
             }
           ]

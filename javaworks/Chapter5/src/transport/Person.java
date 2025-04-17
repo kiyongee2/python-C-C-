@@ -14,6 +14,11 @@ public class Person {
 		this.money -= fee;
 	}
 	
+	public void takeTaxi(Taxi taxi, int fee) {
+		taxi.take(fee);
+		this.money -= fee;
+	}
+	
 	public void personInfo() {
 		System.out.println(name + "님의 남은 돈은 " + 
 					money + "원 입니다.");

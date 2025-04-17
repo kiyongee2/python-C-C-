@@ -4,7 +4,7 @@
 //{
 //	/*
 //	  'A' - 아스키 코드값(65), char형 1Byte = 8bit
-//	  int : -128 ~ 127
+//	  char : -128 ~ 127
 //	  unsigned int : 0 ~ 255
 //	  unsigned 형은 음수를 저장할 수 없고 양수 범위가 2배로 늘어남
 //	*/
@@ -18,7 +18,8 @@
 //	char value2 = 128;  //범위를 초과하여 overflow 발생
 //	printf("%d\n", value2);
 //
-//	unsigned char value3 = -128; 
+//	//unsigned char value3 = 128; 
+//	short value3 = 128;
 //	printf("%d\n", value3);
 //
 //	/*

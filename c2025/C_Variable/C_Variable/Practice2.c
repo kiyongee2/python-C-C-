@@ -2,15 +2,10 @@
 //
 //int main()
 //{
-//	//角嚼巩力 2
-//	int jean = 0;
+//	int n1 = 10;
 //
-//	jean = jean + 1;
-//	printf("jean %d国\n", jean);
-//
-//	jean += 1;
-//	printf("jean %d国\n", jean);
-//	printf("备概 肯丰\n");
+//	printf("%dByte\n", sizeof(n1));
+//	printf("%zuByte\n", sizeof(n1));
 //	
 //	return 0;
 //}
