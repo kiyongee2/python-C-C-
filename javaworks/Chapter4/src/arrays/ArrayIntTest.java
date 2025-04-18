@@ -5,6 +5,7 @@ public class ArrayIntTest {
 	public static void main(String[] args) {
 		// 길이가 4인 정수형 배열 선언
 		int[] number = new int[4];
+//		int number[] = new int[4];
 		
 //		for(int i=0; i<4; i++) {
 //			System.out.print(number[i] + " ");

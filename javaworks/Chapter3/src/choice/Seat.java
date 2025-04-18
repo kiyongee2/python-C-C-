@@ -17,7 +17,7 @@ public class Seat {
 		column = sc.nextInt();
 		
 		if(customer % column == 0) {
-			row = customer / column;
+			row = (int)(customer / column);
 		}else {
 			row = (int)(customer / column) + 1;
 		}

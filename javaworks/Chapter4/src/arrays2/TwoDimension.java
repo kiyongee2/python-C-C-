@@ -5,7 +5,7 @@ public class TwoDimension {
 	public static void main(String[] args) {
 		// 정수형 2차원 배열
 		// 초기화 방법 1
-		/*int[][] a = new int[2][3];
+		int[][] a = new int[2][3];
 		
 		System.out.println(a.length);
 		System.out.println(a[0].length);
@@ -24,13 +24,21 @@ public class TwoDimension {
 		a[0][2] = 3;
 		a[1][0] = 4;
 		a[1][1] = 5;
-		a[1][2] = 6;*/
+		a[1][2] = 6;
+		
+		/*int k = 0;
+		for(int i=0; i<a.length; i++) {
+			for(int j=0; j<a[i].length; j++) {
+				k++;
+				a[i][j] = k;
+			}
+		}*/
 		
 		//초기화 방법 2
-		int[][] a = {
+		/*int[][] a = {
 			{1, 2, 3},
 			{4, 5, 6}
-		};
+		};*/
 		
 		//6에 접근
 		System.out.println(a[1][2]);

@@ -5,11 +5,13 @@ if 조건식:
 
 조건식의 결과가 True일때만 실행됨
 """
-
+# 나이가 15세 이상이면 "관람가" 출력   
 age = 16
 if age >= 15:
     print("관람가")
-print("나이는 ", age, "세입니다.")
+    
+#print("나이는", age, "세입니다.")
+print("나이는 " + str(age) + "세입니다")
 
 
 """
@@ -20,13 +22,13 @@ else:
 
 조건식의 결과가 True일때만 실행문1, False일때 실행문2 처리
 """
+# 나이가 15세 이상이면 "관람가", 아니면 "관람불가" 출력 
 if age >= 15:
     print("관람가")
 else:
     print("관람불가")
 # print("나이는 ", age, "세입니다.")
 print(f'나이는 {age}세입니다.')
-
 
 """
 if 조건식A:
@@ -51,16 +53,7 @@ elif score >= 70:
 else:
     print('D학점')
 
-# 논리연산자 - and, or, not
-# and - 두 조건이 모두 참인 경우만 참임,
-# or - 두 조건중 하나만 참이어도 참임.
-# not - 조건이 참이면 거짓, 거짓이면 참임 
-num1 = 10
-num2 = 20
 
-print((num1 < num2) and (num1 == num2))
-print((num1 < num2) or (num1 == num2))
-print(not(num1 != num2))
 
 # 실습 문제
 # 윤년 판정하기 

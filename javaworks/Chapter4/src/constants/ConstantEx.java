@@ -8,14 +8,7 @@ public class ConstantEx {
 		int maxVal = UsingDefine.MAX_NUM;
 		int minVal = UsingDefine.MIN_NUM;
 		
-		// 지역 변수일 경우 new로 생성
-//		UsingDefine useDef = new UsingDefine();
-//		int maxVal = useDef.MAX_NUM;
-//		int minVal = useDef.MIN_NUM;
-		
 		System.out.println(maxVal);
 		System.out.println(minVal);
-
 	}
-
 }

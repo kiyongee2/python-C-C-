@@ -12,5 +12,4 @@ public class TypeSize {
 		System.out.printf("double형의 크기    ==> %d\n", Double.SIZE);
 		System.out.printf("char형의 크기      ==> %d\n", Character.SIZE);
 	}
-
 }

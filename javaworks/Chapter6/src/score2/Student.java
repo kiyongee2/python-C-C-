@@ -1,5 +1,7 @@
 package score2;
 
+import score.Subject;
+
 public class Student {
 	private int studentId;      //학번
 	private String studentName; //이름

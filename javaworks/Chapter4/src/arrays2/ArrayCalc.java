@@ -31,7 +31,5 @@ public class ArrayCalc {
 		System.out.println("개수: " + count);
 		System.out.println("합계: " + sum);
 		System.out.println("평균: " + ((double)sum / count));
-
 	}
-
 }

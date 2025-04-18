@@ -1,10 +1,35 @@
 # 대입 연산자
+# 변수값 교환
+x = 1
+y = 2
 
+print("===== 교환전 =====")
+print("x =", x, ", y =", y)
 
+# 교환
+"""
+temp = x
+x = y
+y = temp
+"""
 
-# 산술 연산자 
+# 직접 교환
+x, y = y, x
 
+print("===== 교환후 =====")
+print("x =", x, ", y =", y)
 
+# 산술 연산자
+n1 = 10
+n2 = 4
+
+print("n1 + n2 =", n1 + n2)
+print("n1 - n2 =", n1 - n2)
+print("n1 * n2 =", n1 * n2)
+print("n1 / n2 =", n1 / n2)   # 나누기
+print("n1 // n2 =", n1 // n2) # 몫
+print("n1 % n2 =", n1 % n2)   # 나머지
+print("n1 ** n2 =", n1 ** n2) # 거듭제곱
 
 # 복합대입 연산자
 val = 20
@@ -74,6 +99,8 @@ print(head * 3)
 print('=' * 10)
 print(head + tail)
 print('=' * 10)
+
+
 
 
 
