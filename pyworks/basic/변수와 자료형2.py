@@ -35,7 +35,18 @@ table = """
 """
 print(table)
 
+# 도형의 넓이
+# 정사각형의 넓이 
+size = 5
+rec_area = size * size
+print("정사각형의 넓이:", rec_area, "cm")
 
+# 삼각형의 넓이
+width = 5
+height =7
+tri_area = (width * height) / 2
+
+print("삼각형의 넓이:", tri_area, "cm")
 
 
 

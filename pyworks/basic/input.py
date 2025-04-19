@@ -54,6 +54,15 @@ age = current_year - birth_year
 print(f"{birth_year}에 태어난 사람의 나이는 {age}세 입니다.")
 """
 
+# 사각형을 계산 프로그램
+width = int(input("가로의 길이: "))
+height = int(input("세로의 길이: "))
+# 면적 계산 
+area = width * height
+
+print("가로 길이: " + str(width) + "cm")
+print("세로 길이: " + str(height) + "cm")
+print("면적: " + str(area) + "cm")
 
 
 
