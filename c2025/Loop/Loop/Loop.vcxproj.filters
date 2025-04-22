@@ -72,5 +72,17 @@
     <ClCompile Include="WhileSum2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ContinueEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InputError.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="NestedFor2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LeapYear.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

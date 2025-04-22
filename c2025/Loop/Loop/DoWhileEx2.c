@@ -12,10 +12,19 @@
 //	}*/
 //
 //	//2. do ~ while문 사용
-//	do {
+//	/*do {
 //		printf("-1 입력시 종료: ");
 //		scanf_s("%d", &num);
-//	} while (num != -1);
+//	} while (num != -1);*/
+//
+//	//3. while ~ break
+//	while (1)
+//	{
+//		printf("-1 입력시 종료: ");
+//		scanf_s("%d", &num);
+//		if (num == -1) break;
+//	}
+//	printf("프로그램을 종료합니다.\n");
 //
 //	return 0;
 //}

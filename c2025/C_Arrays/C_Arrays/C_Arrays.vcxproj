@@ -129,7 +129,11 @@
   <ItemGroup>
     <ClCompile Include="ArrayChar.c" />
     <ClCompile Include="ArrayEx1.c" />
-    <ClCompile Include="ArrayEx2.c" />
+    <ClCompile Include="ArrayEx3.c" />
+    <ClCompile Include="ArrayInput.c" />
+    <ClCompile Include="ArrayInput2.c" />
+    <ClCompile Include="ArrayTest.c" />
+    <ClCompile Include="PersonInfo.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,18 +15,17 @@
 //	printf("좌석열 수 입력: ");
 //	scanf_s("%d", &column);
 //
-//	if (customer % column == 0)
+//	if (customer % column == 0) //나누어 떨어짐
 //	{
-//		row = (int)(customer / column);
+//		row = customer / column; //기본이 int형임
 //	}
 //	else
 //	{
 //		row = (int)(customer / column) + 1;
 //	}
-//
-//	//printf("%d개의 줄이 필요합니다.\n", row);  
+//	printf("%d개의 줄이 필요합니다.\n", row);  
 //	
-//	for (int i = 0; i < row; i++)
+//	/*for (int i = 0; i < row; i++)
 //	{
 //		for (int j = 1; j <= column; j++)
 //		{
@@ -36,7 +35,7 @@
 //			printf("좌석%d ", seatNum);
 //		}
 //		printf("\n");
-//	}
+//	}*/
 //
 //	return 0;
 //}

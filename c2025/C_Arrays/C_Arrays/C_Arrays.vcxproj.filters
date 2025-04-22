@@ -18,10 +18,22 @@
     <ClCompile Include="ArrayEx1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ArrayEx2.c">
+    <ClCompile Include="ArrayChar.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ArrayChar.c">
+    <ClCompile Include="ArrayEx3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayTest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayInput.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayInput2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PersonInfo.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
