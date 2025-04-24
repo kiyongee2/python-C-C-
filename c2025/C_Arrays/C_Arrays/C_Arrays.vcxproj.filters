@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ArrayEx1.c">
+    <ClCompile Include="ArrayInt.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ArrayChar.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ArrayEx3.c">
+    <ClCompile Include="ArraySize.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ArrayTest.c">
@@ -30,10 +30,22 @@
     <ClCompile Include="ArrayInput.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ArrayInput2.c">
+    <ClCompile Include="ArrayInputFor.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="PersonInfo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CalcScore.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayString.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayCopy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayInputWhile.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -31,7 +31,7 @@
 //	printf("\n");
 //
 //	//피라미드 쌓기
-//	int floor = 5;
+//	int floor = 6;
 //
 //	for (int i = 0; i < floor; i++) {
 //		for (int j = i; j < floor - 1; j++)

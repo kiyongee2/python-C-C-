@@ -48,7 +48,11 @@ tri_area = (width * height) / 2
 
 print("삼각형의 넓이:", tri_area, "cm")
 
+born = input("연도 입력: ")
 
+age = 2025 - int(born)
+print(str(born) + "해에 태어난 사람은 " + str(age) + "세입니다.")
+# print(born, "년에 태어난 사람은", age, "세입니다.")
 
 
 

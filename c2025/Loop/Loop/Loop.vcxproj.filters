@@ -84,5 +84,11 @@
     <ClCompile Include="LeapYear.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="InputError2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DoWhileEx3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

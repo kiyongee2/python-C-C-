@@ -132,6 +132,7 @@
     <ClCompile Include="ContinueEx.c" />
     <ClCompile Include="DoWhileEx.c" />
     <ClCompile Include="DoWhileEx2.c" />
+    <ClCompile Include="DoWhileEx3.c" />
     <ClCompile Include="ForEx1.c" />
     <ClCompile Include="ForSum.c" />
     <ClCompile Include="GradeCalc.c" />
@@ -140,6 +141,7 @@
     <ClCompile Include="IfElseEx2.c" />
     <ClCompile Include="InputDan.c" />
     <ClCompile Include="InputError.c" />
+    <ClCompile Include="InputError2.c" />
     <ClCompile Include="KeyRepeat.c" />
     <ClCompile Include="KeyRepeat2.c" />
     <ClCompile Include="LeapYear.c" />

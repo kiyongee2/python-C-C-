@@ -128,11 +128,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ArrayChar.c" />
-    <ClCompile Include="ArrayEx1.c" />
-    <ClCompile Include="ArrayEx3.c" />
+    <ClCompile Include="ArrayCopy.c" />
+    <ClCompile Include="ArrayInputWhile.c" />
+    <ClCompile Include="ArrayInt.c" />
+    <ClCompile Include="ArraySize.c" />
     <ClCompile Include="ArrayInput.c" />
-    <ClCompile Include="ArrayInput2.c" />
+    <ClCompile Include="ArrayInputFor.c" />
+    <ClCompile Include="ArrayString.c" />
     <ClCompile Include="ArrayTest.c" />
+    <ClCompile Include="CalcScore.c" />
     <ClCompile Include="PersonInfo.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
