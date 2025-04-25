@@ -3,6 +3,7 @@
 # 리스트 이름 = [값1, 값2, 값3...]
 """
 # 문자형 리스트
+'''
 # 리스트(배열) 생성
 carts = ["라면", "커피", "계란", "토마토"]
 
@@ -71,57 +72,59 @@ for food in foods:
         print(f'{food}는(은) 일식입니다.')
     else:
         print(f'{food}는(은) 한식입니다.')
-
+'''
 # 리스트의 연산
-"""
 score = [70, 80, 50, 60, 90, 40]
-sum_v = 0
+total = 0
 count = len(score)
-for i in score:
-    sum_v += i
 
-avg = sum_v / count
+for i in score:
+    total += i
+
+avg = total / count
 
 print("개수:", count)
-print("합계:", sum_v)
+print("합계:", total)
 print("평균:", avg)
 
-# 내장함수 sum()
+# 내장함수 sum()과 비교
 print("합계:", sum(score))
+print("----------------------")
 
 # 최고 점수, 최저 점수
-max_v = score[0]
-min_v = score[0]
-
+max_v = score[0]  #최대값 설정
 for i in score:
     if max_v < i:
         max_v = i
 
-# for ~ range()
-for i in range(count):
-    if max_v < score[i]:
-        max_v = score[i]
-
+min_v = score[0] #최소값 설정
 for i in score:
     if min_v > i:
         min_v = i
 
 print("최고 점수:", max_v)
-print("최고 점수:", max(score))
 print("최저 점수:", min_v)
+
+# 내장함수 - max(), min()과 비교
+print("최고 점수:", max(score))
 print("최저 점수:", min(score))
 
+# for ~ range()
+for i in range(count):
+    if max_v < score[i]:
+        max_v = score[i]
+print("----------------------")
+
 # 최고 점수, 최저 점수 위치 찾기
-max_idx = 0
-min_idx = 0
+max_idx = 0 #최대값 위치 설정
 for i in range(count):
     if score[max_idx] < score[i]:
         max_idx = i
 
+min_idx = 0 #최소값 위치 설정
 for i in range(count):
     if score[min_idx] > score[i]:
         min_idx = i
         
 print("최고 점수 위치:", max_idx)
 print("최저 점수 위치:", min_idx)
-"""

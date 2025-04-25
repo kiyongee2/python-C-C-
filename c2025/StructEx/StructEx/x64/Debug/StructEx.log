@@ -1,0 +1,6 @@
+﻿  연결리스트3.c
+D:\korea_IT\c2025\StructEx\StructEx\연결리스트3.c(16,9): warning C4133: '=': 'person *'과(와) 'person *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\StructEx\StructEx\연결리스트3.c(17,9): warning C4133: '=': 'person *'과(와) 'person *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\StructEx\StructEx\연결리스트3.c(18,9): warning C4133: '=': 'person *'과(와) 'person *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\StructEx\StructEx\연결리스트3.c(23,28): warning C4133: '=': 'person *'과(와) 'person *' 사이의 형식이 호환되지 않습니다.
+  StructEx.vcxproj -> D:\korea_IT\c2025\StructEx\x64\Debug\StructEx.exe
