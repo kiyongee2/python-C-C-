@@ -40,6 +40,20 @@ car.remove("BMW")
 print(car)
 '''
 
+# 리스트의 정렬과 뒤집기
+n = [1, 4, 3, 2]
+n.sort()
+print(n)
+
+lower = ['b', 'c', 'a']
+lower.reverse()
+print(lower)
+
+n2 = [1, 3, 5, 4, 2]
+n2.sort()
+n2.reverse()
+print(n2)
+
 # 리스트의 복사
 """
 a1 = [1, 2, 3, 4, 5]

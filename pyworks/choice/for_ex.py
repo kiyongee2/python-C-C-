@@ -71,11 +71,16 @@ for i in range(1, 6):
     print()
     
 # 구구단
-'''
+"""
 for i in range(2, 10):
     print('[', i, '단]')
     for j in range(1, 10):
         print(f"{i} x {j} = {i * j}")
+    print()
+
+for i in range(1, 10):
+    for j in range(2, 10):
+        print(f"{j} x {i} = {j * i}", end=' | ')
     print()
 
 for i in range(2, 10):
@@ -85,10 +90,9 @@ for i in range(2, 10):
             break
         print(f"{i} x {j} = {i * j}")
     print()
-
-'''
-# 중첩 for
 """
+# 중첩 for
+print()
 for i in range(1, 6):
     for j in range(1, i+1):
         print('$', end='')
@@ -99,11 +103,20 @@ for i in range(1, 6):
     for j in range(1, 7-i):
         print('$', end='')
     print()
+print()
 
-for i in range(0, 5):
-    for j in range(i, 5-1):
+for i in range(1, 6):
+    for j in range(1, 6-i):
+        print(' ', end='') #공백
+    for j in range(1, i+1):
+        print('*', end='') #별
+    print()
+print()
+
+for i in range(1, 6):
+    for j in range(1, i):
         print(' ', end='')
-    for j in range(0, i+1):
+    for j in range(1, 7-i):
         print('*', end='')
     print()
 
@@ -111,7 +124,6 @@ for i in range(0, 5):
     for j in range(1, 6):
         print(5*i+j, end=' ')
     print()
-    
 print()
 
 for i in range(0, 5):
@@ -121,9 +133,9 @@ for i in range(0, 5):
             break
         print(5*i+j, end=' ')
     print()
-"""
+
 # 자리배치도
-print("**** 자리배ㅣ도 ****")
+print("**** 자리배치도 ****")
 
 
 

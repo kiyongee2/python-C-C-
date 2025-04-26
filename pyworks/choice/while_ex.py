@@ -5,7 +5,6 @@ while 조건식:
     실행문
     증감값 
 
-"""
 a = 1
 print(a)
 
@@ -14,8 +13,9 @@ print(a)
 
 a += 1
 print(a)
-
+"""
 # "안녕~"을 10번 반복하기
+"""
 n = 1 # 초기값
 while n <= 10:
     print("안녕~", n)
@@ -35,6 +35,7 @@ while n <= 10:
     print("n =", n, ", total =", total)
     n += 1
 print("합계 : ", total, ", n =", n)
+"""
 
 # 반복 조건문(While True: if break)
 '''
@@ -55,10 +56,12 @@ while True:
     n += 1
 print("합계 : ", total)
 '''
-
-
 # 챗봇
-"""
+animal = "cat dog horse"
+print("cat" in animal)
+print("dog" in animal)
+print("horse" not in animal)
+
 while True:
     user_input = input("사용자: ")
 
@@ -73,12 +76,12 @@ while True:
         print("챗봇: 저는 Python 챗봇입니다.")
 
     elif "날씨" in user_input:
-        print("챗봇: 오늘의 날씨는 화창합니다.")
+        print("챗봇: 날씨는 날씨앱이나 검색 기능을 이용하세요")
 
     else:
         print("챗봇: 죄송해요, 잘 이해하지 못했어요.")
 
-"""
+
 
 
 

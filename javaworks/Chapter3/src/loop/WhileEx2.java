@@ -26,5 +26,14 @@ public class WhileEx2 {
 			x++;
 		}
 		System.out.println("합계 : " + sum);
+		
 	}
 }
+
+
+
+
+
+
+
+
