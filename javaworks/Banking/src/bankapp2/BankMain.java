@@ -15,7 +15,7 @@ public class BankMain {
 			System.out.println("============================================");
 			System.out.print("선택> ");
 			
-			try {
+			try { //문자 입력시 예외 처리
 				int selectNum = Integer.parseInt(scan.nextLine());
 				
 				switch(selectNum) {
@@ -43,7 +43,6 @@ public class BankMain {
 				System.out.println("잘못된 입력입니다. 다시 입력하세요");
 			}
 		}//while() 닫기
-		
 		scan.close();
 	}//main() 닫기
 

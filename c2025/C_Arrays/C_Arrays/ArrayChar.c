@@ -50,14 +50,16 @@
 //	}
 //
 //	//문자열 배열
-//	char fr1[] = "apple";  //맨 뒤에 널(NULL)문자 있음
-//	char fr2[] = {'a', 'p', 'p', 'l', 'e', '\0'};
-//	char fr3[] = "사과";
+//	char fr1[5] = "apple";  
+//	char fr2[6] = "apple"; //맨 뒤에 널(NULL)문자 있음
+//	char fr3[] = {'a', 'p', 'p', 'l', 'e', '\0'};
+//	char fr4[] = "바나나"; //한글은 1자에 2byte
 //
 //	//sizeof() - 자료형의 크기를 바이트 단위로 변환('\0' 포함)
 //	printf("%s %d\n", fr1, sizeof(fr1));
 //	printf("%s %d\n", fr2, sizeof(fr2));
 //	printf("%s %d\n", fr3, sizeof(fr3));
+//	printf("%s %d\n", fr4, sizeof(fr4));
 //
 //	return 0;
 //}

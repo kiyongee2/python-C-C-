@@ -127,9 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AreaOfShape.c" />
     <ClCompile Include="CalcRandNumber.c" />
+    <ClCompile Include="DateTime.c" />
+    <ClCompile Include="FindMax.c" />
+    <ClCompile Include="GetChar.c" />
+    <ClCompile Include="GlobalVar.c" />
+    <ClCompile Include="ReturnFunction.c" />
+    <ClCompile Include="SayHello.c" />
+    <ClCompile Include="StaticVar.c" />
+    <ClCompile Include="Time.c" />
     <ClCompile Include="UpAndDown.c" />
     <ClCompile Include="UpAndDown2.c" />
+    <ClCompile Include="UpperCase.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

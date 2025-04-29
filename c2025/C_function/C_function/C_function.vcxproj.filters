@@ -24,5 +24,35 @@
     <ClCompile Include="CalcRandNumber.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="SayHello.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ReturnFunction.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FindMax.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UpperCase.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticVar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalVar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DateTime.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GetChar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="AreaOfShape.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
