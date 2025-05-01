@@ -22,8 +22,7 @@
 //		else
 //		{
 //			puts("잘못된 입력입니다! 숫자를 입력하세요.");
-//			while (getchar() != '\n'); //입력 버퍼 비우기 
-//			continue; //while문 처음으로 돌아감
+//			//while (getchar() != '\n'); //입력 버퍼 비우기 
 //		}
 //	}
 //	printf("최소값은 %d\n", min);

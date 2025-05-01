@@ -51,5 +51,29 @@
     <ClCompile Include="ArrayInt2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Array2D.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SeatAllocation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array2D-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array2DInput.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArraySwap.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CalcArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayString2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array2DEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

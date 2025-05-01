@@ -127,6 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Array2D-2.c" />
+    <ClCompile Include="Array2D.c" />
+    <ClCompile Include="Array2DEx.c" />
+    <ClCompile Include="Array2DInput.c" />
     <ClCompile Include="ArrayChar.c" />
     <ClCompile Include="ArrayCopy.c" />
     <ClCompile Include="ArrayInputWhile.c" />
@@ -136,9 +140,13 @@
     <ClCompile Include="ArrayInput.c" />
     <ClCompile Include="ArrayInputFor.c" />
     <ClCompile Include="ArrayString.c" />
+    <ClCompile Include="ArrayString2.c" />
+    <ClCompile Include="ArraySwap.c" />
     <ClCompile Include="ArrayTest.c" />
+    <ClCompile Include="CalcArray.c" />
     <ClCompile Include="CalcScore.c" />
     <ClCompile Include="PersonInfo.c" />
+    <ClCompile Include="SeatAllocation.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
