@@ -54,5 +54,11 @@
     <ClCompile Include="AreaOfShape.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MathEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StringFunctionEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

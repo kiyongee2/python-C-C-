@@ -24,8 +24,11 @@
 //	printf("¿µ¾î Æò±Õ: %d\n", total[0]);
 //	printf("¼öÇÐ Æò±Õ: %d\n", total[1]);
 //
-//	printf("¿µ¾î Æò±Õ: %.1f\n", total[0] / 4.0);
-//	printf("¼öÇÐ Æò±Õ: %.1f\n", total[1] / 4.0);
+//	/*printf("¿µ¾î Æò±Õ: %.1f\n", total[0] / 4.0);
+//	printf("¼öÇÐ Æò±Õ: %.1f\n", total[1] / 4.0);*/
+//
+//	printf("¿µ¾î Æò±Õ: %.1f\n", (float)total[0] / 4);
+//	printf("¼öÇÐ Æò±Õ: %.1f\n", (float)total[1] / 4);
 //
 //	return 0;
 //}

@@ -1,4 +1,4 @@
-//함수 구현부
+//함수 구현부 - Calculator.c
 int add(int x, int y)
 {
 	int sum;
@@ -10,7 +10,7 @@ int factorial(int n)
 {
 	int facto = 1;
 	for (int i = 1; i <= n; i++)
-		facto *= i;
+		facto = facto * i; //facto *= i;
 	/*
 	  n = 4인 경우
 	  i = 1, facto = 1 * 1

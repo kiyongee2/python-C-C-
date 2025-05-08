@@ -8,7 +8,7 @@
 //	c1 = getchar();
 //
 //	//이 구문이 없으면 엔터를 쳤을때 자동으로 '\n'이 실행됨
-//	//while (getchar() != '\n');
+//	while (getchar() != '\n');
 //
 //	c2 = getchar();
 //
@@ -21,11 +21,11 @@
 //	puts("이름 입력: ");
 //	scanf_s("%s", name, sizeof(name));
 //	//공백을 포함한 이름 입력 가능
-//	//fgets(name, sizeof(name), stdin); 
+//	fgets(name, sizeof(name), stdin); 
 //
 //	printf("이름: %s\n", name);
 //
-//	while (getchar() != '\n');
+//	//while (getchar() != '\n');
 //
 //	puts("나이 입력: ");
 //	scanf_s("%d", &age);

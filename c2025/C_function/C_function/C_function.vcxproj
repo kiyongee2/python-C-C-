@@ -133,9 +133,11 @@
     <ClCompile Include="FindMax.c" />
     <ClCompile Include="GetChar.c" />
     <ClCompile Include="GlobalVar.c" />
+    <ClCompile Include="MathEx.c" />
     <ClCompile Include="ReturnFunction.c" />
     <ClCompile Include="SayHello.c" />
     <ClCompile Include="StaticVar.c" />
+    <ClCompile Include="StringFunctionEx.c" />
     <ClCompile Include="Time.c" />
     <ClCompile Include="UpAndDown.c" />
     <ClCompile Include="UpAndDown2.c" />

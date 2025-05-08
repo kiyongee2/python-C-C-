@@ -1,6 +1,6 @@
 //#include <stdio.h>
-//#include <time.h>
-//#include <Windows.h>
+//#include <time.h> //time()
+//#include <Windows.h>  //Sleep() 
 //
 //int main()
 //{
@@ -11,7 +11,7 @@
 //	printf("%ld년\n", now / (365*24*60*60));
 //
 //	//수행 시간 측정
-//	time_t start, end;   //time_t 자료형
+//	/*time_t start, end;   //time_t 자료형
 //	start = time(NULL);  //시작 시각
 //	printf("시작 시각: %ld초\n", start);
 //
@@ -24,10 +24,10 @@
 //
 //	end = time(NULL);  //종료 시각
 //	printf("종료 시각: %ld초\n", end);
-//	printf("%ld초\n", (end - start));
+//	printf("%ld초\n", (end - start));*/
 //
 //	//수행 시간(정밀 측정)
-//	/*clock_t start, end;
+//	clock_t start, end;
 //	double elapsedTime;
 //
 //	start = clock();  //시작 시각
@@ -36,12 +36,12 @@
 //	{
 //		printf("%d\n", i);
 //		Sleep(500);
-//	}
+//	}  
 //	end = clock();  //종료 시각
 //
 //	//CLOCKS_PER_SEC - 초당 시각 상수
 //	elapsedTime = (double)(end - start) / CLOCKS_PER_SEC;
-//	printf("소요시간: %.2lf초\n", elapsedTime);*/
+//	printf("소요시간: %.2lf초\n", elapsedTime);
 //	
 //	return 0;
 //}
