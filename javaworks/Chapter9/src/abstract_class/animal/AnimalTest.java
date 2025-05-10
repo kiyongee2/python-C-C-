@@ -3,7 +3,7 @@ package abstract_class.animal;
 public class AnimalTest {
 
 	public static void main(String[] args) {
-		Cat cat = new Cat();
+		/*Cat cat = new Cat();
 		cat.breathe();
 		cat.cry();
 		
@@ -13,7 +13,18 @@ public class AnimalTest {
 		
 		//메서드의 다형성
 		animalCry(new Cat());
-		animalCry(new Dog());
+		animalCry(new Dog());*/
+		
+		Animal cat = new Cat();
+		cat.breathe();
+//		cat.cry();
+		
+		Animal dog = new Dog();
+		dog.breathe();
+//		dog.cry();
+		
+		animalCry(cat);
+		animalCry(dog);
 		
 	}
 	

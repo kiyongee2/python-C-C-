@@ -11,4 +11,9 @@ public class AICar extends Car{
 	public void stop() {
 		System.out.println("자동차가 스스로 멈춥니다.");
 	}
+	
+	//final이 있으므로 재정의 할 수 없음
+	/*public void run() {
+		
+	}*/
 }

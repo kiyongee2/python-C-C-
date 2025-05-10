@@ -46,3 +46,28 @@ print(a)
 
 a.clear() #a 리스트 삭제
 print(a)
+
+print('=' * 40)
+
+# 2차원 리스트의 선언 및 생성
+score = [
+    [10, 20],
+    [30, 40],
+    [50, 60],
+    [70, 80]
+]
+
+# 2차원 리스트의 연산
+total = 0  # 합계
+count = 0  # 개수
+
+for i in range(len(score)):
+    for j in range(len(score[0])):
+        count += 1
+        total += score[i][j]
+avg = total / count
+
+print("합계:", total)
+print("개수:", count)
+print("평균:", avg)
+

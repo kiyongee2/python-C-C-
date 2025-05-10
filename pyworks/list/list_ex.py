@@ -3,7 +3,7 @@
 # 리스트 이름 = [값1, 값2, 값3...]
 """
 # 문자형 리스트
-'''
+
 # 리스트(배열) 생성
 carts = ["라면", "커피", "계란", "토마토"]
 
@@ -72,7 +72,7 @@ for food in foods:
         print(f'{food}는(은) 일식입니다.')
     else:
         print(f'{food}는(은) 한식입니다.')
-'''
+
 # 리스트의 연산
 score = [70, 80, 50, 60, 90, 40]
 total = 0
@@ -122,7 +122,7 @@ for i in range(count):
         max_idx = i
 
 min_idx = 0 #최소값 위치 설정
-for i in range(count):
+for i in range(0, count):
     if score[min_idx] > score[i]:
         min_idx = i
         

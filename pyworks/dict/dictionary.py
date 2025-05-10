@@ -1,5 +1,5 @@
 # 딕셔너리
-"""
+
 person = {} #빈 딕셔너리
 print(person) # 딕셔너리 객체 출력
 
@@ -10,6 +10,7 @@ person['phone'] = "010-1234-5678"
 
 # 객체 출력
 print(person)
+print(type(person)) #자료형
 
 # 특정 요소 출력
 print(person['name'])
@@ -18,15 +19,16 @@ print(person['name'])
 person['name'] = "최지능"
 
 # 요소 삭제
-del person['age']
+# del person['age']
+person.pop('age')
 
 # 전체 출력
 for key in person:
     print(key, ':', person[key])
-"""
+
 
 # 딕셔너리 생성
-'''
+
 student = {'Jerry': 13, 'Luna': 9}
 student['Tom'] = 10
 
@@ -36,17 +38,15 @@ student['Luna'] = '8' # 요소 수정
 
 student.pop("Jerry")  # 요소 삭제
 
-print(student)
-
 print(student.keys()) # 키(key) 출력
 print(student.values()) # 값 출력
 
 student.clear() # 딕셔너리 삭제
 print(student)
-'''
+
 
 # 학생의 성적 통계
-"""
+'''
 student_list = [
     {"name":"이대한", "kor":80, "eng":80, "math":75},
     {"name":"박민국", "kor":70, "eng":65, "math":60},
@@ -68,7 +68,7 @@ print(" 이름  총점  평균")
 for student in student_list:
     total = student["kor"] + student["eng"] + student["math"]
     avg = total / 3
-    print(f'{student["name"]} {total} {avg:0.1f}')
+    print(f'{student["name"]} {total} {avg:.2f}')
 
 # 과목별 총점과 평균
 sum_subj = [0, 0, 0]
@@ -92,12 +92,13 @@ for student in student_list:
     avg_subj[2] = sum_subj[2] / len(student_list)
     
 print("== 과목별 평균 ==")
-print(f'국어 평균 : {avg_subj[0]}')
-print(f'영어 평균 : {avg_subj[1]}')
-print(f'수학 평균 : {avg_subj[2]}')
-"""
+print(f'국어 평균 : {avg_subj[0]:.1f}')
+print(f'영어 평균 : {avg_subj[1]:.1f}')
+print(f'수학 평균 : {avg_subj[2]:.1f}')
+'''
 
 # 용어 사전 만들기
+
 print("♠ 컴퓨터 용어 사전 ♠")
 # 예외 처리(비 정상적인 종료를 막아줌) : try ~ except 구문
 try:
@@ -115,44 +116,4 @@ try:
 except KeyError:
     print("정의된 단어가 없습니다.")
 
-# 2차원 리스트의 선언 및 생성
-"""
-student = [
-    [10, 20],
-    [30, 40],
-    [50, 60]
-]
-print(student[0][0])
-print(student[0][1])
-print(student[1][0])
-print(student[1][1])
 
-for x, y in student:
-    print(x, y)
-
-print(len(student))  # 행의 크기
-print(len(student[0]))
-
-for i in range(len(student)):
-    for j in range(len(student[i])):
-        print(student[i][j])
-    print()
-
-# 요소 추가
-student.apersonpersonenstudent([70, 80])
-print(student)
-
-# 2차원 리스트의 연산
-sum_v = 0
-count = 0
-
-for i in range(len(student)):
-    for j in range(len(student[i])):
-        count += 1
-        sum_v += student[i][j]
-avg = sum_v / count
-
-print("합계:", sum_v)
-print("개수:", count)
-print("평균:", avg)
-"""

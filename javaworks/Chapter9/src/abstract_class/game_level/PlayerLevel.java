@@ -1,4 +1,4 @@
-package game_level;
+package abstract_class.game_level;
 
 public abstract class PlayerLevel {
 	
