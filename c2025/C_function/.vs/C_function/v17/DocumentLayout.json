@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\C_function\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\UpAndDown.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\UpAndDown.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\UpAndDown2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\UpAndDown2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\StringFunctionEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\GetChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\GetChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\UpAndDown.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\UpAndDown.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\CalcRandNumber.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\CalcRandNumber.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpAndDown2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\UpAndDown2.c",
-              "RelativeDocumentMoniker": "C_function\\UpAndDown2.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\UpAndDown2.c",
-              "RelativeToolTip": "C_function\\UpAndDown2.c",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UpperCase.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\UpperCase.c",
+              "RelativeDocumentMoniker": "C_function\\UpperCase.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\UpperCase.c",
+              "RelativeToolTip": "C_function\\UpperCase.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-08T00:16:37.862Z",
+              "WhenOpened": "2025-05-13T02:07:46.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "CalcRandNumber.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\CalcRandNumber.c",
+              "RelativeDocumentMoniker": "C_function\\CalcRandNumber.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\CalcRandNumber.c",
+              "RelativeToolTip": "C_function\\CalcRandNumber.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwC0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-13T01:27:38.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UpAndDown.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\UpAndDown.c",
               "RelativeDocumentMoniker": "C_function\\UpAndDown.c",
               "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\UpAndDown.c",
               "RelativeToolTip": "C_function\\UpAndDown.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-08T00:16:13.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StringFunctionEx.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\StringFunctionEx.c",
               "RelativeDocumentMoniker": "C_function\\StringFunctionEx.c",
               "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\StringFunctionEx.c",
               "RelativeToolTip": "C_function\\StringFunctionEx.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-07T23:42:44.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GetChar.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\GetChar.c",
               "RelativeDocumentMoniker": "C_function\\GetChar.c",
               "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\GetChar.c",
               "RelativeToolTip": "C_function\\GetChar.c",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-29T01:14:00.459Z",
               "EditorCaption": ""

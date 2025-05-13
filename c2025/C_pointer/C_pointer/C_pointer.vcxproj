@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FindMax.c" />
+    <ClCompile Include="FindMaxIdx.c" />
     <ClCompile Include="MallocEx1.c" />
     <ClCompile Include="MallocEx2.c" />
     <ClCompile Include="PointerArray.c" />
@@ -134,7 +136,11 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="CallByRef.c" />
+    <ClCompile Include="PointerArray2.c" />
+    <ClCompile Include="PointerEx2.c" />
+    <ClCompile Include="PointerEx3.c" />
     <ClCompile Include="PointerFunc.c" />
+    <ClCompile Include="PointerString.c" />
     <ClCompile Include="TypingGame.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

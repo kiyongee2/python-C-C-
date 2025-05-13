@@ -36,5 +36,23 @@
     <ClCompile Include="TypingGame.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PointerArray2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerString.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerEx3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FindMax.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FindMaxIdx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

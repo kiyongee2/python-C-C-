@@ -8,7 +8,7 @@
 //	n = 3;
 //	pn = &n;
 //
-//	printf("%d %x %x %d\n", n, &n, pn, *pn);
+//	printf("%d %x %x %d\n", n, &n, pn, *pn); 
 //	printf("%d %d\n", sizeof(n), sizeof(pn));
 //
 //	char c = 'A';

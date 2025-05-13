@@ -1,3 +1,5 @@
-﻿  UpAndDown.c
-D:\korea_IT\c2025\C_function\C_function\UpAndDown.c(7,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  StringFunctionEx.c
+  UpperCase.c
+D:\korea_IT\c2025\C_function\C_function\UpperCase.c(25,11): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
   C_function.vcxproj -> D:\korea_IT\c2025\C_function\x64\Debug\C_function.exe

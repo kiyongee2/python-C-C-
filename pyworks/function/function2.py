@@ -1,4 +1,5 @@
 # 기본 매개 변수
+'''
 def print_string(text, count=1):
     for i in range(count):
         print(text)
@@ -17,17 +18,79 @@ def calc_avg(*numbers):
 
 avg1 = calc_avg(1, 2)
 print(avg1)
+'''
 
 # 내장 함수
+'''
 a = [1, 2, 3, 4]
-print(sum(a))
-print(max(a))
-print(min(a))
+b = (1, 2, 3, 4)
+
+print(sum(a))  # 합계
+print(sum(b))
+
+print(max(a))  # 최대값
+print(max(b))
+
+print(min(a))  # 최소값
+print(min(b))
 
 # 반올림
 print(round(2.74))
 print(round(2.24))
 
+# 문자열 표현식 -> 숫자로 변환
+# print('1 + 2')
+print(eval('1 + 2'))
 
+# 리스트로 변환
+print(list('korea'))
 
-print(all([1, 2, 3]))
+# 거듭제곱
+def my_pow(x, y):
+    num = 1
+    for i in range(0, y):
+        num = num * x
+    return num
+
+print(my_pow(2, 4)) #16
+print(my_pow(3, 3)) #27
+
+# 내장 함수 - pow()와 비교
+print(pow(2, 4)) #16
+print(pow(3, 3)) #27
+'''
+
+# 재귀 호출
+def sos(i):
+    print("Help me!")
+    if i <= 1:
+        return ''
+    else:
+        return sos(i - 1)
+'''
+    i=4, Help me!, sos(3)
+    i=3, Help me!, sos(2)
+    i=2, Help me!, sos(1)
+    i=1, Help me!, sos(0)
+    i=0, 공백 문자
+'''
+sos(4)
+
+# 팩토리알 재귀 호출
+def facto(n):
+    if n <= 1:
+        return 1
+    else:
+        return n * facto(n-1)
+    
+'''
+    n = 4, 4 * facto(3)
+           4 * 3 * facto(2)
+           4 * 3 * 2 * facto(1)
+           4 * 3 * 2 * 1  <24>
+''' 
+
+print(facto(1)) # 1!
+print(facto(2)) # 2!
+print(facto(3)) # 3!
+print(facto(4)) # 4!

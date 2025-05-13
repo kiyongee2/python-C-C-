@@ -31,10 +31,7 @@ print(val1)
 val2 = my_abs(-5)
 print(val2)
 
-# 배송비 계산하기
-
-
-
+'''
 # 리스트를 매개변수로 전달
 def times(a):
     a2 = []
@@ -59,24 +56,68 @@ def find_same_name(a):
 name = ['콩쥐', '흥부', '팥쥐', '흥부']
 result = find_same_name(name)
 print(result)
+'''
+
+# 전역 변수
+def get_price():
+    price = 1000 * quantity
+    print(f"{quantity}개에 {price}원 입니다.")
+
+quantity = 2 #전역 변수
+get_price()  #함수 호출
 
 # 지역 변수
 def one_up():
-    x = 1
+    x = 1   #지역 변수 
     x += 1
     return x
 
 print(one_up())
 print(one_up())
 print(one_up())
+# print(x)  # 오류 발생
+print("--------------")
 
 # 정적 변수
 def one_up2():
-    global x
+    global x  # 정적변수(전역 변수화 함)
     x += 1
     return x
 
-x = 1
+x = 1  # 전역 변수
 print(one_up2())
 print(one_up2())
 print(one_up2())
+
+# 배송비 계산하기
+def get_price(unit_price, quantity):
+    delivery_fee = 3000  # 배송비
+    price = unit_price * quantity # 가격 = 단위당 가격 * 수량
+    if price < 40000:
+        price += delivery_fee
+    else:
+        price
+    return price
+
+# 메인 영역 - 함수 호출
+price1 = get_price(25000, 2)
+price2 = get_price(30000, 1)
+
+print("상품1 가격 : " + str(price1) + "원")
+print(f"상품1 가격 : {price1}원")
+print("상품2 가격 : " + str(price2) + "원")
+print(f"상품2 가격 : {price2}원")
+
+# 실습 문제1
+def my_func(x, y):
+    if x == y:
+        return x + y
+    else:
+        return x - y
+    
+result1 = my_func(8, 8)
+print("result1 =", result1)
+
+result2 = my_func(8, 9)
+print("result2 =", result2)
+
