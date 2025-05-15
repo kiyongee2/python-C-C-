@@ -13,7 +13,7 @@
 //	clock_t start, end;
 //	double elapsedTime;
 //
-//	srand(time(NULL));
+//	srand(time(NULL)); //난수 시드값 지정
 //	int size = sizeof(words) / sizeof(words[0]);
 //
 //	printf("영어 타자 게임, 준비되면 엔터");

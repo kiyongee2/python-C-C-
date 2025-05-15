@@ -134,6 +134,8 @@
     <ClCompile Include="GetChar.c" />
     <ClCompile Include="GlobalVar.c" />
     <ClCompile Include="MathEx.c" />
+    <ClCompile Include="MathEx2.c" />
+    <ClCompile Include="MyPow.c" />
     <ClCompile Include="ReturnFunction.c" />
     <ClCompile Include="SayHello.c" />
     <ClCompile Include="StaticVar.c" />

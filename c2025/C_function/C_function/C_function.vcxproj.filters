@@ -60,5 +60,11 @@
     <ClCompile Include="StringFunctionEx.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MathEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MyPow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
