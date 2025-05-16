@@ -21,9 +21,9 @@ print(avg1)
 '''
 
 # 내장 함수
-'''
-a = [1, 2, 3, 4]
-b = (1, 2, 3, 4)
+
+a = [1, 2, 3, 4]  # 리스트 생성
+b = (1, 2, 3, 4)  # 튜플 생성
 
 print(sum(a))  # 합계
 print(sum(b))
@@ -51,6 +51,15 @@ def my_pow(x, y):
     for i in range(0, y):
         num = num * x
     return num
+'''
+  x=2, y=4 일때
+  반복
+  i=0, num = 1 * 2
+  i=1, num = 2 * 2
+  i=2, num = 4 * 2
+  i=3, num = 8 * 2 
+  i=4, 반복 종료
+'''
 
 print(my_pow(2, 4)) #16
 print(my_pow(3, 3)) #27
@@ -58,8 +67,8 @@ print(my_pow(3, 3)) #27
 # 내장 함수 - pow()와 비교
 print(pow(2, 4)) #16
 print(pow(3, 3)) #27
-'''
 
+"""
 # 재귀 호출
 def sos(i):
     print("Help me!")
@@ -94,3 +103,4 @@ print(facto(1)) # 1!
 print(facto(2)) # 2!
 print(facto(3)) # 3!
 print(facto(4)) # 4!
+"""

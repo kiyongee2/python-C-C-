@@ -26,6 +26,13 @@ print(c)
 print(d)
 print(e)
 
+print("*** 중복 제거 ***")
+a = [1, 1, 1, 2, 3, 3] # 리스트 생성
+set_v = set(a)         # 집합 자료
+
+print(set_v)
+print(list(set_v))
+
 # set 관련 메서드
 # set 자료 생성
 numbers = {1, 2, 3}

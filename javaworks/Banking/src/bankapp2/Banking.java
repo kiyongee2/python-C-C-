@@ -48,7 +48,7 @@ boolean sw = true;
 		scan.close();
 	}
 	
-	private static void withdraw() {
+	private static void withdraw() {  
 		System.out.println("============================================");
 		System.out.println("               출         금                 ");
 		System.out.println("============================================");

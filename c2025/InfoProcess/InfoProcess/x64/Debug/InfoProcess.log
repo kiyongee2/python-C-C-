@@ -1,5 +1,5 @@
-﻿  MathEx.c
-  MathEx2.c
-  코드를 생성하고 있습니다...
-D:\korea_IT\c2025\InfoProcess\InfoProcess\MathEx.c(9,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  ScanfEx.c
+D:\korea_IT\c2025\InfoProcess\InfoProcess\ScanfEx.c(9,7): warning C4101: 'cc' :참조되지 않은 지역 변수입니다.
+D:\korea_IT\c2025\InfoProcess\InfoProcess\ScanfEx.c(9,11): warning C4101: 'dd' :참조되지 않은 지역 변수입니다.
+D:\korea_IT\c2025\InfoProcess\InfoProcess\ScanfEx.c(8,8): warning C4101: 'aa' :참조되지 않은 지역 변수입니다.
   InfoProcess.vcxproj -> D:\korea_IT\c2025\InfoProcess\x64\Debug\InfoProcess.exe

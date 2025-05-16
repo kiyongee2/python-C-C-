@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\InfoProcess\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\ScanfEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|solutionrelative:InfoProcess\\ScanfEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\MathEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|solutionrelative:InfoProcess\\MathEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ScanfEx.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\ScanfEx.c",
+              "RelativeDocumentMoniker": "InfoProcess\\ScanfEx.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\ScanfEx.c",
+              "RelativeToolTip": "InfoProcess\\ScanfEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-15T07:36:24.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MathEx2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\MathEx2.c",
               "RelativeDocumentMoniker": "InfoProcess\\MathEx2.c",
@@ -35,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MathEx.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\MathEx.c",
               "RelativeDocumentMoniker": "InfoProcess\\MathEx.c",
               "ToolTip": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\MathEx.c",
               "RelativeToolTip": "InfoProcess\\MathEx.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-14T23:33:52.132Z",
               "EditorCaption": ""

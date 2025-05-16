@@ -75,7 +75,7 @@ else:
 '''
     
 # 실습1
-'''
+
 print("Happy Birthday!!을 입력하세요.")
 x = input()
 x = x.capitalize()
@@ -93,11 +93,11 @@ print(y[1][5:8])
 
 arr_str = input("Input string: ").split('-')
 arr_len = int(input('Input number: '))
-arr_val = list(range(0, arr_len, 2))
-arr_val.remove(4)
+arr_val = list(range(0, arr_len, 2)) # 0 2 4 6 8
+arr_val.remove(4) # 0 2 6 8
 
 print(arr_str[1].find('e') + arr_val[2])
-'''
+# -1 + 6 = 5
 
 # 실습3
 i = 20

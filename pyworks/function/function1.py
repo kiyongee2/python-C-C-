@@ -11,7 +11,6 @@ say_hello()
 
 say_hello2("민준")
 say_hello2("Elsa")
-'''
 
 # return이 있는 함수
 # 제곱수 구하는 함수
@@ -31,7 +30,6 @@ print(val1)
 val2 = my_abs(-5)
 print(val2)
 
-'''
 # 리스트를 매개변수로 전달
 def times(a):
     a2 = []
@@ -42,22 +40,46 @@ def times(a):
 v = [1, 2, 3, 4]
 v2 = times(v)
 print(v2)
+'''
 
 # 동명이인 찾기
+# 리스트로 구현하기
 def find_same_name(a):
     same_name = []
     n = len(a)
     for i in range(0, n-1):
-        for j in range(i+1, n):
+        for j in range(i + 1, n):
             if a[i] == a[j]:
                 same_name.append(a[i])
     return same_name
+"""
+  a=0, j=0, a[0] == a[1], False
+       j=1, a[0] == a[2], False
+       j=2, a[0] == a[2], False
+  a=1, j=1, a[1] == a[2], False 
+       j=2, a[1] == a[3], True, 중복
+  a=2, j=3, a[2] == a[3], False, 반복 종료
+"""
 
 name = ['콩쥐', '흥부', '팥쥐', '흥부']
 result = find_same_name(name)
 print(result)
-'''
 
+# set(집합)으로 구현하기
+def find_same_name(a):
+    same_name = set()
+    n = len(a)
+    for i in range(0, n-1):
+        for j in range(i + 1, n):
+            if a[i] == a[j]:
+                same_name.add(a[i])
+    return same_name
+
+name = ['콩쥐', '흥부', '팥쥐', '흥부']
+result2 = find_same_name(name)
+print(result2)
+
+'''
 # 전역 변수
 def get_price():
     price = 1000 * quantity
@@ -107,6 +129,7 @@ print("상품1 가격 : " + str(price1) + "원")
 print(f"상품1 가격 : {price1}원")
 print("상품2 가격 : " + str(price2) + "원")
 print(f"상품2 가격 : {price2}원")
+'''
 
 # 실습 문제1
 def my_func(x, y):
