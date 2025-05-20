@@ -22,7 +22,7 @@ public class MemberArrayListTest {
 		memberList.showAllMember();
 		
 		//회원 삭제
-		//memberList.removeMember(1002);
+		memberList.removeMember(1002);
 		memberList.removeMember(1004);
 		
 		memberList.showAllMember();

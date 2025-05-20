@@ -129,13 +129,17 @@
   <ItemGroup>
     <ClCompile Include="AreaOfShape.c" />
     <ClCompile Include="CalcRandNumber.c" />
+    <ClCompile Include="CalcSum.c" />
     <ClCompile Include="DateTime.c" />
+    <ClCompile Include="Factorial.c" />
     <ClCompile Include="FindMax.c" />
     <ClCompile Include="GetChar.c" />
     <ClCompile Include="GlobalVar.c" />
     <ClCompile Include="MathEx.c" />
     <ClCompile Include="MathEx2.c" />
     <ClCompile Include="MyPow.c" />
+    <ClCompile Include="RandCoin.c" />
+    <ClCompile Include="Recursive.c" />
     <ClCompile Include="ReturnFunction.c" />
     <ClCompile Include="SayHello.c" />
     <ClCompile Include="StaticVar.c" />

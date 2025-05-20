@@ -80,7 +80,7 @@ print("홀수의 합계:", total)
 """
 
 # 리스트 슬라이싱
-'''
+
 carts = ["라면", "커피", "계란", "토마토"]
 
 print(carts[0:4])
@@ -110,7 +110,6 @@ print("arr3 =", arr3)
 # arr1에서 홀수만 저장
 arr4 = [i for i in arr1 if i % 2 == 1]
 print("arr4 =", arr4)
-'''
 
 # 오름차순 정렬 - 버블 정렬
 n_list = [60, 40, 90, 50, 80]

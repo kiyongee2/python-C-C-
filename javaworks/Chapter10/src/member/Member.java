@@ -33,21 +33,21 @@ public class Member {
 	}
 
 	//hashCode() 재정의
-	@Override
-	public int hashCode() {
-		return memberId;
-	}
+//	@Override
+//	public int hashCode() {
+//		return memberId;
+//	}
 
 	//equals() 재정의
-	@Override
-	public boolean equals(Object obj) {
-		if(obj instanceof Member) {
-			Member member = (Member)obj;
-			if(this.memberId == member.memberId)
-				return true;
-		}
-		return false;
-	}
+//	@Override
+//	public boolean equals(Object obj) {
+//		if(obj instanceof Member) {
+//			Member member = (Member)obj;
+//			if(this.memberId == member.memberId)
+//				return true;
+//		}
+//		return false;
+//	}
 }
 
 

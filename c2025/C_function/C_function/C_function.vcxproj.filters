@@ -66,5 +66,17 @@
     <ClCompile Include="MyPow.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="RandCoin.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CalcSum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Recursive.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Factorial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CalcSum.c" />
+    <ClCompile Include="calcSum2.c" />
     <ClCompile Include="FindMax.c" />
     <ClCompile Include="FindMaxIdx.c" />
     <ClCompile Include="MallocEx1.c" />

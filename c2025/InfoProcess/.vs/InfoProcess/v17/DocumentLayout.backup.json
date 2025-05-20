@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\InfoProcess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\ScanfEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|solutionrelative:InfoProcess\\ScanfEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\MathEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|solutionrelative:InfoProcess\\MathEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\TypeConversion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|solutionrelative:InfoProcess\\TypeConversion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\MathEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|solutionrelative:InfoProcess\\MathEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\Operator2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|solutionrelative:InfoProcess\\Operator2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\Operator1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|solutionrelative:InfoProcess\\Operator1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\ScanfEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|solutionrelative:InfoProcess\\ScanfEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\ScanfEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9A59DED-8C44-4F83-8EC6-ABFCDFF32631}|InfoProcess\\InfoProcess.vcxproj|solutionrelative:InfoProcess\\ScanfEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +38,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "TypeConversion.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\TypeConversion.c",
+              "RelativeDocumentMoniker": "InfoProcess\\TypeConversion.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\TypeConversion.c",
+              "RelativeToolTip": "InfoProcess\\TypeConversion.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-17T22:18:52.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operator2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\Operator2.c",
+              "RelativeDocumentMoniker": "InfoProcess\\Operator2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\Operator2.c",
+              "RelativeToolTip": "InfoProcess\\Operator2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-17T22:13:49.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Operator1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\Operator1.c",
+              "RelativeDocumentMoniker": "InfoProcess\\Operator1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\Operator1.c",
+              "RelativeToolTip": "InfoProcess\\Operator1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-17T21:54:53.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScanfEx1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\ScanfEx1.c",
+              "RelativeDocumentMoniker": "InfoProcess\\ScanfEx1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\ScanfEx1.c",
+              "RelativeToolTip": "InfoProcess\\ScanfEx1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-17T21:43:12.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ScanfEx.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\ScanfEx.c",
               "RelativeDocumentMoniker": "InfoProcess\\ScanfEx.c",
               "ToolTip": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\ScanfEx.c",
               "RelativeToolTip": "InfoProcess\\ScanfEx.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-15T07:36:24.1Z",
               "EditorCaption": ""
@@ -52,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MathEx.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\MathEx.c",
               "RelativeDocumentMoniker": "InfoProcess\\MathEx.c",
               "ToolTip": "D:\\korea_IT\\c2025\\InfoProcess\\InfoProcess\\MathEx.c",
               "RelativeToolTip": "InfoProcess\\MathEx.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-14T23:33:52.132Z",
               "EditorCaption": ""

@@ -7,7 +7,7 @@ import member.Member;
 
 //회원 관리 map 클래스 정의
 public class MemberHashMap {
-	
+	//Integer - memberId, Member 
 	HashMap<Integer, Member> hashMap;
 	
 	//회원 관리 객체 생성
@@ -23,9 +23,9 @@ public class MemberHashMap {
 	//회원 목록
 	public void showAllMember() {
 		Iterator<Integer> ir = hashMap.keySet().iterator();
-		while(ir.hasNext()) {
-			int key = ir.next();
-			Member member = hashMap.get(key);
+		while(ir.hasNext()) { //요소를 순회하면서
+			int key = ir.next();  //요소의 키를 가져와
+			Member member = hashMap.get(key); //키로 member 객체를 생성함
 			System.out.println(member);
 		}
 		System.out.println();
@@ -33,7 +33,7 @@ public class MemberHashMap {
 	
 	//회원 삭제
 	public boolean removeMember(int memberId) {
-		if(hashMap.containsKey(memberId)) {
+		if(hashMap.containsKey(memberId)) { //외부 입력한 memberId가 있으면
 			hashMap.remove(memberId);
 			return true;
 		}

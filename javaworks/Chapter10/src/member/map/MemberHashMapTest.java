@@ -13,7 +13,7 @@ public class MemberHashMapTest {
 		hashMap.addMember(new Member(1001, "이정후"));
 		hashMap.addMember(new Member(1002, "신유빈"));
 		hashMap.addMember(new Member(1003, "최민정"));
-		hashMap.addMember(new Member(1003, "황정민")); //중복 발생
+		hashMap.addMember(new Member(1003, "임시현")); //중복 발생
 		
 		//회원 출력
 		hashMap.showAllMember();

@@ -129,7 +129,11 @@
   <ItemGroup>
     <ClCompile Include="MathEx.c" />
     <ClCompile Include="MathEx2.c" />
+    <ClCompile Include="Operator1.c" />
+    <ClCompile Include="Operator2.c" />
     <ClCompile Include="ScanfEx.c" />
+    <ClCompile Include="ScanfEx1.c" />
+    <ClCompile Include="TypeConversion.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

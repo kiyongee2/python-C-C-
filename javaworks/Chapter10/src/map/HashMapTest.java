@@ -34,6 +34,7 @@ public class HashMapTest {
 		}
 		
 		//요소 삭제
+//		map.remove("고담덕");
 		if(map.containsKey("홍길동")) {
 			map.remove("홍길동");
 		}
