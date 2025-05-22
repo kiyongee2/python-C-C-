@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\C_function\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\RandCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\RandCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\Factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\Factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\StaticVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\StaticVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\RandCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\RandCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Factorial.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\Factorial.c",
               "RelativeDocumentMoniker": "C_function\\Factorial.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\Factorial.c*",
-              "RelativeToolTip": "C_function\\Factorial.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\Factorial.c",
+              "RelativeToolTip": "C_function\\Factorial.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-19T10:23:53.61Z",
               "IsPinned": true,
@@ -48,20 +48,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Recursive.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\Recursive.c",
               "RelativeDocumentMoniker": "C_function\\Recursive.c",
               "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\Recursive.c",
               "RelativeToolTip": "C_function\\Recursive.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-19T10:19:06.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T10:19:06.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StaticVar.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\StaticVar.c",
               "RelativeDocumentMoniker": "C_function\\StaticVar.c",
@@ -69,12 +68,11 @@
               "RelativeToolTip": "C_function\\StaticVar.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-19T09:30:26.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T09:30:26.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CalcSum.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\CalcSum.c",
               "RelativeDocumentMoniker": "C_function\\CalcSum.c",
@@ -82,12 +80,11 @@
               "RelativeToolTip": "C_function\\CalcSum.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-19T09:30:16.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T09:30:16.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "RandCoin.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\RandCoin.c",
               "RelativeDocumentMoniker": "C_function\\RandCoin.c",
@@ -95,7 +92,8 @@
               "RelativeToolTip": "C_function\\RandCoin.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-19T09:29:51.989Z"
+              "WhenOpened": "2025-05-19T09:29:51.989Z",
+              "EditorCaption": ""
             }
           ]
         }

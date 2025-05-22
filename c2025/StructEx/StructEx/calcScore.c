@@ -28,14 +28,22 @@
 //	Student s1 = {
 //		.number = 101,
 //		.name = "임시현",
-//		.score = {95, 88, 0}
+//		.score = {95, 88, 0.0}
+//	};
+//
+//	Student s2 = {
+//		.number = 102,
+//		.name = "이정후",
+//		.score = {80, 95, 0.0}
 //	};
 //
 //	//성적의 평균
 //	calcAvg(&s1.score);
+//	calcAvg(&s2.score);
 //
 //	//학생의 정보
 //	showStudentInfo(&s1);
+//	showStudentInfo(&s2);
 //
 //	return 0;
 //}

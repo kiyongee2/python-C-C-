@@ -27,5 +27,8 @@
     <ClCompile Include="Pointer2D.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MallocString1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

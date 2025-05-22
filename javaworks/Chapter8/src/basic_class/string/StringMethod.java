@@ -25,8 +25,10 @@ public class StringMethod {
 			break;
 		}
 		
-		// indexOf() - 매개값의 인덱스(위치) 리턴함
-		// 매개값이 없으면 -1을 리턴함
+		/* indexOf() 
+		   - 매개값을 앞에서부터 찾아서 인덱스(위치) 리턴함
+		   - 매개값을 찾을 수 없을때 -1을 리턴함
+		*/
 		String subject = "자바 프로그래밍 입문";
 		int location1 = subject.indexOf("프로그래밍");
 		System.out.println(location1);
@@ -50,6 +52,16 @@ public class StringMethod {
 		
 		String secondNum = juminNum.substring(7);
 		System.out.println(secondNum);
+		
+		/* lastIndexOf()
+		   - 매개값을 뒤에서 부터 찾아서 인덱스(위치) 리턴함
+		   - 매개값을 찾을 수 없을때 -1을 리턴함
+		*/
+		String url = "http://www.korea_it.kr/custom/boards";
+		int n = url.lastIndexOf("/");
+		
+		System.out.println(n);
+		System.out.println(url.substring(n));
 	}
 }
 

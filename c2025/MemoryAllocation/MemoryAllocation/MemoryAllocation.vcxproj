@@ -130,6 +130,7 @@
     <ClCompile Include="Alphabets.c" />
     <ClCompile Include="MallocEx1.c" />
     <ClCompile Include="MallocEx2.c" />
+    <ClCompile Include="MallocString1.c" />
     <ClCompile Include="Pointer2D.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -23,7 +23,6 @@ radius = 4
 area = math.pi * radius * radius
 print(f"원의 넓이: {area:.2f}")
 """
-'''
 # datetime 모듈
 import datetime
 
@@ -57,14 +56,23 @@ the_day = datetime.date(2025, 4, 19)
 # print(the_day)
 today = datetime.date.today()
 
-# 지나온 날 = 
 passedtime = today - the_day
 print(f'개강 이후 : {passedtime.days}일 지났습니다.')
+
+print("대통령 선거일까지  DDay?")
+the_day = datetime.date(2025, 6, 3)
+# print(the_day)
+
+today = datetime.date.today()
+# print(today)
+
+remain_day = the_day - today
+print(f"대통령 선거일까지 {remain_day.days}일 남았습니다.")
 
 # calendar 모듈
 import calendar
 
-calendar.prcal(2025) #전체 출력
+# calendar.prcal(2025) #전체 출력
 
 calendar.prmonth(2025, 5) #5월 출력
 
@@ -84,7 +92,6 @@ def get_weekday(yyyy, mm, dd):
     print("{}년 {}월 {}일 {}요일".format(yyyy, mm, dd, days[idx]))
 
 get_weekday(2023, 4, 5)
-'''
 
 """
 # time 모듈
@@ -150,7 +157,6 @@ else:
 for i in range(10):
     dice = random.randint(1, 6)
     print(dice)
-'''
 
 # up and down 게임
 import random
@@ -172,7 +178,7 @@ while True:
         print("너무 커요")
     else:
         print("너무 작아요")
-
+'''
 '''
 # version 2
 com = random.randint(1, 100)

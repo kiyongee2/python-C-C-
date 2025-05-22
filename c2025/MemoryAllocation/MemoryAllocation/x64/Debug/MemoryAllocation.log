@@ -1,2 +1,4 @@
-﻿  Pointer2D.c
+﻿  MallocString1.c
+D:\korea_IT\c2025\MemoryAllocation\MemoryAllocation\MallocString1.c(16,12): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\korea_IT\c2025\MemoryAllocation\MemoryAllocation\MallocString1.c(26,2): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   MemoryAllocation.vcxproj -> D:\korea_IT\c2025\MemoryAllocation\x64\Debug\MemoryAllocation.exe

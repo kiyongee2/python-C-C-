@@ -42,8 +42,8 @@
 //	strcpy_s(emp[2].name, sizeof(emp[2].name), "한과장");
 //	emp[2].salary = 4000000;
 //	
-//	//showPersonInfo() 호출
-//	displayInfo(emp, 3);
+//	displayInfo(emp, 3); //displayInfo() 호출
 //
+//	free(emp); //메모리 해제
 //	return 0;
 //}

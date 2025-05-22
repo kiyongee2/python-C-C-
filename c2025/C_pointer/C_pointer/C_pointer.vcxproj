@@ -143,6 +143,7 @@
     <ClCompile Include="PointerEx3.c" />
     <ClCompile Include="PointerFunc.c" />
     <ClCompile Include="PointerString.c" />
+    <ClCompile Include="RandCoin.c" />
     <ClCompile Include="TypingGame.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
