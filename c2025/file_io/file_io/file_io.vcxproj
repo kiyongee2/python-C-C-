@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="asciiRead.c" />
     <ClCompile Include="asciiWrite.c" />
+    <ClCompile Include="fileGugudan.c" />
     <ClCompile Include="fileRead1.c" />
     <ClCompile Include="fileWrite1.c" />
     <ClCompile Include="fileWrite2.c" />

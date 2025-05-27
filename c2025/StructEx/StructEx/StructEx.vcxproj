@@ -128,12 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="calcScore.c" />
+    <ClCompile Include="calcScore2.c" />
     <ClCompile Include="structBook.c" />
     <ClCompile Include="structDateTime.c" />
     <ClCompile Include="structEmployee2.c" />
     <ClCompile Include="structFruit.c" />
     <ClCompile Include="structPointer.c" />
-    <ClCompile Include="typedef1.c" />
+    <ClCompile Include="typedefHero.c" />
     <ClCompile Include="structRef.c" />
     <ClCompile Include="typedefStruct.c" />
     <ClCompile Include="연결리스트.c" />

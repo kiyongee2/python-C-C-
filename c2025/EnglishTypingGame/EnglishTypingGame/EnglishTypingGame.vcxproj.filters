@@ -24,5 +24,11 @@
     <ClCompile Include="gameMain2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="strtokEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="wordWriteRead2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

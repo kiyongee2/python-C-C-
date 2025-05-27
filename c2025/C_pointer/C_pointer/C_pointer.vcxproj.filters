@@ -63,5 +63,17 @@
     <ClCompile Include="RandCoin.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="strtokEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TypingGame2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mallocEx3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mallocEx4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

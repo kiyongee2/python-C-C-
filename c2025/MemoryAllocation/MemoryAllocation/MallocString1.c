@@ -1,17 +1,18 @@
 //#include <stdio.h>
+//#include <string.h> //strlen(), strcpy_s()
 //#include <stdlib.h> //malloc(), free()
 //
-//void delBl(char[]);
+//void delBlank(char[]);
 //int main()
 //{
 //	char a[] = "A B c D e F !";
-//	delBl(a);
+//	delBlank(a);
 //	printf("%s\n", a);
 //
 //	return 0;
 //}
 //
-//void delBl(char a[]) 
+//void delBlank(char a[]) 
 //{
 //	int len = strlen(a);
 //	char* str = (char *)malloc(sizeof(char) * len);
@@ -23,7 +24,8 @@
 //			str[k++] = a[i];
 //	}
 //	str[k] = '\0';
-//	strcpy(a, str);
+//	//strcpy(a, str);
+//	strcpy_s(a, sizeof(a), str);
 //
 //	free(str);
 //}

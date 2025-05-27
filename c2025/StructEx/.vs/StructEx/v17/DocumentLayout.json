@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\StructEx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\typedef1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\typedef1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\structPointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\structPointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\structBook.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\structBook.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\structFruit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\structFruit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\structRef.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\structRef.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\typedefStruct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\typedefStruct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\calcScore2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\calcScore2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\calcScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -38,93 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "structBook.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\structBook.c",
-              "RelativeDocumentMoniker": "StructEx\\structBook.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\structBook.c",
-              "RelativeToolTip": "StructEx\\structBook.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-24T20:38:45.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "structFruit.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\structFruit.c",
-              "RelativeDocumentMoniker": "StructEx\\structFruit.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\structFruit.c",
-              "RelativeToolTip": "StructEx\\structFruit.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-24T20:38:44.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "structRef.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\structRef.c",
-              "RelativeDocumentMoniker": "StructEx\\structRef.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\structRef.c",
-              "RelativeToolTip": "StructEx\\structRef.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-24T20:38:40.524Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "typedef1.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\typedef1.c",
-              "RelativeDocumentMoniker": "StructEx\\typedef1.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\typedef1.c",
-              "RelativeToolTip": "StructEx\\typedef1.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Title": "calcScore2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\calcScore2.c",
+              "RelativeDocumentMoniker": "StructEx\\calcScore2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\calcScore2.c",
+              "RelativeToolTip": "StructEx\\calcScore2.c",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawCUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-24T20:38:34.047Z",
+              "WhenOpened": "2025-05-27T06:42:13.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "typedefStruct.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\typedefStruct.c",
-              "RelativeDocumentMoniker": "StructEx\\typedefStruct.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\typedefStruct.c",
-              "RelativeToolTip": "StructEx\\typedefStruct.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-24T20:38:27.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "calcScore.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\calcScore.c",
               "RelativeDocumentMoniker": "StructEx\\calcScore.c",
               "ToolTip": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\calcScore.c",
               "RelativeToolTip": "StructEx\\calcScore.c",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswC0AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-22T07:42:31.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "structPointer.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\structPointer.c",
-              "RelativeDocumentMoniker": "StructEx\\structPointer.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\structPointer.c",
-              "RelativeToolTip": "StructEx\\structPointer.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-20T00:28:11.692Z",
+              "WhenOpened": "2025-05-22T07:42:31.021Z",
               "EditorCaption": ""
             }
           ]

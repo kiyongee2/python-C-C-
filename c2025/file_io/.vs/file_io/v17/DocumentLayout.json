@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\file_io\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\fileGugudan.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\fileGugudan.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\wordWriteRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\wordWriteRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -43,19 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "fileGugudan.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileGugudan.c",
+              "RelativeDocumentMoniker": "file_io\\fileGugudan.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileGugudan.c",
+              "RelativeToolTip": "file_io\\fileGugudan.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-27T07:46:32.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "wordWriteRead.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\wordWriteRead.c",
               "RelativeDocumentMoniker": "file_io\\wordWriteRead.c",
               "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\wordWriteRead.c",
               "RelativeToolTip": "file_io\\wordWriteRead.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAAmwDwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwDYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-27T01:20:37.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "asciiRead.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\asciiRead.c",
               "RelativeDocumentMoniker": "file_io\\asciiRead.c",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "fileWrite2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileWrite2.c",
               "RelativeDocumentMoniker": "file_io\\fileWrite2.c",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "asciiWrite.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\asciiWrite.c",
               "RelativeDocumentMoniker": "file_io\\asciiWrite.c",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "inputBuffer.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\inputBuffer.c",
               "RelativeDocumentMoniker": "file_io\\inputBuffer.c",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "fileRead1.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileRead1.c",
               "RelativeDocumentMoniker": "file_io\\fileRead1.c",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "fileWrite1.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileWrite1.c",
               "RelativeDocumentMoniker": "file_io\\fileWrite1.c",

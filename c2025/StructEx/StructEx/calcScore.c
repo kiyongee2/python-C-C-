@@ -41,6 +41,7 @@
 //	calcAvg(&s1.score);
 //	calcAvg(&s2.score);
 //
+//
 //	//학생의 정보
 //	showStudentInfo(&s1);
 //	showStudentInfo(&s2);

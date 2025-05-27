@@ -24,7 +24,7 @@
     <ClCompile Include="연결리스트3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="typedef1.c">
+    <ClCompile Include="typedefHero.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="structRef.c">
@@ -49,6 +49,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="structBook.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calcScore2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

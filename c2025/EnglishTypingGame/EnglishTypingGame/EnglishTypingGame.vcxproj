@@ -129,7 +129,9 @@
   <ItemGroup>
     <ClCompile Include="GameMain.c" />
     <ClCompile Include="gameMain2.c" />
+    <ClCompile Include="strtokEx.c" />
     <ClCompile Include="wordWriteRead.c" />
+    <ClCompile Include="wordWriteRead2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
