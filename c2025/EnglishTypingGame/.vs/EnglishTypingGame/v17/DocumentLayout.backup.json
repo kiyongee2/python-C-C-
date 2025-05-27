@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c2025\\EnglishTypingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E43B693-6F12-4B80-A58D-503E322498B2}|EnglishTypingGame\\EnglishTypingGame.vcxproj|D:\\korea_IT\\c2025\\EnglishTypingGame\\EnglishTypingGame\\gameMain2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E43B693-6F12-4B80-A58D-503E322498B2}|EnglishTypingGame\\EnglishTypingGame.vcxproj|solutionrelative:EnglishTypingGame\\gameMain2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E43B693-6F12-4B80-A58D-503E322498B2}|EnglishTypingGame\\EnglishTypingGame.vcxproj|D:\\korea_IT\\c2025\\EnglishTypingGame\\EnglishTypingGame\\GameMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E43B693-6F12-4B80-A58D-503E322498B2}|EnglishTypingGame\\EnglishTypingGame.vcxproj|solutionrelative:EnglishTypingGame\\GameMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E43B693-6F12-4B80-A58D-503E322498B2}|EnglishTypingGame\\EnglishTypingGame.vcxproj|D:\\korea_IT\\c2025\\EnglishTypingGame\\EnglishTypingGame\\wordWriteRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E43B693-6F12-4B80-A58D-503E322498B2}|EnglishTypingGame\\EnglishTypingGame.vcxproj|solutionrelative:EnglishTypingGame\\wordWriteRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gameMain2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\EnglishTypingGame\\EnglishTypingGame\\gameMain2.c",
+              "RelativeDocumentMoniker": "EnglishTypingGame\\gameMain2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\EnglishTypingGame\\EnglishTypingGame\\gameMain2.c*",
+              "RelativeToolTip": "EnglishTypingGame\\gameMain2.c*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-27T02:36:06.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameMain.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\EnglishTypingGame\\EnglishTypingGame\\GameMain.c",
+              "RelativeDocumentMoniker": "EnglishTypingGame\\GameMain.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\EnglishTypingGame\\EnglishTypingGame\\GameMain.c*",
+              "RelativeToolTip": "EnglishTypingGame\\GameMain.c*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-27T01:53:49.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wordWriteRead.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\EnglishTypingGame\\EnglishTypingGame\\wordWriteRead.c",
+              "RelativeDocumentMoniker": "EnglishTypingGame\\wordWriteRead.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\EnglishTypingGame\\EnglishTypingGame\\wordWriteRead.c",
+              "RelativeToolTip": "EnglishTypingGame\\wordWriteRead.c",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-27T01:52:24.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

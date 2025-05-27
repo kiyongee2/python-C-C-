@@ -1,0 +1,4 @@
+﻿  wordWrite.c
+D:\korea_IT\c2025\file_io\file_io\wordWrite.c(22,3): warning C4098: 'wordWrite': 'void' 함수에서 값을 반환하고 있습니다.
+D:\korea_IT\c2025\file_io\file_io\wordWrite.c(46,3): warning C4098: 'wordRead': 'void' 함수에서 값을 반환하고 있습니다.
+  file_io.vcxproj -> D:\korea_IT\c2025\file_io\x64\Debug\file_io.exe

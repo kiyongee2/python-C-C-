@@ -32,11 +32,14 @@ print(len(car))
 # 추가
 car.append("모닝")
 
+# 추가(리스트형으로 추가)
+car.extend(["K7", "K8"])
+
 # 삭제
-car.pop()
+# car.pop()
 
 # 특정 요소 삭제
-car.remove("BMW")
+# car.remove("BMW")
 print(car)
 
 

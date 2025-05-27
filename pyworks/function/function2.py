@@ -1,5 +1,5 @@
+"""
 # 기본 매개 변수
-'''
 def print_string(text, count=1):
     for i in range(count):
         print(text)
@@ -10,18 +10,17 @@ print_string("Hello", 3)
 # 가변 매개 변수
 def calc_avg(*numbers):
     sum_v = 0
-    avg = 0.0
     for i in numbers:
         sum_v += i
     avg = sum_v / len(numbers)
     return avg
 
-avg1 = calc_avg(1, 2)
+avg1 = calc_avg(1, 2) #1.5
+avg2 = calc_avg(1, 2, 3, 4) #2.5
 print(avg1)
-'''
+print(avg2)
 
 # 내장 함수
-
 a = [1, 2, 3, 4]  # 리스트 생성
 b = (1, 2, 3, 4)  # 튜플 생성
 
@@ -67,21 +66,27 @@ print(my_pow(3, 3)) #27
 # 내장 함수 - pow()와 비교
 print(pow(2, 4)) #16
 print(pow(3, 3)) #27
-
 """
+
 # 재귀 호출
+# def sos(i):
+#     print("Help me!")
+#     if i <= 1:
+#         return ''
+#     else:
+#         return sos(i - 1)
+    
 def sos(i):
     print("Help me!")
-    if i <= 1:
-        return ''
-    else:
-        return sos(i - 1)
+    i = i - 1
+    if i > 0:
+        sos(i)
 '''
     i=4, Help me!, sos(3)
     i=3, Help me!, sos(2)
     i=2, Help me!, sos(1)
     i=1, Help me!, sos(0)
-    i=0, 공백 문자
+    i=0, 반복 종료
 '''
 sos(4)
 
@@ -103,4 +108,3 @@ print(facto(1)) # 1!
 print(facto(2)) # 2!
 print(facto(3)) # 3!
 print(facto(4)) # 4!
-"""

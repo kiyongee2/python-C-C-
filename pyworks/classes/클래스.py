@@ -111,59 +111,10 @@ print(cal.add(10))
 print(cal.sub(4))
 
 # 접근 제어자
-# 기본적으로 public(접근 가능), private(접근 불가능)
-'''
-class BankAccount:
-    def __init__(self):
-        self.__ano = ""
-        self.__owner = ""
-        self.__balance = ""
-    
-account1 = BankAccount()
-print(account1.__ano)
-'''
 
-# setter, getter 사용
-class BankAccount:
-    def __init__(self):
-        self.__ano = ""
-        self.__owner = ""
-        self.__balance = ""
-
-    # 계좌 번호
-    def set_ano(self, ano):
-        self.__ano = ano
-
-    def get_ano(self):
-        return self.__ano
-    
-    # 계좌주
-    def set_owner(self, owner):
-        self.__owner = owner
-
-    def get_owner(self):
-        return self.__owner
-    
-    # 잔고
-    def set_balance(self, balance):
-        self.__balance = balance
-
-    def get_balance(self):
-        return self.__balance
-    
-account1 = BankAccount()
-# setter
-account1.set_ano("12-1234")
-account1.set_owner("김기용")
-account1.set_balance(20000)
-
-# getter
-print("계좌번호:", account1.get_ano())
-print("계좌주:", account1.get_owner())
-print("잔고:", account1.get_balance())
 
 # 인스턴스 리스트
-"""
+'''
 class Dog:
     #tricks = [] 클래스 변수
 
@@ -182,32 +133,31 @@ print(dog1.tricks)
 
 dog2.add_trick("죽은 척 하기")
 print(dog2.tricks)
+'''
 
 # 정적(고정) 클래스
-
 class Dog:
     kind = "진돗개"  #클래스 변수
 
     def __init__(self, name):
-        self.name = name  # 인스턴스 변수
+        self.name = name  
 
 dog1 = Dog("백구")
-dog2 = Dog("검둥이")
+dog2 = Dog("밀크")
 
 print(dog1.name)  # dog1만 유일
 print(dog2.name)  # dog2만 유일
 
 # 모든 dog이 공유
-print(dog1.kind)
-print(dog2.kind)
+# print(dog1.kind)
+# print(dog2.kind)
+
 # 클래스 이름으로 직접 접근(올바른 유형)
 print(Dog.kind)
-"""
 
-# 카운터
-"""
+# 카운터 만들기
 class Counter:
-    x = 0
+    x = 0  #클래스 변수
 
     def __init__(self):
         Counter.x += 1
@@ -221,33 +171,50 @@ print(c1.get_count())
 c2 = Counter()
 print(c2.get_count())
 
-# 클래스 리스트
+c3 = Counter()
+print(c3.get_count())
+
+# 인스턴스형 카운터
+class Counter2:
+    def __init__(self):
+        self.x = 0
+        self.x += 1
+
+    def get_count(self):
+        return self.x
+
+c1 = Counter2()
+print(c1.get_count())
+
+c2 = Counter2()
+print(c2.get_count())
+
+c3 = Counter2()
+print(c3.get_count())
+
+# 쇼핑몰 장바구니 구현
 class Cart:
-    li = []
+    def __init__(self, user):
+        self.user = user
+        self.items = []  #장바구니 리스트
+    
+    def add(self, *goods):  # 여러 상품 한 번에 추가(가변 매개변수)
+        self.items.extend(goods)
+    
+    def remove(self, item):
+        if item in self.items:
+            self.items.remove(item)
+    
+    def __str__(self):
+        return f"{self.user}'s 장바구니: {self.items}"
 
-    def add_cart(self, goods):
-        self.li.append(goods)
-
-cart1 = Cart()
-cart1.add_cart("계란")
-#print(cart1.li)
-print(Cart.li)
-
-cart2 = Cart()
-cart1.add_cart("두부")
-print(Cart.li)
-
-cart3 = Cart()
-cart1.add_cart("콩나물")
-print(Cart.li)
-
-# 전체 요소 출력
-for i in Cart.li:
-    print(i)
-"""
+# 사용
+my_cart = Cart("장그래")
+my_cart.add("계란", "우유", "라면")
+my_cart.remove("우유")
+print(my_cart)  # "장그래's 장바구니: ['계란', '라면']"
 
 # 클래스 리스트 인덱싱
-"""
 class City:
     a = ['Seoul', 'Incheon', 'Daejon', 'Jeju']
 
@@ -256,7 +223,7 @@ for i in City.a:
     str += i[0]
 
 print(str)
-"""
+
 
 # 상속(inheritance)
 """

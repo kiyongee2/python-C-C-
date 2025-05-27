@@ -11,7 +11,7 @@ CREATE TABLE ex1(
 );
 
 -- 데이터 추가
-INSERT INTO ex1(column1, column2) VALUES ('abc', 'abc');
+INSERT INTO ex1(column1, column2) VALUES ('abcd', 'abcd');
 INSERT INTO ex1(column1, column2) VALUES ('당산', '당산');
 
 -- 데이터 검색

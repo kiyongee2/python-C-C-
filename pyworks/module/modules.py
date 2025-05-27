@@ -53,9 +53,20 @@ print(f"타자 시간: {et:.2f}초")
 # 운영체제 제어
 import os
 
-os.chdir('c:/pyworks')  # pyworks 디렉터리로 이동
-dir = os.popen('dir')   # dir 명령 실행
-print(dir.read())       # dir 결과 출력
+# pyworks 디렉터리로 이동
+os.chdir('c:/pyworks') 
+
+# dir 명령 실행
+dir = os.popen('dir')   
+print(dir.read())   # dir 결과 출력
+
+# 파일 목록을 리스트로 얻기
+files = os.listdir('c:/pyworks')
+print(files)
+print(files[1])
+# 전체 출력
+for file in files:
+    print(file)
 
 # 모듈 가져오는 방법
 from datetime import datetime, date
@@ -68,7 +79,6 @@ print(now)
 today = date.today()
 print(today)
 
-'''
 import datetime
 
 # 현재 날짜와 시간 출력
@@ -76,6 +86,6 @@ now = datetime.datetime.now()
 print(now)
 
 # 특정한 날짜 설정
-the_day = datetime.date(2025, 6, 3)
-print(the_day)
-'''
+today = datetime.date.today()
+print(today)
+
