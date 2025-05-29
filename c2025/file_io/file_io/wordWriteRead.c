@@ -29,23 +29,21 @@
 //	//printf("%d\n", wordCount);
 //
 //	for (int i = 0; i < wordCount; i++) {
-//		fprintf(fp, "%s\n", words[i]);
+//		fprintf(fp, "%s ", words[i]);
 //	}
 //
 //	fclose(fp);
-//	printf("파일 쓰기 완료!\n");
 //}
 //
 //void wordRead()
 //{
 //	FILE* fp; //파일 포인터 변수 
-//	char word[256];
+//	char word[256]; //단어를 저장할 배열 선언
 //
 //	if (fopen_s(&fp, "word.txt", "r") != 0) {
 //		perror("파일 열기에 실패함\n");
 //		return 1;  //에러시 1 or -1
 //	}
-//
 //	//파일 읽기
 //	while (1) {
 //		if (fgets(word, sizeof(word), fp) == NULL) 
@@ -56,6 +54,5 @@
 //	/*while (fgets(word, sizeof(word), fp) != NULL) {
 //		printf("%s", word);
 //	}*/
-//
 //	fclose(fp);
 //}

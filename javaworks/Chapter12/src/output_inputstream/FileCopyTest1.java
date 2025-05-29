@@ -8,7 +8,6 @@ import java.io.InputStream;
 import java.io.OutputStream;
 
 public class FileCopyTest1 {
-
 	public static void main(String[] args) {
 		String originFile = "c:/file/boat.jpg";
 		String copyFile = "c:/file/boat2.jpg";
@@ -26,11 +25,8 @@ public class FileCopyTest1 {
 			os.flush();
 			end = System.currentTimeMillis();  //종료 시각
 			System.out.println("복사 소요 시간: " + (end - start) + "ms");
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
 	}
-
 }

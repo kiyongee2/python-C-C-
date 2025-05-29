@@ -129,11 +129,16 @@
   <ItemGroup>
     <ClCompile Include="asciiRead.c" />
     <ClCompile Include="asciiWrite.c" />
+    <ClCompile Include="binFile1.c" />
+    <ClCompile Include="fileCopy.c" />
     <ClCompile Include="fileGugudan.c" />
     <ClCompile Include="fileRead1.c" />
     <ClCompile Include="fileWrite1.c" />
     <ClCompile Include="fileWrite2.c" />
+    <ClCompile Include="imgfileCopy.c" />
+    <ClCompile Include="imgFileCopy2.c" />
     <ClCompile Include="inputBuffer.c" />
+    <ClCompile Include="typingGame.c" />
     <ClCompile Include="wordWriteRead.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

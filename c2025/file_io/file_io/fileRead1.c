@@ -5,6 +5,7 @@
 //{
 //	FILE* fp; //파일 포인터 변수 
 //	int ch;  //읽은 문자 변수(코드값이므로 int형)
+//	char str[256];
 //
 //	fp = fopen("c:/cfile/out.txt", "r"); //읽기 모드 - "r"
 //	if (fp == NULL) {
@@ -18,15 +19,25 @@
 //
 //	//모든 글자 읽기
 //	//방법 1
-//	while (1) {
+//	/*while (1) {
 //		ch = fgetc(fp);
 //		if (ch == EOF) break;
 //		printf("%c", ch);
-//	}
+//	}*/
 //
 //	//방법 2
-//	/*while ((ch = fgetc(fp)) != -1) {
+//	while ((ch = fgetc(fp)) != -1) {
 //		printf("%c", ch);
+//	}
+//
+//	/*while (1) {
+//		if (fgets(str, sizeof(str), fp) == NULL) 
+//			break;
+//		printf("%s", str);
+//	}*/
+//
+//	/*while (fgets(str, sizeof(str), fp) != NULL) {
+//		printf("%s", str);
 //	}*/
 //
 //	return 0;

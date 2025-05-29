@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\StructEx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\calcScore2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\calcScore2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\calcScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\calcScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B82.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B82.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "calcScore2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\calcScore2.c",
-              "RelativeDocumentMoniker": "StructEx\\calcScore2.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\calcScore2.c",
-              "RelativeToolTip": "StructEx\\calcScore2.c",
-              "ViewState": "AgIAABcAAAAAAAAAAAAawCUAAAACAAAAAAAAAA==",
+              "Title": "\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c",
+              "RelativeDocumentMoniker": "StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c",
+              "RelativeToolTip": "StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-27T06:42:13.262Z",
+              "WhenOpened": "2025-05-29T02:10:27.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "calcScore.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\calcScore.c",
-              "RelativeDocumentMoniker": "StructEx\\calcScore.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\calcScore.c",
-              "RelativeToolTip": "StructEx\\calcScore.c",
-              "ViewState": "AgIAABYAAAAAAAAAAAAIwCsAAAACAAAAAAAAAA==",
+              "Title": "\uC5F0\uACB0\uB9AC\uC2A4\uD2B82.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B82.c",
+              "RelativeDocumentMoniker": "StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B82.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B82.c",
+              "RelativeToolTip": "StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B82.c",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-22T07:42:31.021Z",
+              "WhenOpened": "2025-05-29T01:48:42.807Z",
               "EditorCaption": ""
             }
           ]

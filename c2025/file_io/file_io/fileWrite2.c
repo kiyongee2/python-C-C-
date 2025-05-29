@@ -19,5 +19,23 @@
 //	fclose(fp);
 //
 //	printf("파일 추가 쓰기 완료!");
+//
+//	//파일 읽기
+//	int ch;
+//
+//	fp = fopen("c:/cfile/out.txt", "r"); 
+//	if (fp == NULL) {
+//		printf("파일 열기에 실패함\n");
+//		return 1;
+//	}
+//
+//	while (1) {
+//		ch = fgetc(fp);
+//		if (ch == EOF) break;
+//		printf("%c", ch);
+//	}
+//
+//	fclose(fp);
+//
 //	return 0;
 //}

@@ -39,5 +39,20 @@
     <ClCompile Include="fileGugudan.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="fileCopy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="imgfileCopy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="imgFileCopy2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="binFile1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="typingGame.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

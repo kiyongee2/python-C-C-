@@ -36,10 +36,10 @@
     <ClCompile Include="calcScore.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="structPointer.c">
+    <ClCompile Include="structMalloc1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="structEmployee2.c">
+    <ClCompile Include="structMalloc2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="structFruit.c">
@@ -52,6 +52,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="calcScore2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structArray.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

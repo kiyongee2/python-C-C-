@@ -1,5 +1,5 @@
 # 리스트의 주요 함수
-
+"""
 a = [1, 2, 3]
 print(a)
 
@@ -41,21 +41,37 @@ car.extend(["K7", "K8"])
 # 특정 요소 삭제
 # car.remove("BMW")
 print(car)
-
+"""
 
 # 리스트의 정렬과 뒤집기
 n = [1, 4, 3, 2]
 n.sort()
-print(n)
+print(n) #[1, 2, 3, 4]
 
 lower = ['b', 'c', 'a']
-lower.reverse()
-print(lower)
+lower.reverse() 
+print(lower) #['a', 'c', 'b']
 
 n2 = [1, 3, 5, 4, 2]
 n2.sort()
 n2.reverse()
-print(n2)
+print(n2) #[5, 4, 3, 2, 1]
+
+# 리스트 추가
+li = ['a', 'b']
+li.extend(['c', 'd'])
+print(li) #['a', 'b', 'c', 'd']
+
+# 리스트 복사
+n = [1, 2, 3] #원본
+print(n)  #[1, 2, 3]
+m = n.copy()  #복사본
+print(m)  #[1, 2, 3]
+
+# 요소 수정
+n[1] = 5
+print(n)  #[1, 5, 3]
+print(m)  #[1, 2, 3]
 
 # 리스트의 복사
 """
@@ -80,7 +96,6 @@ for i in a1:
 
 print("a3 =", a3)
 print("홀수의 합계:", total)
-"""
 
 # 리스트 슬라이싱
 
@@ -113,6 +128,7 @@ print("arr3 =", arr3)
 # arr1에서 홀수만 저장
 arr4 = [i for i in arr1 if i % 2 == 1]
 print("arr4 =", arr4)
+"""
 
 # 오름차순 정렬 - 버블 정렬
 n_list = [60, 40, 90, 50, 80]

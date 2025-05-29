@@ -26,3 +26,31 @@ class Employee(Person):
 e2 = Employee("이강", 26, "전산실")
 print(e2.get_info())
 
+# 단위 변환 (inch -> mm로 변환 )
+class ScaleConverter:
+    def __init__(self, units_from, units_to, factor):
+        self.units_from = units_from
+        self.units_to = units_to
+        self.factor = factor
+
+    def convert(self, value):
+        return self.factor * value
+
+"""
+conv = ScaleConverter("inches", "mm", 25)
+print("Converting 2 inches")
+print(f"{conv.convert(2)} {conv.units_to}")
+"""
+
+class Converter(ScaleConverter):
+    def __init__(self, units_from, units_to, factor, offset):
+        super().__init__(units_from, units_to, factor)
+        self.offset = offset 
+
+    def convert(self, value):
+        return self.factor * value + self.offset
+    
+con = Converter('C', 'F', 1.8, 32)
+print("Converting 20C")
+print(str(con.convert(23)) + con.units_to)
+

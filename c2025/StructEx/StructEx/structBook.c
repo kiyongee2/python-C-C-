@@ -1,3 +1,4 @@
+//#define _CRT_SECURE_NO_WARNINGS
 //#include <stdio.h>
 //#include <stdlib.h>
 //#include <string.h>
@@ -28,7 +29,10 @@
 //
 //	//book 1권 생성
 //	book[0].no = 201;
-//	strcpy_s(book[0].title, sizeof(book[0].title), "모두의 C언어");
+//	//strcpy_s(book[0].title, sizeof(book[0].title), "모두의 C언어");
+//	//mac os
+//	strncpy(book[0].title, "모두의 C언어", sizeof(book[0].title) - 1);
+//	book[0].title[sizeof(book[0].title) - 1] = '\0';
 //
 //	//book 2권 생성
 //	book[1].no = 202;

@@ -1,5 +1,6 @@
 # 매개변수가 있는 생성자
 # __str__(self), 문자열 정보
+"""
 class Student:
     def __init__(self, name, grade):
         self.name = name
@@ -30,6 +31,7 @@ students = [
 print("***** 학생 명단 *****")
 for st in students:
     print(st)
+"""
 
 # 쇼핑몰 장바구니 구현
 class Cart:
@@ -52,3 +54,4 @@ my_cart = Cart("김기용")
 my_cart.add("계란", "우유", "라면")
 my_cart.remove("우유")
 print(my_cart)  # "김철수's 장바구니: ['계란', '라면']"
+
