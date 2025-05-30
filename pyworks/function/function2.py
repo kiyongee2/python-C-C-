@@ -108,3 +108,4 @@ print(facto(1)) # 1!
 print(facto(2)) # 2!
 print(facto(3)) # 3!
 print(facto(4)) # 4!
+

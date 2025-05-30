@@ -6,57 +6,52 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import dao.Users;
+import dto.Users;
 
 public class UsersSelectOneTest {
-
 	public static void main(String[] args) {
 		Connection conn = null;
 		PreparedStatement pstmt = null;
 		
 		try {
-			// jdbc 드라이버 등록
+			// db 연결
 			Class.forName("oracle.jdbc.OracleDriver");
-			// 연결
+			
 			conn = DriverManager.getConnection(
 					"jdbc:oracle:thin:@localhost:1521/xe",
-					"javauser",
-					"pwjava");
-			System.out.println(conn + "DB 연결 성공!!");
+					"system",
+					"pw1234");
 			
-			// db 작업 - 추가
+			// sql - 1건 검색
 			String sql = "SELECT * FROM users WHERE userid = ?";
 			pstmt = conn.prepareStatement(sql);
-			pstmt.setString(1, "elsa");
+			pstmt.setString(1, "cloud"); //? - 1개 
 		
-			// sql 실행
-			ResultSet rs = pstmt.executeQuery();
+			ResultSet rs = pstmt.executeQuery();  //검색된 객체 생성
+			
 			if(rs.next()) {
-				Users user = new Users();
-				user.setUserId(rs.getString("userid"));
-				user.setUserName(rs.getString("username"));
+				Users user = new Users(); //회원 객체 생성
+				
+				user.setUserId(rs.getString("userid")); //db 필드에서 가져와서 아이디 설정
 				user.setUserPassword(rs.getString("userpassword"));
+				user.setUserName(rs.getString("username"));
 				user.setUserAge(rs.getInt("userage"));
-				user.setUserEmail(rs.getString("useremail"));
 				
 				System.out.println("userId: " + user.getUserId());
-				System.out.println("userName: " + user.getUserName());
 				System.out.println("userPassword: " + user.getUserPassword());
+				System.out.println("userName: " + user.getUserName());
 				System.out.println("userAge: " + user.getUserAge());
-				System.out.println("userEmail: " + user.getUserEmail());
 				
 				/*
 				String userId = rs.getString("userid");
-				String userName = rs.getString("username");
 				String userPassword = rs.getString("userpassword");
+				String userName = rs.getString("username");
 				int userAge = rs.getInt("userage");
-				String userEmail = rs.getString("useremail");
 				
 				System.out.println("userId: " + userId);
-				System.out.println("userName: " + userName);
 				System.out.println("userPassword: " + userPassword);
+				System.out.println("userName: " + userName);
 				System.out.println("userAge: " + userAge);
-				System.out.println("userEmail: " + userEmail);
 				*/
 			}else {
 				System.out.println("아이디가 존재하지 않습니다.");
@@ -75,7 +70,5 @@ public class UsersSelectOneTest {
 				}
 			}
 		}
-
 	}
-
 }

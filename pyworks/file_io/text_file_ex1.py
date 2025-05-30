@@ -41,27 +41,21 @@ f.close()
 '''
 
 # 리스트를 파일에 쓰기
-f = open("C:/pyfile/season.txt", "w")
-
 seasons = ["봄", "여름", "가을", "겨울"]
 
-for season in seasons:
-    f.write(season)
-    f.write("\n")
-
-f.close()
+with open("season.txt", "w", encoding='utf-8') as f1:
+    for season in seasons:
+        f1.write(season)
+        f1.write("\n")
 
 # 파일에서 리스트 읽기
-f = open("C:/pyfile/season.txt", "r")
-
-data = f.read()
-print(data)
-
-f.close()
-
+with open("season.txt", "r", encoding='utf-8') as f2:
+    data = f2.read()
+    print(data)
+    
 # 장바구니 리스트 쓰기
 try:
-    f = open("c:/pyfile/cartlist.txt", "w")
+    f = open("cartlist.txt", "w")
 
     cartlist = ["계란", "우유", "바나나", "라면"]
 
@@ -76,7 +70,7 @@ except FileNotFoundError:
 import random
 
 try:
-    f = open("c:/pyfile/cartlist.txt", "r")
+    f = open("cartlist.txt", "r")
 
     # cartlist = f.read()
     # print(cartlist)

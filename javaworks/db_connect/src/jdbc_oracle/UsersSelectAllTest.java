@@ -8,10 +8,9 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import dao.Users;
+import dto.Users;
 
 public class UsersSelectAllTest {
-
 	public static void main(String[] args) {
 		Connection conn = null;
 		PreparedStatement pstmt = null;
@@ -22,41 +21,39 @@ public class UsersSelectAllTest {
 			// 연결
 			conn = DriverManager.getConnection(
 					"jdbc:oracle:thin:@localhost:1521/xe",
-					"javauser",
-					"pwjava");
-			System.out.println(conn + "DB 연결 성공!!");
+					"system",
+					"pw1234");
 			
-			// db 작업 - 추가
+			// sql - 전체 회원 검색
 			String sql = "SELECT * FROM users";
 			pstmt = conn.prepareStatement(sql);
 		
-			// sql 실행
-			ResultSet rs = pstmt.executeQuery();
-			List<Users> userList = new ArrayList<>();
+			ResultSet rs = pstmt.executeQuery(); //검색된 데이터 셋 객체 생성
+			List<Users> userList = new ArrayList<>(); //ArrayList 자료구조 생성
+			
 			while(rs.next()) {
-				Users user = new Users();
-				user.setUserId(rs.getString("userid"));
-				user.setUserName(rs.getString("username"));
-				user.setUserPassword(rs.getString("userpassword"));
-				user.setUserAge(rs.getInt("userage"));
-				user.setUserEmail(rs.getString("useremail"));
+				Users user = new Users();  //회원 객체 생성
 				
-				userList.add(user);
+				user.setUserId(rs.getString("userid"));
+				user.setUserPassword(rs.getString("userpassword"));
+				user.setUserName(rs.getString("username"));
+				user.setUserAge(rs.getInt("userage"));
+				
+				userList.add(user); //리스트에 회원 객체 추가 저장
 			}
 			for(int i=0; i<userList.size(); i++) {
-				Users user = userList.get(i);
-				System.out.println(user);
+				Users user = userList.get(i);  //리스트에서 객체 가져와서
+				System.out.println(user);      //객체 정보 출력
 				
-//				System.out.println("===============================");
-//				System.out.println("userId: " + user.getUserId());
-//				System.out.println("userName: " + user.getUserName());
-//				System.out.println("userPassword: " + user.getUserPassword());
-//				System.out.println("userAge: " + user.getUserAge());
-//				System.out.println("userEmail: " + user.getUserEmail());
+				/*System.out.println("===============================");
+				System.out.println("userId: " + user.getUserId());
+				System.out.println("userPassword: " + user.getUserPassword());
+				System.out.println("userName: " + user.getUserName());
+				System.out.println("userAge: " + user.getUserAge());*/
 			}
 			
-			rs.close();
-			pstmt.close();
+			rs.close();    //rs 종료
+			pstmt.close(); //pstmt 종료
 		} catch (ClassNotFoundException e) {
 			e.printStackTrace();
 		} catch (SQLException e) {
@@ -64,14 +61,12 @@ public class UsersSelectAllTest {
 		} finally {
 			if(conn != null) {
 				try {
-					conn.close();
+					conn.close(); //conn 종료
 					System.out.println("연결 끊음");
 				} catch (SQLException e) {
 					e.printStackTrace();
 				}
 			}
 		}
-
 	}
-
 }

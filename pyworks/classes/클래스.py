@@ -135,63 +135,6 @@ dog2.add_trick("죽은 척 하기")
 print(dog2.tricks)
 '''
 
-# 정적(고정) 클래스
-class Dog:
-    kind = "진돗개"  #클래스 변수
-
-    def __init__(self, name):
-        self.name = name  
-
-dog1 = Dog("백구")
-dog2 = Dog("밀크")
-
-print(dog1.name)  # dog1만 유일
-print(dog2.name)  # dog2만 유일
-
-# 모든 dog이 공유
-# print(dog1.kind)
-# print(dog2.kind)
-
-# 클래스 이름으로 직접 접근(올바른 유형)
-print(Dog.kind)
-
-# 카운터 만들기
-class Counter:
-    x = 0  #클래스 변수
-
-    def __init__(self):
-        Counter.x += 1
-
-    def get_count(self):
-        return self.x
-
-c1 = Counter()
-print(c1.get_count())
-
-c2 = Counter()
-print(c2.get_count())
-
-c3 = Counter()
-print(c3.get_count())
-
-# 인스턴스형 카운터
-class Counter2:
-    def __init__(self):
-        self.x = 0
-        self.x += 1
-
-    def get_count(self):
-        return self.x
-
-c1 = Counter2()
-print(c1.get_count())
-
-c2 = Counter2()
-print(c2.get_count())
-
-c3 = Counter2()
-print(c3.get_count())
-
 # 쇼핑몰 장바구니 구현
 class Cart:
     def __init__(self, user):
@@ -213,16 +156,6 @@ my_cart = Cart("장그래")
 my_cart.add("계란", "우유", "라면")
 my_cart.remove("우유")
 print(my_cart)  # "장그래's 장바구니: ['계란', '라면']"
-
-# 클래스 리스트 인덱싱
-class City:
-    a = ['Seoul', 'Incheon', 'Daejon', 'Jeju']
-
-str = ''
-for i in City.a:
-    str += i[0]
-
-print(str)
 
 
 # 상속(inheritance)

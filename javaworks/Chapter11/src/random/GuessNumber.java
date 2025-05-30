@@ -23,6 +23,6 @@ public class GuessNumber {
 				System.out.println("너무 작아요!");
 			}
 		}
-		sc.locale();
+		sc.close();
  	}
 }

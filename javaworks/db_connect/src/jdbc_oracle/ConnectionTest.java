@@ -5,7 +5,6 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConnectionTest {
-
 	public static void main(String[] args) {
 		Connection conn = null;
 		
@@ -14,9 +13,9 @@ public class ConnectionTest {
 			Class.forName("oracle.jdbc.OracleDriver");
 			// 연결
 			conn = DriverManager.getConnection(
-					"jdbc:oracle:thin:@localhost:1521/xe",
-					"javauser",
-					"pwjava");
+					"jdbc:oracle:thin:@localhost:1521/xe", //db url
+					"system",   //user 계정
+					"pw1234");  //password
 			System.out.println(conn + "DB 연결 성공!!");
 		} catch (ClassNotFoundException e) {
 			e.printStackTrace();

@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import dao.Users;
+import dto.Users;
 
 public class UsersSelectAllTest {
 
@@ -36,10 +36,9 @@ public class UsersSelectAllTest {
 			while(rs.next()) {
 				Users user = new Users();
 				user.setUserId(rs.getString("userid"));
-				user.setUserName(rs.getString("username"));
 				user.setUserPassword(rs.getString("userpassword"));
+				user.setUserName(rs.getString("username"));
 				user.setUserAge(rs.getInt("userage"));
-				user.setUserEmail(rs.getString("useremail"));
 				
 				userList.add(user);
 			}

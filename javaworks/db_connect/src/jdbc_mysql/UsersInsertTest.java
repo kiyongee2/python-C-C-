@@ -22,14 +22,13 @@ public class UsersInsertTest {
 			System.out.println(conn + "DB 연결 성공!!");
 			
 			// db 작업 - 추가
-			String sql = "INSERT INTO users(userid, username, userpassword, userage, useremail) "
-					+ "VALUES (?, ?, ?, ?, ?)";
+			String sql = "INSERT INTO users(userid, userpassword, username, userage) "
+					+ "VALUES (?, ?, ?, ?)";
 			pstmt = conn.prepareStatement(sql);
 			pstmt.setString(1, "jerry");
-			pstmt.setString(2, "김기용");
-			pstmt.setString(3, "k5901");
+			pstmt.setString(2, "k5901");
+			pstmt.setString(3, "김기용");
 			pstmt.setInt(4, 55);
-			pstmt.setString(5, "jerry@naver.com");
 			
 			// sql 실행
 			int rows = pstmt.executeUpdate();

@@ -6,33 +6,28 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 public class UsersInsertTest {
-
 	public static void main(String[] args) {
-		Connection conn = null;
-		PreparedStatement pstmt = null;
+		Connection conn = null;         //연결 객체 선언
+		PreparedStatement pstmt = null; //sql 작업 객체 선언
 		
 		try {
-			// jdbc 드라이버 등록
+			// db 연결
 			Class.forName("oracle.jdbc.OracleDriver");
-			// 연결
 			conn = DriverManager.getConnection(
 					"jdbc:oracle:thin:@localhost:1521/xe",
-					"javauser",
-					"pwjava");
-			System.out.println(conn + "DB 연결 성공!!");
+					"system",
+					"pw1234");
+	
+			// sql 작성 - 회원 추가('?' - 동적 바인딩 기호)
+			String sql = "INSERT INTO users(userid, userpassword, username, userage) "
+					+ "VALUES (?, ?, ?, ?)";
+			pstmt = conn.prepareStatement(sql); //sql을 매개변수로 전달
+			pstmt.setString(1, "cloud");  //setString(인덱스, 문자값)
+			pstmt.setString(2, "c3355@!");
+			pstmt.setString(3, "임시현");
+			pstmt.setInt(4, 22);          //setInt(인덱스, 숫자값)
 			
-			// db 작업 - 추가
-			String sql = "INSERT INTO users(userid, username, userpassword, userage, useremail) "
-					+ "VALUES (?, ?, ?, ?, ?)";
-			pstmt = conn.prepareStatement(sql);
-			pstmt.setString(1, "jerry");
-			pstmt.setString(2, "김기용");
-			pstmt.setString(3, "k5901");
-			pstmt.setInt(4, 55);
-			pstmt.setString(5, "jerry@naver.com");
-			
-			// sql 실행
-			int rows = pstmt.executeUpdate();
+			int rows = pstmt.executeUpdate(); // sql 실행(삽입, 수정, 삭제시)
 			System.out.println("저장된 행의 수: " + rows);
 		} catch (ClassNotFoundException e) {
 			e.printStackTrace();
@@ -48,7 +43,5 @@ public class UsersInsertTest {
 				}
 			}
 		}
-
 	}
-
 }
