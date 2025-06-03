@@ -1,5 +1,60 @@
+# 숫자 추측 게임
+import random
+
+com = random.randint(1, 30) #컴퓨터의 난수
+# print(com)
+
+while True:
+    x = input("맞혀보세요(입력: 1 ~ 30): ")
+    guess = int(x) # 사용자가 추측한 수
+
+    if guess >= 1 and guess <= 30:
+        if guess == com:
+            print("정답!")
+            break
+        elif guess > com:
+            print("너무 커요")
+        else:
+            print("너무 작아요")
+    else:
+        print("범위를 초과했어요. 다시 입력하세요")
+
 """
+while True:
+    x = input("맞혀보세요(입력: 1 ~ 30): ")
+    guess = int(x) # 사용자가 추측한 수
+
+    if guess < 1 or guess > 30:
+        print("범위를 초과했어요. 다시 입력하세요")
+    elif guess == com:
+        print("정답!")
+        break
+    elif guess > com:
+        print("너무 커요")
+    else:
+        print("너무 작아요")
+"""
+
+'''
+while True:
+    try:
+        x = input("맞혀보세요(입력: 1 ~ 30): ")
+        guess = int(x) # 사용자가 추측한 수
+
+        if guess < 1 or guess > 30:
+            print("범위를 초과했어요. 다시 입력하세요")
+        elif guess == com:
+            print("정답!")
+            break
+        elif guess > com:
+            print("너무 커요")
+        else:
+            print("너무 작아요")
+    except ValueError:
+        print("유효한 숫자가 아닙니다. 다시 입력하세요")
+'''
 # 로또 복권 추첨
+"""
 import random
 
 lotto = []
@@ -8,10 +63,10 @@ for i in range(6):
     n = random.randint(1, 45)
     if n not in lotto:
         lotto.append(n)
-'''
-  중복될 경우 5개만 저장됨
-  [44, 7, 10, 8, 31]
-'''
+
+#  중복될 경우 5개만 저장됨
+#  [44, 7, 10, 8, 31]
+
 print(lotto)
 
 while len(lotto) < 6:
@@ -48,7 +103,6 @@ while n < 11:
 end = time.time()    #종료 시간
 et = end - start
 print(f"타자 시간: {et:.2f}초")
-"""
 
 import random
 import time
@@ -80,9 +134,10 @@ while n < 11:
 end = time.time()    #종료 시간
 et = end - start
 print(f"타자 시간: {et:.2f}초")
+"""
 
 # 운영체제 제어
-"""
+'''
 import os
 
 # pyworks 디렉터리로 이동
@@ -120,4 +175,4 @@ print(now)
 # 특정한 날짜 설정
 today = datetime.date.today()
 print(today)
-"""
+'''

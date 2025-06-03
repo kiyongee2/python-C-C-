@@ -130,16 +130,22 @@
     <ClCompile Include="asciiRead.c" />
     <ClCompile Include="asciiWrite.c" />
     <ClCompile Include="binFile1.c" />
+    <ClCompile Include="calcScorelist.c" />
     <ClCompile Include="fileCopy.c" />
     <ClCompile Include="fileGugudan.c" />
     <ClCompile Include="fileRead1.c" />
+    <ClCompile Include="fileScoreWrite.c" />
+    <ClCompile Include="fileScoreRead.c" />
     <ClCompile Include="fileWrite1.c" />
     <ClCompile Include="fileWrite2.c" />
+    <ClCompile Include="fileWriteRead.c" />
     <ClCompile Include="imgfileCopy.c" />
     <ClCompile Include="imgFileCopy2.c" />
     <ClCompile Include="inputBuffer.c" />
+    <ClCompile Include="fileScorelist1.c" />
     <ClCompile Include="typingGame.c" />
     <ClCompile Include="wordWriteRead.c" />
+    <ClCompile Include="wordWriteRead2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

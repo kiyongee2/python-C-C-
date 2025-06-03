@@ -63,7 +63,7 @@
     <ClCompile Include="Array2DInput.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ArraySwap.c">
+    <ClCompile Include="sortBubble.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="CalcArray.c">

@@ -57,5 +57,11 @@
     <ClCompile Include="structArray.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="structPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structStudent.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

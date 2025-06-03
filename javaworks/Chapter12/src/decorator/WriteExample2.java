@@ -9,7 +9,8 @@ public class WriteExample2 {
 		
 		try(Writer writer = new FileWriter("word.txt")){
 			
-			String words = "ant bear cow chicken eagle elephant fox horse monkey penguin tiger";
+			String words = "ant bear cow chicken eagle elephant "
+					+ "fox horse monkey penguin tiger";
 			writer.write(words);
 			
 			writer.flush();

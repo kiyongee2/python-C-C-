@@ -8,6 +8,7 @@
 //
 //int main()
 //{
+//	//노드 생성 및 초기화
 //	Person a = {8, "이강인"};
 //	Person b = {6, "이정후"};
 //	Person c = {7, "최민정"};
@@ -19,26 +20,27 @@
 //	d.next = NULL;
 //
 //	Person* p;  //구조체 포인터 변수 선언
+//	p = &a;     //초기화
 //
-//	p = &a;
+//	//첫 번째 노드 출력
+//	printf("%d %s\n", p->age, p->name); //8 이강인
 //
-//	//첫 번째 요소 출력
-//	printf("%d ", p->age);
-//	printf("%s\n", p->name);
-//	
-//	//두번째 요소 출력
-//	printf("%d ", p->next);
-//	printf("%s\n", p->next);
-//
-//	//전체 출력
+//	//노드 순회 및 출력
 //	for (p = &a; p != NULL; p = p->next)
 //	{
 //		printf("%d ", p->age);
 //		printf("%s\n", p->name);
 //	}
 //
-//	//2번째 요소 삭제
+//	printf("= 구조체 c 삭제 후 =\n");
+//	b.next = c.next; //b -> d
+//	c.next = NULL; 
 //
+//	for (p = &a; p != NULL; p = p->next)
+//	{
+//		printf("%d ", p->age);
+//		printf("%s\n", p->name);
+//	}
 //
 //	return 0;
 //}

@@ -1,6 +1,4 @@
-﻿  typingGame.c
-  wordWriteRead.c
-D:\korea_IT\c2025\file_io\file_io\wordWriteRead.c(22,3): warning C4098: 'wordWrite': 'void' 함수에서 값을 반환하고 있습니다.
-D:\korea_IT\c2025\file_io\file_io\wordWriteRead.c(45,3): warning C4098: 'wordRead': 'void' 함수에서 값을 반환하고 있습니다.
+﻿  calcScorelist.c
+  fileScorelist1.c
   코드를 생성하고 있습니다...
   file_io.vcxproj -> D:\korea_IT\c2025\file_io\x64\Debug\file_io.exe

@@ -135,6 +135,8 @@
     <ClCompile Include="structMalloc2.c" />
     <ClCompile Include="structFruit.c" />
     <ClCompile Include="structMalloc1.c" />
+    <ClCompile Include="structPointer.c" />
+    <ClCompile Include="structStudent.c" />
     <ClCompile Include="typedefHero.c" />
     <ClCompile Include="structRef.c" />
     <ClCompile Include="typedefStruct.c" />
