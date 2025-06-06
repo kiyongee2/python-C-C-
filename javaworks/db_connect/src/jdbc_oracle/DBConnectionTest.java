@@ -21,7 +21,7 @@ public class DBConnectionTest {
 	static String password = "pw1234"; //사용자 비밀번호
 	
 	public static void main(String[] args) {
-
+		//try ~ resource 구문
 		try(Connection conn = DriverManager.getConnection(url, username, password)){
 			System.out.println(conn + ": DB 연결 성공!");
 		} catch (SQLException e1) {

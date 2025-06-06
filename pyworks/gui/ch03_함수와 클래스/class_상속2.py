@@ -30,8 +30,8 @@ class Student(Person): # Person 클래스 상속
     def calculate_average(self):
         return self.total / 3
     
-    def display_student_info(self):
-        self.display_info()
+    def display_info(self):
+        super().display_info()
         print(f"국어:{self.korean}, 영어:{self.english}, 수학:{self.math}, \
 총점:{self.total}, 평균:{self.average}")
     
@@ -46,10 +46,10 @@ print("\n")
 student1 = Student("이영희", 17, "부산시 해운대구", 85, 92, 78)
 # student2 = Student("박민수", 18, "대구시 동구", 90, 88, 95)
 print("학생 성적 출력")
-student1.display_student_info()
+student1.display_info()
 # student2.display_info()
 student1.get_current_date()
 
 print(Person.__doc__)
 print(Student.__doc__)
-print(student1.display_student_info().__doc__)
+print(student1.display_info().__doc__)
