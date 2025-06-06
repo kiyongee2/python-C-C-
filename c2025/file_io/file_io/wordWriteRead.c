@@ -63,7 +63,7 @@
 //	//랜덤 추출
 //	printf("***** 단어 추출(랜덤) *****\n");
 //	char* word = strtok(str, " ");
-//	//printf("첫번째 단어: %s\n", ptr);
+//	printf("첫번째 단어: %s\n", word);
 //
 //	while (word != NULL && idxOfWordList < MAX_WORDS ) {
 //		wordList[idxOfWordList++] = word;

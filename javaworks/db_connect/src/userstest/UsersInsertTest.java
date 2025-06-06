@@ -1,4 +1,4 @@
-package jdbc_oracle;
+package userstest;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

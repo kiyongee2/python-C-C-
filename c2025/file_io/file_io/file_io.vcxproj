@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="asciiRead.c" />
+    <ClCompile Include="asciiRead2.c" />
     <ClCompile Include="asciiWrite.c" />
     <ClCompile Include="binFile1.c" />
     <ClCompile Include="calcScorelist.c" />

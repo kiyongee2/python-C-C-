@@ -8,13 +8,14 @@
 //#define MAX_LENGTH 20   //단어의 길이
 //int main()
 //{
-//    FILE* fp; //파일 포인터 변수 
+//    //파일 입출력 - 읽기
+//    FILE* fp; 
 //    char words[256];
 //    
-//    fp = fopen("word.txt", "r"); //읽기 모드 - "r"
+//    fp = fopen("word.txt", "r"); 
 //    if (fp == NULL) {
 //    	printf("파일 열기에 실패함\n");
-//    	return 1;  //에러시 1 or -1
+//    	return 1;  
 //    }
 //
 //    //문자열 가져오기

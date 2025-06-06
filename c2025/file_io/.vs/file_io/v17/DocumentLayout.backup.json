@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\file_io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\fileScorelist1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\fileScorelist1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\calcScorelist.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\calcScorelist.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\fileScoreRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\fileScoreRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\fileScoreWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\fileScoreWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\binFile1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\binFile1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\asciiRead2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\asciiRead2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\asciiWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\asciiWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\fileRead1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\fileRead1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "calcScorelist.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\calcScorelist.c",
-              "RelativeDocumentMoniker": "file_io\\calcScorelist.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\calcScorelist.c*",
-              "RelativeToolTip": "file_io\\calcScorelist.c*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwCwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-01T23:32:08.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "fileScorelist1.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileScorelist1.c",
-              "RelativeDocumentMoniker": "file_io\\fileScorelist1.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileScorelist1.c*",
-              "RelativeToolTip": "file_io\\fileScorelist1.c*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-01T23:05:53.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "fileScoreRead.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileScoreRead.c",
-              "RelativeDocumentMoniker": "file_io\\fileScoreRead.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileScoreRead.c",
-              "RelativeToolTip": "file_io\\fileScoreRead.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-01T21:23:11.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "fileScoreWrite.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileScoreWrite.c",
-              "RelativeDocumentMoniker": "file_io\\fileScoreWrite.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileScoreWrite.c",
-              "RelativeToolTip": "file_io\\fileScoreWrite.c",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwCcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-01T20:57:37.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "binFile1.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\binFile1.c",
-              "RelativeDocumentMoniker": "file_io\\binFile1.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\binFile1.c",
-              "RelativeToolTip": "file_io\\binFile1.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-01T21:00:29.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "asciiWrite.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\asciiWrite.c",
               "RelativeDocumentMoniker": "file_io\\asciiWrite.c",
               "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\asciiWrite.c",
               "RelativeToolTip": "file_io\\asciiWrite.c",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-01T20:58:05.42Z",
+              "WhenOpened": "2025-06-03T08:18:51.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asciiRead2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\asciiRead2.c",
+              "RelativeDocumentMoniker": "file_io\\asciiRead2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\asciiRead2.c*",
+              "RelativeToolTip": "file_io\\asciiRead2.c*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T08:18:24.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fileRead1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileRead1.c",
+              "RelativeDocumentMoniker": "file_io\\fileRead1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileRead1.c",
+              "RelativeToolTip": "file_io\\fileRead1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T08:17:35.095Z",
               "EditorCaption": ""
             }
           ]

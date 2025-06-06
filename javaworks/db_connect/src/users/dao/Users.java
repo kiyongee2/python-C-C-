@@ -1,4 +1,4 @@
-package dto;
+package users.dao;
 //DTO 정의
 public class Users {
 	private String userId;        //아이디

@@ -1,4 +1,4 @@
-package jdbc_oracle;
+package userstest;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -8,7 +8,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import dto.Users;
+import users.dao.Users;
+
 
 public class UsersSelectAllTest {
 	public static void main(String[] args) {
