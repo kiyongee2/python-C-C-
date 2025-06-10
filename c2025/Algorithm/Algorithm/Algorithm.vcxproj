@@ -139,7 +139,9 @@
     <ClCompile Include="printBin.c" />
     <ClCompile Include="queueEx.c" />
     <ClCompile Include="recursive.c" />
-    <ClCompile Include="sortBubble.c" />
+    <ClCompile Include="sortBubble.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="sortEx.c" />
     <ClCompile Include="stackEx.c" />
     <ClCompile Include="string1.c" />

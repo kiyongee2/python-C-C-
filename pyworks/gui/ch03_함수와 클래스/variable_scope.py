@@ -2,7 +2,7 @@
 
 g1 = 1 # 전역 변수
 def funcA():
-    g1 =100 ##global 선언 안 하면 지역변수(지역변수명 있으면, global g1 오류)
+    g1 =100 #global 선언 안 하면 지역변수
     global g2 #, 전역변수 사용 하겠다
     l_value=100; #지역
     print("g1:", g1) #100

@@ -52,18 +52,25 @@ def find_same_name(a):
             if a[i] == a[j]:
                 same_name.append(a[i])
     return same_name
-"""
-  a=0, j=0, a[0] == a[1], False
-       j=1, a[0] == a[2], False
-       j=2, a[0] == a[2], False
-  a=1, j=1, a[1] == a[2], False 
-       j=2, a[1] == a[3], True, 중복
-  a=2, j=3, a[2] == a[3], False, 반복 종료
-"""
 
 name = ['콩쥐', '흥부', '팥쥐', '흥부']
 result = find_same_name(name)
 print(result)
+
+"""
+  i=0, 
+       j=1, a[0] == a[1], False
+       j=2, a[0] == a[2], False
+       j=3, a[0] == a[3], False
+  i=1, 
+       j=2, a[1] == a[2], False 
+       j=3, a[1] == a[3], True, 중복
+  i=2, 
+       j=3, a[2] == a[3], False, 
+  i=3, 반복 종료
+"""
+
+
 
 # set(집합)으로 구현하기
 def find_same_name(a):

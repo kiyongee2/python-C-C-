@@ -28,13 +28,13 @@ print("ret2 : ", ret2)
 
 
 print("\n반환 값 구분")
-def add_and_mul(a,b):
+def add_and_mul(a, b):
     return a+b, a*b
 
-result = add_and_mul(10,3) #반환 값은 하나이며 tuple 로 저장
-print(f"type(result): {type(result)}")
+result = add_and_mul(10, 3) #반환값은 2개로 tuple 로 저장
+print(f"type(result): {type(result)}") #tuple
 print(result)
 
 add, mul = result
-print(f"type(add): {type(add)}, {add}")
-print(f"type(mul): {type(mul)}, {mul}")
+print(f"type(add): {type(add)}, {add}") #int
+print(f"type(mul): {type(mul)}, {mul}") #int

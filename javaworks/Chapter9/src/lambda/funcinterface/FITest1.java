@@ -11,6 +11,9 @@ public class FITest1 {
 			System.out.println(str);
 		};
 		fi.method();
+		
+		//{} 생략 가능
+		fi = () -> System.out.println("Hello~ lambda");
 	}
 
 }
