@@ -16,9 +16,7 @@
 //	string str1 = "나"; //c++ string 자료형
 //	string str2 = "apple";
 //
-//
-//	cout << ch1 << endl;
-//	cout << ch2 << endl;
+//	cout << ch1 << ", " << ch2 << endl;
 //	cout << ch3 << endl;
 //	cout << str1 <<", " << str2 << endl;
 //
@@ -34,7 +32,6 @@
 //	int n1 = 10, n2 = 20; 
 //	bool b1 = (n1 < n2);  
 //	bool b2 = (n1 == n2); 
-//
 //	cout << b1 << "," << b2 << endl;  //1, 0
 //
 //	//조건 연산자 

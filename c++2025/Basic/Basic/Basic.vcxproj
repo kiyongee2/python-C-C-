@@ -129,9 +129,10 @@
   <ItemGroup>
     <ClCompile Include="constantEx.cpp" />
     <ClCompile Include="forEx.cpp" />
+    <ClCompile Include="forEx0.cpp" />
     <ClCompile Include="ifelseEx1.cpp" />
     <ClCompile Include="inputData.cpp" />
-    <ClCompile Include="inputDtat2.cpp" />
+    <ClCompile Include="inputDtat0.cpp" />
     <ClCompile Include="myPow.cpp" />
     <ClCompile Include="operatorEx.cpp" />
     <ClCompile Include="printData.cpp">

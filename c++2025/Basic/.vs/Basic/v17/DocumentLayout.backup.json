@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\seatAllocation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\seatAllocation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\forEx0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\forEx0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\forEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\forEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\ifelseEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\ifelseEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\inputDtat2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\inputDtat2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\inputDtat0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\inputDtat0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\seatAllocation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\seatAllocation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\printData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\printData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\constantEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\constantEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\operatorEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\operatorEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\variableEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\variableEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "inputDtat2.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\inputDtat2.cpp",
-              "RelativeDocumentMoniker": "Basic\\inputDtat2.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\inputDtat2.cpp",
-              "RelativeToolTip": "Basic\\inputDtat2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "forEx0.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\forEx0.cpp",
+              "RelativeDocumentMoniker": "Basic\\forEx0.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\forEx0.cpp",
+              "RelativeToolTip": "Basic\\forEx0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T04:09:16.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "forEx.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\forEx.cpp",
+              "RelativeDocumentMoniker": "Basic\\forEx.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\forEx.cpp",
+              "RelativeToolTip": "Basic\\forEx.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T04:08:42.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ifelseEx1.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\ifelseEx1.cpp",
+              "RelativeDocumentMoniker": "Basic\\ifelseEx1.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\ifelseEx1.cpp",
+              "RelativeToolTip": "Basic\\ifelseEx1.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T04:06:52.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "constantEx.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\constantEx.cpp",
+              "RelativeDocumentMoniker": "Basic\\constantEx.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\constantEx.cpp",
+              "RelativeToolTip": "Basic\\constantEx.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T03:57:08.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "operatorEx.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\operatorEx.cpp",
+              "RelativeDocumentMoniker": "Basic\\operatorEx.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\operatorEx.cpp",
+              "RelativeToolTip": "Basic\\operatorEx.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T03:55:47.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "printData.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\printData.cpp",
+              "RelativeDocumentMoniker": "Basic\\printData.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\printData.cpp",
+              "RelativeToolTip": "Basic\\printData.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T03:49:23.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "inputDtat0.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\inputDtat0.cpp",
+              "RelativeDocumentMoniker": "Basic\\inputDtat0.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\inputDtat0.cpp",
+              "RelativeToolTip": "Basic\\inputDtat0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-10T06:39:00.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "inputData.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\inputData.cpp",
               "RelativeDocumentMoniker": "Basic\\inputData.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\inputData.cpp",
               "RelativeToolTip": "Basic\\inputData.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-10T06:35:03.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "seatAllocation.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\seatAllocation.cpp",
               "RelativeDocumentMoniker": "Basic\\seatAllocation.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\seatAllocation.cpp",
-              "RelativeToolTip": "Basic\\seatAllocation.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\seatAllocation.cpp*",
+              "RelativeToolTip": "Basic\\seatAllocation.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-10T06:25:02.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "variableEx.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\variableEx.cpp",
+              "RelativeDocumentMoniker": "Basic\\variableEx.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\variableEx.cpp",
+              "RelativeToolTip": "Basic\\variableEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T03:50:54.83Z",
               "EditorCaption": ""
             }
           ]

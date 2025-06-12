@@ -13,14 +13,14 @@
 //	cout << "학번 입력: ";
 //	cin >> number;
 //	cout << "이름 입력: ";
-//	cin.ignore();  //이전 입력된 개행문자 제거
+//	//cin.ignore();  //이전 입력된 개행문자 제거
 //	getline(cin, name);  //공백문자 허용
 //	cout << "영어점수 입력: ";
 //	cin >> eng;
 //	cout << "수학점수 입력: ";
 //	cin >> math;
 //
-//	cout << "=== 학생의 정보 출력 ===\n";
+//	cout << "\n=== 학생의 정보 출력 ===\n";
 //	cout << "학번: " << number << endl;
 //	cout << "이름: " << name << endl;
 //	cout << "영어점수: " << eng << endl;
