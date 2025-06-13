@@ -14,9 +14,8 @@ def select():
     # with ~ as 구문: close() 사용 안함
     with sqlite3.connect("c:/pydb/mydb.db") as conn: #db 연결
         cur = conn.cursor()  # 작업 객체 생성
-        sql = "SELECT * FROM employee_new"
+        sql = "SELECT * FROM employee"
         cur.execute(sql) # sql 실행
-        
         rs = cur.fetchall() #검색된 자료 모두 가져오기
         # print(rs)
         for i in rs:
@@ -25,50 +24,44 @@ def select():
 def insert():
     with sqlite3.connect("c:/pydb/mydb.db") as conn:
         cur = conn.cursor()
-        sql = "INSERT INTO employee_new VALUES(?, ?, ?)"
-        cur.execute(sql, ('e103', '최민정', 3500000))
+        sql = "INSERT INTO employee VALUES('e103', '최민정', 3500000)"
+        cur.execute(sql)
         conn.commit() #커밋 실행
         print("회원 추가 완료!")
         
 def select_one():
-    with sqlite3.connect("c:/pydb/mydb.db") as conn: #db 연결
+    with sqlite3.connect("c:/pydb/mydb.db") as conn: 
         cur = conn.cursor()  # 작업 객체 생성
-        sql = "SELECT * FROM employee_new WHERE id = 'e102'"
+        sql = "SELECT * FROM employee WHERE id = 'e102'"
         cur.execute(sql) # sql 실행
-        
         rs = cur.fetchone() #검색된 자료 1건 가져옴
         print(rs)
         
 def update():
     with sqlite3.connect("c:/pydb/mydb.db") as conn:
         cur = conn.cursor()
-        sql = "UPDATE employee_new SET salary = ? WHERE name = ?"
-        cur.execute(sql, (5000000, '이정후'))
+        sql = "UPDATE employee SET name = '이정후', salary = 5000000 \
+                WHERE id = 'e101'"
+        cur.execute(sql)
         conn.commit() #커밋 실행
         print("회원 수정 완료!")
-        
-# 사원 정보 수정
-update()
-        
+           
 def delete():
     with sqlite3.connect("c:/pydb/mydb.db") as conn:
         cur = conn.cursor()
-        sql = "DELETE FROM employee_new WHERE id = ?"
-        cur.execute(sql, ('e102', ))
+        sql = "DELETE FROM employee WHERE id = 'e102'"
+        cur.execute(sql)
         conn.commit() #커밋 실행
-        print("회원 수정 완료!")
+        print("회원 삭제 완료!")
 
-# 사원 정보 삭제
-delete()
+if __name__ == "__main__":
+    
+    # delete()
+    # update() 
+    # select_one()
+    # insert()
+    select()
 
 
 
-# 특정 사원 검색
-# select_one()
-
-# 사원 추가
-# insert()
-
-# 사원 검색
-select()
 

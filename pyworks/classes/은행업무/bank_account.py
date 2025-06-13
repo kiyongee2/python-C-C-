@@ -1,4 +1,5 @@
 # 은행 업무 - 계좌 생성, 입금, 출금, 계좌 목록, 종료
+# 은행 계좌 클래스 정의
 class BankAccount:
     def __init__(self):
         self.balance = 0  #잔액
@@ -18,10 +19,10 @@ class BankAccount:
             print(f"{amount}원 출금되었습니다. 현재 잔액: {self.balance}")
     
     def get_balance(self):
-        return self.balance
+        return self.balance #잔고 반환
     
     def get_transaction_history(self):
-        return self.transaction_history
+        return self.transaction_history #거래 내역 반환
         
 def main():
     # 은행 계좌 인스턴스 생성
@@ -33,24 +34,26 @@ def main():
         print("========================================================")
         choice = input("선택> ")
 
-        if choice == '1':
-            amount = int(input("입금액> "))
-            account.deposit(amount)
-            # print(f"{amount}원 입금되었습니다. 현재 잔액: {account.get_balance()}")
-        elif choice == '2':
-            amount = int(input("출금액> "))
-            account.withdraw(amount)
-        elif choice == '3':
-            print(f"현재 잔액> {account.get_balance()}")
-        elif choice == '4':
-            print("\n[거래 내역]")
-            for type, amount in account.get_transaction_history():
-                print(f"-{type}: {amount}원")
-        elif choice == '5':
-            print("프로그램을 종료합니다.")
-            break
-        else:
-            print("올바른 메뉴를 선택하세요(1~5)")
+        try:
+            if choice == '1':
+                amount = int(input("입금액> "))
+                account.deposit(amount)  #deposit() 메서드 호출
+            elif choice == '2':
+                amount = int(input("출금액> "))
+                account.withdraw(amount) #withdraw() 메서드 호출
+            elif choice == '3':
+                print(f"현재 잔액> {account.get_balance()}")
+            elif choice == '4':
+                print("\n[거래 내역]")
+                for type, amount in account.get_transaction_history():
+                    print(f"- {type}: {amount}원")
+            elif choice == '5':
+                print("프로그램을 종료합니다.")
+                break
+            else:
+                print("올바른 메뉴를 선택하세요(1~5)")
+        except ValueError:
+            print("숫자를 입력해주세요.")
     
 if __name__ == "__main__":
     main()

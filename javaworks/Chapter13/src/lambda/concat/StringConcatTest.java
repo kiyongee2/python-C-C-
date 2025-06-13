@@ -10,5 +10,4 @@ public class StringConcatTest {
 		concat = (s, v) -> System.out.println(s + ", " + v);
 		concat.makeString(str1, str2);
 	}
-
 }

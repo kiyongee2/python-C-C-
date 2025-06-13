@@ -9,18 +9,23 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 public class CreateJson {
-
 	public static void main(String[] args) {
-		
+		//json 객체 생성
 		JSONObject root = new JSONObject();
 		
-		//System.out.println(root);
+		System.out.println(root); //빈 json 생성
 		
-		//속성 추가
+		//속성(객체) 추가
 		root.put("id", "sky123");
 		root.put("name", "이하늘");
 		root.put("age", 28);
 		root.put("student", true);
+		
+		//전화번호 객체 속성 추가
+		JSONObject tel = new JSONObject();
+		tel.put("home", "02-111-2222");
+		tel.put("mobile", "010-1234-5678");
+		root.put("tel", tel);
 		
 		//배열 속성 추가
 		JSONArray skill = new JSONArray();
@@ -29,18 +34,17 @@ public class CreateJson {
 		skill.put("C++");
 		root.put("skill", skill);
 		
-		String json = root.toString(); //문자열로 얻기
+		//json -> 문자열로 출력
+		String json = root.toString(); 
 		System.out.println(json);
 		
-		try {
-			Writer writer = new FileWriter("member.json", 
-					Charset.forName("utf-8"));
+		//json 데이터를 파일로 저장
+		try(Writer writer = new FileWriter("member.json", 
+				Charset.forName("utf-8"))){
 			writer.write(json);
 			writer.flush();
-			writer.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
 	}
-
 }

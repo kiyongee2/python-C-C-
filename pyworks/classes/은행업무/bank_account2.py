@@ -84,13 +84,11 @@ def withdraw():
 
     
 def main():
-    """메인 프로그램 루프"""
-    # BankAccount bank_account[100]
-    
+    """메인 프로그램 """
     while True:
-        print("\n" + "=" * 40)
+        print("\n" + "=" * 60)
         print("1. 계좌 생성 | 2. 입금 | 3. 출금 | 4. 계좌 검색 | 5. 종료")
-        print("=" * 40)
+        print("=" * 60)
         
         try:
             choice = input("선택> ").strip()
