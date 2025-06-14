@@ -1,7 +1,7 @@
 
 class BankAccount:
     def __init__(self, account_num, owner):
-        self.account_num = account_num
+        self.account_num = account_num  #계좌번호
         self.owner = owner
         self.balance = 0
         self.transaction_history = []
@@ -48,9 +48,8 @@ accounts = []  #계좌 리스트
 # 계좌 생성
 def create_account():
     owner = input("계좌주 입력: ")
-    
     new_account = BankAccount(next_account_num, owner) #신규 계좌 생성
-    accounts.append(new_account)
+    accounts.append(new_account) #리스트에 저장
     print(f"계좌가 성공적으로 생성되었습니다.(계좌번호: {next_account_num})")
     next_account_num += 1  #계좌번호 증가
 
@@ -63,7 +62,6 @@ def search_account(acc_num):
 # 입금
 def deposit():
     acc_num = input("입금할 계좌번호 입력: ")
-    
     account = search_account(acc_num)
     if account:
         amount = input("입금액: ")
@@ -74,7 +72,6 @@ def deposit():
 # 출금
 def withdraw():
     acc_num = input("출금할 계좌번호 입력: ")
-    
     account = search_account(acc_num)
     if account:
         amount = input("출금액: ")
@@ -82,7 +79,6 @@ def withdraw():
     else:
         print(f"계좌를 찾을 수 없습니다.")
 
-    
 def main():
     """메인 프로그램 """
     while True:
@@ -91,7 +87,7 @@ def main():
         print("=" * 60)
         
         try:
-            choice = input("선택> ").strip()
+            choice = input("선택> ")
             
             if choice == '1':
                 print("계좌 생성")

@@ -57,3 +57,27 @@ con1 = Converter('C', 'F', 1.8, 32)
 print("섭씨온도 23C를 화씨온도로 변환하기")
 print(str(con1.convert(23)) + con1.units_to)
 
+# 다형성
+class Animal:
+    def cry(self):
+        raise NotImplementedError("구현되지 않는 메서드가 있습니다.")
+    
+class Dog(Animal):
+    def cry(self):
+        print("왈~ 왈~")
+        
+class Cat(Animal):
+    pass
+    # def cry(self):
+    #     print("야~ 옹!")
+
+try:
+    dog = Dog()
+    dog.cry()
+
+    cat = Cat()
+    cat.cry()
+except NotImplementedError as e:
+    print(f"오류: {e}")
+    
+    

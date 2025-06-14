@@ -7,7 +7,7 @@ class BankAccount:
         
     def deposit(self, amount):
         self.balance += amount
-        self.transaction_history.append(('입금', amount))
+        self.transaction_history.append(('입금', amount)) #튜플 구조
         print(f"{amount}원 입금되었습니다. 현재 잔액: {self.balance}")
     
     def withdraw(self, amount):
@@ -45,15 +45,17 @@ def main():
                 print(f"현재 잔액> {account.get_balance()}")
             elif choice == '4':
                 print("\n[거래 내역]")
-                for type, amount in account.get_transaction_history():
-                    print(f"- {type}: {amount}원")
+                # for type, amount in account.get_transaction_history():
+                #     print(f"- {type}: {amount}원")
+                for trans in account.get_transaction_history():
+                    print(f"- {trans[0]}: {trans[1]}원")
             elif choice == '5':
                 print("프로그램을 종료합니다.")
                 break
             else:
                 print("올바른 메뉴를 선택하세요(1~5)")
         except ValueError:
-            print("숫자를 입력해주세요.")
+            print("숫자를 입력해주세요.") 
     
 if __name__ == "__main__":
     main()

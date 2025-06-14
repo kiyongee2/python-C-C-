@@ -18,7 +18,6 @@ print(dog2.name)  # dog2만 유일
 # 클래스 이름으로 직접 접근(올바른 유형)
 print(Dog.kind)
 
-
 # 카운터 만들기
 class Counter:
     x = 0  #클래스 변수
@@ -86,5 +85,6 @@ class City:
 str = ''
 for i in City.a:
     str += i[0]
+    # str += i
 
 print(str)

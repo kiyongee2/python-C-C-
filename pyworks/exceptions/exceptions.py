@@ -25,36 +25,13 @@ while True:
         print("유효한 숫자가 아닙니다. 다시 입력해 주세요")
 '''
 
-'''
 try:
     data= [50, 40, 80, 60]
-    x = input("정수 입력(0~4): ")
+    x = input("정수 입력(0~3): ")
     num = int(x)
     print(data[num])
 except IndexError as e:
-    print("범위를 초과했어요. 0~ 4까지 입력하세요")
+    print("범위를 초과했어요. 0 ~ 3까지 입력하세요")
 except ValueError as e:
     print("유효한 숫자가 아닙니다. 다시 입력바랍니다.")
-'''
 
-class Animal:
-    # 상속받은 클래스에서 반드시 cry()를 구현하도록 함
-    def cry(self):
-        raise NotImplementedError
-
-#Animal을 상속한 Dog
-class Dog(Animal):
-    def cry(self):
-        print("멍멍!")
-
-#Animal을 상속한 Cat
-class Cat(Animal):
-    def cry(self):
-        print("야~옹!")
-
-# 인스턴스 생성
-dog = Dog()
-dog.cry()
-
-cat = Cat()
-cat.cry()

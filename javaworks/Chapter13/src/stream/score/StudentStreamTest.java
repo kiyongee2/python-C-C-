@@ -23,17 +23,18 @@ public class StudentStreamTest {
 		});
 		
 		//스트림 연산
-		System.out.println("=== 학생의 이름 출력 ===");
+		//stream()은 한 번 사용하면 소모되므로 다시 값을 할당함
+		System.out.println("=== 학생의 이름(매핑) 출력 ===");
 		stream = list.stream();
 		stream.map(std -> std.getName())
 			  .forEach(s -> System.out.println(s));
 		
-		System.out.println("=== 학생의 점수 출력 ===");
+		System.out.println("=== 학생의 점수(매핑) 출력 ===");
 		stream = list.stream();
 		stream.mapToInt(std -> std.getScore())
 			  .forEach(s -> System.out.println(s));
 		
-		System.out.println("=== 점수가 90 이상인 학생 이름 필터링 ===");
+		System.out.println("=== 점수가 90 이상인 학생 이름(필터링) ===");
 		list.stream().filter(std -> std.getScore() >= 90)
 					 .map(std -> std.getName())
 					 .forEach(s -> System.out.println(s));
