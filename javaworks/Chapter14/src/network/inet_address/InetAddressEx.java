@@ -15,11 +15,9 @@ public class InetAddressEx {
 			//서버
 			InetAddress[] servers = InetAddress.getAllByName("www.naver.com");
 			for(InetAddress remote : servers)
-				System.out.println(remote);
+				System.out.println("Naver IP:" + remote);
 		} catch (UnknownHostException e) {
 			e.printStackTrace();
 		}
-		
 	}
-
 }

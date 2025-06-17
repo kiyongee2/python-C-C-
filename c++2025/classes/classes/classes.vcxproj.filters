@@ -18,13 +18,28 @@
     <ClCompile Include="structStudent.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="classDog.cpp">
+    <ClCompile Include="classDog3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="classCar.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="classCircle.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="classBankAccount.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="classDog.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="classDog2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="informatinHiding.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structPoint.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

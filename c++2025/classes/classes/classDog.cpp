@@ -1,47 +1,29 @@
 //#include <iostream>
 //using namespace std;
 //
-////Student 구조체 정의
 //class Dog {
-//public:
-//	string type;
-//	int age;
+//public: //접근 제어(공개)
+//	string type; //종류
+//	int age;     //나이
 //
-//	Dog();  //생성자
-//	Dog(string t, int a);
-//	~Dog(); //소멸자
+//	Dog() {}  //기본 생성자(생략 가능)
 //
-//	void dogInfo();
-//	void bark();
+//	void dogInfo() {
+//		cout << "강아지 종류: " << type << endl;
+//		cout << "강아지 나이: " << age << endl;
+//	}
+//
+//	void bark() {cout << "왈~ 왈~\n";}
 //};
-//
-//Dog::Dog() {
-//	type = "강아지";
-//	age = 1;
-//	cout << "생성자 입니다.\n";
-//}
-//
-//Dog::Dog(string t, int a) {
-//	type = t;
-//	age = a;
-//}
-//
-//Dog::~Dog() {
-//	cout << "소멸자 입니다.\n";
-//}
-//
-//void Dog::dogInfo() {
-//	cout << "강아지 종류: " << type << endl;
-//	cout << "강아지 나이: " << age << endl;
-//}
 //
 //int main()
 //{
 //	Dog dog1;
-//	dog1.dogInfo();
+//	dog1.type = "푸들";
+//	dog1.age = 2;
 //
-//	Dog dog2("진돗개", 3);
-//	dog2.dogInfo();
-//	
+//	dog1.dogInfo();
+//	dog1.bark();
+//
 //	return 0;
 //}

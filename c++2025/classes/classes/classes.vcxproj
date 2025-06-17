@@ -127,9 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="classBankAccount.cpp" />
     <ClCompile Include="classCar.cpp" />
     <ClCompile Include="classCircle.cpp" />
     <ClCompile Include="classDog.cpp" />
+    <ClCompile Include="classDog2.cpp" />
+    <ClCompile Include="classDog3.cpp" />
+    <ClCompile Include="informatinHiding.cpp" />
+    <ClCompile Include="structPoint.cpp" />
     <ClCompile Include="structStudent.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

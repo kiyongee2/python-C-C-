@@ -128,6 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="array2D.cpp" />
+    <ClCompile Include="calcScore.cpp" />
+    <ClCompile Include="findMin.cpp" />
+    <ClCompile Include="getSumAvg.cpp" />
     <ClCompile Include="inlineFunction.cpp" />
     <ClCompile Include="intArray.cpp" />
     <ClCompile Include="reference.cpp" />

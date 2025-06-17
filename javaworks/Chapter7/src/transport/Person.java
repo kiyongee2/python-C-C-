@@ -16,7 +16,6 @@ public class Person {
 	}
 	
 	public void personInfo() {
-		System.out.printf("%s의 남은 돈은 %,d원입니다\n", 
-				name, money);
+		System.out.printf("%s의 남은 돈은 %,d원입니다\n", name, money);
 	}
 }

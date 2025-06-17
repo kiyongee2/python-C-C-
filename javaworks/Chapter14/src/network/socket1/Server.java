@@ -21,7 +21,8 @@ public class Server {
 		Scanner scan = new Scanner(System.in);
 		while(true) {
 			String key = scan.nextLine();
-			if(key.toLowerCase().equals('q')) break;
+			if(key.toLowerCase().equals("q")) 
+				break;
 		}
 		scan.close();
 		
@@ -35,7 +36,7 @@ public class Server {
 			@Override
 			public void run() {
 				try {
-					serverSocket = new ServerSocket(50001);
+					serverSocket = new ServerSocket(8888);
 					System.out.println("[서버] 시작됨");
 					
 					while(true) {
@@ -52,7 +53,8 @@ public class Server {
 						System.out.println("[서버]" + clientIp + "의 연결을 끊음");
 					}
 				} catch (IOException e) {
-					e.printStackTrace();
+					//e.printStackTrace();
+					System.out.println("[서버]" + e.toString());
 				}
 			}
 		};

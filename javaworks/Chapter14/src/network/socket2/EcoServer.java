@@ -1,5 +1,7 @@
 package network.socket2;
 
+import java.io.DataInputStream;
+import java.io.DataOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
@@ -51,20 +53,26 @@ public class EcoServer {
 						System.out.println("[서버]" + clientIp + "의 연결 요청을 수락함");
 						//---------------------------------------------------------//
 						//데이터 받기
-						InputStream is = socket.getInputStream();
+						/*InputStream is = socket.getInputStream();
 						byte[] bytes = new byte[1024];
 						int readByteCount = is.read(bytes);
-						String message = new String(bytes, 0, readByteCount, "utf-8");
+						String message = new String(bytes, 0, readByteCount, "utf-8");*/
+						
+						DataInputStream dis = new DataInputStream(socket.getInputStream());
+						String message = dis.readUTF();
 						
 						//데이터 보내기
-						OutputStream os = socket.getOutputStream();
+						/*OutputStream os = socket.getOutputStream();
 						bytes = message.getBytes("utf-8");
 						os.write(bytes);
-						os.flush();
-						System.out.println("[서버] 받은 데이터를 다시 보냄" + message);
+						os.flush();*/
 						//---------------------------------------------------------//
 						
+						DataOutputStream dos = new DataOutputStream(socket.getOutputStream());
+						dos.writeUTF(message);
+						dos.flush();
 						socket.close(); //연결 종료
+						System.out.println("[서버] 받은 데이터를 다시 보냄, " + message);
 						System.out.println("[서버]" + clientIp + "의 연결을 끊음");
 					}
 				} catch (IOException e) {

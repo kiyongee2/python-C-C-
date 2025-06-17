@@ -31,9 +31,11 @@ public class ParseJson {
 			//배열의 속성 정보
 			JSONArray skill = root.getJSONArray("skill");
 			System.out.print("skill: ");
-			for(int i = 0; i < skill.length(); i++) {
-				System.out.println(skill.get(i) + ", ");
-			}
+			/*for(int i = 0; i < skill.length(); i++) {
+				System.out.print(skill.get(i) + ", ");
+			}*/
+			for(Object ski : skill)
+				System.out.print(ski + ", ");
 		}catch(IOException e) {
 			e.printStackTrace();
 		}

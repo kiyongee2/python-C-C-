@@ -8,15 +8,18 @@
 //	int year;
 //
 //public:
-//	Car(string model, int year);
+//	//Car(string model, int year);
+//	//생성자 초기화 목록
+//	Car(string model, int year) : model(model), year(year) {}
 //
 //	void carInfo();
 //};
 //
-//Car::Car(string model, int year) {
+////this로 초기화
+///*Car::Car(string model, int year) {
 //	this->model = model;
 //	this->year = year;
-//}
+//}*/
 //
 //void Car::carInfo() {
 //	cout << "모델명: " << this->model << endl;
