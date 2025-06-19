@@ -51,7 +51,9 @@ def insert_member():
     cur = conn.cursor()
     #회원 등록
     sql = "INSERT INTO member VALUES(?, ?, ?, ?, ?)"
-    cur.execute(sql, ('m1002', 'm2468@!', '장그래', '남자', 25))
+    # cur.execute(sql, ('m1002', 'm2468@!', '장그래', '남자', 25))
+    #리스트로 등록
+    cur.executemany(sql, member_list)
     conn.commit()
     print("회원 등록 완료!")
     
@@ -92,14 +94,21 @@ def delete_member():
     cur = conn.cursor()
     #회원 삭제
     sql = "DELETE FROM member WHERE m_id = ?"
-    cur.execute(sql, ('m1002', ))
+    cur.execute(sql, ('m1001', ))
     conn.commit()
     print("회원 삭제 완료!")
 
-# update_member() # 회원 수정 함수 호출
-# select_one() # 회원 1건 조회 함수 호출
-delete_member() # 회원 삭제 함수 호출
-# insert_member()  # 회원 등록 함수 호출
-# create_table() # member 테이블 생성 함수 호출
-# drop_table() # member 테이블 삭제 함수 호출
-select_all() # 회원 전체 조회 함수 호출
+if __name__ == "__main__":
+    member_list = [
+        ['m1001', 'm1357@!', '우영우', '여자', 28],
+        ['m1002', 'm2468@!', '장그래', '남자', 25],
+        ['m1003', 'm1234@!', '오상식', '남자', 45]
+    ]
+    
+    # update_member() # 회원 수정 함수 호출
+    # select_one() # 회원 1건 조회 함수 호출
+    # delete_member() # 회원 삭제 함수 호출
+    insert_member()  # 회원 등록 함수 호출
+    # create_table() # member 테이블 생성 함수 호출
+    # drop_table() # member 테이블 삭제 함수 호출
+    select_all() # 회원 전체 조회 함수 호출

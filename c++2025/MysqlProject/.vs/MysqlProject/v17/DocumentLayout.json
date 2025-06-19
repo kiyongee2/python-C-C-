@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\MysqlProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86D12942-D130-47D5-90D4-D8C69451F078}|MysqlProject\\MysqlProject.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\MysqlProject\\MysqlProject\\connectTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86D12942-D130-47D5-90D4-D8C69451F078}|MysqlProject\\MysqlProject.vcxproj|solutionrelative:MysqlProject\\connectTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D12942-D130-47D5-90D4-D8C69451F078}|MysqlProject\\MysqlProject.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\MysqlProject\\MysqlProject\\dbconnect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86D12942-D130-47D5-90D4-D8C69451F078}|MysqlProject\\MysqlProject.vcxproj|solutionrelative:MysqlProject\\dbconnect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D12942-D130-47D5-90D4-D8C69451F078}|MysqlProject\\MysqlProject.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\MysqlProject\\MysqlProject\\connectTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86D12942-D130-47D5-90D4-D8C69451F078}|MysqlProject\\MysqlProject.vcxproj|solutionrelative:MysqlProject\\connectTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "connectTest2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\MysqlProject\\MysqlProject\\connectTest2.cpp",
+              "RelativeDocumentMoniker": "MysqlProject\\connectTest2.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\MysqlProject\\MysqlProject\\connectTest2.cpp",
+              "RelativeToolTip": "MysqlProject\\connectTest2.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T01:59:07.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "connectTest.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\MysqlProject\\MysqlProject\\connectTest.cpp",
+              "RelativeDocumentMoniker": "MysqlProject\\connectTest.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\MysqlProject\\MysqlProject\\connectTest.cpp",
+              "RelativeToolTip": "MysqlProject\\connectTest.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T00:43:43.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbconnect.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\MysqlProject\\MysqlProject\\dbconnect.cpp",
+              "RelativeDocumentMoniker": "MysqlProject\\dbconnect.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\MysqlProject\\MysqlProject\\dbconnect.cpp",
+              "RelativeToolTip": "MysqlProject\\dbconnect.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T00:08:27.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

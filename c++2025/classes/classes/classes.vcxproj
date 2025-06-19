@@ -128,14 +128,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="classBankAccount.cpp" />
+    <ClCompile Include="classBirthday.cpp" />
     <ClCompile Include="classCar.cpp" />
     <ClCompile Include="classCircle.cpp" />
     <ClCompile Include="classDog.cpp" />
     <ClCompile Include="classDog2.cpp" />
     <ClCompile Include="classDog3.cpp" />
     <ClCompile Include="informatinHiding.cpp" />
+    <ClCompile Include="memberService.cpp" />
+    <ClCompile Include="pointCircle.cpp" />
     <ClCompile Include="structPoint.cpp" />
     <ClCompile Include="structStudent.cpp" />
+    <ClCompile Include="transport.cpp" />
+    <ClCompile Include="transport2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

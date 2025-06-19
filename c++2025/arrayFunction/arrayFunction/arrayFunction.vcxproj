@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="array2D.cpp" />
     <ClCompile Include="calcScore.cpp" />
+    <ClCompile Include="defaultParm.cpp" />
+    <ClCompile Include="dynamicAllocation.cpp" />
     <ClCompile Include="findMin.cpp" />
     <ClCompile Include="getSumAvg.cpp" />
     <ClCompile Include="inlineFunction.cpp" />

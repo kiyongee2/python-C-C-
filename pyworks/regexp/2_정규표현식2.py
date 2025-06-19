@@ -20,11 +20,19 @@ kim 920815-1234567
 lee 031011-4123456
 """
 
+'''
 pat = re.compile("(\d{6})[-]\d{7}")
 print(pat.sub("\g<1>-*******", data))
 
 pat2 = re.compile("(\d{6}[-]\d{1})\d{6}")
 print(pat2.sub("\g<1>******", data))
+'''
+
+def masked_resident_number(number):
+    pat = re.compile(r"(\d{6}-\d{1})\d{6}")
+    return pat.sub("\g<1>-*******", data)
+
+print(masked_resident_number(data))
 
 '''
 # 정규식 패턴 개선 (공백과 줄바꿈 고려)

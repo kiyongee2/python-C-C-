@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\DBconnection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CA2817-D5BE-4347-831F-473AA60BCA60}|DBconnection\\DBconnection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\DBconnection\\DBconnection\\connTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3CA2817-D5BE-4347-831F-473AA60BCA60}|DBconnection\\DBconnection.vcxproj|solutionrelative:DBconnection\\connTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CA2817-D5BE-4347-831F-473AA60BCA60}|DBconnection\\DBconnection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\DBconnection\\DBconnection\\connectiionTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3CA2817-D5BE-4347-831F-473AA60BCA60}|DBconnection\\DBconnection.vcxproj|solutionrelative:DBconnection\\connectiionTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CA2817-D5BE-4347-831F-473AA60BCA60}|DBconnection\\DBconnection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\DBconnection\\DBconnection\\connectionTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3CA2817-D5BE-4347-831F-473AA60BCA60}|DBconnection\\DBconnection.vcxproj|solutionrelative:DBconnection\\connectionTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "connTest.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\DBconnection\\DBconnection\\connTest.cpp",
+              "RelativeDocumentMoniker": "DBconnection\\connTest.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\DBconnection\\DBconnection\\connTest.cpp",
+              "RelativeToolTip": "DBconnection\\connTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T09:58:00.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "connectionTest2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\DBconnection\\DBconnection\\connectionTest2.cpp",
+              "RelativeDocumentMoniker": "DBconnection\\connectionTest2.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\DBconnection\\DBconnection\\connectionTest2.cpp",
+              "RelativeToolTip": "DBconnection\\connectionTest2.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T02:12:24.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "connectiionTest1.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\DBconnection\\DBconnection\\connectiionTest1.cpp",
+              "RelativeDocumentMoniker": "DBconnection\\connectiionTest1.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\DBconnection\\DBconnection\\connectiionTest1.cpp",
+              "RelativeToolTip": "DBconnection\\connectiionTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T02:06:40.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  connectiionTest1.cpp
+  connectionTest2.cpp
+  connTest.cpp
+D:\korea_IT\c++2025\DBconnection\DBconnection\connTest.cpp(2,10): error C1083: 포함 파일을 열 수 없습니다. 'cppconn/driver.h': No such file or directory

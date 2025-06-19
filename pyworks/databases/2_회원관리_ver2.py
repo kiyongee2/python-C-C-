@@ -100,7 +100,7 @@ def delete_users():
 # update_users() # 회원 수정 함수 호출
 # select_one() # 회원 1건 조회 함수 호출
 # delete_users() # 회원 삭제 함수 호출
-insert_users()  # 회원 등록 함수 호출
+# insert_users()  # 회원 등록 함수 호출
 # create_table() # users 테이블 생성 함수 호출
 # drop_table() # users 테이블 삭제 함수 호출
 select_all() # 회원 전체 조회 함수 호출
