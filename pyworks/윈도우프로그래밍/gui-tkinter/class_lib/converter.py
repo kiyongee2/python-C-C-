@@ -18,3 +18,5 @@ if __name__ == "__main__":
     con2 = Converter('inch', 'cm', 2.54)
     print(f'1inch = {con2.convert(1)}cm')
     print(f'10inch = {con2.convert(10)}cm')
+    
+    
