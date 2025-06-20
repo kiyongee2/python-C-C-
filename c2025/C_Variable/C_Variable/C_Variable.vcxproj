@@ -127,14 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ConstantEx.cpp" />
+    <ClCompile Include="ConstantEx.c" />
     <ClCompile Include="DataTypes1.c" />
     <ClCompile Include="DataTypes3.c" />
     <ClCompile Include="DataTypes2.c" />
     <ClCompile Include="Practice1.c" />
     <ClCompile Include="Practice2.c" />
     <ClCompile Include="TypeConversion.c" />
-    <ClCompile Include="VariableEx1.cpp" />
+    <ClCompile Include="VariableEx1.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="VariableEx1.cpp">
+    <ClCompile Include="VariableEx1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="DataTypes1.c">
@@ -30,7 +30,7 @@
     <ClCompile Include="Practice1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ConstantEx.cpp">
+    <ClCompile Include="ConstantEx.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Practice2.c">

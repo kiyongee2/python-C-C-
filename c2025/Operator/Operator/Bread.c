@@ -10,7 +10,7 @@
 //	int person = 3;
 //	int quotient, remainder;
 //
-//	quotient = (int)(bread / person);
+//	quotient = bread / person;
 //
 //	remainder = bread % person;
 //

@@ -10,17 +10,16 @@
 //	*/
 //	printf("===== char 자료형 =====\n");
 //	char ch = 'A';
-//	printf("%c %d\n", ch, ch);
-//
 //	char value1 = -128;
-//	printf("%d\n", value1);
-//
 //	char value2 = 128;  //범위를 초과하여 overflow 발생
-//	printf("%d\n", value2);
 //
-//	//unsigned char value3 = 128; 
-//	short value3 = 128;
-//	printf("%d\n", value3);
+//	printf("%c %d\n", ch, ch);
+//	printf("%d\n", value1);
+//	printf("%d\n", value2);
+//	
+//	unsigned char value3 = 128; 
+//	short value4 = 128;
+//	printf("%d %d\n", value3, value4);
 //
 //	/*
 //		int형 4B = 32bit
@@ -31,16 +30,17 @@
 //	*/
 //	printf("===== int 자료형 =====\n");
 //	int iNum = 2100000000;
-//	printf("%d\n", iNum);
-//
 //	int iNum2 = 2200000000; //범위를 초과하여 overflow 발생
+//
+//	printf("%d\n", iNum);
 //	printf("%d\n", iNum2);
 //
 //	printf("===== long 자료형 =====\n");
 //	long lNum = 2200000000L; //overflow 발생
-//	printf("%ld\n", lNum);
-//
+//	//window(os) - long long, mac(os) - long
 //	long long llNum = 2200000000L; 
+//
+//	printf("%ld\n", lNum);
 //	printf("%lld\n", llNum);
 //
 //	/*
@@ -50,9 +50,9 @@
 //	*/
 //	printf("=== float와 double 자료형 ===\n");
 //	float fNum = 0.1234567F;  //오류
-//	printf("%.6f\n", fNum);
-//
 //	double dNum = 0.1234567890123456;  //오류
+//
+//	printf("%.6f\n", fNum);
 //	printf("%.15lf\n", dNum);
 //
 //	return 0;
