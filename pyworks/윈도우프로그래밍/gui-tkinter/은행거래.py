@@ -38,24 +38,28 @@ def update_balance_label():
 
 root = Tk()
 root.title("은행 거래 앱")
+root.geometry("300x250+200+200")
+root.option_add("*font", "돋움체 13")
 
-lbl_amount = Label(root, text="금액")
+
+lbl_amount = Label(root, text="금액", height=2)
 lbl_amount.pack()
 
 # 입력된 금액
-ent_amount = Entry(root)
+ent_amount = Entry(root, width=20)
 ent_amount.pack()
+# ent_amount.config(ipady=5)
 
 # 잔액 조회 레이블
-lbl_balance = Label(root, text=f"잔액: {account['balance']}원")
+lbl_balance = Label(root, text=f"잔액: {account['balance']}원", height=3)
 lbl_balance.pack()
 
 # 입금 버튼
-btn_deposit = Button(root, text="입금", command=deposit)
+btn_deposit = Button(root, text="입금", width=20, height=2, command=deposit)
 btn_deposit.pack()
 
 # 출금 버튼
-btn_withdraw = Button(root, text="출금", command=withdraw)
+btn_withdraw = Button(root, text="출금", width=20, height=2, command=withdraw)
 btn_withdraw.pack()
 
 root.mainloop()

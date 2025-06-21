@@ -53,7 +53,8 @@ root.mainloop()
 # 함수로 구현
 def convert():
     try:
-        #eval: 문자열을 숫자로 변환
+        #eval(): 문자열을 숫자로 변환
+        #int()일 경우 - ValueError
         byte_mb = eval(ent_mb.get()) 
         txt_kb.delete(0.0, END) #초기화
         byte_kb = byte_mb * 1024 #계산

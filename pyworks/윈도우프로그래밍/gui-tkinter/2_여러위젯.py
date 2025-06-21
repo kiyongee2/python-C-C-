@@ -2,6 +2,7 @@
 from tkinter import *
 
 # 컴퓨터 용어 사전
+'''
 dic = {
     "이진수": "2진법으로 나타낸 숫자, 0과 1로 구성함",
     "버그": "프로그램이 적절하게 동작하는데 실패하거나 또는 전혀 동작하지 않는 \
@@ -38,11 +39,60 @@ output = Text(root, width=60, height=10, bg="skyblue")
 output.grid(row=4, column=0, sticky=W)
 
 root.mainloop()
+'''
 
+# 체크 버튼 
+import tkinter as tk
 
+def btn_check():
+    if ck_val.get() == True:
+        print("체크 되었습니다.")
+    else:
+        print("해제 되었습니다.")
+
+window = tk.Tk()
+window.title("체크 버튼 생성")
+window.geometry("300x100")
+
+# 체크 속성(체크/해제)
+ck_val = tk.BooleanVar() #True/False
+ck_val.set(False) #기본값
+
+# 체크 버튼
+ck_btn = tk.Checkbutton(text="체크 버튼", font=("System", 14), 
+                variable=ck_val, command=btn_check)
+ck_btn.pack()
+
+window.mainloop()
+
+# 체크 버튼 
+import tkinter as tk
+
+def btn_check():
+    if ck_val.get() == True:
+        print("체크")
+    else:
+        print("해제")
+
+window = tk.Tk()
+window.title("체크 버튼 생성")
+window.geometry("300x100")
+
+# 체크 속성(체크/해제)
+ck_val = tk.BooleanVar() #True/False
+ck_val.set(False) #기본값
+
+# 체크 버튼
+ck_btn = tk.Checkbutton(text="체크 버튼", font=("System", 14), 
+                variable=ck_val, command=btn_check)
+ck_btn.pack()
+
+window.mainloop()
+
+"""
 class App:
     def __init__(self, master):
-        frame = Frame(master)
+        frame = Frame(master)   
         frame.pack()
         Label(frame, text="제목").grid(row=0, column=0)
         Entry(frame, width=20).grid(row=0, column=1)
@@ -75,4 +125,4 @@ root.title("UI 구성")
 app = App(root)  #App 클래스의 객체 생성
 
 root.mainloop()
-
+"""
