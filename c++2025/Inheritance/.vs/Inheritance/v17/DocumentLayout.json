@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\virtualFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\virtualFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\inheritanceEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\inheritanceEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\inheritanceEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\inheritanceEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "virtualFunction.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\virtualFunction.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\virtualFunction.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\virtualFunction.cpp",
+              "RelativeToolTip": "Inheritance\\virtualFunction.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T06:04:25.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inheritanceEx2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\inheritanceEx2.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\inheritanceEx2.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\inheritanceEx2.cpp",
+              "RelativeToolTip": "Inheritance\\inheritanceEx2.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T05:31:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "inheritanceEx1.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\inheritanceEx1.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\inheritanceEx1.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\inheritanceEx1.cpp",
+              "RelativeToolTip": "Inheritance\\inheritanceEx1.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T05:04:55.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\classBankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\classBankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\staticCardArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\staticCardArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\staticCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\staticCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\classCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\classCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\carArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\carArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\enumValue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\enumValue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\vectorString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\vectorString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\classMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\classMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\defineMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\defineMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "classBankAccount.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\classBankAccount.cpp",
+              "RelativeDocumentMoniker": "classes2\\classBankAccount.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\classBankAccount.cpp",
+              "RelativeToolTip": "classes2\\classBankAccount.cpp",
+              "ViewState": "AgIAAHcAAAAAAAAAAIAwwJAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T04:45:00.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vectorString.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\vectorString.cpp",
+              "RelativeDocumentMoniker": "classes2\\vectorString.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\vectorString.cpp",
+              "RelativeToolTip": "classes2\\vectorString.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T02:26:37.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "enumValue.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\enumValue.cpp",
+              "RelativeDocumentMoniker": "classes2\\enumValue.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\enumValue.cpp",
+              "RelativeToolTip": "classes2\\enumValue.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T01:03:54.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "carArray.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\carArray.cpp",
+              "RelativeDocumentMoniker": "classes2\\carArray.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\carArray.cpp",
+              "RelativeToolTip": "classes2\\carArray.cpp",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T22:56:40.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "classCar.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\classCar.cpp",
+              "RelativeDocumentMoniker": "classes2\\classCar.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\classCar.cpp",
+              "RelativeToolTip": "classes2\\classCar.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T22:30:05.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "defineMath.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\defineMath.cpp",
+              "RelativeDocumentMoniker": "classes2\\defineMath.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\defineMath.cpp",
+              "RelativeToolTip": "classes2\\defineMath.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T22:20:24.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "staticCardArray.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\staticCardArray.cpp",
+              "RelativeDocumentMoniker": "classes2\\staticCardArray.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\staticCardArray.cpp",
+              "RelativeToolTip": "classes2\\staticCardArray.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T21:24:21.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "staticCard.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\staticCard.cpp",
+              "RelativeDocumentMoniker": "classes2\\staticCard.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\staticCard.cpp",
+              "RelativeToolTip": "classes2\\staticCard.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T20:49:17.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "classMath.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\classMath.cpp",
+              "RelativeDocumentMoniker": "classes2\\classMath.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\classMath.cpp",
+              "RelativeToolTip": "classes2\\classMath.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T20:40:52.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

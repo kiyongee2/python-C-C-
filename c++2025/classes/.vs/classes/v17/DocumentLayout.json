@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\transport2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|solutionrelative:classes\\transport2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\pointCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|solutionrelative:classes\\pointCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\transport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|solutionrelative:classes\\transport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\memberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|solutionrelative:classes\\memberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\structStudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|solutionrelative:classes\\structStudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\classBirthday.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,58 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "transport2.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\transport2.cpp",
-              "RelativeDocumentMoniker": "classes\\transport2.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\transport2.cpp",
-              "RelativeToolTip": "classes\\transport2.cpp",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAwDkAAAAcAAAAAAAAAA==",
+              "Title": "structStudent.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\structStudent.cpp",
+              "RelativeDocumentMoniker": "classes\\structStudent.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\structStudent.cpp",
+              "RelativeToolTip": "classes\\structStudent.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-19T07:02:35.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "transport.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\transport.cpp",
-              "RelativeDocumentMoniker": "classes\\transport.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\transport.cpp",
-              "RelativeToolTip": "classes\\transport.cpp",
-              "ViewState": "AgIAACwAAAAAAAAAAAAQwDoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-19T06:29:01.6Z",
+              "WhenOpened": "2025-06-24T01:04:20.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "pointCircle.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\pointCircle.cpp",
-              "RelativeDocumentMoniker": "classes\\pointCircle.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\pointCircle.cpp",
-              "RelativeToolTip": "classes\\pointCircle.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-19T05:35:42.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "memberService.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\memberService.cpp",
-              "RelativeDocumentMoniker": "classes\\memberService.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\memberService.cpp",
-              "RelativeToolTip": "classes\\memberService.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwCsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-19T05:22:03.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "classBirthday.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\classBirthday.cpp",
               "RelativeDocumentMoniker": "classes\\classBirthday.cpp",
