@@ -1,0 +1,8 @@
+/* sytle.css */
+
+/* 페이지 가운데 정렬, 위.아래 여백 30px */
+#container{ width: 80%; margin: 30px auto;}
+
+/* 제목 글자색 - 파랑 */
+#container h1{color: blue;}
+

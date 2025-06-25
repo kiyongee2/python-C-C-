@@ -86,7 +86,7 @@ frame = Frame(root) #프레임 생성
 frame.pack()        #가운데 배치
 
 Label(frame, text="이름: ", height=3, font=('System', 12)) \
-    .grid(row=0, column=0)
+    .grid(row=0, column=0) 
 entry = Entry(frame, width=10) #Entry - 입력 상자 클래스
 entry.grid(row=0, column=1)
 Button(frame, text="확인", command=click, width=10, height=2) \
