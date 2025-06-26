@@ -17,6 +17,7 @@
 //	}
 //};
 //
+////함수 재정의(override) - 상속받는 클래스에서 함수의 내용을 변경함
 //class Student : public Person {
 //private:
 //	int studentId;  //학생 아이디
@@ -26,32 +27,28 @@
 //		Person(name), studentId(studentId) {
 //	}
 //
-//	void greet() override{  //함수 재정의
+//	void greet(){  
 //		cout << "안녕하세요. 성명: " << name <<
 //			", 학번: " << studentId << endl;
 //	}
 //
-//	void displayInfo() override{
+//	void displayInfo(){
 //		cout << "Student name: " << name << endl;
 //	}
 //};
 //
 //int main()
 //{
-//	/*//부모 객체 생성
-//	Person p1("신유진");
+//	//부모 객체 생성
+//	Person p1("이종범");
 //	p1.greet();
 //	p1.displayInfo();
 //
 //	//자식 객체 생성
-//	Student st1("이정우", 101);
+//	Student st1("이정후", 101);
 //	st1.greet();
-//	st1.displayInfo();*/
-//
-//	//다형성 - 객체 생성
-//	Person* p2 = new Student("우상형", 102);
-//	p2->greet();  //Student의 greet() 호출
-//	p2->displayInfo(); //Student의 displayInfo  () 호출
+//	st1.displayInfo();
 //
 //	return 0;
 //}
+//

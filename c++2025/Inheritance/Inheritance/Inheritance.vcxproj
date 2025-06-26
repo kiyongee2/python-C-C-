@@ -127,8 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="autoDataType.cpp" />
     <ClCompile Include="inheritanceEx1.cpp" />
     <ClCompile Include="inheritanceEx2.cpp" />
+    <ClCompile Include="inheritStatement.cpp" />
+    <ClCompile Include="operatorAdd.cpp" />
+    <ClCompile Include="operatorCompare.cpp" />
+    <ClCompile Include="polymorphismStatement.cpp" />
+    <ClCompile Include="polyStatement2.cpp" />
     <ClCompile Include="virtualFunction.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

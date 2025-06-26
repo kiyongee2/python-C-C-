@@ -2,35 +2,39 @@
 #include <vector>
 using namespace std;
 
+//enum 자료형 - 거래 유형
 enum TransactionType {
 	입금,
 	출금
 };
 
+//struct 자료형 - 거래
 struct Transaction {
-	TransactionType type;
-	int amount;
+	TransactionType type;  //거래 유형
+	int amount;            //거래 금액
 };
 
+//클래스 정의 - 은행 계정
 class BankAccount {
 private:
-	int accountNumber;
-	string owner;
-	int balance;
-	vector<Transaction> transaction;
+	int accountNumber;  //계좌번호
+	string owner;       //계좌주
+	int balance;        //잔고
+	vector<Transaction> transaction; //거래 내역
 
 public:
 	BankAccount(int accountNumber, string owner, int balance) :
 		accountNumber(accountNumber), owner(owner), balance(balance) {
 	}
 
-	void deposit(int amount);
-	void withdraw(int amount);
-	void displayInfo();
-	void getTransactionHistory();
+	void deposit(int amount);  //입금하다
+	void withdraw(int amount); //출금하다
+	void displayInfo();        //계좌 정보 출력
+	void getTransactionHistory(); //거래 내역 조회
 
 private:
-	void addTranscation(TransactionType type, int amount);
+	//트랜잭션 추가하다.
+	void addTranscation(TransactionType type, int amount); 
 };
 
 void BankAccount::deposit(int amount) {
@@ -79,7 +83,7 @@ void BankAccount::getTransactionHistory() {
 		return;
 	}
 
-	for (const auto& trans : transaction) {
+	for (Transaction trans : transaction) { //자료형 변수 : 객체 이름
 		cout << " | " << (trans.type == TransactionType::입금 ? "입금" : "출금");
 		cout << " | " << trans.amount << "원\n";
 

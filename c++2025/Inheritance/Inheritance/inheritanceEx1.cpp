@@ -1,6 +1,7 @@
 //#include <iostream>
 //using namespace std;
 //
+////부모 클래스
 //class Person {
 //private: 
 //	string name;
@@ -13,6 +14,7 @@
 //	string getName() { return name; }
 //};
 //
+////자식 클래스
 //class Student : public Person {
 //private:
 //	int studentId;  //학생 아이디
