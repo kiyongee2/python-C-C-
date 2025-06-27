@@ -38,19 +38,22 @@ demo.grid(row=2, column=0)
 """
 
 # pack()
-"""
+
 window = Tk()
 window.title('pack')
-window.geometry("300x100")
+window.geometry("300x200")
 
 Label(window, text="안녕하세요").pack()
 btn = Button(window)
 btn.config(text='확인')
-btn.pack() #side='top'
-# btn.pack(side='left')
+# btn.pack() 
+# btn.pack(side='bottom') #left, right, top, bottom
+
+# 특정 위치에 배치(좌표 사용)
+btn.place(x = 130, y = 100)
 
 window.mainloop()
-"""
+
 
 # grid()
 '''
@@ -68,7 +71,7 @@ window.mainloop()
 '''
 
 # 이름을 입력받아 화면에 출력하기
-
+"""
 def click():  
     text = entry.get()
     output.delete(0.0, END) 
@@ -96,4 +99,4 @@ output = Text(frame, width=20, height=3) #Text - 출력상자 클래스
 output.grid(row=3, columnspan=2)
 
 root.mainloop()
-
+"""

@@ -1,8 +1,8 @@
 # 목록 만들기
 # 체크 버튼 동작 출력
-"""
 import tkinter as tk
 
+"""
 def click():
     if ck_val.get() == True:
         print("체크 되었습니다.")

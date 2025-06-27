@@ -19,9 +19,9 @@ window = Tk()
 window.title("쿠폰 추첨기")
 window.option_add('*font', '맑은고딕 13')
 
-# 이미지 삽입
 lbl_img = Label(window)
-img = PhotoImage(file = "bronx.png") #파일 경로
+#이미지 파일 경로
+img = PhotoImage(file = "bronx.png") 
 lbl_img.config(image = img)
 lbl_img.grid(row=0, column=0, sticky=W)
 
