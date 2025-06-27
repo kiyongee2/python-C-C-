@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\korea_IT\\c2024\\DecisionRepetition\\",
+  "WorkspaceRootPath": "D:\\korea_IT\\c2025\\DecisionRepetition\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A6AB3FE-8B07-4CC3-97BA-347B83E04AA4}|DecisionRepetition\\DecisionRepetition.vcxproj|D:\\korea_IT\\c2024\\DecisionRepetition\\DecisionRepetition\\DoWhile2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3A6AB3FE-8B07-4CC3-97BA-347B83E04AA4}|DecisionRepetition\\DecisionRepetition.vcxproj|D:\\korea_IT\\c2025\\DecisionRepetition\\DecisionRepetition\\DoWhile2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3A6AB3FE-8B07-4CC3-97BA-347B83E04AA4}|DecisionRepetition\\DecisionRepetition.vcxproj|solutionrelative:DecisionRepetition\\DoWhile2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A6AB3FE-8B07-4CC3-97BA-347B83E04AA4}|DecisionRepetition\\DecisionRepetition.vcxproj|D:\\korea_IT\\c2024\\DecisionRepetition\\DecisionRepetition\\DoWhile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3A6AB3FE-8B07-4CC3-97BA-347B83E04AA4}|DecisionRepetition\\DecisionRepetition.vcxproj|D:\\korea_IT\\c2025\\DecisionRepetition\\DecisionRepetition\\DoWhile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3A6AB3FE-8B07-4CC3-97BA-347B83E04AA4}|DecisionRepetition\\DecisionRepetition.vcxproj|solutionrelative:DecisionRepetition\\DoWhile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A6AB3FE-8B07-4CC3-97BA-347B83E04AA4}|DecisionRepetition\\DecisionRepetition.vcxproj|D:\\korea_IT\\c2024\\DecisionRepetition\\DecisionRepetition\\NestedFor1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3A6AB3FE-8B07-4CC3-97BA-347B83E04AA4}|DecisionRepetition\\DecisionRepetition.vcxproj|D:\\korea_IT\\c2025\\DecisionRepetition\\DecisionRepetition\\NestedFor1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3A6AB3FE-8B07-4CC3-97BA-347B83E04AA4}|DecisionRepetition\\DecisionRepetition.vcxproj|solutionrelative:DecisionRepetition\\NestedFor1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DoWhile2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\DecisionRepetition\\DecisionRepetition\\DoWhile2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\DecisionRepetition\\DecisionRepetition\\DoWhile2.c",
               "RelativeDocumentMoniker": "DecisionRepetition\\DoWhile2.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\DecisionRepetition\\DecisionRepetition\\DoWhile2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\DecisionRepetition\\DecisionRepetition\\DoWhile2.c",
               "RelativeToolTip": "DecisionRepetition\\DoWhile2.c",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DoWhile.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\DecisionRepetition\\DecisionRepetition\\DoWhile.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\DecisionRepetition\\DecisionRepetition\\DoWhile.c",
               "RelativeDocumentMoniker": "DecisionRepetition\\DoWhile.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\DecisionRepetition\\DecisionRepetition\\DoWhile.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\DecisionRepetition\\DecisionRepetition\\DoWhile.c",
               "RelativeToolTip": "DecisionRepetition\\DoWhile.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-18T03:00:39.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T03:00:39.226Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "NestedFor1.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2024\\DecisionRepetition\\DecisionRepetition\\NestedFor1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\DecisionRepetition\\DecisionRepetition\\NestedFor1.c",
               "RelativeDocumentMoniker": "DecisionRepetition\\NestedFor1.c",
-              "ToolTip": "D:\\korea_IT\\c2024\\DecisionRepetition\\DecisionRepetition\\NestedFor1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\DecisionRepetition\\DecisionRepetition\\NestedFor1.c",
               "RelativeToolTip": "DecisionRepetition\\NestedFor1.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-18T02:54:28.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T02:54:28.633Z"
             }
           ]
         }

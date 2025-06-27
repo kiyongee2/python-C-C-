@@ -62,7 +62,7 @@ void Person::displayInfo() {
 int main()
 {
 	Person lee("이정후", 10000); //사람 인스턴스 생성
-	Person shin("신유빈", 2000);
+	Person shin("신유빈", 8000);
 	Bus bus740(740, 1500);      //버스 인스턴스 생성 
 
 	lee.takeBus(bus740); //버스 탑승
@@ -72,6 +72,16 @@ int main()
 	lee.displayInfo();    //사람의 정보 출력
 	shin.displayInfo();
 	bus740.displayInfo(); //버스의 정보 출력
+
+	cout << "-------------------------\n";
+
+	//객체 배열로 관리
+	Person ps[2] = { lee, shin };
+	for (int i = 0; i < size(ps); i++) {
+		ps[i].takeBus(bus740);
+		ps[i].displayInfo();
+	}
+
 
 	return 0;
 }

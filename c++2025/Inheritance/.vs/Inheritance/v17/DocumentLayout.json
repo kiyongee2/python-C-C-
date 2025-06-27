@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\inheritStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\inheritStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\operatorCompare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\operatorCompare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "inheritStatement.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\inheritStatement.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\inheritStatement.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\inheritStatement.cpp",
+              "RelativeToolTip": "Inheritance\\inheritStatement.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T07:44:28.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "operatorCompare.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\operatorCompare.cpp",
               "RelativeDocumentMoniker": "Inheritance\\operatorCompare.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\operatorCompare.cpp",
               "RelativeToolTip": "Inheritance\\operatorCompare.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-26T07:10:21.534Z",
               "EditorCaption": ""
