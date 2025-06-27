@@ -134,6 +134,7 @@
     <ClCompile Include="DoWhileEx2.c" />
     <ClCompile Include="DoWhileEx3.c" />
     <ClCompile Include="ForEx1.c" />
+    <ClCompile Include="forGob.c" />
     <ClCompile Include="ForSum.c" />
     <ClCompile Include="GradeCalc.c" />
     <ClCompile Include="GuguDan.c" />

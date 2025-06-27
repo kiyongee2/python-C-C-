@@ -20,14 +20,14 @@
 //	}
 //	printf("합계: %d, n = %d\n", sum, n);
 //
-//	/*sum = 0;
+//	sum = 0;
 //	for (n = 1; n <= 10; n++)
 //	{
 //		if(n % 2 == 1)
 //			sum = sum + n;
 //		printf("n=%d, sum=%d\n", n, sum);
 //	}
-//	printf("홀수의 합계: %d, n = %d\n", sum, n);*/
+//	printf("홀수의 합계: %d, n = %d\n", sum, n);
 //
 //	return 0;
 //}

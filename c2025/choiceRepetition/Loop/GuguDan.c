@@ -28,11 +28,21 @@
 //
 //
 //	//단보다 곱하는 수가 작거나 같은 경우까지 출력
+//	for (int i = 2; i <= 9; i++)
+//	{
+//		for (int j = 1; j <= 9; j++)
+//		{
+//			if (i >= j) 
+//				printf("%d x %d = %d\n", i, j, (i * j));
+//		}
+//		printf("\n");
+//	}
+//
 //	/*for (int i = 2; i <= 9; i++)
 //	{
 //		for (int j = 1; j <= 9; j++)
 //		{
-//			if (i < j) 
+//			if (i < j)
 //				break;
 //			printf("%d x %d = %d\n", i, j, (i * j));
 //		}
