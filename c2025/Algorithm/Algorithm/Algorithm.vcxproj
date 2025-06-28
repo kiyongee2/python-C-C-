@@ -144,6 +144,7 @@
     </ClCompile>
     <ClCompile Include="sortEx.c" />
     <ClCompile Include="stackEx.c" />
+    <ClCompile Include="stackEx2.cpp" />
     <ClCompile Include="string1.c" />
     <ClCompile Include="struct.c" />
   </ItemGroup>

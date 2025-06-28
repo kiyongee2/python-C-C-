@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\MemoryAllocation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\calcScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\calcScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\MallocEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\MallocEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\MallocEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\MallocEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\mallocChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\mallocChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\MallocString1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\MallocString1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\MallocEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\MallocEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\MallocEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\MallocEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\Alphabets.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -39,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "calcScore.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\calcScore.c",
+              "RelativeDocumentMoniker": "MemoryAllocation\\calcScore.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\calcScore.c*",
+              "RelativeToolTip": "MemoryAllocation\\calcScore.c*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-28T10:31:35.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "mallocChar.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\mallocChar.c",
               "RelativeDocumentMoniker": "MemoryAllocation\\mallocChar.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\mallocChar.c*",
-              "RelativeToolTip": "MemoryAllocation\\mallocChar.c*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\mallocChar.c",
+              "RelativeToolTip": "MemoryAllocation\\mallocChar.c",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-29T07:45:20.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MallocString1.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\MallocString1.c",
               "RelativeDocumentMoniker": "MemoryAllocation\\MallocString1.c",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Pointer2D.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\Pointer2D.c",
               "RelativeDocumentMoniker": "MemoryAllocation\\Pointer2D.c",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Alphabets.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\Alphabets.c",
               "RelativeDocumentMoniker": "MemoryAllocation\\Alphabets.c",
@@ -87,27 +104,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MallocEx2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\MallocEx2.c",
               "RelativeDocumentMoniker": "MemoryAllocation\\MallocEx2.c",
               "ToolTip": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\MallocEx2.c",
               "RelativeToolTip": "MemoryAllocation\\MallocEx2.c",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-15T00:52:49.679Z"
+              "WhenOpened": "2025-05-15T00:52:49.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MallocEx1.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\MallocEx1.c",
               "RelativeDocumentMoniker": "MemoryAllocation\\MallocEx1.c",
               "ToolTip": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\MallocEx1.c",
               "RelativeToolTip": "MemoryAllocation\\MallocEx1.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-15T00:38:36.012Z"
+              "WhenOpened": "2025-05-15T00:38:36.012Z",
+              "EditorCaption": ""
             }
           ]
         }
