@@ -38,7 +38,7 @@ demo.grid(row=2, column=0)
 """
 
 # pack()
-
+'''
 window = Tk()
 window.title('pack')
 window.geometry("300x200")
@@ -47,13 +47,27 @@ Label(window, text="안녕하세요").pack()
 btn = Button(window)
 btn.config(text='확인')
 # btn.pack() 
-# btn.pack(side='bottom') #left, right, top, bottom
+btn.pack(side='top') #left, right, top, bottom
 
 # 특정 위치에 배치(좌표 사용)
-btn.place(x = 130, y = 100)
+# btn.place(x = 130, y = 100)
 
 window.mainloop()
+'''
 
+window = Tk()
+window.title('pack')
+window.geometry("300x200")
+window.option_add("*font", "System 12")
+
+frame = Frame(window)
+frame.pack()
+
+Label(frame, text="안녕하세요").pack(pady=20)
+Button(frame, text="변환", width=10).pack(side=LEFT, padx=5)
+Button(frame, text="초기화", width=10).pack(side=LEFT, padx=5)
+
+window.mainloop()
 
 # grid()
 '''
