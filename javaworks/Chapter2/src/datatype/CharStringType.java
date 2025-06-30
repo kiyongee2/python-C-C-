@@ -1,9 +1,7 @@
-package types;
+package datatype;
 
-public class CharType {
-
+public class CharStringType {
 	public static void main(String[] args) {
-		//문자 및 문자열 자료형
 		System.out.println("***** 문자 자료형 *****");
 		//char(2byte) - 1개 문자 표현
 		char ch1 = 'A';
@@ -34,14 +32,13 @@ public class CharType {
 		System.out.println(version);
 		System.out.println(java);
 		
+		String kor3 = "가";  //String은 쌍따옴표
 		String cart = "라면";
 		System.out.println(cart);
+		System.out.println(kor3);
 		
 		//배열
-		String carts[] = {"라면", "빵", "우유"};
-		
-		for(int i=0; i<3; i++) {
-			System.out.println(carts[i]);
-		}
+		String[] carts = {"라면", "빵", "우유"};
+		System.out.println(carts[2]); //우유
 	}
 }

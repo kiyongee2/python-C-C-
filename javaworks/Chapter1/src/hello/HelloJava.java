@@ -15,6 +15,6 @@ public class HelloJava {
 		//System.out.print("Hello~ World");
 		System.out.println("Hello~ World");
 		
-		System.out.println("안녕~ 자바");
+		System.out.println("안녕~ 셰계야");
 	}
 }

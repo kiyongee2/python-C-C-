@@ -1,4 +1,4 @@
-package types;
+package datatype;
 
 public class BooleanType {
 
@@ -10,9 +10,9 @@ public class BooleanType {
 		boolean value2 = (10 > 20);
 		System.out.println(value2);
 		
-	    System.out.println("***** 선수 정보 *****");
-		String name = "추신수";
-		int age = 42;
+	    System.out.println("***** 사원 정보 *****");
+		String name = "오상식";
+		int age = 41;
 		boolean isMerried = true;
 		int numberOfChildren = 3;
 		
