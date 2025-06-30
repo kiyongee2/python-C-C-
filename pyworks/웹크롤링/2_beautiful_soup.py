@@ -49,6 +49,22 @@ url = "https://www.seoul.go.kr/main/index.jsp"
 response = requests.get(url)
 html = BeautifulSoup(response.text, 'html.parser')
 
+# find()
+li = html.find('li', attrs={'class': 'public'})
+# print(li)
+print(li.text)
+
+# find_all()
+div = html.find('div', attrs={'class': 'm_service'})
+# print(li)
+# print(li.text)
+all_li = div.find_all('li')
+# print(all_li)
+for li in all_li:
+    print(li.text)
+print(all_li[1].text)
+
+'''
 # 첫번째 메뉴 찾기
 first_li = html.select_one('li.public')
 print(first_li)
@@ -65,4 +81,4 @@ for li in all_li:
 # 인덱싱
 print(all_li[1].text)
 print(all_li[-1].text)
-    
+'''

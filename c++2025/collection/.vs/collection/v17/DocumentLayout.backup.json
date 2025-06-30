@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\queueEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|solutionrelative:collection\\queueEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\stackEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|solutionrelative:collection\\stackEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\stackEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|solutionrelative:collection\\stackEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\queueEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|solutionrelative:collection\\queueEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|solutionrelative:collection\\sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\vectorEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|solutionrelative:collection\\vectorEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\template1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|solutionrelative:collection\\template1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\vectorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|solutionrelative:collection\\vectorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\mapEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,43 +46,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "queueEx2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\queueEx2.cpp",
+              "RelativeDocumentMoniker": "collection\\queueEx2.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\queueEx2.cpp",
+              "RelativeToolTip": "collection\\queueEx2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-30T06:54:32.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "queueEx1.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\queueEx1.cpp",
+              "RelativeDocumentMoniker": "collection\\queueEx1.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\queueEx1.cpp*",
+              "RelativeToolTip": "collection\\queueEx1.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-30T06:53:32.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "stackEx2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\stackEx2.cpp",
+              "RelativeDocumentMoniker": "collection\\stackEx2.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\stackEx2.cpp*",
+              "RelativeToolTip": "collection\\stackEx2.cpp*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-30T06:47:47.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stackEx1.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\stackEx1.cpp",
+              "RelativeDocumentMoniker": "collection\\stackEx1.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\stackEx1.cpp",
+              "RelativeToolTip": "collection\\stackEx1.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-30T06:32:07.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vectorEx2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\vectorEx2.cpp",
+              "RelativeDocumentMoniker": "collection\\vectorEx2.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\vectorEx2.cpp",
+              "RelativeToolTip": "collection\\vectorEx2.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-30T06:13:26.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vectorEx1.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\vectorEx1.cpp",
+              "RelativeDocumentMoniker": "collection\\vectorEx1.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\vectorEx1.cpp",
+              "RelativeToolTip": "collection\\vectorEx1.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwDEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-30T05:30:59.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "template1.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\template1.cpp",
               "RelativeDocumentMoniker": "collection\\template1.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\template1.cpp",
               "RelativeToolTip": "collection\\template1.cpp",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-24T01:45:36.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "mapEx2.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\mapEx2.cpp",
               "RelativeDocumentMoniker": "collection\\mapEx2.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\mapEx2.cpp",
               "RelativeToolTip": "collection\\mapEx2.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAQwCsAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowCUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-19T02:07:41.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "sort.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\sort.cpp",
               "RelativeDocumentMoniker": "collection\\sort.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\sort.cpp",
               "RelativeToolTip": "collection\\sort.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-19T01:53:35.883Z",
               "EditorCaption": ""
