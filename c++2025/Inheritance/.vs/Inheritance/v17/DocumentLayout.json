@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\inheritStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\inheritStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\multiInherit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\multiInherit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\operatorCompare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\operatorCompare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\polyStatement2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\polyStatement2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\virtualFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\virtualFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\polymorphismStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\polymorphismStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\autoDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\autoDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "inheritStatement.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\inheritStatement.cpp",
-              "RelativeDocumentMoniker": "Inheritance\\inheritStatement.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\inheritStatement.cpp",
-              "RelativeToolTip": "Inheritance\\inheritStatement.cpp",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Title": "multiInherit.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\multiInherit.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\multiInherit.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\multiInherit.cpp",
+              "RelativeToolTip": "Inheritance\\multiInherit.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-26T07:44:28.797Z",
+              "WhenOpened": "2025-07-01T01:38:57.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "operatorCompare.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\operatorCompare.cpp",
-              "RelativeDocumentMoniker": "Inheritance\\operatorCompare.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\operatorCompare.cpp",
-              "RelativeToolTip": "Inheritance\\operatorCompare.cpp",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Title": "polyStatement2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\polyStatement2.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\polyStatement2.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\polyStatement2.cpp",
+              "RelativeToolTip": "Inheritance\\polyStatement2.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwD8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-26T07:10:21.534Z",
+              "WhenOpened": "2025-07-01T01:24:49.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "polymorphismStatement.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\polymorphismStatement.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\polymorphismStatement.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\polymorphismStatement.cpp",
+              "RelativeToolTip": "Inheritance\\polymorphismStatement.cpp",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwEoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T01:23:09.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "autoDataType.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\autoDataType.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\autoDataType.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\autoDataType.cpp",
+              "RelativeToolTip": "Inheritance\\autoDataType.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T01:15:22.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "virtualFunction.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\virtualFunction.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\virtualFunction.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\virtualFunction.cpp",
+              "RelativeToolTip": "Inheritance\\virtualFunction.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwC8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T01:14:27.979Z",
               "EditorCaption": ""
             }
           ]

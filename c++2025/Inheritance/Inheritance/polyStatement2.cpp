@@ -12,12 +12,12 @@
 //        name(name), price(price), quantity(quantity) {
 //    }
 //
-//    int calcPrice() { return price * quantity; }
+//    virtual ~Drink() {}  //소멸자 명시함
 //
+//    int calcPrice() { return price * quantity; }
 //    static void printTitle() {
 //        cout << "상품명\t가격\t수량\t금액\n";
 //    }
-//
 //    virtual void printData() = 0;  // 순수 가상 함수
 //};
 //
@@ -65,8 +65,8 @@
 //        drink->printData();
 //
 //    int total = 0;
-//    for (auto d : drinks) {
-//        total += d->calcPrice();
+//    for (auto drink : drinks) {
+//        total += drink->calcPrice();
 //    }
 //    cout << "******* 합계 금액: " << total << "원 *******\n";
 //

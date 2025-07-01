@@ -131,6 +131,7 @@
     <ClCompile Include="inheritanceEx1.cpp" />
     <ClCompile Include="inheritanceEx2.cpp" />
     <ClCompile Include="inheritStatement.cpp" />
+    <ClCompile Include="multiInherit.cpp" />
     <ClCompile Include="operatorAdd.cpp" />
     <ClCompile Include="operatorCompare.cpp" />
     <ClCompile Include="polymorphismStatement.cpp" />

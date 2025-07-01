@@ -3,6 +3,12 @@
 //
 //class Animal {
 //public:
+//	//Animal() {}  //기본 생성자
+//
+//	//반드시 virtual로 소멸자 명시함
+//	//소멸자 없으면 delete시에 메모리 누수 현상 발생함
+//	virtual ~Animal() {} 
+//
 //	void breathe() {
 //		cout << "숨을 쉽니다.\n";
 //	}

@@ -31,8 +31,10 @@
 //	}*/
 //
 //	//범위 기반 for - int형 대신 auto 사용
-//	for (auto v : vec) {
+//	//참조로 순회하려면 auto&를 사용함
+//	for (auto& v : vec) {
 //		cout << v << " ";
 //	}
+//
 //	return 0;
 //}

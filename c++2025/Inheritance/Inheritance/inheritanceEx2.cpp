@@ -2,7 +2,7 @@
 //using namespace std;
 //
 //class Person {
-//protected: //자식 클래스에서만 접근 가능
+//protected: //상속받는 클래스에서만 접근 가능
 //	string name;
 //
 //public:
@@ -24,15 +24,15 @@
 //
 //public:
 //	Student(string name, int studentId) :
-//		Person(name), studentId(studentId) {
+//		Person(name), studentId(studentId) { //부모 멤버(이름) 상속
 //	}
 //
-//	void greet(){  
+//	void greet(){  //함수 재정의 (override)
 //		cout << "안녕하세요. 성명: " << name <<
 //			", 학번: " << studentId << endl;
 //	}
 //
-//	void displayInfo(){
+//	void displayInfo(){  //부모 멤버(name)에 접근 가능
 //		cout << "Student name: " << name << endl;
 //	}
 //};
