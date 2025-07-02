@@ -1,4 +1,4 @@
-package loop;
+package repeatition;
 
 import java.util.Scanner;
 
@@ -29,7 +29,5 @@ public class CoffeeMachine {
 			}
 		}
 		sc.close();
-
 	}
-
 }

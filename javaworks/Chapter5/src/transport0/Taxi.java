@@ -1,4 +1,4 @@
-package transport;
+package transport0;
 
 public class Taxi {
 	private String taxiBrand;  //택시 브랜드

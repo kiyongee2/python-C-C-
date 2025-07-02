@@ -4,13 +4,13 @@ public class ArrayStringTest {
 
 	public static void main(String[] args) {
 		// 변수
-		String car1 = "소나타";
+		/*String car1 = "소나타";
 		String car2 = "EV3";
 		String car3 = "BMW";
 		
 		System.out.println(car1);
 		System.out.println(car2);
-		System.out.println(car3);
+		System.out.println(car3);*/
 		
 		//1. 문자열 배열의 선언과 초기화
 		String[] cars = {"소나타", "EV3", "BMW"};

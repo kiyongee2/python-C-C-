@@ -1,4 +1,4 @@
-package loop;
+package repeatition;
 
 public class WhileEx2 {
 

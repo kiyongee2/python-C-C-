@@ -1,16 +1,17 @@
-package loop;
+package repeatition;
 
 public class WhileEx1 {
-
 	public static void main(String[] args) {
-		// "Hello" 10번 출력
-		
+		// 1 증가(반복)
 		int n = 1;
+		System.out.println("n = " + n);
 		
-		while(n <= 10) {
-			System.out.println("Hello~ " + n);
-			n++;
-		}
+		n++;  //n += 1;
+		System.out.println("n = " + n);
+		
+		n++;
+		System.out.println("n = " + n);
+		
 		
 		// 1~10까지의 합계
 		int x = 1;
@@ -23,5 +24,4 @@ public class WhileEx1 {
 		}
 		System.out.println("합계 : " + sum);
 	}
-
 }

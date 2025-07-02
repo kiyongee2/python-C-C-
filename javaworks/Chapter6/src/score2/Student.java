@@ -34,17 +34,17 @@ public class Student {
 		double avg;     //평균
 		int count = 0;  //개수
 		
+		System.out.println(   //학생 정보 출력
+			     "학번: " + studentId +
+				 "\n이름: " + studentName);
 		for(int i=0; i<subjects.length; i++) {
 			if(subjects[i] != null) { //배열의 공간이 비어있지 않으면
 				total += subjects[i].getScorePoint(); //점수 더하기
 				count++;  //배열에 저장된 객체의 개수
 				
-				System.out.println(   //학생 정보 출력
-					     "학번: " + studentId +
-						 "\n이름: " + studentName + 
-						 "\n" + subjects[i].getSubjectName() + 
+				System.out.println(   //과목 점수 출력
+						 subjects[i].getSubjectName() + 
 						 "점수: " + subjects[i].getScorePoint());
-				System.out.println("------------------------");
 			}
 		}
 		//평균 계산
@@ -53,3 +53,4 @@ public class Student {
 		System.out.println("\n========================");
 	}
 }
+

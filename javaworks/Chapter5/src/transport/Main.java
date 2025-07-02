@@ -3,28 +3,19 @@ package transport;
 public class Main {
 
 	public static void main(String[] args) {
-		// Person 객체 생성
-		Person p1 = new Person("이정후", 10000);
-		Person p2 = new Person("최민정", 20000);
 		
-		//Bus, Taxi 객체 생성
-		Bus bus100 = new Bus(100);
-		Taxi 카카오T = new Taxi("카카오T");
-
-		int feeOfBus = 1500;  //버스 요금
-		int feeOfTaxi = 6500; //택시 요금
+		Person lee = new Person("이정우", 10000);
+		Person shin = new Person("신유진", 2000);
+		Bus bus740 = new Bus(740);
 		
-		//버스 타기
-		p1.takeBus(bus100, feeOfBus);
-		p2.takeBus(bus100, feeOfBus);
-		
-		//택시 타기
-		p2.takeTaxi(카카오T, feeOfTaxi);
+		//버스 탑승
+		lee.takeBus(bus740);
+		shin.takeBus(bus740);
+		shin.takeBus(bus740); //잔액 부족
 		
 		//정보 출력
-		p1.personInfo();
-		p2.personInfo();
-		bus100.busInfo();
-		카카오T.taxiInfo();
+		lee.displayInfo();
+		shin.displayInfo();
+		bus740.displayInfo();
 	}
 }
