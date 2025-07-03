@@ -127,15 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="mapEx2.cpp" />
+    <ClCompile Include="dictionary.cpp" />
+    <ClCompile Include="mapEx1.cpp" />
     <ClCompile Include="queueEx1.cpp" />
     <ClCompile Include="queueEx2.cpp" />
-    <ClCompile Include="sort.cpp" />
+    <ClCompile Include="sortEx1.cpp" />
+    <ClCompile Include="sortEx2.cpp" />
     <ClCompile Include="stackEx1.cpp" />
     <ClCompile Include="stackEx2.cpp" />
     <ClCompile Include="template1.cpp" />
-    <ClCompile Include="vectorEx1.cpp" />
-    <ClCompile Include="vectorEx2.cpp" />
+    <ClCompile Include="vectorBook.cpp" />
+    <ClCompile Include="vectorEx.cpp" />
+    <ClCompile Include="vectorInt.cpp" />
+    <ClCompile Include="vectorString.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
