@@ -7,9 +7,9 @@ public class ArrayCharTest {
 		char ch = 'A';
 		char[] alphabets = new char[26];
 		
-		//ch = (char) (ch + 1);
-		//ch++;
-		//System.out.println(ch); //'B'
+//		ch = (char) (ch + 1);
+//		ch++;
+//		System.out.println(ch); //'B'
 		
 		//배열에 알파벳 저장
 		for(int i=0; i<alphabets.length; i++) {

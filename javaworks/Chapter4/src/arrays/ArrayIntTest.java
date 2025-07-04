@@ -5,11 +5,6 @@ public class ArrayIntTest {
 	public static void main(String[] args) {
 		// 길이가 4인 정수형 배열 선언
 		int[] number = new int[4];
-//		int number[] = new int[4];
-		
-//		for(int i=0; i<4; i++) {
-//			System.out.print(number[i] + " ");
-//		}
 		
 		//저장
 		number[0] = 10;
@@ -47,11 +42,12 @@ public class ArrayIntTest {
 		size++;
 		
 		//연산
-		/*for(int i=0; i<data.length; i++) {
+		for(int i=0; i<data.length; i++) {
 			total += data[i];
 			times *= data[i];
 			System.out.print(data[i] + " ");
-		}*/
+		}
+		System.out.println();
 		
 		for(int i=0; i<size; i++) {
 			total += data[i];

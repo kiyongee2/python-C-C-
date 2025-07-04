@@ -5,15 +5,16 @@
 //	//1. while문 사용
 //	int num = -1;
 //
-//	/*while (num != -1)
+//	//조건식- false이므로 실행할 수 없음
+//	/*while (num != -1) 
 //	{
-//		printf("-1 입력시 종료: ");
+//		printf("숫자 입력(-1 입력시 종료): ");
 //		scanf_s("%d", &num);
 //	}*/
 //
 //	//2. do ~ while문 사용
 //	do {
-//		printf("-1 입력시 종료: ");
+//		printf("숫자 입력(-1 입력시 종료): ");
 //		scanf_s("%d", &num);
 //	} while (num != -1);
 //

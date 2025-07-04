@@ -37,7 +37,7 @@ public class MathTest {
 			System.out.println("뒤면");
 		
 		//주사위 눈 : 1 ~ 6
-		int dice = (int)(Math.random() * 2) + 1;
+		int dice = (int)(Math.random() * 6) + 1;
 		System.out.println(dice);
 		System.out.println("==================");
 		

@@ -8,10 +8,10 @@ public class ApartmentTest {
 		household[2] = new int[1];
 		
 		//배열의 행의 크기
-		System.out.println(household.length);
+		System.out.println(household.length);  //5
 		
 		//배열의 열의 크기
-		System.out.println(household[0].length);
+		System.out.println(household[0].length); //3
 		
 		//세대수 출력
 		System.out.printf("5층 %d세대\n", household[4].length);  //3세대

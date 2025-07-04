@@ -132,45 +132,8 @@ for li in all_li:
     print(exchange.string.split(' ')[-1], ':', value.string)
 '''
 
-# 주식 정보
-# 주식 1 종목
-"""
-def getcontent():
-    url = 'https://finance.naver.com/item/main.naver?code=086520'
-    response = requests.get(url)
-    content = BeautifulSoup(response.text, 'html.parser')
-    return content
-
-content = getcontent()
-today = content.find('div', attrs={'class':'today'})
-# print(today)
-price = today.find('span', attrs={'class':'blind'})
-print(price.text)
-print(f'에코프로 주가 : {price.text}원')
-
-# 주식 여러 종목
-def getcontent(item_code):
-    url = 'https://finance.naver.com/item/main.naver?code=' + item_code
-    response = requests.get(url)
-    content = BeautifulSoup(response.text, 'html.parser')
-    return content
-
-def getprice(item_code):
-    content = getcontent(item_code)
-    today = content.find('div', attrs={'class': 'today'})
-    price = today.find('span', attrs={'class': 'blind'})
-    return price
-
-에코프로 = getprice('086520')
-네이버 = getprice('035420')
-NCSOFT = getprice('036570')
-
-print(f'에코프로 주가 : {에코프로.text}원')
-print(f'에코프로 주가 : {네이버.text}원')
-print(f'에코프로 주가 : {NCSOFT.text}원')
-"""
-
 # 사진 가져오기(서울 지하철- 위키디피아)
+'''
 url = 'https://en.wikipedia.org/wiki/Seoul_Metropolitan_Subway'
 response = requests.get(url)
 soup = BeautifulSoup(response.text, 'html.parser')
@@ -196,7 +159,7 @@ print(target_img_response)
 with open('./output/train.jpg', 'wb') as f:
     f.write(target_img_response.content) # 이미지: content
     print("이미지 파일로 저장했습니다.")
-
+'''
 
 
 

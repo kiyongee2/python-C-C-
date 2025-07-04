@@ -1,4 +1,3 @@
-
 from bs4 import BeautifulSoup
 import requests
 
@@ -49,10 +48,10 @@ url = "https://www.seoul.go.kr/main/index.jsp"
 response = requests.get(url)
 html = BeautifulSoup(response.text, 'html.parser')
 
-# find()
-li = html.find('li', attrs={'class': 'public'})
-# print(li)
-print(li.text)
+# find()로 찾기
+first_li = html.find('li', attrs={'class': 'public'})
+print(first_li)
+print(first_li.text)
 
 # find_all()
 div = html.find('div', attrs={'class': 'm_service'})
@@ -60,25 +59,25 @@ div = html.find('div', attrs={'class': 'm_service'})
 # print(li.text)
 all_li = div.find_all('li')
 # print(all_li)
-for li in all_li:
+
+for li in all_li: # 태그 없는 텍스트만 모두 출력
     print(li.text)
 print(all_li[1].text)
 
-'''
-# 첫번째 메뉴 찾기
+# select_one('태그이름.선택자이름')
 first_li = html.select_one('li.public')
 print(first_li)
 print(first_li.text)
 
-# 모든 항목 찾기
-all_li = html.select('div.m_service > ul > li')
-print(all_li)
+# '>' - 자식 선택자, ' '(공백) - 후손 선택자
+# all_li = html.select('div.m_service > ul > li')
+all_li = html.select('div.m_service ul li')
+# print(all_li)
 
 # 메뉴 텍스트 출력
 for li in all_li:
     print(li.text)
     
-# 인덱싱
 print(all_li[1].text)
 print(all_li[-1].text)
-'''
+

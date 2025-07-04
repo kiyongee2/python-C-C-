@@ -14,11 +14,11 @@ public class CalcScore {
 		int[] total = {0, 0};
 		double[] avg = {0.0, 0.0};
 		
-		System.out.println(score.length);
+		System.out.println(score.length);  //5
 		
 		for(int i=0; i<score.length; i++) {
-			total[0] += score[i][0];
-			total[1] += score[i][1];
+			total[0] += score[i][0];  //국어, 열고정
+			total[1] += score[i][1];  //수학
 		}
 		//평균 계산
 		avg[0] = (double)total[0] / score.length;

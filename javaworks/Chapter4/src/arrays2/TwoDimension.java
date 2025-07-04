@@ -7,8 +7,8 @@ public class TwoDimension {
 		// 초기화 방법 1
 		int[][] a = new int[2][3];
 		
-		System.out.println(a.length);
-		System.out.println(a[0].length);
+		System.out.println(a.length);    //2
+		System.out.println(a[0].length); //3
 		
 		//전체 출력
 		for(int i=0; i<a.length; i++) {
@@ -19,20 +19,20 @@ public class TwoDimension {
 		}
 		
 		//저장
-		a[0][0] = 1;
-		a[0][1] = 2;
-		a[0][2] = 3;
-		a[1][0] = 4;
-		a[1][1] = 5;
-		a[1][2] = 6;
+//		a[0][0] = 1;
+//		a[0][1] = 2;
+//		a[0][2] = 3;
+//		a[1][0] = 4;
+//		a[1][1] = 5;
+//		a[1][2] = 6;
 		
-		/*int k = 0;
+		int k = 0;
 		for(int i=0; i<a.length; i++) {
 			for(int j=0; j<a[i].length; j++) {
 				k++;
 				a[i][j] = k;
 			}
-		}*/
+		}
 		
 		//초기화 방법 2
 		/*int[][] a = {
