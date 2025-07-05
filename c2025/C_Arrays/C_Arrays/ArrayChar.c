@@ -27,13 +27,15 @@
 //	for (int i = 0; i < 6; i++) {
 //		printf("%c ", msg[i]);
 //	}
+//	printf("\n");
 //
-//	char c1, c2, c3;
-//	c1 = 'a';
-//	c2 = c1 + 1;
-//	c3 = c2 - 1;
+//	//알파벳 표기
+//	char data = 'a';
+//	data++; //data = data + 1;
+//	printf("%c\n", data);  //b
 //
-//	printf("%c %c\n", c2, c3);
+//	data++;
+//	printf("%c\n", data);  //c
 //
 //	//26개 크기를 가진 문자형 배열 생성
 //	char alphabets[26];
@@ -48,18 +50,5 @@
 //	for (int i = 0; i < 26; i++) {
 //		printf("%c %d\n", alphabets[i], alphabets[i]);
 //	}
-//
-//	//문자열 배열
-//	char fr1[5] = "apple";  
-//	char fr2[6] = "apple"; //맨 뒤에 널(NULL)문자 있음
-//	char fr3[] = {'a', 'p', 'p', 'l', 'e', '\0'};
-//	char fr4[] = "바나나"; //한글은 1자에 2byte
-//
-//	//sizeof() - 자료형의 크기를 바이트 단위로 변환('\0' 포함)
-//	printf("%s %d\n", fr1, sizeof(fr1));
-//	printf("%s %d\n", fr2, sizeof(fr2));
-//	printf("%s %d\n", fr3, sizeof(fr3));
-//	printf("%s %d\n", fr4, sizeof(fr4));
-//
 //	return 0;
 //}

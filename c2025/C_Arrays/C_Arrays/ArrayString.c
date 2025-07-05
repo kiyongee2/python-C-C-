@@ -2,33 +2,26 @@
 //
 //int main()
 //{
-//	char words[4][10] = { "flower", "tree", "sun", "moon" };
+//	//문자열 - 1차원 배열이다.
+//	char fr1[5] = "apple";  //오류
+//	char fr2[6] = "apple";  //맨 뒤에 널(NULL)문자 있음
+//	char fr3[] = {'a', 'p', 'p', 'l', 'e', '\0'};
+//	char fr4[] = "바나나"; //한글은 1자에 2byte
 //
-//	//특정 단어 조회
-//	printf("%s\n", words[0]);
-//	printf("%s\n", words[1]);
-//	printf("%s\n", words[2]);
-//	printf("%s\n", words[3]);
-//	printf("\n");
+//	//sizeof() - 자료형의 크기를 바이트 단위로 변환('\0' 포함)
+//	printf("%s %d\n", fr1, sizeof(fr1));
+//	printf("%s %d\n", fr2, sizeof(fr2));
+//	printf("%s %d\n", fr3, sizeof(fr3));
+//	printf("%s %d\n", fr4, sizeof(fr4));
 //
-//	int size = sizeof(words) / sizeof(words[0]);
+//	//문자열의 크기 및 출력
+//	char msg[] = "Good Luck";
+//	int size;
 //
-//	//문자열 출력
-//	for (int i = 0; i < size; i++)
-//	{
-//		printf("%s\n", words[i]);
-//	}
-//	printf("\n");
+//	printf("%d %d\n", sizeof(msg), sizeof(msg[0]));
 //
-//	//문자로 출력
-//	for (int i = 0; i < size; i++)
-//	{
-//		for (int j = 0; j < words[i][j] != NULL; j++)
-//		{
-//			printf("%c", words[i][j]);
-//		}
-//		printf("\n");
-//	}
+//	size = sizeof(msg) / sizeof(msg[0]);
+//	printf("%d", size);
 //
 //	return 0;
 //}
