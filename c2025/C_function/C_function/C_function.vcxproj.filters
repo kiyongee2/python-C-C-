@@ -24,7 +24,7 @@
     <ClCompile Include="CalcRandNumber.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="SayHello.c">
+    <ClCompile Include="VoidFunction.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ReturnFunction.c">

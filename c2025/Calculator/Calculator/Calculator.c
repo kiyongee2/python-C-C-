@@ -1,22 +1,20 @@
 //함수 구현부 - Calculator.c
-int add(int x, int y)
+
+int calcSum(int n)
 {
-	int sum;
-	sum = x + y;
+	int sum = 0;
+	for (int i = 1; i <= n; i++){
+		sum += i; //sum = sum + i
+	}
 	return sum;
 }
 
-int factorial(int n)
+int calcGob(int n)
 {
-	int facto = 1;
-	for (int i = 1; i <= n; i++)
-		facto = facto * i; //facto *= i;
-	/*
-	  n = 4인 경우
-	  i = 1, facto = 1 * 1
-	  i = 2, facto = 1 * 2
-	  i = 3, facto = 2 * 3
-	  i = 4, facto = 6 * 4
-	*/
-	return facto;
+	int gob = 1;
+	for (int i = 1; i <= n; i++){
+		gob *= i; //gob = gob * i
+	}
+	return gob;
 }
+

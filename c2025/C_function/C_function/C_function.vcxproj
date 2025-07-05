@@ -141,7 +141,7 @@
     <ClCompile Include="RandCoin.c" />
     <ClCompile Include="Recursive.c" />
     <ClCompile Include="ReturnFunction.c" />
-    <ClCompile Include="SayHello.c" />
+    <ClCompile Include="VoidFunction.c" />
     <ClCompile Include="StaticVar.c" />
     <ClCompile Include="StringFunctionEx.c" />
     <ClCompile Include="Time.c" />

@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "C_Arrays\\PersonInfo.c",
               "ToolTip": "D:\\korea_IT\\c2025\\C_Arrays\\C_Arrays\\PersonInfo.c",
               "RelativeToolTip": "C_Arrays\\PersonInfo.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-04T22:25:08.173Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "C_Arrays\\Array2D-2.c",
               "ViewState": "AgIAAA4AAAAAAAAAAAAswCIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-04T22:23:49.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T22:23:49.315Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "C_Arrays\\Array2D.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-04T22:22:41.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T22:22:41.833Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "C_Arrays\\ArrayAddress.c",
               "ViewState": "AgIAAAwAAAAAAAAAAAAswCAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-04T21:58:48.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T21:58:48.626Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "C_Arrays\\ArrayInt.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-04T21:57:51.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T21:57:51.664Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "C_Arrays\\ArrayString2.c",
               "ViewState": "AgIAAA4AAAAAAAAAAAAswCIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-04T21:47:17.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T21:47:17.706Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "C_Arrays\\ArrayString.c",
               "ViewState": "AgIAAAYAAAAAAAAAAAAswBoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-04T21:46:45.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T21:46:45.437Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "C_Arrays\\ArrayChar.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-04T21:34:04.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T21:34:04.358Z"
             }
           ]
         }

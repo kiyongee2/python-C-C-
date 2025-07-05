@@ -30,5 +30,5 @@ int main()
 	printf("¸ö¹«°Ô: %.1f\n", weight);
 	printf("Å°: %.1f\n", height);
 
-	return 0;
+	return 0;    
 }
