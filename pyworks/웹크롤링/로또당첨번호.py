@@ -3,42 +3,52 @@ from bs4 import BeautifulSoup
 from tkinter import *
 from tkinter import messagebox
 
-'''
-num = 1178 # 회차 
+# 최신 회차
+latest_url = "https://dhlottery.co.kr/gameResult.do?method=byWin"
+response = requests.get(latest_url)
+soup = BeautifulSoup(response.text, 'html.parser')
+win_nums = soup.select('div.nums span')
+
+win_num_list = []  #당첨 번호 리스트
+for num in win_nums:
+  # print(num.text)
+  win_num_list.append(num.text)
+  
+print(win_num_list)
+
+num = 1179 # 회차 
 url = f"https://dhlottery.co.kr/gameResult.do?method=byWin&drwNo={num}"
 response = requests.get(url)
 
 soup = BeautifulSoup(response.text, 'html.parser')
 
 win_nums = soup.select('div.nums span')
-print(win_nums)
+# print(win_nums)
 
-win_num_list = []  #당첨 번호 리스트
-for num in win_nums:
-  print(num.text)
-  win_num_list.append(num.text)
+# 리스트 내포
+win_num_list = [num.text for num in win_nums]
 
 print("당첨 번호")
 print(win_num_list[:-1]) 
 
 print("보너스 번호")
 print(win_num_list[-1])
-'''
+
 
 # 로또 당첨 번호 확인 앱
-
+'''
 def lotto_win():
   try:
     num = int(entry.get()) #입력된 회차 
-    if num <= 0:
+    if num <= 0 or num > 1179:
       messagebox.showerror("오류", "회차가 없습니다.")
-      entry.delete(0, END)
+      entry.delete(0, END)  #입력 상자 초기화
+      output.delete(0.0, END) #출력 상자 초기화
       return
       
     # 동행 복권 사이트 - 크롤링
     url = f"https://dhlottery.co.kr/gameResult.do?method=byWin&drwNo={num}"
     response = requests.get(url)
-
     soup = BeautifulSoup(response.text, 'html.parser')
     win_nums = soup.select('div.nums span')
 
@@ -69,4 +79,4 @@ output = Text(window, bg="lightgreen", width=50, height=5)
 output.grid(row=3, column=0, sticky=W)
 
 window.mainloop()
-
+'''
