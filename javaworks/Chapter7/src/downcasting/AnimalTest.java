@@ -53,15 +53,15 @@ public class AnimalTest {
 		animals[2].move();
 		//readBook()에 접근할 수 없음
 		
-		/*Animal animal = animals[0]; //new Human();
+		Animal animal = animals[0]; //new Human();
 		
 		if(animal instanceof Human) { //animal이 Human의 객체라면
 			Human human = (Human)animal; //Human 타입으로 다운 캐스팅
 			human.readBook();
-		}*/
+		}
 		
 		System.out.println("===== 원래 형으로 다운캐스팅 =====");
-		downCasting(); //downCasting() 호출
+//		downCasting(); //downCasting() 호출
 		
 	} //main 닫기
 	

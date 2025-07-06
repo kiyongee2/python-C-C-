@@ -7,8 +7,12 @@ public class Alphabets {
 		char[][] alphabets = new char[13][2];
 		char ch = 'A';
 		
+		//ch = (char) (ch + 1);
 		/*ch++;
-		System.out.println(ch);*/
+		System.out.println(ch); //B
+		
+		ch++;
+		System.out.println(ch); //C*/
 		
 		//배열에 저장
 		for(int i=0; i<alphabets.length; i++) {

@@ -1,6 +1,6 @@
 package arrays;
 
-public class SortTest {
+public class BubbleSortTest {
 
 	public static void main(String[] args) {
 

@@ -5,23 +5,23 @@ public class MathTest {
 	public static void main(String[] args) {
 		//절대값
 		int v1 = Math.abs(-4);
-		System.out.println(v1);
+		System.out.println(v1); //4
 		
 		//정수로 반올림
 		long v2 = Math.round(5.6);  
-		System.out.println(v2);
+		System.out.println(v2); //6
 		
 		//내림(버림)
 		double v3 = Math.floor(5.9);
-		System.out.println(v3);
+		System.out.println(v3); //5.0
 		
 		//최대값
 		int max = Math.max(10, 20);
-		System.out.println(max);
+		System.out.println(max); //20
 		
 		//최소값
 		int min = Math.min(10, 20);
-		System.out.println(min);
+		System.out.println(min); //10
 		
 		//무작위수  0.0 <= rand < 1.0;
 		double rand = Math.random();
@@ -46,6 +46,12 @@ public class MathTest {
 			dice = (int)(Math.random() * 6) + 1;
 			System.out.println(dice);
 		}
+		
+		String[] word = {"나", "너", "우리", "세계", "우주"};
+		int rnd = (int) (Math.random() * word.length);
+		System.out.println(rnd);
+		System.out.println(word[rnd]);
+		
 	}
 
 }

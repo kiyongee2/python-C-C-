@@ -1,10 +1,10 @@
 package polymorphism.fruit;
 
 public class Grape extends Fruit{
-	
-	public Grape() {
-		name = "포도";
-		weight = "700g";
-		price = 6000;
+
+	@Override
+	public void showInfo() {
+		System.out.println("포도는 보라색이고, 달콤하고 건강에 좋습니다.");
 	}
+	
 }

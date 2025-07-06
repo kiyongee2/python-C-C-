@@ -7,7 +7,6 @@ class Car{
 	public Car(String brand) {
 		this.brand = brand;
 	}
-	
 }
 
 public class Taxi extends Car{

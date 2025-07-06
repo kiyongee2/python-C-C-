@@ -2,9 +2,8 @@ package polymorphism.fruit;
 
 public class Peach extends Fruit{
 
-	public Peach() {
-		name = "복숭아";
-		weight = "900g";
-		price = 7500;
+	@Override
+	public void showInfo() {
+		System.out.println("복숭아는 당도가 높고 부드럽습니다.");
 	}
 }
