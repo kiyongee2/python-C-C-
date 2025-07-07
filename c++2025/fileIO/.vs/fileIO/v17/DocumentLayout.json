@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13D422D9-1350-40BC-A374-28EC109AB4BC}|fileIO\\fileIO.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\fileRead1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{13D422D9-1350-40BC-A374-28EC109AB4BC}|fileIO\\fileIO.vcxproj|solutionrelative:fileIO\\fileRead1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{13D422D9-1350-40BC-A374-28EC109AB4BC}|fileIO\\fileIO.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\imageCopy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13D422D9-1350-40BC-A374-28EC109AB4BC}|fileIO\\fileIO.vcxproj|solutionrelative:fileIO\\imageCopy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D422D9-1350-40BC-A374-28EC109AB4BC}|fileIO\\fileIO.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\inputReadFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13D422D9-1350-40BC-A374-28EC109AB4BC}|fileIO\\fileIO.vcxproj|solutionrelative:fileIO\\inputReadFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13D422D9-1350-40BC-A374-28EC109AB4BC}|fileIO\\fileIO.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\fileWrite1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{13D422D9-1350-40BC-A374-28EC109AB4BC}|fileIO\\fileIO.vcxproj|solutionrelative:fileIO\\fileWrite1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D422D9-1350-40BC-A374-28EC109AB4BC}|fileIO\\fileIO.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\inputWriteFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13D422D9-1350-40BC-A374-28EC109AB4BC}|fileIO\\fileIO.vcxproj|solutionrelative:fileIO\\inputWriteFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D422D9-1350-40BC-A374-28EC109AB4BC}|fileIO\\fileIO.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\fileRead1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13D422D9-1350-40BC-A374-28EC109AB4BC}|fileIO\\fileIO.vcxproj|solutionrelative:fileIO\\fileRead1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,25 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "imageCopy.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\imageCopy.cpp",
+              "RelativeDocumentMoniker": "fileIO\\imageCopy.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\imageCopy.cpp",
+              "RelativeToolTip": "fileIO\\imageCopy.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-07T00:04:30.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inputReadFile.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\inputReadFile.cpp",
+              "RelativeDocumentMoniker": "fileIO\\inputReadFile.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\inputReadFile.cpp",
+              "RelativeToolTip": "fileIO\\inputReadFile.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-06T23:53:25.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inputWriteFile.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\inputWriteFile.cpp",
+              "RelativeDocumentMoniker": "fileIO\\inputWriteFile.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\inputWriteFile.cpp",
+              "RelativeToolTip": "fileIO\\inputWriteFile.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-06T23:39:24.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "fileRead1.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\fileRead1.cpp",
               "RelativeDocumentMoniker": "fileIO\\fileRead1.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\fileRead1.cpp",
               "RelativeToolTip": "fileIO\\fileRead1.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-19T04:05:15.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "fileWrite1.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\fileWrite1.cpp",
               "RelativeDocumentMoniker": "fileIO\\fileWrite1.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\fileIO\\fileIO\\fileWrite1.cpp",
               "RelativeToolTip": "fileIO\\fileWrite1.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-19T03:55:23.238Z",
               "EditorCaption": ""

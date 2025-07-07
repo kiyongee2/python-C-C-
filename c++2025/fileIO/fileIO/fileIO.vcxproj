@@ -127,8 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="fileGugudan.cpp" />
     <ClCompile Include="fileRead1.cpp" />
     <ClCompile Include="fileWrite1.cpp" />
+    <ClCompile Include="imageCopy.cpp" />
+    <ClCompile Include="inputReadFile.cpp" />
+    <ClCompile Include="inputWriteFile.cpp" />
+    <ClCompile Include="readGugudan.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
