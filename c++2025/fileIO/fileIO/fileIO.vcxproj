@@ -138,6 +138,7 @@
     <ClCompile Include="scorelist.cpp" />
     <ClCompile Include="stringToInt.cpp" />
     <ClCompile Include="tryCatchEx1.cpp" />
+    <ClCompile Include="tryCatchEx2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

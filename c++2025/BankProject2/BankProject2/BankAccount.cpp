@@ -1,3 +1,5 @@
+//BankAccount.cpp
+
 #include "BankAccount.h"
 
 //계좌 번호 반환
@@ -14,7 +16,7 @@ void BankAccount::deposit(int amount) {
 		balance += amount;
 		cout << amount << "원이 입금되었습니다. 현재 잔액: " <<
 			balance << "원\n";
-		addTransaction(TransactionType::입금, amount);
+		addTransaction(TransactionType::입금, amount); //트랜잭션 추가
 	}
 }
 

@@ -13,7 +13,8 @@
 //	carts.push_back("°è¶õ");
 //
 //	//¼öÁ¤
-//	carts[1] = "½Ò";
+//	//carts[1] = "½Ò";
+//	carts.at(1) = "½Ò";
 //
 //	//¹Ýº¹ÀÚ ¼³Á¤
 //	vector<string>::iterator it = carts.begin();

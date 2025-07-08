@@ -1,3 +1,5 @@
+//Main.cpp
+
 #include "BankAccount.h"
 
 vector<BankAccount> accounts; //계좌를 저장한 벡터 생성
@@ -124,7 +126,8 @@ int main()
 	        break;
 	    }
 	} //while 종료
-	
+
+	system("pause"); //exe 파일에서 윈도우 꺼짐 방지
 	return 0;
 }
 
