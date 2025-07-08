@@ -15,11 +15,6 @@ public class CalendarTest {
 		System.out.println(cal.getTimeInMillis()/(24*60*60*1000)); //일
 		System.out.println(cal.getTimeInMillis()/(24*60*60*1000)/365); //년
 		
-		//System 클래스로 현재 시간 측정
-		long ctime = System.currentTimeMillis();
-		System.out.println("현재 시간(밀리초): " + ctime);
-		System.out.println("===============================");
-		
 		//날짜 - 년, 월, 일
 		int year = cal.get(Calendar.YEAR);
 		System.out.println(year);
@@ -61,7 +56,7 @@ public class CalendarTest {
 		long passedTime = today.getTimeInMillis() - theDay.getTimeInMillis();
 		System.out.println(passedTime);
 		
-		//초를 일로 환산
+		//ms초를 일로 환산
 		passedTime = passedTime / (24*60*60*1000);
 		System.out.println(passedTime + "일이 지났습니다.");
 	}

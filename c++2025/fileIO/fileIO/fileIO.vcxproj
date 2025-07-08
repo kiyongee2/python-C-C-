@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="binaryFile.cpp" />
     <ClCompile Include="fileGugudan.cpp" />
     <ClCompile Include="fileRead1.cpp" />
     <ClCompile Include="fileWrite1.cpp" />
@@ -134,6 +135,9 @@
     <ClCompile Include="inputReadFile.cpp" />
     <ClCompile Include="inputWriteFile.cpp" />
     <ClCompile Include="readGugudan.cpp" />
+    <ClCompile Include="scorelist.cpp" />
+    <ClCompile Include="stringToInt.cpp" />
+    <ClCompile Include="tryCatchEx1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

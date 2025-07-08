@@ -44,7 +44,7 @@ public class MathTest {
 		
 		//Math 클래스와 비교
 		System.out.println(Math.abs(-5));
-		System.out.println(Math.pow(2, 3));
+		System.out.println((int)Math.pow(2, 3));
 	}
 }
 

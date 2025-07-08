@@ -1,6 +1,7 @@
 package singleton;
 
 public class CarFactory {
+	
 	private static CarFactory instance;
 	
 	private CarFactory() {};

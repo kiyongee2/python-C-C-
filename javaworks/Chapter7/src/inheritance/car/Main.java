@@ -9,7 +9,7 @@ public class Main {
 		myEV.showInfo();
 		myEV.accelerate(60);
 		myEV.brake(30);
-		myEV.charge(40);
+		myEV.charge(60); //최대 100%
 		
 		myEV.showInfo();
 	}

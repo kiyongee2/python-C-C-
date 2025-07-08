@@ -5,8 +5,8 @@ using namespace std;
 
 int main()
 {
-	const char* source = "cake.jpg";
-	const char* copied = "copycake3.jpg";
+	string source = "cake.jpg";     //원본 파일
+	string copied = "copycake2.jpg"; //복사된 파일
 
 	//소스파일 열기(binary 모드)
 	ifstream fin(source, ios::binary);
@@ -27,7 +27,7 @@ int main()
 		fout.put(c); //1바이트 씩 쓰기
 	}*/
 
-	//버퍼로 구현
+	//버퍼로 읽기
 	char buf[1024];
 	/*while (!fin.eof()) {
 		fin.read(buf, 1024); //최대 1024 바이트를 읽어 배열에 저장
@@ -37,11 +37,8 @@ int main()
 
 	while (fin) {
 		fin.read(buf, sizeof(buf));
-		int n = fin.gcount();
-		if (n > 0)
-			fout.write(buf, n);
+		fout.write(buf, fin.gcount());
 	}
-
 	fin.close();
 	fout.close();
 

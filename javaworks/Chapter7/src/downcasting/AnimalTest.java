@@ -39,6 +39,7 @@ class Eagle extends Animal{
 }
 
 public class AnimalTest {
+	
 	static Animal[] animals = new Animal[3]; //객체를 저장할 배열 생성
 
 	public static void main(String[] args) {

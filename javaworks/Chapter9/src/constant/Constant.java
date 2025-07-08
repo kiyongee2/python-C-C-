@@ -1,6 +1,7 @@
 package constant;
 
 public class Constant {
+	
 	static int num = 10;   //전역 변수
 	static final int NUM = 100; //상수 선언
 	
