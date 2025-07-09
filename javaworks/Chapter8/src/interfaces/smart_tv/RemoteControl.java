@@ -1,4 +1,4 @@
-package interfaces.remotecontrol;
+package interfaces.smart_tv;
 
 public interface RemoteControl {
 	//인터페이스 상수
@@ -12,14 +12,12 @@ public interface RemoteControl {
 	
 	//디폴트 메서드
 	default void setMute(boolean mute) {
-		if(mute)
-			System.out.println("무음 처리합니다.");
-		else
-			System.out.println("무음 해제합니다.");
+		System.out.println(mute ? "무음 모드 활성화" : "무음 모드 해제");
 	}
 	
 	//정적 메서드
-	static void changeBattery() {
-		System.out.println("건전지를 교환합니다.");
+	static void replaceBattery() {
+		System.out.println("배터리를 교환합니다.");
 	}
 }
+

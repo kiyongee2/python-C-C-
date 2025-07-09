@@ -1,6 +1,7 @@
 package downcasting;
 
 class Animal{
+	
 	public void move() {
 		System.out.println("동물이 움직입니다.");
 	}
@@ -8,6 +9,8 @@ class Animal{
 
 //Animal을 상속받은 Human 클래스 정의
 class Human extends Animal{
+	
+	@Override
 	public void move() {
 		System.out.println("사람이 두 발로 걷습니다.");
 	}
@@ -17,8 +20,9 @@ class Human extends Animal{
 	}
 }
 
-//Animal을 상속받은 Horse 클래스 정의
 class Horse extends Animal{
+	
+	@Override
 	public void move() {
 		System.out.println("말이 네 발로 뜁니다.");
 	}
@@ -28,8 +32,9 @@ class Horse extends Animal{
 	}
 }
 
-//Animal을 상속받은 Eagle 클래스 정의
 class Eagle extends Animal{
+	
+	@Override
 	public void move() {
 		System.out.println("독수리가 하늘을 납니다.");
 	}
@@ -62,7 +67,7 @@ public class AnimalTest {
 		}
 		
 		System.out.println("===== 원래 형으로 다운캐스팅 =====");
-//		downCasting(); //downCasting() 호출
+		downCasting(); //downCasting() 호출
 		
 	} //main 닫기
 	

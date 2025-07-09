@@ -18,5 +18,4 @@ public class BookShelfTest {
 		System.out.println(shelfQueue.deQueue());
 		System.out.println(shelfQueue.deQueue());
 	}
-
 }

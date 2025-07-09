@@ -19,10 +19,9 @@ public class MyCalculator implements Calculator{
 
 	@Override
 	public int divide(int n1, int n2) {
-		//return n1 / n2;  //분모가 0인경우 오류 발생!
-		if(n2 != 0)
-			return n1 / n2;
-		else
-			return Calculator.ERROR;
+		//분모가 0인 경우 예외 처리
+		if(n2 == 0)
+			throw new ArithmeticException("0으로 나눌 수 없습니다.");
+		return n1 / n2;
 	}
 }

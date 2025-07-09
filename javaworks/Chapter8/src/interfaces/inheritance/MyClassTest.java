@@ -13,8 +13,6 @@ public class MyClassTest {
 		MyInterface iClass = new MyClass();
 		iClass.myMethod();
 		iClass.x();
-		iClass.y();
-		
+		iClass.y();	
 	}
-
 }
