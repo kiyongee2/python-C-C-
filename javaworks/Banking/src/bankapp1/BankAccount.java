@@ -1,4 +1,4 @@
-package bankapp;
+package bankapp1;
 
 public class BankAccount {
 	private String ano;   //계좌 번호

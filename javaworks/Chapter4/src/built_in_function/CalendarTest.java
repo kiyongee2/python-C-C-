@@ -10,11 +10,6 @@ public class CalendarTest {
 		System.out.println(cal); //cal 객체 출력
 		System.out.println(cal.getTime()); //현재 날짜와 시간
 		
-		//현재 시간 - 1970, 1. 1일 자정 이후부터 현재까지 밀리초(ms)로 측정
-		System.out.println(cal.getTimeInMillis());
-		System.out.println(cal.getTimeInMillis()/(24*60*60*1000)); //일
-		System.out.println(cal.getTimeInMillis()/(24*60*60*1000)/365); //년
-		
 		//날짜 - 년, 월, 일
 		int year = cal.get(Calendar.YEAR);
 		System.out.println(year);
@@ -47,12 +42,17 @@ public class CalendarTest {
 		Calendar theDay = Calendar.getInstance();
 		Calendar today = Calendar.getInstance();
 		
-		theDay.set(2025, 3, 29);  //특정 날짜 설정
-		today.set(2025, 4, 5);
+		theDay.set(2025, 6, 1);  //특정 날짜 설정
+		today.set(2025, 6, 10);
 		
 		System.out.println(theDay.getTime());  //theDay 날짜 가져오기
 		
 		//시간 차이 계산
+		//현재 시간 - 1970, 1. 1일 자정 이후부터 현재까지 밀리초(ms)로 측정
+		System.out.println(cal.getTimeInMillis());
+		System.out.println(cal.getTimeInMillis()/(24*60*60*1000)); //일
+		System.out.println(cal.getTimeInMillis()/(24*60*60*1000)/365); //년
+		
 		long passedTime = today.getTimeInMillis() - theDay.getTimeInMillis();
 		System.out.println(passedTime);
 		
