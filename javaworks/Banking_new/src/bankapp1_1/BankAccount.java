@@ -45,11 +45,11 @@ public class BankAccount {
 			System.out.println("유효한 금액을 입력하세요.");
 		}
 		else {
-			this.balance += amount;
+			this.balance += amount; //잔액 + 입금액
 			System.out.println(amount + "원이 입금되었습니다. 현재 잔액: " +
 			          this.balance + "원");
 			
-			addTransaction(TransactionType.입금, amount);
+			addTransaction(TransactionType.입금, amount); //입금 거래
 		}
 	}
 	
@@ -59,11 +59,11 @@ public class BankAccount {
 		}else if(amount > balance) {
 			System.out.println("잔액이 부족합니다.");
 		}else {
-			this.balance -= amount;
+			this.balance -= amount; //잔액 - 출금액
 			System.out.println(amount + "원이 출금되었습니다. 현재 잔액: " +
 			          this.balance + "원");
 			
-			addTransaction(TransactionType.출금, amount);
+			addTransaction(TransactionType.출금, amount); //출금 거래
 		}
 	}
 	

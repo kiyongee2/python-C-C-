@@ -19,8 +19,8 @@ public class EqualTest {
 		Book book1 = new Book(100, "채식주의자");
 		Book book2 = new Book(100, "채식주의자");
 		
-		System.out.println(book1 == book2);
-		System.out.println(book1.equals(book2));
+		System.out.println(book1 == book2);  //false
+		System.out.println(book1.equals(book2)); //true
 	}
 
 }

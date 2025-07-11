@@ -9,8 +9,13 @@ class MyDog{
 		this.type = type;
 	}
 
+//	@Override
+//	public String toString() {
+//		return type + " " + name;
+//	}
 	
-
+	
+	
 }
 
 public class ToStringTest {
