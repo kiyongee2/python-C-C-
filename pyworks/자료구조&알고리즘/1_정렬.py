@@ -1,5 +1,4 @@
 # 정렬
-
 '''
 a = [60, 5, 33, 12, 97, 24]
 
@@ -17,6 +16,7 @@ score = [60, 90, 80, 100, 70]
 rank = [1, 1, 1, 1, 1]
 n = len(score)
 
+# 행, 열을 모두 순회함
 for i in range(0, n):
     for j in range(0, n):
         if score[i] < score[j]:
@@ -25,15 +25,7 @@ for i in range(0, n):
 print("rank =", rank) 
 '''
 
-# 교환
-x = 1
-y = 2
-
-x, y = y, x
-
-print("x =", x, ", y =", y)
-
-# 버블 정렬
+# 단순 정렬
 """
 a = [3, 2, 5, 1, 4]
 
@@ -54,8 +46,8 @@ print("a =", a)
 """
 
 # 선택 정렬
-'''
-def find_min_idx(a):
+"""
+def find_min_idx(a): #최소값 위치 찾기
     n = len(a)
     min_idx = 0
     for i in range(1, n):
@@ -70,8 +62,12 @@ def sel_sort(a):
        value = a.pop(min_idx) #최소값을 꺼내어 저장함
        result.append(value) #value를 리스트 맨 뒤에 추가
     return result
-'''
 
+v = [3, 2, 5, 1, 4]
+print(sel_sort(v))
+"""
+
+# 단축 삽입 정렬
 def sel_sort(a):
     n = len(a)
     for i in range(0, n-1): #0부터 n-2까지 반복
@@ -84,4 +80,3 @@ def sel_sort(a):
 
 v = [3, 2, 5, 1, 4]
 print(sel_sort(v))
-    
