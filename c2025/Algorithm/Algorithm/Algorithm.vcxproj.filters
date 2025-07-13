@@ -51,7 +51,7 @@
     <ClCompile Include="calcSum.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="stackEx.c">
+    <ClCompile Include="stackInt.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="queueEx.c">
@@ -67,6 +67,21 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="stackEx2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stackChar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="checkBracket.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="reverseStr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="queueInt.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="queueStr.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

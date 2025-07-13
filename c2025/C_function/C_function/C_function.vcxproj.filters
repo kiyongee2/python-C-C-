@@ -78,5 +78,11 @@
     <ClCompile Include="Factorial.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="strcspanEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strtokEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

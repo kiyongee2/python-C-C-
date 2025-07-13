@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\vectorString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|solutionrelative:collection\\vectorString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\queueEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|solutionrelative:collection\\queueEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\vectorString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|solutionrelative:collection\\vectorString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\stackEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "vectorString.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\vectorString.cpp",
               "RelativeDocumentMoniker": "collection\\vectorString.cpp",
@@ -47,13 +47,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "queueEx2.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\queueEx2.cpp",
               "RelativeDocumentMoniker": "collection\\queueEx2.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\queueEx2.cpp",
               "RelativeToolTip": "collection\\queueEx2.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-08T01:45:55.346Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "RelativeToolTip": "collection\\queueEx1.cpp",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-08T01:44:33.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T01:44:33.013Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "collection\\stackEx2.cpp",
               "ViewState": "AgIAABYAAAAAAAAAAAAAwB8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-08T01:39:00.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T01:39:00.967Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "collection\\stackEx1.cpp",
               "ViewState": "AgIAABAAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-03T01:23:14.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T01:23:14.092Z"
             }
           ]
         }
