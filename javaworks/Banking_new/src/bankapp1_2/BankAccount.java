@@ -12,16 +12,18 @@ public class BankAccount {
 	//계좌 번호 정규식 패턴
 	private static final String ACCOUNT_PATTERN = "^[0-9]{2,4}-[0-9]{2,4}-[0-9]{4,8}$";
 	
-	public BankAccount(String accountNumber, String owner, int balance) {
+	//생성자
+	public BankAccount(String accountNumber, String owner) {
 		if(!isValidAccountNumber(accountNumber)) {
 			throw new IllegalArgumentException("유효하지 않은 계좌번호 형식입니다.");
 		}
 		this.accountNumber = accountNumber;
 		this.owner = owner;
-		this.balance = balance;
+		this.balance = 0;
 		transactions = new ArrayList<>();
 	}
 	
+	//계좌 번호 유효성 검사
 	private boolean isValidAccountNumber(String accountNumber) {
 		return Pattern.matches(ACCOUNT_PATTERN, accountNumber);
 	}
@@ -74,6 +76,7 @@ public class BankAccount {
 		}
 	}
 	
+	//계좌 정보
 	public void displayInfo() {
 		System.out.println("계좌 정보");
 		System.out.println("   계좌 번호: " + accountNumber);

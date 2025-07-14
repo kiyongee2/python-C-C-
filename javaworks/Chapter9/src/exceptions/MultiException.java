@@ -8,10 +8,10 @@ public class MultiException {
 		
 		for(int i = 0; i <= array.length; i++) {
 			
-			System.out.println(array[i]); //배열 출력
+			//System.out.println(array[i]); //배열 출력
 			//문자열을 정수로 변환
-			//int value = Integer.parseInt(array[i]);  
-			//System.out.println(value);
+			int value = Integer.parseInt(array[i]);  
+			System.out.println(value);
 			
 		}
 	}

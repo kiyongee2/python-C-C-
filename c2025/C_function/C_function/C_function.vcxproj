@@ -135,6 +135,7 @@
     <ClCompile Include="FindMax.c" />
     <ClCompile Include="GetChar.c" />
     <ClCompile Include="GlobalVar.c" />
+    <ClCompile Include="inputException.c" />
     <ClCompile Include="MathEx.c" />
     <ClCompile Include="MathEx2.c" />
     <ClCompile Include="MyPow.c" />

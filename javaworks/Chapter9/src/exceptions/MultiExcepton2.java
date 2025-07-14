@@ -18,7 +18,5 @@ public class MultiExcepton2 {
 				System.out.println("숫자로 변환할 수 없는 항목이 있습니다.");
 			}
 		}
-
 	}
-
 }

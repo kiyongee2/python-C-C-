@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\banking2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7FB147D9-C90E-4C52-A7DA-6F68822ACBF4}|banking2\\banking2.vcxproj|D:\\korea_IT\\c2025\\banking2\\banking2\\banking2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FB147D9-C90E-4C52-A7DA-6F68822ACBF4}|banking2\\banking2.vcxproj|solutionrelative:banking2\\banking2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FB147D9-C90E-4C52-A7DA-6F68822ACBF4}|banking2\\banking2.vcxproj|D:\\korea_IT\\c2025\\banking2\\banking2\\banking.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FB147D9-C90E-4C52-A7DA-6F68822ACBF4}|banking2\\banking2.vcxproj|solutionrelative:banking2\\banking.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "banking2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\banking2\\banking2\\banking2.c",
+              "RelativeDocumentMoniker": "banking2\\banking2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\banking2\\banking2\\banking2.c",
+              "RelativeToolTip": "banking2\\banking2.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAjwCoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-13T23:12:14.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "banking.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\banking2\\banking2\\banking.c",
               "RelativeDocumentMoniker": "banking2\\banking.c",
               "ToolTip": "D:\\korea_IT\\c2025\\banking2\\banking2\\banking.c",
               "RelativeToolTip": "banking2\\banking.c",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAnwIsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAiwIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-22T07:53:03.414Z",
               "EditorCaption": ""

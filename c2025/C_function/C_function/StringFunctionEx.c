@@ -9,13 +9,12 @@
 //	int len;
 //
 //	//문자열의 개수
-//	len = strlen(msg1);
+//	len = strlen(msg1);  //10, 공백문자 포함
 //	printf("%d\n", len);
 //
 //	//문자열의 복사
-//	//strcpy(msg2, msg1); //strcpy(복사본, 원본)
-//	//sizeof(msg2) - 버퍼 오버플로우 방지
-//	strcpy_s(msg2, sizeof(msg2), msg1);  
+//	//strcpy(msg2, msg1); //strcpy(복사할 장소, 복사할 내용)
+//	strcpy(msg2, msg1);  
 //	printf("%s\n", msg2);
 //
 //	//문자열의 비교
@@ -28,12 +27,10 @@
 //	result = strcmp(greet1, greet2);
 //	printf("%d\n", result);
 //
-//	if (result == 0)
-//	{
+//	if (result == 0){
 //		puts("문자열이 일치합니다.");
 //	}
-//	else
-//	{
+//	else{
 //		puts("문자열이 일치하지 않습니다.");
 //	}
 //

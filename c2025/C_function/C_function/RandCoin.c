@@ -1,6 +1,5 @@
 //#define _CRT_SECURE_NO_WARNINGS
 //#include <stdio.h>
-//#include <string.h>
 //#include <time.h>
 //#include <stdlib.h>
 //
@@ -15,8 +14,10 @@
 //	//printf("%s\n", aspect[0]);  //앞면
 //
 //	printf("앞면은 1, 뒷면은 2, 종료는 다른 값을 입력하세요\n");
+//
 //	while (1) {
 //		coin = rand() % 2 + 1;
+//
 //		printf("동전을 던졌습니다. 앞면? 뒤면? : ");
 //		scanf("%d", &you);
 //		if (you < 1 || you > 2) {

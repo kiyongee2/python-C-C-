@@ -7,10 +7,10 @@ public class BankAccount {
 	Transaction[] transactions;
 	
 	//생성자
-	public BankAccount(String accountNumber, String owner, int balance) {
+	public BankAccount(String accountNumber, String owner) {
 		this.accountNumber = accountNumber;
 		this.owner = owner;
-		this.balance = balance;
+		this.balance = 0;
 		transactions = new Transaction[100];
 	}
 	

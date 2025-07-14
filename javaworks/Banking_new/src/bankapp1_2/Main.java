@@ -8,9 +8,10 @@ public class Main {
 		
 		ArrayList<BankAccount> accounts = new ArrayList<>();
 		
-		accounts.add(new BankAccount("101-123-4567", "이우주", 10000));
-		accounts.add(new BankAccount("102-123-4567", "정은하", 30000));
-		accounts.add(new BankAccount("103-123-4567", "한강", 20000));
+		try {
+		accounts.add(new BankAccount("101-123-4567", "이우주"));
+		accounts.add(new BankAccount("102-123-4567", "정은하"));
+		accounts.add(new BankAccount("1-123-4567", "한강"));
 		
 		//입금
 		accounts.get(0).deposit(5000);
@@ -24,6 +25,9 @@ public class Main {
 		for(BankAccount account : accounts) {
 			account.displayInfo();
 			account.getTransactionHistory();
+		}
+		}catch(IllegalArgumentException e) {
+			System.out.println("오류: " + e.getMessage());
 		}
 	}
 }

@@ -1,12 +1,10 @@
 //#include <stdio.h>
 //
-//int square(int x)
-//{
+//int square(int x){
 //	return x * x;
 //}
 //
-//float triangle(int size, int height)
-//{
+//float triangle(int size, int height){
 //	return (float)(size * height) / 2;
 //}
 //
