@@ -17,9 +17,13 @@
 //	char* ptr = strtok(words, " ");
 //	printf("%s\n", ptr); //I
 //
-//	/*//두번째 단어 분리
-//	ptr = strtok(NULL, " ");
+//	/*
+//	  두번째 단어 분리 - I am a student
+//	  NULL을 넣는 이유 - 이전 호출에서 저장한 위치부터 계속 토큰을 자르기 위함
+//	  문자열의 끝은 '\0'(널문자) 존재*/
+//	/*ptr = strtok(NULL, " ");
 //	printf("%s\n", ptr); //am */
+//	printf("--------------------------\n");
 //
 //	//전체 단어 분리
 //	while (ptr != NULL && idxOfWords < MAX_WORDS) {
@@ -40,6 +44,7 @@
 //
 //	rndIdx = rand() % idxOfWords; //난수 저장
 //	printf("%s\n", wordList[rndIdx]);
+//
 //	return 0;
 //}
 //

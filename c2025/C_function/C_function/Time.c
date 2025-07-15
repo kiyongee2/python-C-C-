@@ -4,7 +4,8 @@
 //
 //int main()
 //{
-//	time_t now = time(NULL);
+//	//time_t now = time(NULL);
+//	long now = time(NULL);
 //
 //	printf("%ld√ \n", now);
 //	printf("%ld¿œ\n", now / (24*60*60));

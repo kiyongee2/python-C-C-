@@ -13,14 +13,12 @@
 //		  idx++; */
 //
 //		//문자 입력시 오류 처리
-//		if (scanf_s("%d", &arr[idx]) == 1) 
-//		{
+//		if (scanf_s("%d", &arr[idx]) == 1) {
 //			if (arr[idx] < min)
 //				min = arr[idx];
 //			idx++; //인덱스 1증가
 //		}
-//		else
-//		{
+//		else{
 //			puts("잘못된 입력입니다! 숫자를 입력하세요.");
 //			while (getchar() != '\n'); //입력 버퍼 비우기 
 //		}

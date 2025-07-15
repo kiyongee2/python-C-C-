@@ -1,3 +1,5 @@
-﻿  strtokEx.c
-D:\korea_IT\c2025\C_pointer\C_pointer\strtokEx.c(30,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  RandCoin.c
+  strtokEx.c
+  코드를 생성하고 있습니다...
+D:\korea_IT\c2025\C_pointer\C_pointer\RandCoin.c(12,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   C_pointer.vcxproj -> D:\korea_IT\c2025\C_pointer\x64\Debug\C_pointer.exe

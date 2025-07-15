@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\C_pointer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\RandCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\RandCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\strtokEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\strtokEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RandCoin.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\RandCoin.c",
+              "RelativeDocumentMoniker": "C_pointer\\RandCoin.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\RandCoin.c*",
+              "RelativeToolTip": "C_pointer\\RandCoin.c*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-14T02:29:31.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "strtokEx.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\strtokEx.c",
               "RelativeDocumentMoniker": "C_pointer\\strtokEx.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\strtokEx.c",
-              "RelativeToolTip": "C_pointer\\strtokEx.c",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\strtokEx.c*",
+              "RelativeToolTip": "C_pointer\\strtokEx.c*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-29T07:23:22.926Z",
               "EditorCaption": ""

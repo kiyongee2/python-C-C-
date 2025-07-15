@@ -29,5 +29,4 @@ public class SchedulerTest {
 		scheduler.getNextCall();
 		scheduler.sendCallToAgent();
 	}
-
 }
