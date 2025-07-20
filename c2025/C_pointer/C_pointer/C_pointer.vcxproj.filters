@@ -24,7 +24,7 @@
     <ClCompile Include="CallByRef.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="PointerFunc.c">
+    <ClCompile Include="PointerSwap.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="MallocEx1.c">
@@ -73,6 +73,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="mallocEx4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="changeArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="delBlank.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer2DEx.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

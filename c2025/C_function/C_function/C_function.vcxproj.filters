@@ -84,7 +84,10 @@
     <ClCompile Include="strtokEx.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="inputException.c">
+    <ClCompile Include="inputError.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="functionEx2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

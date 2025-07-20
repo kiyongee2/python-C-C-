@@ -53,7 +53,7 @@ def click():
         
 def reset():
     entry.delete(0, END)  #한 줄-0번줄
-    result.delete(1.0, END) #여러줄 - 첫줄, 첫칼럼
+    result.delete(0.0, END) #여러줄 - 첫줄, 첫칼럼
 
 root = Tk()
 root.title("짝수/홀수 판정")

@@ -24,7 +24,7 @@
     <ClCompile Include="Alphabets.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Pointer2D.c">
+    <ClCompile Include="doublePointerEx1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="MallocString1.c">
@@ -34,6 +34,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="calcScore.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calcScore2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="doublePointerEx2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

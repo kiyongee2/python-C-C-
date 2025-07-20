@@ -129,11 +129,13 @@
   <ItemGroup>
     <ClCompile Include="Alphabets.c" />
     <ClCompile Include="calcScore.c" />
+    <ClCompile Include="calcScore2.c" />
+    <ClCompile Include="doublePointerEx2.c" />
     <ClCompile Include="mallocChar.c" />
     <ClCompile Include="MallocEx1.c" />
     <ClCompile Include="MallocEx2.c" />
     <ClCompile Include="MallocString1.c" />
-    <ClCompile Include="Pointer2D.c" />
+    <ClCompile Include="doublePointerEx1.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

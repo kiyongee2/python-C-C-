@@ -2,6 +2,18 @@ package exceptions;
 
 public class ThrowExample {
 	
+	public static void main(String[] args) {
+		try {
+			//checkAge(3)
+			checkAge(10);
+		}catch(IllegalArgumentException e) {
+			System.out.println("예외 발생 " + e.getMessage());
+		}catch(ArithmeticException e) {
+			System.out.println("예외 발생 " + e.getMessage());
+		}
+	}
+	
+	//나이를 검사하는 메서드
 	public static void checkAge(int age) {
         if (age < 0) {
             throw new IllegalArgumentException("나이는 음수가 될 수 없습니다.");
@@ -11,14 +23,4 @@ public class ThrowExample {
             System.out.println("입장 가능합니다.");
         }
     }
-
-	public static void main(String[] args) {
-		try {
-			checkAge(10);
-		}catch(IllegalArgumentException e) {
-			System.out.println("예외 발생 " + e.getMessage());
-		}catch(ArithmeticException e) {
-			System.out.println("예외 발생 " + e.getMessage());
-		}
-	}
 }

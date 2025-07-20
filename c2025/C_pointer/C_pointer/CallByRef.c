@@ -1,7 +1,7 @@
 //#include <stdio.h>
 //
-//int callByVal(int);
-//int callByRef(int* );
+//void callByVal(int);
+//void callByRef(int* );
 //
 //int main()
 //{
@@ -19,16 +19,16 @@
 //}
 //
 ////값 호출 함수 정의
-//int callByVal(int n)
+//void callByVal(int n)
 //{
 //	n++; //n = n + 1;
-//	return n;
+//	printf("%d\n", n);
 //}
 //
 ////참조 호출 함수 정의
-//int callByRef(int* p)
+//void callByRef(int* p)
 //{
-//	*p = *p + 1;
-//	return *p;
+//	*p += 1; //*p = *p + 1;
+//	printf("%d\n", *p);
 //}
 //

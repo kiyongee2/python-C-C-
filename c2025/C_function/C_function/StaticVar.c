@@ -1,7 +1,9 @@
 //#include <stdio.h>
 //
-//void call()
-//{
+////int x = 0; //전역 변수
+//
+//void call(){
+//	//지역변수가 전역변수화 함
 //	static int x = 0;
 //
 //	x++;

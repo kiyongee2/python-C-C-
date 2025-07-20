@@ -129,12 +129,15 @@
   <ItemGroup>
     <ClCompile Include="CalcSum.c" />
     <ClCompile Include="calcSum2.c" />
+    <ClCompile Include="changeArray.c" />
+    <ClCompile Include="delBlank.c" />
     <ClCompile Include="FindMax.c" />
     <ClCompile Include="FindMaxIdx.c" />
     <ClCompile Include="MallocEx1.c" />
     <ClCompile Include="MallocEx2.c" />
     <ClCompile Include="mallocEx3.c" />
     <ClCompile Include="mallocEx4.c" />
+    <ClCompile Include="pointer2DEx.c" />
     <ClCompile Include="PointerArray.c" />
     <ClCompile Include="PointerEx.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
@@ -143,7 +146,7 @@
     <ClCompile Include="PointerArray2.c" />
     <ClCompile Include="PointerEx2.c" />
     <ClCompile Include="PointerEx3.c" />
-    <ClCompile Include="PointerFunc.c" />
+    <ClCompile Include="PointerSwap.c" />
     <ClCompile Include="PointerString.c" />
     <ClCompile Include="RandCoin.c" />
     <ClCompile Include="strtokEx.c" />

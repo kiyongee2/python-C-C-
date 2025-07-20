@@ -133,9 +133,10 @@
     <ClCompile Include="DateTime.c" />
     <ClCompile Include="Factorial.c" />
     <ClCompile Include="FindMax.c" />
+    <ClCompile Include="functionEx2.c" />
     <ClCompile Include="GetChar.c" />
     <ClCompile Include="GlobalVar.c" />
-    <ClCompile Include="inputException.c" />
+    <ClCompile Include="inputError.c" />
     <ClCompile Include="MathEx.c" />
     <ClCompile Include="MathEx2.c" />
     <ClCompile Include="MyPow.c" />

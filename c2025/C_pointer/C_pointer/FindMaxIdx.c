@@ -8,7 +8,6 @@
 //	int maxIdx1, maxIdx2;
 //
 //	maxIdx1 = findMaxIdx(arr, 6);
-//
 //	maxIdx2 = findMaxIdx2(arr, 6);
 //
 //	printf("최대값의 위치: %d\n", maxIdx1);
@@ -20,7 +19,7 @@
 //int findMaxIdx(int arr[], int len)
 //{
 //	int maxIdx, i;
-//	maxIdx = 0;
+//	maxIdx = 0;  //최대값 위치 설정
 //	for (i = 1; i < len; i++)
 //	{
 //		if (arr[i] > arr[maxIdx])

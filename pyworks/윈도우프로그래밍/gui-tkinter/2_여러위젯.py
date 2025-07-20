@@ -41,31 +41,7 @@ output.grid(row=4, column=0, sticky=W)
 root.mainloop()
 '''
 
-# 체크 버튼 
-import tkinter as tk
-
-def btn_check():
-    if ck_val.get() == True:
-        print("체크 되었습니다.")
-    else:
-        print("해제 되었습니다.")
-
-window = tk.Tk()
-window.title("체크 버튼 생성")
-window.geometry("300x100")
-
-# 체크 속성(체크/해제)
-ck_val = tk.BooleanVar() #True/False
-ck_val.set(False) #기본값
-
-# 체크 버튼
-ck_btn = tk.Checkbutton(text="체크 버튼", font=("System", 14), 
-                variable=ck_val, command=btn_check)
-ck_btn.pack()
-
-window.mainloop()
-
-# 체크 버튼 
+# 체크 버튼 동작
 import tkinter as tk
 
 def btn_check():

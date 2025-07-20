@@ -23,13 +23,14 @@
 //{
 //	int i, sum;
 //
+//	//첫번째 인자가 두번째 인자보다 크면
 //	if (min > max)
 //		swap(&min, &max);
 //
-//	printf("%d", min);
+//	printf("%d", min); //1
 //	sum = min;
 //	for (i = min + 1; i <= max; i++){
-//		printf("+%d", i);
+//		printf("+%d", i); //1+2+3+4+5
 //		sum += i;
 //	}
 //	printf("=%d\n", sum);
