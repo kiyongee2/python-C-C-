@@ -148,21 +148,25 @@ public class Main {
 		}
 	}
 	
-	//계좌 정보
+	//계좌 정보 검색
 	private static void selectAccount() {
 		
-		System.out.print("조회할 계좌번호 입력: ");
-		String accNum = scan.nextLine();
-		
-		if(searchAccount(accNum) != null) {
-			BankAccount account = searchAccount(accNum);
-			account.displayInfo();
-			account.getTransactionHistory();
-		}else {
-			System.out.println("계좌가 없습니다.");
+		while(true) {
+			System.out.print("조회할 계좌번호 입력: ");
+			String accNum = scan.nextLine();
+			
+			if(searchAccount(accNum) != null) {
+				BankAccount account = searchAccount(accNum);
+				account.displayInfo();
+				account.getTransactionHistory();
+				break;
+			}else {
+				System.out.println("계좌가 없습니다. 다시 입력하세요");
+			}
 		}
 	}
 }
+
 
 
 

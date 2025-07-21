@@ -2,12 +2,12 @@ package threads.beep_print;
 
 import java.awt.Toolkit;
 
-public class BeepPrintTest3 {
+public class BeepPrintRunnable {
 
 	public static void main(String[] args) {
-		//익명 객체로 구현
-		Thread thread = new Thread(new Runnable() {
-
+		
+		//Runnable 구현체 정의
+		Runnable task = new Runnable() {
 			@Override
 			public void run() {
 				//"띵" 소리 5번 재생하기
@@ -21,7 +21,9 @@ public class BeepPrintTest3 {
 					}
 				}
 			}
-		});
+		};
+		
+		Thread thread = new Thread(task);
 		thread.start();
 		
 		//"띵" 문자 5번 출력

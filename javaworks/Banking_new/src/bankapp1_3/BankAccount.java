@@ -60,7 +60,8 @@ public class BankAccount {
 		}
 		
 		for(Transaction transaction : transactions) {
-			System.out.print(" |" + (transaction.type == TransactionType.입금 ? "입금" : "출금"));
+			System.out.print(" |" + (transaction.type == TransactionType.입금 ? 
+													"입금" : "출금"));
 			System.out.println("| " + transaction.amount + "원");
 		}
 	}
