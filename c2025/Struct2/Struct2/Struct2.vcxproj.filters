@@ -18,22 +18,19 @@
     <ClCompile Include="StructPerson.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="StructPerson2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="RectanglePoint.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="StrudentScore.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="StructPerson3.c">
+    <ClCompile Include="StructPerson2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="StructFruit.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="StructPerson3-2.c">
+    <ClCompile Include="StructPerson3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="연결리스트1.c">

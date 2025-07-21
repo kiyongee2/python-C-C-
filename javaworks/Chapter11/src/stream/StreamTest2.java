@@ -22,6 +22,5 @@ public class StreamTest2 {
 		//Stream 클래스
 		Stream<String> stream = companyList.stream();
 		stream.forEach(company -> System.out.println(company));
-		
 	}
 }

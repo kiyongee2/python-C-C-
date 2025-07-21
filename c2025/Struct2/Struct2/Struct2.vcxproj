@@ -130,10 +130,9 @@
     <ClCompile Include="FileStructPerson.c" />
     <ClCompile Include="StructFruit.c" />
     <ClCompile Include="StructPerson.c" />
-    <ClCompile Include="StructPerson2.c" />
     <ClCompile Include="RectanglePoint.c" />
-    <ClCompile Include="StructPerson3-2.c" />
     <ClCompile Include="StructPerson3.c" />
+    <ClCompile Include="StructPerson2.c" />
     <ClCompile Include="StructScore.c" />
     <ClCompile Include="StrudentScore.c" />
     <ClCompile Include="연결리스트1.c" />

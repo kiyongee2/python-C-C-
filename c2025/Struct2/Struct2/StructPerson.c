@@ -2,8 +2,7 @@
 //#include <stdio.h>
 //#include <string.h>
 //
-//struct Person
-//{
+//struct Person{
 //	char name[20];
 //	int age;
 //	float height;

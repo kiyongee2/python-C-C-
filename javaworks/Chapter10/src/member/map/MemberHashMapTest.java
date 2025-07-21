@@ -22,7 +22,7 @@ public class MemberHashMapTest {
 		hashMap.removeMember(1002);
 		hashMap.removeMember(1004);
 		
+		//삭제 후 회원 출력
 		hashMap.showAllMember();
 	}
-
 }

@@ -2,8 +2,7 @@
 //#include <stdio.h>
 //#include <string.h>
 //
-//typedef struct
-//{
+//typedef struct{
 //	char name[20];
 //	int quantity;
 //	char* type;
@@ -21,6 +20,7 @@
 //	printf("Quantity: %d\n", f.quantity);
 //	f.type = "Kiwi";
 //	printf("Fruit Type: %s\n", f.type);
+//	printf("========================\n");
 //
 //	//포인터 구조체 변수 할당
 //	Fruit* ptr = &f;
