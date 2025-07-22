@@ -1,9 +1,8 @@
 //#include <stdio.h>
-//#include <string.h>
+//#include <math.h>
 //
 ////점 구조체
-//struct Point
-//{
+//struct Point{
 //	int x;
 //	int y;
 //};
@@ -18,7 +17,7 @@
 //int main()
 //{
 //	//구조체 객체 선언
-//	struct Rectangle rect;
+//	/*struct Rectangle rect;
 //
 //	rect.p1.x = 1;
 //	rect.p1.y = 5;
@@ -27,10 +26,24 @@
 //	rect.p2.y = 1;
 //
 //	printf("점1(%d, %d), 점2(%d, %d)\n", rect.p1.x, rect.p1.y,
-//		rect.p2.x, rect.p2.y);
+//		rect.p2.x, rect.p2.y);*/
 //
 //	//구조체 배열 선언
-//	
+//	struct Rectangle rect = {
+//		.p1 = {1, 5},
+//		.p2 = {5, 2}
+//	};
+//	int width, height;
+//
+//	printf("점1(%d, %d), 점2(%d, %d)\n", 
+//		rect.p1.x, rect.p1.y, rect.p2.x, rect.p2.y);
+//
+//	//계산
+//	width = abs(rect.p2.x - rect.p1.x);
+//	height = abs(rect.p2.y - rect.p1.y);
+//
+//	printf("너비: %d, 높이: %d\n", width, height);
+//
 //
 //	return 0;
 //}

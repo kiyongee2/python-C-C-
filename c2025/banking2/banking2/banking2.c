@@ -25,7 +25,7 @@ void createAccount() {
 		return;
 	}
 
-	printf("계좌 번호: ");
+	printf("계좌 번호(예: 000-000-0000): ");
 	scanf("%s", accountNumber);
 
 	//중복 검사

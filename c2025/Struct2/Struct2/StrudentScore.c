@@ -3,7 +3,6 @@
 //#include <string.h>
 //#include "Student.h"  //Student.h 추가
 //
-////void showStudentInfo(Student);
 //int main()
 //{
 //	//구조체 객체 선언

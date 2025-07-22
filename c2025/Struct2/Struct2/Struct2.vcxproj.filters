@@ -42,6 +42,15 @@
     <ClCompile Include="StructScore.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="typedefEmployee.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="typedefPerson.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="studentScore2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Student.h">

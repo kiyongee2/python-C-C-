@@ -1,14 +1,12 @@
 //己利 备炼眉
-typedef struct
-{
+typedef struct{
 	int math;
 	int eng;
 	double avg;
 }Score;
 
 //切积
-typedef struct
-{
+typedef struct{
 	int number;
 	char name[20];
 	Score score;

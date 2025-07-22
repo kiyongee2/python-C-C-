@@ -135,6 +135,9 @@
     <ClCompile Include="StructPerson2.c" />
     <ClCompile Include="StructScore.c" />
     <ClCompile Include="StrudentScore.c" />
+    <ClCompile Include="studentScore2.c" />
+    <ClCompile Include="typedefEmployee.c" />
+    <ClCompile Include="typedefPerson.c" />
     <ClCompile Include="연결리스트1.c" />
   </ItemGroup>
   <ItemGroup>
