@@ -1,5 +1,5 @@
 //#include <iostream>
-//#include <string>  //string 자료형 사용
+////#include <string>  //string 자료형 사용
 //
 //using namespace std; //이름공간 선언: 이후 std 생략
 ///*

@@ -133,13 +133,13 @@
     <ClCompile Include="ifelseEx1.cpp" />
     <ClCompile Include="inputData.cpp" />
     <ClCompile Include="inputDtat0.cpp" />
-    <ClCompile Include="myPow.cpp" />
+    <ClCompile Include="keyRepeat.cpp" />
     <ClCompile Include="operatorEx.cpp" />
     <ClCompile Include="printData.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="seatAllocation.cpp" />
-    <ClCompile Include="typeConversion.cpp" />
+    <ClCompile Include="myPow.cpp" />
     <ClCompile Include="variableEx.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

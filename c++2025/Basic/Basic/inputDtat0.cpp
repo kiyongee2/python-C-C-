@@ -7,9 +7,11 @@
 //	cout << "주소 입력: ";
 //	string address;
 //
-//	//cin >> address;   
+//	cin >> address;   
+//
 //	//공백을 포함한 문자열 처리
-//	getline(cin, address);
+//	//getline(cin, address);
+//
 //	cout << address << endl;
 //
 //	return 0;
