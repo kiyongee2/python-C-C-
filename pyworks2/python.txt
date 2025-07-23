@@ -1,0 +1,29 @@
+강의 교안 - https://github.com/kiyongee2/korea_it_python_pdf.git
+소스파일 - https://github.com/kiyongee2/korea_it_pyworks.git
+
+git 소프트웨어 설치(git 다운로드)
+
+명령프롬프트(cmd)
+명령어
+cd c:/  - C 드라이브로 이동
+dir - 디렉터리(폴더) 목록 보기
+git clone https://github.com/kiyongee2/korea_it_pyworks.git
+git pull
+
+파이썬 - python.org
+파이썬 설치 - 3.13
+파이썬 편집기(인터프리터) - IDLE(통합개발환경) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
