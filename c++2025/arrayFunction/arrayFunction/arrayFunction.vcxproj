@@ -129,18 +129,23 @@
   <ItemGroup>
     <ClCompile Include="array2D.cpp" />
     <ClCompile Include="calcScore.cpp" />
+    <ClCompile Include="coupon.cpp" />
     <ClCompile Include="defaultParm.cpp" />
     <ClCompile Include="dynamicAllocation.cpp" />
     <ClCompile Include="findMin.cpp" />
-    <ClCompile Include="getSumAvg.cpp" />
+    <ClCompile Include="arrayCalc.cpp" />
     <ClCompile Include="inlineFunction.cpp" />
     <ClCompile Include="intArray.cpp" />
+    <ClCompile Include="mathFunctions.cpp" />
+    <ClCompile Include="randFunction.cpp" />
     <ClCompile Include="reference.cpp" />
     <ClCompile Include="reference2.cpp" />
     <ClCompile Include="staticVar.cpp" />
     <ClCompile Include="stringArray.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="timeFunction.cpp" />
+    <ClCompile Include="typingGame.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

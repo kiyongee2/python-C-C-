@@ -8,7 +8,7 @@
 //	//문자열 배열 관리
 //	//c언어
 //	char season[4][10] = {"봄", "여름", "가을", "겨울"};
-//	//printf("%s ", list[0]);
+//	printf("%s\n", season[0]);
 //	int len = sizeof(season) / sizeof(season[0]);
 //	for (int i = 0; i < len; i++) {
 //		printf("%s ", season[i]);

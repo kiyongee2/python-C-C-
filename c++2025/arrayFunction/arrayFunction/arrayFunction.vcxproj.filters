@@ -39,7 +39,7 @@
     <ClCompile Include="findMin.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="getSumAvg.cpp">
+    <ClCompile Include="arrayCalc.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="calcScore.cpp">
@@ -49,6 +49,21 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="defaultParm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mathFunctions.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="timeFunction.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="randFunction.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="typingGame.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="coupon.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
