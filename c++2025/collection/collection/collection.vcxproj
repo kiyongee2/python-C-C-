@@ -133,6 +133,7 @@
     <ClCompile Include="queueEx2.cpp" />
     <ClCompile Include="sortEx1.cpp" />
     <ClCompile Include="sortEx2.cpp" />
+    <ClCompile Include="split.cpp" />
     <ClCompile Include="stackEx1.cpp" />
     <ClCompile Include="stackEx2.cpp" />
     <ClCompile Include="template1.cpp" />

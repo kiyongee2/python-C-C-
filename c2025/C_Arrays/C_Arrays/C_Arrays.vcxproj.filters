@@ -78,5 +78,11 @@
     <ClCompile Include="practice.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="coupon.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="coupon2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

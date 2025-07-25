@@ -142,6 +142,8 @@
     <ClCompile Include="ArrayInputFor.c" />
     <ClCompile Include="ArrayString.c" />
     <ClCompile Include="ArrayString2D.c" />
+    <ClCompile Include="coupon.c" />
+    <ClCompile Include="coupon2.c" />
     <ClCompile Include="practice.c" />
     <ClCompile Include="sortBubble.c" />
     <ClCompile Include="ArrayTest.c" />

@@ -8,16 +8,18 @@
 //	int* p;
 //
 //	p = &n;
+//
 //	cout << n << endl;  //3
 //	cout << *p << endl; //3
 //	cout << *p + 10 << endl; //13
+//	cout << "===============\n";
 //
 //	//동적 포인터 변수 - new 키워드 사용
 //	int* ptr;
 //	ptr = new int;
 //	if (ptr == nullptr) { //C언어 - NULL, C++ - nullptr
 //		cout << "메모리를 할당할 수 없습니다.\n";
-//		return 0;
+//		return -1;
 //	}
 //
 //	*ptr = 5;
@@ -25,6 +27,8 @@
 //	cout << *ptr + 5 << endl;  //6
 //
 //	delete ptr;  //메모리 해제
+//
+//	cout << "========================\n";
 //
 //	//정수형 배열 동적 할당
 //	int* pa;
@@ -41,14 +45,14 @@
 //
 //	//1부터 10까지 저장
 //	for (int i = 0; i < 10; i++) {
-//		pa[i] = i + 1;
-//		//*(pa + i) = i + 1;
+//		//pa[i] = i + 1;
+//		*(pa + i) = i + 1;
 //	}
 //
 //	//1부터 10까지 출력
 //	for (int i = 0; i < 10; i++) {
-//		cout << pa[i] << " ";
-//		//cout << *(pa + i) << " ";
+//		//cout << pa[i] << " ";
+//		cout << *(pa + i) << " ";
 //	}
 //
 //	delete[] pa;  //메모리 해제(반납)

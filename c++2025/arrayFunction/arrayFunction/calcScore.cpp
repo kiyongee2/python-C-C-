@@ -4,8 +4,11 @@
 //int main()
 //{
 //	bool run = true;  //상태 변수
-//	int* score = nullptr; //점수(동적 배열)
 //	int studentNum;   //학생 수
+//	int* score = nullptr;       //점수(동적 배열)
+//	int choice;       //메뉴 선택
+//	int total, max;   //총점, 최고점수
+//	float average;    //평균
 //	
 //	while (run) {
 //		cout << "------------------------------------------------------\n";
@@ -13,16 +16,11 @@
 //		cout << "------------------------------------------------------\n";
 //		cout << "선택> ";
 //
-//		int choice;
-//		int total = 0;
-//		float average;
-//		int max;
-//
-//		cin >> choice;  //메뉴 선택(입력)
+//		cin >> choice;  //메뉴 선택
 //
 //		switch (choice) {
 //		case 1:
-//			cout << "학생수: ";
+//			cout << "학생수 입력: ";
 //			cin >> studentNum;
 //			score = new int[studentNum];
 //			break;
@@ -39,6 +37,7 @@
 //			break;
 //		case 4:
 //			//평균점수, 최고점수
+//			total = 0;
 //			max = score[0];     //최대값 설정
 //			for (int i = 0; i < studentNum; i++) {
 //				total += score[i];  //총점
