@@ -33,6 +33,37 @@ print(weather)
 print(year + '.' + day + '.' + weather)
 """
 
+#단어가 포함되어 있으면 출력하는 프로그램
+animal = "dog"
+
+# in 명령어 - 있다/없다를 확인하는 명령어임 
+print('d' in animal) #True
+print('c' in animal) #False
+print('g' not in animal) #False
+
+animals = "dog cat horse"
+print('cat' in animals) #True
+print('cow' in animals) #False
+
+#챗봇(chatbot) 프로그램
+while True:
+    user_input = input("사용자(exit 입력시 종료): ")
+
+    if user_input == "exit":
+        print("챗봇: 대화를 종료합니다. 안녕히 가세요!")
+        break
+    elif "안녕" in user_input:
+        print("챗봇: 안녕하세요! 반가와요!")
+
+    elif "이름" in user_input:
+        print("챗봇: 저는 Python 챗봇입니다.")
+
+    elif "날씨" in user_input:
+        print("챗봇: 날씨앱이나 검색 기능을 이용하세요.")
+        
+    else:
+        print("챗봇: 죄송해요. 잘 이해하지 못했어요.")
+
 # 문자열 함수(메서드)
 '''
 fruit = "banana,grape,kiwi"
@@ -68,37 +99,6 @@ s2 = "대한민국의 수도는 부산이다."
 s2 = s2.replace("부산", "서울")
 print(s2)
 '''
-
-# 백신 접종자 분류하기
-# 접종대상 - 20세 ~ 65세, 비대상 - "하반기 일정 확인"
-'''
-백신 접종 대상인 경우 - 출생연도 끝자리
- 1 or 6 - 월요일
- 2 or 7 - 화요일
- 3 or 8 - 수요일
- 4 or 9 - 목요일
- 5 or 0 - 금요일
-'''
-
-"""
-birth_year = input("출생연도 입력: ")  #출생연도 - 문자열
-age = 2022 - int(birth_year) + 1
-
-if age >= 20 and age <= 65:
-    print("백신 접종 대상")
-    if birth_year[-1] == '1' or birth_year[-1] == '6':
-        print("월요일 접종")
-    elif birth_year[-1] == '2' or birth_year[-1] == '7':
-        print("화요일 접종")
-    elif birth_year[-1] == '3' or birth_year[-1] == '8':
-        print("수요일 접종")
-    elif birth_year[-1] == '4' or birth_year[-1] == '9':
-        print("목요일 접종")
-    elif birth_year[-1] == '5' or birth_year[-1] == '0':
-        print("금요일 접종")
-else:
-    print("하반기 일정")
-"""
 
 # 실습 - 문자열 처리
 '''
