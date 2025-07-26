@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\queueStr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\queueStr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\strReverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\strReverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\queueInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\queueInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stringConcat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\stringConcat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\queueEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\queueEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\makeBar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\makeBar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\checkBracket.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\checkBracket.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\makeBar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\makeBar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stackInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\stackInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\calcAverage.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\calcAverage.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stackChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\stackChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findElement.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\findElement.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\calcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\calcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sum1ToN.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\sum1ToN.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,86 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "stackChar.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stackChar.c",
-              "RelativeDocumentMoniker": "Algorithm\\stackChar.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stackChar.c",
-              "RelativeToolTip": "Algorithm\\stackChar.c",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "strReverse.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\strReverse.c",
+              "RelativeDocumentMoniker": "Algorithm\\strReverse.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\strReverse.c",
+              "RelativeToolTip": "Algorithm\\strReverse.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-12T02:01:55.46Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "stackInt.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stackInt.c",
-              "RelativeDocumentMoniker": "Algorithm\\stackInt.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stackInt.c",
-              "RelativeToolTip": "Algorithm\\stackInt.c",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-12T02:09:05.939Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-07-25T23:19:07.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "checkBracket.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\checkBracket.c",
-              "RelativeDocumentMoniker": "Algorithm\\checkBracket.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\checkBracket.c",
-              "RelativeToolTip": "Algorithm\\checkBracket.c",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwDwAAAAAAAAAAAAAAA==",
+              "Title": "makeBar2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\makeBar2.c",
+              "RelativeDocumentMoniker": "Algorithm\\makeBar2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\makeBar2.c",
+              "RelativeToolTip": "Algorithm\\makeBar2.c",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-12T09:19:51.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "queueStr.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\queueStr.c",
-              "RelativeDocumentMoniker": "Algorithm\\queueStr.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\queueStr.c",
-              "RelativeToolTip": "Algorithm\\queueStr.c",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwC4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-12T02:20:21.549Z",
+              "WhenOpened": "2025-07-25T22:22:57.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "queueEx.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\queueEx.c",
-              "RelativeDocumentMoniker": "Algorithm\\queueEx.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\queueEx.c",
-              "RelativeToolTip": "Algorithm\\queueEx.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Title": "makeBar.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\makeBar.c",
+              "RelativeDocumentMoniker": "Algorithm\\makeBar.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\makeBar.c",
+              "RelativeToolTip": "Algorithm\\makeBar.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-12T02:00:31.941Z",
+              "WhenOpened": "2025-07-25T21:56:39.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "queueInt.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\queueInt.c",
-              "RelativeDocumentMoniker": "Algorithm\\queueInt.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\queueInt.c",
-              "RelativeToolTip": "Algorithm\\queueInt.c",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
+              "Title": "stringConcat.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stringConcat.c",
+              "RelativeDocumentMoniker": "Algorithm\\stringConcat.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stringConcat.c",
+              "RelativeToolTip": "Algorithm\\stringConcat.c",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-12T01:58:11.593Z",
+              "WhenOpened": "2025-07-25T22:11:03.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "calcAverage.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\calcAverage.c",
+              "RelativeDocumentMoniker": "Algorithm\\calcAverage.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\calcAverage.c",
+              "RelativeToolTip": "Algorithm\\calcAverage.c",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-25T21:49:30.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "calcSum.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\calcSum.c",
+              "RelativeDocumentMoniker": "Algorithm\\calcSum.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\calcSum.c",
+              "RelativeToolTip": "Algorithm\\calcSum.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-25T21:50:14.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "findElement.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findElement.c",
+              "RelativeDocumentMoniker": "Algorithm\\findElement.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findElement.c",
+              "RelativeToolTip": "Algorithm\\findElement.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-25T21:47:59.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sum1ToN.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sum1ToN.c",
+              "RelativeDocumentMoniker": "Algorithm\\sum1ToN.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sum1ToN.c",
+              "RelativeToolTip": "Algorithm\\sum1ToN.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-25T21:42:55.006Z",
               "EditorCaption": ""
             }
           ]

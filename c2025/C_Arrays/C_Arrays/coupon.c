@@ -2,11 +2,6 @@
 //#include <stdio.h>
 //#include <string.h>
 //
-//void apply(char digit) {
-//   
-//    
-//}
-//
 //int main()
 //{
 //    char birthYear[5];  // 4자리 + 널문자

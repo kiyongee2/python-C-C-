@@ -7,36 +7,76 @@
       "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\strtokEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\StringFunctionEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\StringFunctionEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\strcspanEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\strcspanEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\GetChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\GetChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\RandCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\RandCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\MathEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\MathEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\MathEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\MathEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\inputError.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\inputError.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\StaticVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\StaticVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\GetChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\GetChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\functionEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\functionEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\ReturnFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\ReturnFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\Factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\Factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\DateTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\DateTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\CalcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\CalcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\CalcRandNumber.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\CalcRandNumber.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\AreaOfShape.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\AreaOfShape.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\Time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\Time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\UpAndDown.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\UpAndDown.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\Time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\Time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\ReturnFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\ReturnFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|D:\\korea_IT\\c2025\\C_function\\C_function\\StaticVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE3AFBC-8822-46BB-A9DA-D014C10D2223}|C_function\\C_function.vcxproj|solutionrelative:C_function\\StaticVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +86,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "StringFunctionEx.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\StringFunctionEx.c",
+              "RelativeDocumentMoniker": "C_function\\StringFunctionEx.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\StringFunctionEx.c",
+              "RelativeToolTip": "C_function\\StringFunctionEx.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:45:04.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpperCase.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\UpperCase.c",
+              "RelativeDocumentMoniker": "C_function\\UpperCase.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\UpperCase.c",
+              "RelativeToolTip": "C_function\\UpperCase.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:41:22.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RandCoin.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\RandCoin.c",
+              "RelativeDocumentMoniker": "C_function\\RandCoin.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\RandCoin.c",
+              "RelativeToolTip": "C_function\\RandCoin.c",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:38:50.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MathEx2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\MathEx2.c",
+              "RelativeDocumentMoniker": "C_function\\MathEx2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\MathEx2.c",
+              "RelativeToolTip": "C_function\\MathEx2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:38:40.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MathEx.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\MathEx.c",
+              "RelativeDocumentMoniker": "C_function\\MathEx.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\MathEx.c",
+              "RelativeToolTip": "C_function\\MathEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:38:38.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Factorial.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\Factorial.c",
+              "RelativeDocumentMoniker": "C_function\\Factorial.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\Factorial.c",
+              "RelativeToolTip": "C_function\\Factorial.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:37:51.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DateTime.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\DateTime.c",
+              "RelativeDocumentMoniker": "C_function\\DateTime.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\DateTime.c",
+              "RelativeToolTip": "C_function\\DateTime.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:37:02.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalcSum.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\CalcSum.c",
+              "RelativeDocumentMoniker": "C_function\\CalcSum.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\CalcSum.c",
+              "RelativeToolTip": "C_function\\CalcSum.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:36:58.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "GetChar.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\GetChar.c",
               "RelativeDocumentMoniker": "C_function\\GetChar.c",
@@ -63,19 +207,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "strtokEx.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\strtokEx.c",
+              "RelativeDocumentMoniker": "C_function\\strtokEx.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\strtokEx.c",
+              "RelativeToolTip": "C_function\\strtokEx.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-15T00:40:27.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CalcRandNumber.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\CalcRandNumber.c",
+              "RelativeDocumentMoniker": "C_function\\CalcRandNumber.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\CalcRandNumber.c",
+              "RelativeToolTip": "C_function\\CalcRandNumber.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:36:51.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "strcspanEx.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\strcspanEx.c",
+              "RelativeDocumentMoniker": "C_function\\strcspanEx.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\strcspanEx.c",
+              "RelativeToolTip": "C_function\\strcspanEx.c",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-15T01:03:49.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AreaOfShape.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\AreaOfShape.c",
+              "RelativeDocumentMoniker": "C_function\\AreaOfShape.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\AreaOfShape.c",
+              "RelativeToolTip": "C_function\\AreaOfShape.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:36:43.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "inputError.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\inputError.c",
               "RelativeDocumentMoniker": "C_function\\inputError.c",
               "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\inputError.c",
               "RelativeToolTip": "C_function\\inputError.c",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-20T08:35:52.386Z"
+              "WhenOpened": "2025-07-20T08:35:52.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "StaticVar.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\StaticVar.c",
               "RelativeDocumentMoniker": "C_function\\StaticVar.c",
@@ -87,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "functionEx2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\functionEx2.c",
               "RelativeDocumentMoniker": "C_function\\functionEx2.c",
@@ -95,11 +292,12 @@
               "RelativeToolTip": "C_function\\functionEx2.c",
               "ViewState": "AgIAAAsAAAAAAAAAAAAIwCAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-20T08:27:33.658Z"
+              "WhenOpened": "2025-07-20T08:27:33.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "ReturnFunction.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\ReturnFunction.c",
               "RelativeDocumentMoniker": "C_function\\ReturnFunction.c",
@@ -111,20 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "strcspanEx.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\strcspanEx.c",
-              "RelativeDocumentMoniker": "C_function\\strcspanEx.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\strcspanEx.c",
-              "RelativeToolTip": "C_function\\strcspanEx.c",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-15T01:03:49.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "UpAndDown.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\UpAndDown.c",
               "RelativeDocumentMoniker": "C_function\\UpAndDown.c",
@@ -136,28 +321,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "strtokEx.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\strtokEx.c",
-              "RelativeDocumentMoniker": "C_function\\strtokEx.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\strtokEx.c",
-              "RelativeToolTip": "C_function\\strtokEx.c",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-15T00:40:27.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Time.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_function\\C_function\\Time.c",
               "RelativeDocumentMoniker": "C_function\\Time.c",
               "ToolTip": "D:\\korea_IT\\c2025\\C_function\\C_function\\Time.c",
               "RelativeToolTip": "C_function\\Time.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-15T00:37:48.44Z"
+              "WhenOpened": "2025-07-15T00:37:48.44Z",
+              "EditorCaption": ""
             }
           ]
         }

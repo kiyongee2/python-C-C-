@@ -3,24 +3,64 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\C_pointer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\pointer2DEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\pointer2DEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\mallocEx4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\mallocEx4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\mallocEx3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\mallocEx3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\MallocEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\MallocEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\MallocEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\MallocEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\delBlank.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\delBlank.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\mallocEx4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\mallocEx4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\CallByRef.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\CallByRef.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\calcSum2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\calcSum2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\CalcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\CalcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\changeArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\changeArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerEx3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\PointerEx3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\pointer2DEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\pointer2DEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerFunc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\PointerFunc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerArray2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\PointerArray2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\PointerArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerArray2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\PointerArray2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCDAAF7F-C38A-4135-89BE-2E1D013EF097}|C_pointer\\C_pointer.vcxproj|solutionrelative:C_pointer\\PointerString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,48 +70,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "pointer2DEx.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\pointer2DEx.c",
-              "RelativeDocumentMoniker": "C_pointer\\pointer2DEx.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\pointer2DEx.c",
-              "RelativeToolTip": "C_pointer\\pointer2DEx.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "mallocEx3.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\mallocEx3.c",
+              "RelativeDocumentMoniker": "C_pointer\\mallocEx3.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\mallocEx3.c",
+              "RelativeToolTip": "C_pointer\\mallocEx3.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-20T13:52:45.476Z",
+              "WhenOpened": "2025-07-26T00:30:38.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PointerArray2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerArray2.c",
-              "RelativeDocumentMoniker": "C_pointer\\PointerArray2.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerArray2.c",
-              "RelativeToolTip": "C_pointer\\PointerArray2.c",
+              "DocumentIndex": 2,
+              "Title": "MallocEx2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\MallocEx2.c",
+              "RelativeDocumentMoniker": "C_pointer\\MallocEx2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\MallocEx2.c",
+              "RelativeToolTip": "C_pointer\\MallocEx2.c",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-20T09:50:15.77Z"
+              "WhenOpened": "2025-07-26T00:30:35.514Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PointerArray.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerArray.c",
-              "RelativeDocumentMoniker": "C_pointer\\PointerArray.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerArray.c",
-              "RelativeToolTip": "C_pointer\\PointerArray.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MallocEx1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\MallocEx1.c",
+              "RelativeDocumentMoniker": "C_pointer\\MallocEx1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\MallocEx1.c",
+              "RelativeToolTip": "C_pointer\\MallocEx1.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-20T09:50:14.505Z"
+              "WhenOpened": "2025-07-26T00:30:31.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "CallByRef.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\CallByRef.c",
+              "RelativeDocumentMoniker": "C_pointer\\CallByRef.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\CallByRef.c",
+              "RelativeToolTip": "C_pointer\\CallByRef.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:25:19.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "calcSum2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\calcSum2.c",
+              "RelativeDocumentMoniker": "C_pointer\\calcSum2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\calcSum2.c",
+              "RelativeToolTip": "C_pointer\\calcSum2.c",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:24:39.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "changeArray.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\changeArray.c",
+              "RelativeDocumentMoniker": "C_pointer\\changeArray.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\changeArray.c",
+              "RelativeToolTip": "C_pointer\\changeArray.c",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:12:43.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PointerEx3.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerEx3.c",
+              "RelativeDocumentMoniker": "C_pointer\\PointerEx3.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerEx3.c",
+              "RelativeToolTip": "C_pointer\\PointerEx3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:12:22.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PointerFunc.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerFunc.c",
+              "RelativeDocumentMoniker": "C_pointer\\PointerFunc.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerFunc.c",
+              "RelativeToolTip": "C_pointer\\PointerFunc.c",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:08:49.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalcSum.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\CalcSum.c",
+              "RelativeDocumentMoniker": "C_pointer\\CalcSum.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\CalcSum.c",
+              "RelativeToolTip": "C_pointer\\CalcSum.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:01:18.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "mallocEx4.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\mallocEx4.c",
               "RelativeDocumentMoniker": "C_pointer\\mallocEx4.c",
@@ -79,19 +199,73 @@
               "RelativeToolTip": "C_pointer\\mallocEx4.c",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-20T09:39:44.782Z"
+              "WhenOpened": "2025-07-20T09:39:44.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
+              "Title": "PointerString.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerString.c",
+              "RelativeDocumentMoniker": "C_pointer\\PointerString.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerString.c",
+              "RelativeToolTip": "C_pointer\\PointerString.c",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T00:05:55.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "pointer2DEx.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\pointer2DEx.c",
+              "RelativeDocumentMoniker": "C_pointer\\pointer2DEx.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\pointer2DEx.c",
+              "RelativeToolTip": "C_pointer\\pointer2DEx.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-20T13:52:45.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PointerArray2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerArray2.c",
+              "RelativeDocumentMoniker": "C_pointer\\PointerArray2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerArray2.c",
+              "RelativeToolTip": "C_pointer\\PointerArray2.c",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-20T09:50:15.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "delBlank.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\delBlank.c",
               "RelativeDocumentMoniker": "C_pointer\\delBlank.c",
               "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\delBlank.c",
               "RelativeToolTip": "C_pointer\\delBlank.c",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-20T09:30:46.864Z"
+              "WhenOpened": "2025-07-20T09:30:46.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PointerArray.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerArray.c",
+              "RelativeDocumentMoniker": "C_pointer\\PointerArray.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_pointer\\C_pointer\\PointerArray.c",
+              "RelativeToolTip": "C_pointer\\PointerArray.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-20T09:50:14.505Z",
+              "EditorCaption": ""
             }
           ]
         }

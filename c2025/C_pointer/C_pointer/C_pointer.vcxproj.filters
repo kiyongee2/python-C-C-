@@ -24,7 +24,7 @@
     <ClCompile Include="CallByRef.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="PointerSwap.c">
+    <ClCompile Include="PointerFunc.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="MallocEx1.c">

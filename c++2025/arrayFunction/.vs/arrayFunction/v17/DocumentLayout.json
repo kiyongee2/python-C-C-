@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\coupon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|solutionrelative:arrayFunction\\coupon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\timeFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|solutionrelative:arrayFunction\\timeFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "coupon.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\coupon.cpp",
+              "RelativeDocumentMoniker": "arrayFunction\\coupon.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\coupon.cpp",
+              "RelativeToolTip": "arrayFunction\\coupon.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T01:36:28.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "typingGame.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\typingGame.cpp",
               "RelativeDocumentMoniker": "arrayFunction\\typingGame.cpp",
@@ -42,25 +59,24 @@
               "RelativeToolTip": "arrayFunction\\typingGame.cpp",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-25T00:01:55.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T00:01:55.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "timeFunction.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\timeFunction.cpp",
               "RelativeDocumentMoniker": "arrayFunction\\timeFunction.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\timeFunction.cpp",
               "RelativeToolTip": "arrayFunction\\timeFunction.cpp",
-              "ViewState": "AgIAABwAAAAAAAAAAAAqwC4AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-24T23:58:03.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "calcScore.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\calcScore.cpp",
               "RelativeDocumentMoniker": "arrayFunction\\calcScore.cpp",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "arrayFunction\\calcScore.cpp",
               "ViewState": "AgIAAC8AAAAAAAAAAAAqwEMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-24T23:50:58.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T23:50:58.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "dynamicAllocation.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\dynamicAllocation.cpp",
               "RelativeDocumentMoniker": "arrayFunction\\dynamicAllocation.cpp",
@@ -81,12 +96,11 @@
               "RelativeToolTip": "arrayFunction\\dynamicAllocation.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-24T23:43:20.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T23:43:20.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "newDelete2.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\newDelete2.cpp",
               "RelativeDocumentMoniker": "arrayFunction\\newDelete2.cpp",
@@ -94,8 +108,7 @@
               "RelativeToolTip": "arrayFunction\\newDelete2.cpp",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwCYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-24T23:38:28.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T23:38:28.529Z"
             }
           ]
         }

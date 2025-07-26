@@ -9,15 +9,15 @@
 //	char arr[] = "A B c D e F !";
 //
 //	delBlank(arr); //공백문자 제거 함수 호출
-//
 //	printf("%s\n", arr);
 //
 //	return 0;
 //}
 //
 //void delBlank(char a[]) {
-//	int len;
-//	char* str;
+//	  
+//	char* str;  //포인터 선언(동적 할당)
+//	int len;    //배열의 크기
 //	int k = 0;
 //
 //	len = strlen(a);

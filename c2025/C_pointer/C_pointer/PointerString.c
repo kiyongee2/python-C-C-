@@ -16,16 +16,16 @@
 //	printf("%x %x\n", msg, p);
 //
 //	//포인터로 출력
-//	printf("%s\n", p); //p + 0과 같음
+//	/*printf("%s\n", p); //p + 0과 같음
 //	printf("%s\n", p + 1); 
 //	printf("%s\n", p + 2); 
-//	printf("%s\n", p + 3); 
+//	printf("%s\n", p + 3); */
 //
 //	//포인터 역참조로 출력
-//	/*printf("%c\n", *p);
+//	printf("%c\n", *p);
 //	printf("%c\n", *(p + 1));
 //	printf("%c\n", *(p + 2));
-//	printf("%c\n", *(p + 3));*/
+//	printf("%c\n", *(p + 3));
 //
 //	int size = sizeof(msg) / sizeof(msg[0]);
 //

@@ -24,10 +24,10 @@
     <ClCompile Include="struct.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="array1.c">
+    <ClCompile Include="findElement.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="array2.c">
+    <ClCompile Include="calcAverage.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="string1.c">
@@ -82,6 +82,21 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="queueStr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sum1ToN.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="makeBar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stringConcat.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="makeBar2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strReverse.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

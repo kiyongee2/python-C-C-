@@ -127,8 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="array1.c" />
-    <ClCompile Include="array2.c" />
+    <ClCompile Include="findElement.c" />
+    <ClCompile Include="calcAverage.c" />
     <ClCompile Include="basic.c" />
     <ClCompile Include="binSearch.c" />
     <ClCompile Include="checkBracket.c" />
@@ -137,6 +137,8 @@
     <ClCompile Include="fileio.c" />
     <ClCompile Include="fileio2.c" />
     <ClCompile Include="calcSum.c" />
+    <ClCompile Include="makeBar.c" />
+    <ClCompile Include="makeBar2.c" />
     <ClCompile Include="printBin.c" />
     <ClCompile Include="queueEx.c" />
     <ClCompile Include="queueInt.c" />
@@ -151,7 +153,10 @@
     <ClCompile Include="stackInt.c" />
     <ClCompile Include="stackEx2.cpp" />
     <ClCompile Include="string1.c" />
+    <ClCompile Include="stringConcat.c" />
+    <ClCompile Include="strReverse.c" />
     <ClCompile Include="struct.c" />
+    <ClCompile Include="sum1ToN.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

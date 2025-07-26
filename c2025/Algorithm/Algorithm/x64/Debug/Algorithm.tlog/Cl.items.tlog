@@ -1,5 +1,5 @@
-D:\korea_IT\c2025\Algorithm\Algorithm\array1.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\array1.obj
-D:\korea_IT\c2025\Algorithm\Algorithm\array2.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\array2.obj
+D:\korea_IT\c2025\Algorithm\Algorithm\findElement.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\findElement.obj
+D:\korea_IT\c2025\Algorithm\Algorithm\calcAverage.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\calcAverage.obj
 D:\korea_IT\c2025\Algorithm\Algorithm\basic.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\basic.obj
 D:\korea_IT\c2025\Algorithm\Algorithm\binSearch.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\binSearch.obj
 D:\korea_IT\c2025\Algorithm\Algorithm\checkBracket.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\checkBracket.obj
@@ -8,6 +8,8 @@ D:\korea_IT\c2025\Algorithm\Algorithm\factorial.c;D:\korea_IT\c2025\Algorithm\Al
 D:\korea_IT\c2025\Algorithm\Algorithm\fileio.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\fileio.obj
 D:\korea_IT\c2025\Algorithm\Algorithm\fileio2.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\fileio2.obj
 D:\korea_IT\c2025\Algorithm\Algorithm\calcSum.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\calcSum.obj
+D:\korea_IT\c2025\Algorithm\Algorithm\makeBar.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\makeBar.obj
+D:\korea_IT\c2025\Algorithm\Algorithm\makeBar2.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\makeBar2.obj
 D:\korea_IT\c2025\Algorithm\Algorithm\printBin.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\printBin.obj
 D:\korea_IT\c2025\Algorithm\Algorithm\queueEx.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\queueEx.obj
 D:\korea_IT\c2025\Algorithm\Algorithm\queueInt.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\queueInt.obj
@@ -20,4 +22,6 @@ D:\korea_IT\c2025\Algorithm\Algorithm\stackChar.c;D:\korea_IT\c2025\Algorithm\Al
 D:\korea_IT\c2025\Algorithm\Algorithm\stackInt.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\stackInt.obj
 D:\korea_IT\c2025\Algorithm\Algorithm\stackEx2.cpp;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\stackEx2.obj
 D:\korea_IT\c2025\Algorithm\Algorithm\string1.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\string1.obj
+D:\korea_IT\c2025\Algorithm\Algorithm\stringConcat.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\stringConcat.obj
 D:\korea_IT\c2025\Algorithm\Algorithm\struct.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\struct.obj
+D:\korea_IT\c2025\Algorithm\Algorithm\sum1ToN.c;D:\korea_IT\c2025\Algorithm\Algorithm\x64\Debug\sum1ToN.obj

@@ -4,19 +4,16 @@
 //int main()
 //{
 //	int value;
-//	value = calc(1, 5);
+//	value = calc(1, 10);
 //
 //	printf("гу╟Х: %d\n", value);
-//
 //	return 0;
 //}
 //
-//int calc(int x, int y)
-//{
+//int calc(int x, int y){
 //	int i, sum = 0;
 //
-//	for (i = x; i <= y; i++)
-//	{
+//	for (i = x; i <= y; i++){
 //		sum += i;
 //	}
 //	return sum;

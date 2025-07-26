@@ -146,7 +146,7 @@
     <ClCompile Include="PointerArray2.c" />
     <ClCompile Include="PointerEx2.c" />
     <ClCompile Include="PointerEx3.c" />
-    <ClCompile Include="PointerSwap.c" />
+    <ClCompile Include="PointerFunc.c" />
     <ClCompile Include="PointerString.c" />
     <ClCompile Include="RandCoin.c" />
     <ClCompile Include="strtokEx.c" />

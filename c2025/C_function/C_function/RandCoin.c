@@ -9,14 +9,13 @@
 //	int coin;
 //	//char aspect[][10] = { "", "앞면", "뒷면" };
 //	char* aspect[] = { "", "앞면", "뒷면" };
-//	srand(time(NULL));
 //
+//	srand(time(NULL));
 //	//printf("%s\n", aspect[0]);  //앞면
 //
 //	printf("앞면은 1, 뒷면은 2, 종료는 다른 값을 입력하세요\n");
-//
 //	while (1) {
-//		coin = rand() % 2 + 1;
+//		coin = rand() % 2 + 1; //동전 난수
 //
 //		printf("동전을 던졌습니다. 앞면? 뒤면? : ");
 //		scanf("%d", &you);
