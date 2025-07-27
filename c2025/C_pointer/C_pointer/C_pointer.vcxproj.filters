@@ -27,12 +27,6 @@
     <ClCompile Include="PointerFunc.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="MallocEx1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="MallocEx2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="TypingGame.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -69,16 +63,7 @@
     <ClCompile Include="TypingGame2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="mallocEx3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="mallocEx4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="changeArray.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="delBlank.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="pointer2DEx.c">

@@ -19,8 +19,9 @@
 //		printf("arr[%d] 입력: ", i);
 //		scanf("%d", &arr[i]);
 //	}
+//	printf("\n");
 //	
-//  //막대 그래프 출력
+//    //막대 그래프 출력
 //	for (i = 0; i < 4; i++) {
 //		printf("arr[%d]=%d|", i, arr[i]);
 //		for (j = 1; j <= arr[i]; j++) {

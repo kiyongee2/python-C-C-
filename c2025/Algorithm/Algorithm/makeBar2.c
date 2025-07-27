@@ -1,7 +1,7 @@
 //#define _CRT_SECURE_NO_WARNINGS
 //#include <stdio.h>
-//#include <stdlib.h>
-//#include <stdbool.h>
+//#include <stdlib.h>  //malloc(), free()
+//#include <stdbool.h> //true/false 사용
 //
 ///*
 //  - 배열의 수치를 막대 그래프로 그리는 프로그램
@@ -18,11 +18,7 @@
 //	int i, j;
 //
 //	printf("배열의 크기 입력: ");
-//	//scanf("%d", &size);
-//	if (scanf("%d", &size) != 1 || size <= 0) {
-//		printf("올바른 양의 정수를 입력해야 합니다.\n");
-//		return 1;
-//	}
+//	scanf("%d", &size);
 //
 //	arr = (int*)malloc(sizeof(int) * size);
 //	if (arr == NULL) {
@@ -51,6 +47,12 @@
 //			}
 //		}
 //	}
+//	printf("\n");
+//
+//	/*if (scanf("%d", &size) != 1 || size <= 0) {
+//		printf("올바른 양의 정수를 입력해야 합니다.\n");
+//		return 1;
+//	}*/
 //
 //	//막대 그래프 출력
 //	for (i = 0; i < size; i++) {

@@ -18,13 +18,15 @@
 //        wordList[idxOfWords++] = ptr;
 //        ptr = strtok(NULL, " ");
 //    }
+//
 //    // 2. 타자 게임 준비
 //    char* question;
-//    char* answer = (char*)malloc(MAX_LENGTH * sizeof(char)); //동적 배열로 할당
+//    char* answer = NULL; //동적 배열로 할당
 //    int n = 1;
 //    clock_t start, end;
 //    double elapsedTime;
-//    srand(time(NULL));
+//
+//    srand(time(NULL)); //난수 생성을 위한 시드 설정
 //
 //    printf("영어 타자 게임, 준비되면 엔터> ");
 //    getchar();
@@ -34,6 +36,13 @@
 //        int rndIdx = rand() % idxOfWords; //실제 단어 개수 사용
 //        question = wordList[rndIdx];  //랜덤한 단어 추출
 //        printf("%s\n", question); //문제 출제
+//
+//        answer = (char*)malloc(MAX_LENGTH * sizeof(char));
+//        if (answer == NULL) {
+//			puts("동적 메모리 할당에 실패했습니다.");
+//			exit(0);
+//		}
+//
 //        scanf("%s", answer);  //사용자 입력
 //        if (strcmp(question, answer) == 0){
 //            printf("통과!\n");

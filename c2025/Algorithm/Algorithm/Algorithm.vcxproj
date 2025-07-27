@@ -144,7 +144,7 @@
     <ClCompile Include="queueInt.c" />
     <ClCompile Include="queueStr.c" />
     <ClCompile Include="recursive.c" />
-    <ClCompile Include="reverseStr.c" />
+    <ClCompile Include="stack_reverseStr.c" />
     <ClCompile Include="sortBubble.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
     </ClCompile>
@@ -153,10 +153,11 @@
     <ClCompile Include="stackInt.c" />
     <ClCompile Include="stackEx2.cpp" />
     <ClCompile Include="string1.c" />
-    <ClCompile Include="stringConcat.c" />
+    <ClCompile Include="strConcat.c" />
     <ClCompile Include="strReverse.c" />
     <ClCompile Include="struct.c" />
     <ClCompile Include="sum1ToN.c" />
+    <ClCompile Include="sum1ToN_2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

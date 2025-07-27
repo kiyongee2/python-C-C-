@@ -128,12 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Alphabets.c" />
+    <ClCompile Include="calcArray.c" />
     <ClCompile Include="calcScore.c" />
     <ClCompile Include="calcScore2.c" />
     <ClCompile Include="doublePointerEx2.c" />
-    <ClCompile Include="mallocChar.c" />
     <ClCompile Include="MallocEx1.c" />
     <ClCompile Include="MallocEx2.c" />
+    <ClCompile Include="mallocEx3.c" />
     <ClCompile Include="MallocString1.c" />
     <ClCompile Include="doublePointerEx1.c" />
   </ItemGroup>

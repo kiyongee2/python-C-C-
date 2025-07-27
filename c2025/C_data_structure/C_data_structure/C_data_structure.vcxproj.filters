@@ -39,5 +39,26 @@
     <ClCompile Include="연결리스트_사용자.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stackInt.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stackChar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stackEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="queueEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="queueInt.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="queueStr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stackReverse.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

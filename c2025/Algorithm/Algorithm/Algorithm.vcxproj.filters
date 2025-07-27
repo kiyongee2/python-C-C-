@@ -75,7 +75,7 @@
     <ClCompile Include="checkBracket.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="reverseStr.c">
+    <ClCompile Include="stack_reverseStr.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="queueInt.c">
@@ -90,13 +90,16 @@
     <ClCompile Include="makeBar.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="stringConcat.c">
+    <ClCompile Include="strConcat.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="makeBar2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="strReverse.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sum1ToN_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

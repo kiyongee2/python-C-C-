@@ -30,9 +30,6 @@
     <ClCompile Include="MallocString1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="mallocChar.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="calcScore.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -40,6 +37,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="doublePointerEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mallocEx3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calcArray.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -130,13 +130,8 @@
     <ClCompile Include="CalcSum.c" />
     <ClCompile Include="calcSum2.c" />
     <ClCompile Include="changeArray.c" />
-    <ClCompile Include="delBlank.c" />
     <ClCompile Include="FindMax.c" />
     <ClCompile Include="FindMaxIdx.c" />
-    <ClCompile Include="MallocEx1.c" />
-    <ClCompile Include="MallocEx2.c" />
-    <ClCompile Include="mallocEx3.c" />
-    <ClCompile Include="mallocEx4.c" />
     <ClCompile Include="pointer2DEx.c" />
     <ClCompile Include="PointerArray.c" />
     <ClCompile Include="PointerEx.c">
