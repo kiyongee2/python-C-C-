@@ -1,8 +1,10 @@
 """
+# 인덱싱과 슬라이싱
 alpha = ['a', 'b', 'c', 'd']
 
 # 인덱싱
 print(alpha[2])
+print(alpha[-1])
 
 # 슬라이싱(범위로 검색 - ':' 사용)
 print(alpha[0:3]) # 종료값 = 종료인덱스-1
@@ -20,18 +22,17 @@ print(f[:])
 s = "20250510Rainy"
 # 연도 추출
 year = s[:4]  #끝 -> 끝인덱스-1
-print(year)
+print(year) #2025
 
 # 월일 추출
 day = s[4:8]
-print(day)
+print(day) #0510
 
 # 날씨 추출
-weather = s[8:]
+weather = s[8:] #Rainy
 print(weather)
 
-print(year + '.' + day + '.' + weather)
-"""
+print(year + '. ' + day + '. ' + weather)
 
 #단어가 포함되어 있으면 출력하는 프로그램
 animal = "dog"
@@ -63,17 +64,17 @@ while True:
         
     else:
         print("챗봇: 죄송해요. 잘 이해하지 못했어요.")
+"""
 
 # 문자열 함수(메서드)
-'''
 fruit = "banana,grape,kiwi"
 print(fruit)
 print(type(fruit)) # 자료형 - str
 
 # split(구분기호) - 문자열을 리스트로 변환해 줌
 fruit = fruit.split(',')
-print(fruit) # ['banana', 'grape', 'kiwi']
-print(type(fruit)) # 자료형 - list
+print(fruit)   # ['banana', 'grape', 'kiwi']
+print(type(fruit))  # 자료형 - list
 
 # 인덱싱과 슬라이싱
 print(fruit[0])
@@ -89,43 +90,10 @@ s = "Hello, World"
 s = s.replace("World", "Korea")
 print(s) # Hello, Korea
 
-# find(문자) - 문자의 인덱스(위치) 번호 반환
-s1 = "smile"
-print(s1.find('m')) # 1번 인덱스
-print(s1.find('k')) # -1
-
-# 실습(부산 -> 서울로 변경)
-s2 = "대한민국의 수도는 부산이다."
-s2 = s2.replace("부산", "서울")
-print(s2)
-'''
-
-# 실습 - 문자열 처리
-'''
-x = input("Happy Birthday!!를 입력하세요: ")
-x = x.capitalize()   #문자열의 맨 앞글자를 대문자로 변경해줌
-print(x) # Happy birthday!!
-y = x.split() # 공백문자로 구분 - (' ') or () 사용
-print(y) # ['Happy', 'birthday!!']
-'''
-
-# 리스트
-# 문자열 -> 1차원 리스트
-'''
-car = "나는 전기차를 구매했어요"
-
-# 인덱싱과 슬라이싱
-print(car[0])  #나
-print(car[3])  #전
-print(car[3:6]) #전기차
-
-# 전기차를 수소차로 변경
-car = car.replace("전기차", "수소차")
-print(car)
-
-# 찾기 함수
-print(car.find("구매했어요")) #8
-print(car.find("판매했어요")) #-1
+# find(문자) - 문자의 인덱스(위치) 반환
+print(s.find('H')) # 0
+print(s.find('World')) # 7
+print(s.find('k')) # -1
 
 # 공백 문자 제거 - strip()
 str = "  Hi~ han."
@@ -133,12 +101,23 @@ print(str.strip())   #양쪽 공백 제거
 print(str.lstrip())  #왼쪽 공백 제거
 
 str2 = "Hi~ han.  "
-print(str2.strip())
 print(str2.rstrip()) #오른쪽 공백 제거
-'''
 
-# 실습 문제
+# 실습 - 문자열 처리
+x = input("Happy Birthday!를 입력하세요: ")
+x = x.capitalize()   #문자열의 맨 앞글자를 대문자로 변경해줌
+print(x) # Happy birthday!
+y = x.split() # 공백문자로 구분 - (' ') or () 사용
+print(y) # ['Happy', 'birthday!']
+
+print(y[0][-1]) #y
+print(y[1][:5]) #birth
+
+print(y[0][::1], end='*')
+print(y[1][5:8])
+
 # 입력 - python-programming, 10
+'''
 arr_str = input("Input string: ").split('-')
 arr_len = int(input("Input number: "))
 arr_val = list(range(0, arr_len, 2))
@@ -150,3 +129,4 @@ print(arr_val) #[0, 2, 6, 8]
 
 print(arr_str[1].find('e')) # -1
 print(arr_val[2]) # 6
+'''
