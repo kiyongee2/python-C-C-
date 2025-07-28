@@ -27,21 +27,21 @@ public class StackCoinTest {
 		Coin coin50 = new Coin(50);
 		Coin coin10 = new Coin(10);
 		
-		//넣기
+		//넣기(500 - 100 - 50 - 10)
 		coinBox.push(coin500);
 		coinBox.push(coin100);
 		coinBox.push(coin50);
 		coinBox.push(coin10);
 		
-		//빼기
-//		System.out.println(coinBox.pop().getValue() + "원");
-//		System.out.println(coinBox.pop().getValue() + "원");
+		//빼기(10 - 50 - 100 - 500)
+		System.out.println(coinBox.pop().getValue() + "원");
+		System.out.println(coinBox.pop().getValue() + "원");
 		
 		//빼기 범위를 초과하면 EmptyStackException 발생
-		while(!coinBox.isEmpty()) {
-			Coin coin = coinBox.pop();
-			System.out.println(coin.getValue() + "원");
-		}
+//		while(!coinBox.isEmpty()) {
+//			Coin coin = coinBox.pop(); //삭제
+//			System.out.println(coin.getValue() + "원");
+//		}
 		
 	}
 
