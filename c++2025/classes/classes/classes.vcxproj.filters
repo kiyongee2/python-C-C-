@@ -39,9 +39,6 @@
     <ClCompile Include="informatinHiding.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="structPoint.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="classBirthday.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -52,9 +49,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="transport.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="transport2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

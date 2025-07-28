@@ -4,26 +4,31 @@
 ////객체 간 참조
 ////Bus 클래스 정의
 //class Bus {
-//private: 
+//private:
 //	int busNumber;  //버스 번호
 //	int passenger;  //승객수
 //	int money;      //수입
+//	const int fee;  //버스 요금(상수화)
 //public:
 //	//생성자 - 초기화 목록
-//	Bus(int busNumber) : passenger(0), money(0), busNumber(busNumber) {}
+//	Bus(int busNumber, int fee = 1500) : busNumber(busNumber), 
+//				passenger(0), money(0), fee(fee){}
 //
-//	void take(int money); //승객을 태우다
-//	void displayInfo();   //버스의 정보 출력
+//	void take();        //승객을 태우다
+//	int getFee();       //요금 가져오기
+//	void displayInfo(); //버스의 정보 출력
 //};
 //
-//void Bus::take(int money) {
-//	this->money += money;  //수익 증가
-//	passenger++;           //승객수 1 증가
+//void Bus::take() {
+//	money += fee;  //수익 증가
+//	passenger++;   //승객수 1 증가
 //}
 //
+//int Bus::getFee() { return fee; }
+//
 //void Bus::displayInfo() {
-//	cout << busNumber << "번 버스의 수입은 " << money <<
-//		"원 이고, 승객수는 " << passenger << "명 입니다.\n";
+//	cout << busNumber << "번 버스: 수입 " << money <<
+//		      "원, 승객 " << passenger << "명\n";
 //}
 //
 ////Person 클래스 정의
@@ -33,34 +38,47 @@
 //	int money;    //가진 돈
 //
 //public:
-//	Person(string name, int money) : name(name), money(money){}
+//	Person(string name, int money) : name(name), money(money) {}
 //
-//	void takeBus(Bus& bus, int fee);  //버스를 탄다
-//	void displayInfo();               //사람의 정보 출력
+//	void takeBus(Bus& bus);  //버스를 탄다
+//	void displayInfo();      //사람의 정보 출력
 //};
 //
-//void Person::takeBus(Bus& bus, int fee) { //버스 객체 참조자 사용
-//	bus.take(fee);      //버스에 요금 지불
-//	this->money -= fee; //money에서 요금 뺀다.
+//void Person::takeBus(Bus& bus) { //버스 객체 참조자 사용
+//	if (money >= bus.getFee()) {
+//		bus.take();
+//		money -= bus.getFee(); //money에서 요금 뺀다.
+//	}
+//	else { 
+//		cout << "잔액 부족!\n";
+//	}
 //}
 //
 //void Person::displayInfo() {
-//	cout << name << "님의 남은 돈은 " << money << "원 입니다.\n";
+//	cout << name << ": 잔액 " << money << "원\n";
 //}
 //
 //int main()
 //{
 //	Person lee("이정후", 10000); //사람 인스턴스 생성
-//	Person shin("신유빈", 20000);
-//	Bus bus740(740);            //버스 인스턴스 생성
-//	int feeOfBus = 1500;        //버스 요금  
+//	Person shin("신유빈", 2000);
+//	Bus bus740(740, 1500);      //버스 인스턴스 생성 
 //
-//	lee.takeBus(bus740, feeOfBus); //버스 탑승
-//	shin.takeBus(bus740, feeOfBus);
+//	/*lee.takeBus(bus740); //버스 탑승
+//	shin.takeBus(bus740);
+//	shin.takeBus(bus740);
 //
 //	lee.displayInfo();    //사람의 정보 출력
 //	shin.displayInfo();
-//	bus740.displayInfo(); //버스의 정보 출력
+//	bus740.displayInfo(); //버스의 정보 출력*/
+//
+//	//객체 배열로 관리
+//	Person p[2] = { lee, shin };
+//	for (int i = 0; i < size(p); i++) {
+//		p[i].takeBus(bus740);
+//		p[i].displayInfo();
+//	}
+//	bus740.displayInfo();
 //
 //	return 0;
 //}

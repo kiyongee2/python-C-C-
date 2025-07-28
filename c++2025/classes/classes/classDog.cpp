@@ -15,7 +15,7 @@
 //
 //	void bark() {cout << "¿Ð~ ¿Ð~\n";}
 //};
-//
+// 
 //int main()
 //{
 //	Dog dog1;
@@ -24,6 +24,13 @@
 //
 //	dog1.dogInfo();
 //	dog1.bark();
+//
+//	Dog dog2;
+//	dog2.type = "Áøµ¾°³";
+//	dog2.age = 3;
+//
+//	dog2.dogInfo();
+//	dog2.bark();
 //
 //	return 0;
 //}

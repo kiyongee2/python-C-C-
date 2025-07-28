@@ -129,9 +129,10 @@
   <ItemGroup>
     <ClCompile Include="array2D.cpp" />
     <ClCompile Include="calcScore.cpp" />
+    <ClCompile Include="calcScore2.cpp" />
     <ClCompile Include="coupon.cpp" />
     <ClCompile Include="defaultParm.cpp" />
-    <ClCompile Include="dynamicAllocation.cpp" />
+    <ClCompile Include="newDelete1.cpp" />
     <ClCompile Include="findMin.cpp" />
     <ClCompile Include="arrayCalc.cpp" />
     <ClCompile Include="inlineFunction.cpp" />

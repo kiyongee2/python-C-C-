@@ -137,10 +137,8 @@
     <ClCompile Include="informatinHiding.cpp" />
     <ClCompile Include="memberService.cpp" />
     <ClCompile Include="pointCircle.cpp" />
-    <ClCompile Include="structPoint.cpp" />
     <ClCompile Include="structStudent.cpp" />
     <ClCompile Include="transport.cpp" />
-    <ClCompile Include="transport2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

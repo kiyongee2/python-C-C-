@@ -20,7 +20,7 @@
 //int main()
 //{
 //	Birthday bDay;
-//	bDay.setYear(2505);
+//	bDay.setYear(2025);
 //
 //	cout << &bDay << endl;
 //

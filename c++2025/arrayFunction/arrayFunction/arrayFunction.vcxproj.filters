@@ -45,7 +45,7 @@
     <ClCompile Include="calcScore.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="dynamicAllocation.cpp">
+    <ClCompile Include="newDelete1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="defaultParm.cpp">
@@ -70,6 +70,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="newDelete2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calcScore2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

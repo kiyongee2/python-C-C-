@@ -135,6 +135,8 @@
     <ClCompile Include="staticCard.cpp" />
     <ClCompile Include="staticCardArray.cpp" />
     <ClCompile Include="enumValue.cpp" />
+    <ClCompile Include="structPoint.cpp" />
+    <ClCompile Include="structStudent.cpp" />
     <ClCompile Include="vectorString.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

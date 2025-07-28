@@ -42,5 +42,11 @@
     <ClCompile Include="classBankAccount.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="structPoint.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structStudent.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
