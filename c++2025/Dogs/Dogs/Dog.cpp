@@ -1,3 +1,4 @@
+#include <iostream>
 #include "Dog.h"
 
 Dog::Dog(string _type, int _age) {

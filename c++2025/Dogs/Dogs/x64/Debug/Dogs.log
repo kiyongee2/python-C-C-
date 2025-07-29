@@ -1,4 +1,5 @@
 ﻿  Dog.cpp
-  Main.cpp
-  코드를 생성하고 있습니다...
-  Dogs.vcxproj -> D:\korea_IT\c++2025\Dogs\x64\Debug\Dogs.exe
+D:\korea_IT\c++2025\Dogs\Dogs\Dog.cpp(9,7): error C2084: 'Dog::~Dog(void)' 함수에 이미 본문이 있습니다.
+      D:\korea_IT\c++2025\Dogs\Dogs\Dog.h(15,3):
+      'Dog::~Dog'의 이전 정의를 참조하십시오.
+  

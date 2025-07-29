@@ -26,9 +26,7 @@
 //	age = a;
 //}
 //
-//Dog::~Dog() {
-//	cout << "소멸자 입니다.\n";
-//}
+//Dog::~Dog() {}
 //
 //void Dog::dogInfo() {
 //	cout << "강아지 종류: " << type << endl;

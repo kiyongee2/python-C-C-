@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Car.cpp" />
+    <ClCompile Include="CarMain.cpp" />
     <ClCompile Include="classBankAccount.cpp" />
     <ClCompile Include="classBirthday.cpp" />
     <ClCompile Include="classCar.cpp" />
@@ -134,11 +136,23 @@
     <ClCompile Include="classDog.cpp" />
     <ClCompile Include="classDog2.cpp" />
     <ClCompile Include="classDog3.cpp" />
+    <ClCompile Include="Dog.cpp" />
+    <ClCompile Include="DogMain.cpp" />
     <ClCompile Include="informatinHiding.cpp" />
     <ClCompile Include="memberService.cpp" />
+    <ClCompile Include="MyClass.cpp" />
+    <ClCompile Include="MyClassMain.cpp" />
     <ClCompile Include="pointCircle.cpp" />
+    <ClCompile Include="pointCircle2.cpp" />
     <ClCompile Include="structStudent.cpp" />
+    <ClCompile Include="subjectStudent.cpp" />
+    <ClCompile Include="subjectStudent2.cpp" />
     <ClCompile Include="transport.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Car.h" />
+    <ClInclude Include="Dog.h" />
+    <ClInclude Include="MyClass.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
