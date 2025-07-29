@@ -11,6 +11,9 @@ student_list = [
 print(student_list[0]) #0번 인덱스로 검색
 print(student_list[1])
 
+len = len(student_list) #요소의 개수
+print(len) #3
+
 print("======== 성 적 표 ========")
 print(" 이름  국어 영어 수학")
 for st in student_list:
@@ -37,9 +40,9 @@ for st in student_list:
 
 # 평균 계산
 for st in student_list:
-    avg_subj[0] = sum_subj[0] / len(student_list)
-    avg_subj[1] = sum_subj[1] / len(student_list)
-    avg_subj[2] = sum_subj[2] / len(student_list)
+    avg_subj[0] = sum_subj[0] / len
+    avg_subj[1] = sum_subj[1] / len
+    avg_subj[2] = sum_subj[2] / len
 
 print("=== 과목별 총점 ===")
 print(f"국어 총점: {sum_subj[0]}")
