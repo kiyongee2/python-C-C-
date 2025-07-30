@@ -1,5 +1,4 @@
 # 컴퓨터 용어 사전
-# try ~ except 구문을 사용 - 예외 처리
 print("♠ 컴퓨터 용어 사전 ♠")
 print()
 
@@ -12,6 +11,21 @@ dic = {
 }
 
 while True:
+    word = input("검색할 용어를 입력하세요(종료: q or Q): ")
+    
+    if word == 'q' or word == 'Q':
+        print("프로그램 종료!")
+        break
+    else:
+        if word in dic:
+            definition = dic[word] #키로 값을 검색
+            print(definition)
+        else:
+            print("정의된 단어가 없습니다.")
+        
+# try ~ except 구문을 사용 - 예외 처리
+'''
+while True:
     try:
         word = input("검색할 용어를 입력하세요(종료: q or Q): ")
         
@@ -23,5 +37,5 @@ while True:
             print(definition)
     except KeyError:
         print("정의된 단어가 없습니다.")
-
+'''
 

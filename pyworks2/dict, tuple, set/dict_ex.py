@@ -1,8 +1,22 @@
 # 딕셔너리 자료형 사용
 # 중괄호({}) 사용함
 # 딕셔너리 생성
+d = {1: 'a', 2: 'b', 3: 'c'}
+print(d) #{1: 'a', 2: 'b', 3: 'c'}
+print(type(d)) #<class 'dict'>
 
-person = {}  #빈 딕셔너리 생성
+print(d.keys()) #dict_keys([1, 2, 3])
+print(d.values()) #dict_values(['a', 'b', 'c'])
+
+print(d[1]) #a
+print(d[3]) #c
+
+# 수정
+d[2] = 'd'
+print(d) #{1: 'a', 2: 'd', 3: 'c'}
+
+#빈 딕셔너리 생성
+person = {} 
 print(person) #{}
 
 # 요소 추가 - 키:값의 형태
