@@ -66,35 +66,6 @@ public class BankAccount {
 		}
 	}
 	
-	//입금
-	public void deposit(int amount) {
-		if(amount < 0) {
-			System.out.println("유효한 금액을 입력하세요.");
-		}
-		else {
-			this.balance += amount;
-			System.out.println(amount + "원이 입금되었습니다. 현재 잔액: " +
-			          this.balance + "원");
-			
-			addTransaction(TransactionType.입금, amount); //거래 추가
-		}
-	}
-	
-	//출금
-	public void withdraw(int amount) {
-		if(amount <= 0) {
-			System.out.println("유효한 금액을 입력하세요.");
-		}else if(amount > balance) {
-			System.out.println("잔액이 부족합니다.");
-		}else {
-			this.balance -= amount;
-			System.out.println(amount + "원이 출금되었습니다. 현재 잔액: " +
-			          this.balance + "원");
-			
-			addTransaction(TransactionType.출금, amount);
-		}
-	}
-	
 	//계좌 정보
 	public void displayInfo() {
 		System.out.println("계좌 정보");

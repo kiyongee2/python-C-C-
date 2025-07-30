@@ -27,6 +27,7 @@ public class StudentStreamTest {
 		stream = list.stream();
 		stream.map(std->std.getName())
 			  .forEach(s-> System.out.println(s));
+		System.out.println();
 		
 		//점수만 출력
 		stream = list.stream();
