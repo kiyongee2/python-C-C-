@@ -1,0 +1,19 @@
+#ifndef BUS_H
+#define BUS_H
+
+class Bus {
+private:
+	int busNumber;  //버스 번호
+	int passenger;  //승객수
+	int money;      //수입
+	const int FEE;  //버스 요금(상수화)
+public:
+	//기본 매개변수는 선언부에서만 작성함
+	Bus(int busNumber, int FEE = 1500);
+
+	void take();   //승객 태우기
+	int getFEE();  //요금 가져오기
+	void displayInfo(); //버스의 정보 출력
+};
+#endif 
+

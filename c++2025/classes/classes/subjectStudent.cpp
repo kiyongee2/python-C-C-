@@ -33,8 +33,6 @@
 //	Student(int studentId, string studentName) {
 //		this->studentId = studentId;
 //		this->studentName = studentName;
-//		korean = Subject();
-//		math = Subject();
 //	}
 //
 //	//국어 점수 설정
