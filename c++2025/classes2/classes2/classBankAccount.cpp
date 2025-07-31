@@ -27,13 +27,13 @@
 //		accountNumber(accountNumber), owner(owner), balance(balance) {
 //	}
 //
-//	void deposit(int amount);  //입금하다
-//	void withdraw(int amount); //출금하다
+//	void deposit(int amount);  //입금
+//	void withdraw(int amount); //출금
 //	void displayInfo();        //계좌 정보 출력
 //	void getTransactionHistory(); //거래 내역 조회
 //
 //private:
-//	//트랜잭션 추가하다.
+//	//트랜잭션 추가
 //	void addTranscation(TransactionType type, int amount); 
 //};
 //
@@ -71,6 +71,7 @@
 //	Transaction trans; //거래 1건 생성
 //	trans.type = type;
 //	trans.amount = amount;
+//
 //	//벡터에 거래 1건씩 저장
 //	transaction.push_back(trans);
 //}
@@ -84,8 +85,8 @@
 //	}
 //
 //	for (Transaction trans : transaction) { //자료형 변수 : 객체 이름
-//		cout << " | " << (trans.type == TransactionType::입금 ? "입금" : "출금");
-//		cout << " | " << trans.amount << "원\n";
+//		cout << " |" << (trans.type == TransactionType::입금 ? "입금" : "출금");
+//		cout << "| " << trans.amount << "원\n";
 //
 //	}
 //}
@@ -136,8 +137,8 @@
 //	accounts[1].deposit(10000);
 //
 //	//출금
-//	//accounts[1].withdraw(50000);
 //	accounts[1].withdraw(20000);
+//	accounts[1].withdraw(50000);
 //
 //
 //	//계좌 정보

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\headerClasses\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\transportMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|solutionrelative:headerClasses\\transportMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Students.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|solutionrelative:headerClasses\\Students.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|solutionrelative:headerClasses\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\StudentsMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|solutionrelative:headerClasses\\StudentsMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Students.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|solutionrelative:headerClasses\\Students.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|solutionrelative:headerClasses\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|solutionrelative:headerClasses\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Bus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|solutionrelative:headerClasses\\Bus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5050FE51-E807-4F9B-A04B-054125958763}|headerClasses\\headerClasses.vcxproj|D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Bus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -29,57 +33,70 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 312,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 354,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "transportMain.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\transportMain.cpp",
-              "RelativeDocumentMoniker": "headerClasses\\transportMain.cpp",
-              "ToolTip": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\transportMain.cpp",
-              "RelativeToolTip": "headerClasses\\transportMain.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "StudentsMain.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\StudentsMain.cpp",
+              "RelativeDocumentMoniker": "headerClasses\\StudentsMain.cpp",
+              "ToolTip": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\StudentsMain.cpp",
+              "RelativeToolTip": "headerClasses\\StudentsMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-29T22:23:50.395Z",
+              "WhenOpened": "2025-07-30T21:59:20.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Person.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Person.cpp",
-              "RelativeDocumentMoniker": "headerClasses\\Person.cpp",
-              "ToolTip": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Person.cpp*",
-              "RelativeToolTip": "headerClasses\\Person.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Students.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Students.cpp",
+              "RelativeDocumentMoniker": "headerClasses\\Students.cpp",
+              "ToolTip": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Students.cpp",
+              "RelativeToolTip": "headerClasses\\Students.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-29T22:17:09.437Z",
+              "WhenOpened": "2025-07-30T21:53:36.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Bus.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Bus.cpp",
-              "RelativeDocumentMoniker": "headerClasses\\Bus.cpp",
-              "ToolTip": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Bus.cpp*",
-              "RelativeToolTip": "headerClasses\\Bus.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "Student.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Student.cpp",
+              "RelativeDocumentMoniker": "headerClasses\\Student.cpp",
+              "ToolTip": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Student.cpp",
+              "RelativeToolTip": "headerClasses\\Student.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-29T22:06:56.101Z",
+              "WhenOpened": "2025-07-30T21:22:09.104Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 88,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 46,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Students.h",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Students.h",
+              "RelativeDocumentMoniker": "headerClasses\\Students.h",
+              "ToolTip": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Students.h",
+              "RelativeToolTip": "headerClasses\\Students.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T21:52:16.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Bus.h",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Bus.h",
               "RelativeDocumentMoniker": "headerClasses\\Bus.h",
@@ -87,21 +104,19 @@
               "RelativeToolTip": "headerClasses\\Bus.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-29T22:07:13.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T22:07:13.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Person.h",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Person.h",
               "RelativeDocumentMoniker": "headerClasses\\Person.h",
-              "ToolTip": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Person.h*",
-              "RelativeToolTip": "headerClasses\\Person.h*",
+              "ToolTip": "D:\\korea_IT\\c2025\\headerClasses\\headerClasses\\Person.h",
+              "RelativeToolTip": "headerClasses\\Person.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-29T22:14:00.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T22:14:00.077Z"
             }
           ]
         }

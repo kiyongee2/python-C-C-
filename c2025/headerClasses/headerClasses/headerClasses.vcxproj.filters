@@ -27,13 +27,13 @@
     <ClInclude Include="Student.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Studetn2.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
     <ClInclude Include="Bus.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Person.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Students.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
@@ -66,6 +66,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="transportMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Students.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentsMain.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

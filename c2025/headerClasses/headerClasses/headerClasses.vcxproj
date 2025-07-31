@@ -132,7 +132,7 @@
     <ClInclude Include="Person.h" />
     <ClInclude Include="Point.h" />
     <ClInclude Include="Student.h" />
-    <ClInclude Include="Studetn2.h" />
+    <ClInclude Include="Students.h" />
     <ClInclude Include="Subject.h" />
   </ItemGroup>
   <ItemGroup>
@@ -143,6 +143,8 @@
     <ClCompile Include="Point.cpp" />
     <ClCompile Include="Student.cpp" />
     <ClCompile Include="StudentMain.cpp" />
+    <ClCompile Include="Students.cpp" />
+    <ClCompile Include="StudentsMain.cpp" />
     <ClCompile Include="studentTest.cpp" />
     <ClCompile Include="Subject.cpp" />
     <ClCompile Include="transportMain.cpp" />
