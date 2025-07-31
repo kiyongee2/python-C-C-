@@ -1,5 +1,13 @@
 # 기본 매개변수(디폴트 매개변수)
-# 함수 호출시 매개변수를 생략하면 기본값으로 실행(count=1)
+# 함수 호출시 매개변수를 생략하면 기본값으로 실행됨
+def take(bus_number, fee = 1500):
+    print(f"{bus_number}번 버스 요금: {fee}원")
+
+# take() 호출
+take(101)  
+take(500, 1500)
+take(600, 1800)
+
 def print_string(text, count=1):
     for i in range(count):
         print(text)
@@ -15,7 +23,7 @@ print_string("banana")
 def calc_avg(*number):
     total = 0 #합계
     for i in number: #number(iterable-리스트, 튜플)
-        total += i; #total = total + i
+        total += i;  #total = total + i
     avg = total / len(number) # 평균 = 합계 / 개수
     return avg  
 
@@ -23,24 +31,6 @@ print(calc_avg(1, 2)) #1.5
 
 average = calc_avg(1, 2, 3, 4)
 print(average) #2.5
-
-# 두 수를 더하는 함수 정의
-'''
-def add(x, y):  #x=10, y=20
-    return x + y #더한 값을 반환
-
-# 제곱수 계산 함수
-def square(n):
-    return n * n
-
-# add(매개변수) 호출
-val = add(10, 20)
-print("더하기:", val)
-
-# square() 호출
-val2 = square(4)
-print(f"제곱수: {val2}")
-'''
 
 # 실습 문제
 def my_func(x, y):

@@ -10,7 +10,12 @@ def say_hello():
 
 def say_hello2(name): #매개변수로 name을 전달
     print(name + "님 안녕하세요~")
-
+    
+def get_gugu(dan):
+    for i in range(1, 10):
+        # print(dan, 'x', i, '=', (dan * i))
+        print(f"{dan} x {i} = {dan*i}")
+        
 """
 # 함수 호출
 say_hello()
@@ -18,8 +23,9 @@ say_hello()
 say_hello2("민준")
 say_hello2("유빈")
 
-# main() 함수 영역
-# print("안녕하세요~")
+# 구구단 호출
+get_gugu(6)
+
 """
 
 # return이 있는 함수
@@ -35,19 +41,17 @@ def my_abs(n):
         return -n
     else:
         return n
-    
-def get_gugu(dan):
-    for i in range(1, 10):
-        # print(dan, 'x', i, '=', (dan * i))
-        print(f"{dan} x {i} = {dan*i}")
-    
+
+def message():
+    return "Good Luck!"
+
+msg = print(message())
+print(msg)
+      
 # 함수 호출시 매개변수로 숫자를 입력
 val1 = square(8) 
 
 val2 = my_abs(-5)
-
-# 구구단 호출
-get_gugu(6)
 
 print("val1 =", val1)
 print("val2 =", val2)

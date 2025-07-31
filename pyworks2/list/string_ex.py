@@ -45,26 +45,24 @@ print('g' not in animal) #False
 animals = "dog cat horse"
 print('cat' in animals) #True
 print('cow' in animals) #False
-
+"""
 #챗봇(chatbot) 프로그램
+# 단어가 포함되어 있으면 문장을 완성해주는 프로그램
 while True:
     user_input = input("사용자(exit 입력시 종료): ")
 
     if user_input == "exit":
-        print("챗봇: 대화를 종료합니다. 안녕히 가세요!")
+        print("챗봇: 대화를 종료합니다. 안녕히 가세요.")
         break
-    elif "안녕" in user_input:
-        print("챗봇: 안녕하세요! 반가와요!")
-
-    elif "이름" in user_input:
-        print("챗봇: 저는 Python 챗봇입니다.")
-
-    elif "날씨" in user_input:
-        print("챗봇: 날씨앱이나 검색 기능을 이용하세요.")
-        
     else:
-        print("챗봇: 죄송해요. 잘 이해하지 못했어요.")
-"""
+        if "안녕" in user_input:
+            print("챗봇: 안녕하세요! 방가와요!")
+        elif "이름" in user_input:
+            print("챗봇: 저는 Python 챗봇입니다.")
+        elif "날씨" in user_input:
+            print("챗봇: 날씨앱을 이용해 주세요")
+        else:
+            print("챗봇: 죄송해요. 잘 이해하지 못했어요")
 
 # 문자열 함수(메서드)
 fruit = "banana,grape,kiwi"
