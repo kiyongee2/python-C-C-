@@ -135,10 +135,12 @@
   <ItemGroup>
     <ClCompile Include="BankAccount.cpp" />
     <ClCompile Include="BankMain.cpp" />
+    <ClCompile Include="BankMain2.cpp" />
     <ClCompile Include="Car.cpp" />
     <ClCompile Include="Card.cpp" />
-    <ClCompile Include="cardMain.cpp" />
+    <ClCompile Include="CardMain.cpp" />
     <ClCompile Include="CarMain.cpp" />
+    <ClCompile Include="CarMain2.cpp" />
     <ClCompile Include="MyMath.cpp" />
     <ClCompile Include="Student.cpp" />
     <ClCompile Include="StudentMain.cpp" />

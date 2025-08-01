@@ -32,7 +32,7 @@
     <ClCompile Include="Card.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="cardMain.cpp">
+    <ClCompile Include="CardMain.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="MyMath.cpp">
@@ -54,6 +54,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="BankMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CarMain2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BankMain2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

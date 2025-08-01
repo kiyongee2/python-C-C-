@@ -13,7 +13,9 @@
 //	vec.push_back("han");
 //	vec.push_back("elsa");
 //
-//	name = vec.at(0);
+//	cout << vec.size() << endl;
+//
+//	name = vec.at(0);  //최대값 설정
 //	for (int i = 0; i < vec.size(); i++) {
 //		//cout << vec[i] << endl;
 //		if (vec[i] > name)

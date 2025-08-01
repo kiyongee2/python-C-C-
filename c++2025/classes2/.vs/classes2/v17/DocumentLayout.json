@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\vetcotInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\vetcotInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\vectorString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\vectorString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\enumValue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\enumValue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\structPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\structPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\classBankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\classBankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\enumValue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{94396580-D09D-4740-B8B9-C78D34C315AD}|classes2\\classes2.vcxproj|solutionrelative:classes2\\enumValue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,23 +34,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "vetcotInt.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\vetcotInt.cpp",
+              "RelativeDocumentMoniker": "classes2\\vetcotInt.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\vetcotInt.cpp",
+              "RelativeToolTip": "classes2\\vetcotInt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T21:56:27.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vectorString.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\vectorString.cpp",
+              "RelativeDocumentMoniker": "classes2\\vectorString.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\vectorString.cpp",
+              "RelativeToolTip": "classes2\\vectorString.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T21:53:59.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "enumValue.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\enumValue.cpp",
               "RelativeDocumentMoniker": "classes2\\enumValue.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\enumValue.cpp",
               "RelativeToolTip": "classes2\\enumValue.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAcwCwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-30T23:24:01.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "classBankAccount.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\classBankAccount.cpp",
               "RelativeDocumentMoniker": "classes2\\classBankAccount.cpp",
@@ -50,12 +83,11 @@
               "RelativeToolTip": "classes2\\classBankAccount.cpp",
               "ViewState": "AgIAAIIAAAAAAAAAAAAqwJgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-30T23:23:57.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T23:23:57.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "structStudent.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\structStudent.cpp",
               "RelativeDocumentMoniker": "classes2\\structStudent.cpp",
@@ -63,21 +95,19 @@
               "RelativeToolTip": "classes2\\structStudent.cpp",
               "ViewState": "AgIAABAAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-28T00:05:11.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T00:05:11.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "structPoint.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\structPoint.cpp",
               "RelativeDocumentMoniker": "classes2\\structPoint.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes2\\classes2\\structPoint.cpp",
               "RelativeToolTip": "classes2\\structPoint.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-28T00:01:25.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T00:01:25.592Z"
             }
           ]
         }

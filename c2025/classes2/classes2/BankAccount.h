@@ -5,37 +5,35 @@
 #include <vector>
 using namespace std;
 
-// 거래 유형 열거형
-enum TransactionType {
+enum TransactionType { // 거래 유형 - 열거형
     입금,
     출금
 };
 
-// 거래 구조체
-struct Transaction {
-    TransactionType type;
-    int amount;
+struct Transaction { // 거래 구조체
+    TransactionType type; //거래 유형
+    int amount;           //거래 금액
+
+    Transaction(TransactionType type, int amount);
 };
 
-// 은행 계좌 클래스
-class BankAccount {
+class BankAccount { // 은행 계좌 클래스
 private:
-    int accountNumber;
-    string owner;
-    int balance;
-    vector<Transaction> transactions;
+    int accountNumber;  //계좌 번호
+    string owner;       //예금주
+    int balance;        //잔고
+    vector<Transaction> transactions; //거래
 
 public:
-    BankAccount(int accountNumber, string owner, int balance);
+    //생성자 - 목록
+    BankAccount(int accountNumber, string owner, int balance = 0);
 
-    void deposit(int amount);               // 입금
-    void withdraw(int amount);             // 출금
-    void displayInfo();                    // 계좌 정보 출력
-    void getTransactionHistory();          // 거래 내역 출력
-
+    void deposit(int amount);         // 입금
+    void withdraw(int amount);        // 출금
+    void displayInfo();               // 계좌 정보 출력
+    void getTransactionHistory();     // 거래 내역 출력
 private:
-    void addTranscation(TransactionType type, int amount); // 거래 저장
+    void addTransaction(TransactionType type, int amount); // 거래 추가
 };
-
 #endif
 

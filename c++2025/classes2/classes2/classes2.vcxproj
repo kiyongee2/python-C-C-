@@ -138,6 +138,7 @@
     <ClCompile Include="structPoint.cpp" />
     <ClCompile Include="structStudent.cpp" />
     <ClCompile Include="vectorString.cpp" />
+    <ClCompile Include="vetcotInt.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
