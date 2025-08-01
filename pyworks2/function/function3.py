@@ -45,3 +45,23 @@ print("result1 =", result1) #16
 
 result2 = my_func(8, 9)
 print("result2 =", result2) #-1
+
+# 구조 할당
+a, b = 10, 20   #변수  
+print("a=", a)
+print("b=", b)
+
+x, y = (10, 20) #튜플
+print("x=", x)
+print("y=", y)
+
+
+def add_and_mul(a, b):
+    return a+b, a*b
+
+result = add_and_mul(10, 3)
+print(result) #(13, 30)
+
+add, mul = result
+print(add)
+print(mul)

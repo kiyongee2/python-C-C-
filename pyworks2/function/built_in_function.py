@@ -11,16 +11,13 @@ print(min(a))  #1
 # 반올림
 print(round(2.74))  #3
 print(round(2.14))  #2
-# 소수 자리수
-x = 702.351
-print(round(x, 2)) # 702.35
-print(round(x, 1)) # 702.4
-print(round(x)) # 정수 702
 
-# 내림(floor()), 올림(ceil()) 
-import math  # 수학 모듈을 가져옴
-print(math.ceil(2.15))  #3
-print(math.floor(2.74)) #2
+# 소수 자리수
+x = 706.351
+print(round(x, 1)) # 소수첫째자리, 706.4
+print(round(x, 0)) # 706.0
+print(round(x)) # 정수 706
+print(int(round(x, -1))) # 일의 자리 710
 
 # 문자열 표현식을 숫자로 변환
 print('1 + 2') #1 + 2
@@ -28,6 +25,11 @@ print(eval('1 + 2'))  #3
 
 # 문자열을 리스트로 변환
 print(list('korea'))
+
+# 내림(floor()), 올림(ceil()) 
+import math  # 수학 모듈을 가져옴
+print(math.ceil(2.15))  #3
+print(math.floor(2.74)) #2
 
 # 절대값 함수 정의
 def my_abs(x):

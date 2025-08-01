@@ -2,18 +2,20 @@
 import random
 
 """
-# 0.0 <= random.random() < 1
-# print(random.random())
+0.0 <= random.random() < 1
+print(random.random())
 
-# random.randint(a, b) : a부터 b까지 정수 범위
-# print(random.randint(1, 10))  # 1 ~ 10중 무작위수(난수) 발생
+# random.randint(a, b) : a ~b 까지 정수 범위
+
+# 1 ~ 10중 무작위수(난수) 발생
+print(random.randint(1, 10))  
 
 # 주사위 눈
 dice = random.randint(1, 6) # 1 ~ 6
 # print(dice)
 
 # 주사위 10번 던지기
-for i in range(10): #range(0, 10)
+for i in range(10): 
     dice = random.randint(1, 6)
     print(dice)
 
@@ -24,19 +26,24 @@ if(coin == 1):
     print("앞면")
 else:
     print("뒷면")
+    
+# 리스트에서 무작위 추출 - random.choice(리스트)
+fruits =["딸기", "참외", "수박", "바나나"]
+fruit = random.choice(fruits)
+print(fruit)
 """
 
-'''
 # 숫자 추측 게임
-com = random.randint(1, 30)
+"""
+com = random.randint(1, 30) #컴퓨터 난수
 # print(com)
 
 while True:
-    x = input("맞혀보세요(입력: 1 ~ 30)")
-    guess = int(x)  #입력받은 문자를 숫자형으로 변환
+    x = input("맞혀보세요(입력: 1 ~ 30): ")
+    guess = int(x)  # 유저가 추측한 수 
     #print(guess + 10)
 
-    if guess < 0 or guess > 30:
+    if guess < 1 or guess > 30:
         print("범위를 초과했어요. 다시 입력하세요")
     elif guess == com:
         print("정답!")
@@ -47,41 +54,34 @@ while True:
         print("너무 작아요")
 
 print("게임을 종료합니다.")
-'''
+"""
 
 # 로또 복권 추첨 - 45개의 숫자중에 6개 추출
 lotto = []  # 당첨 번호를 저장할 리스트 생성
-
-"""
+'''
 for i in range(6):
     num = random.randint(1, 45) #당첨 번호
     if num not in lotto:  # 리스트에 추첨되지 않은 번호
         lotto.append(num) # 번호 추가
+print(lotto)
 # for문은 중복이 발생해도 카운트가 되므로 4, 5개가 될 수 있음
 # [10, 30, 22, 12, 42] 만약 2번 인덱스에서 10이 중복되면 삭제됨
-
+'''
 
 # 반드시 6개 저장하고 반복 종료
+lotto = [] 
 while len(lotto) < 6:
-    num = random.randint(1, 45) #당첨 번호
-    if num not in lotto:  # 리스트에 추첨되지 않은 번호
+    num = random.randint(1, 45) 
+    if num not in lotto:  
         lotto.append(num)
-# len(lotto) - 리스트의 개수 0 ~ 5번까지(6개까지) true
-# [10, 30, 3, 22, 12, 42] 만약 2번 인덱스에서 10이 중복되면 삭제되고 또 추첨
+print(lotto) #[40, 15, 25, 28, 18, 22]
+print(sorted(lotto)) #[15, 18, 22, 25, 28, 40]
 
-print(lotto)
-"""
-
-'''
-# 리스트에서 요소를 무작위로 추출
-# random.choice
-
-carts = ["라면", "계란", "우유", "콩나물"]
-
-print(random.choice(carts))
-'''
+# [40, 15, 25, 28, 18, 22] 
+# 만약 2번 인덱스에서 10이 중복되면 삭제되고 또 추첨
 
 # 영어 타자 게임
+"""
 import random
 import time
 
@@ -106,6 +106,7 @@ while n < 11:
         n += 1 #n = n + 1 #다음 문제 증가
     else:
         print("오타! 다시 도전!")
+
 '''
     n=1, 1번 출제
     n=10, 10번 문제 출제되고
@@ -114,9 +115,11 @@ while n < 11:
 end = time.time()  #종료 시각
 et = end - start   #게임 소요 시각
 print(f"게임 소요 시간: {et:.2f}초")
-
 """
+
+
 # 인덱싱과 슬라이싱
+"""
 print(word[0]) #sky
 print(word[4]) #flower
 print(word[-1]) #potato

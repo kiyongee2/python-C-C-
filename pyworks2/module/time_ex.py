@@ -15,10 +15,11 @@ print(round(time.time() / (365*24*60*60)))  # 55년
 # 수행시간 측정
 start = time.time() # 시작 시간
 
-n = 10
+n = 100
 for i in range(1, n + 1):
     print(i)
-    time.sleep(0.5)  # 0.5초 간격으로 대기
+    time.sleep(0.1)  # 0.5초 간격으로 대기
 
 end = time.time()  # 종료 시간
-print(f"수행시간: {(end - start):.3f}")
+print(f"수행시간: {(end - start):.3f}초")
+
