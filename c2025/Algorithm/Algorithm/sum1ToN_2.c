@@ -19,16 +19,16 @@
 //int main()
 //{
 //	//합계 1
-//	int total1;
-//	total1 = sumN(10);
+//	int result1;
+//	result1 = sumN(10);
 //
-//	printf("합계: %d\n", total1);
+//	printf("합계: %d\n", result1);
 //
 //	//합계 2
-//	int total2;
-//	total2 = sumN2(10);
+//	int result2;
+//	result2 = sumN2(10);
 //
-//	printf("합계: %d\n", total2);
+//	printf("합계: %d\n", result2);
 //
 //	return 0;
 //}

@@ -1,4 +1,5 @@
-﻿  doublePointerEx1.c
-  doublePointerEx2.c
+﻿  calcScore.c
+  calcScore2.c
+D:\korea_IT\c2025\MemoryAllocation\MemoryAllocation\calcScore2.c(24,3): warning C4098: 'getStudentNum': 'void' 함수에서 값을 반환하고 있습니다.
   코드를 생성하고 있습니다...
   MemoryAllocation.vcxproj -> D:\korea_IT\c2025\MemoryAllocation\x64\Debug\MemoryAllocation.exe

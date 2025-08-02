@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\MemoryAllocation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\doublePointerEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\doublePointerEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\doublePointerEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\doublePointerEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\calcScore2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\calcScore2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\calcScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\calcScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\doublePointerEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\doublePointerEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\doublePointerEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\doublePointerEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DB3FEF3-F937-49E2-977F-217629842BF9}|MemoryAllocation\\MemoryAllocation.vcxproj|D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\calcArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "doublePointerEx2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\doublePointerEx2.c",
               "RelativeDocumentMoniker": "MemoryAllocation\\doublePointerEx2.c",
@@ -51,39 +51,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "doublePointerEx1.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\doublePointerEx1.c",
               "RelativeDocumentMoniker": "MemoryAllocation\\doublePointerEx1.c",
               "ToolTip": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\doublePointerEx1.c",
               "RelativeToolTip": "MemoryAllocation\\doublePointerEx1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-27T00:15:53.211Z"
+              "WhenOpened": "2025-07-27T00:15:53.211Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "calcScore2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\calcScore2.c",
               "RelativeDocumentMoniker": "MemoryAllocation\\calcScore2.c",
               "ToolTip": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\calcScore2.c",
               "RelativeToolTip": "MemoryAllocation\\calcScore2.c",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAuwGMAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-26T22:44:26.917Z"
+              "WhenOpened": "2025-07-26T22:44:26.917Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "calcScore.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\calcScore.c",
               "RelativeDocumentMoniker": "MemoryAllocation\\calcScore.c",
               "ToolTip": "D:\\korea_IT\\c2025\\MemoryAllocation\\MemoryAllocation\\calcScore.c",
               "RelativeToolTip": "MemoryAllocation\\calcScore.c",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-26T22:29:16.368Z"
+              "WhenOpened": "2025-07-26T22:29:16.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\queueStr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\queueStr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stringReverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\stringReverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stringConcat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\stringConcat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayMakeBar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\arrayMakeBar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayMakeBar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\arrayMakeBar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayCalcAvg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\arrayCalcAvg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "queueStr.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\queueStr.c",
-              "RelativeDocumentMoniker": "Algorithm\\queueStr.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\queueStr.c",
-              "RelativeToolTip": "Algorithm\\queueStr.c",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwDwAAAAAAAAAAAAAAA==",
+              "Title": "stringReverse.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stringReverse.c",
+              "RelativeDocumentMoniker": "Algorithm\\stringReverse.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stringReverse.c*",
+              "RelativeToolTip": "Algorithm\\stringReverse.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-26T13:23:26.646Z",
+              "WhenOpened": "2025-08-01T22:07:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stringConcat.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stringConcat.c",
+              "RelativeDocumentMoniker": "Algorithm\\stringConcat.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\stringConcat.c",
+              "RelativeToolTip": "Algorithm\\stringConcat.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-01T22:06:58.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arrayMakeBar2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayMakeBar2.c",
+              "RelativeDocumentMoniker": "Algorithm\\arrayMakeBar2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayMakeBar2.c",
+              "RelativeToolTip": "Algorithm\\arrayMakeBar2.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwEAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-01T21:33:12.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "arrayMakeBar.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayMakeBar.c",
+              "RelativeDocumentMoniker": "Algorithm\\arrayMakeBar.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayMakeBar.c",
+              "RelativeToolTip": "Algorithm\\arrayMakeBar.c",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-01T21:32:39.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "arrayCalcAvg.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayCalcAvg.c",
+              "RelativeDocumentMoniker": "Algorithm\\arrayCalcAvg.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayCalcAvg.c",
+              "RelativeToolTip": "Algorithm\\arrayCalcAvg.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-01T21:30:52.733Z",
               "EditorCaption": ""
             }
           ]

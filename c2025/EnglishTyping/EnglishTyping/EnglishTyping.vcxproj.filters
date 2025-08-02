@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gameMain.c">
+    <ClCompile Include="fileGame.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayGame.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

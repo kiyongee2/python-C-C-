@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\StructEx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B83.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B83.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\structStudent.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\structStudent.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\typedefStruct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\typedefStruct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\structStudent.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\structStudent.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|D:\\korea_IT\\c2025\\StructEx\\StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B83.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F44742BF-4B36-4589-93E2-41B9CB9679B0}|StructEx\\StructEx.vcxproj|solutionrelative:StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B83.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +30,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "typedefStruct.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\typedefStruct.c",
+              "RelativeDocumentMoniker": "StructEx\\typedefStruct.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\typedefStruct.c",
+              "RelativeToolTip": "StructEx\\typedefStruct.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-01T11:45:59.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "structStudent.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\structStudent.c",
               "RelativeDocumentMoniker": "StructEx\\structStudent.c",
               "ToolTip": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\structStudent.c",
               "RelativeToolTip": "StructEx\\structStudent.c",
-              "ViewState": "AgIAACAAAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-06-02T20:44:09.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "\uC5F0\uACB0\uB9AC\uC2A4\uD2B83.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B83.c",
               "RelativeDocumentMoniker": "StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B83.c",
@@ -52,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\StructEx\\StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c",
               "RelativeDocumentMoniker": "StructEx\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c",

@@ -1,35 +1,36 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include <string.h>
+#include <string.h> //strcpy()
+#include <stdbool.h> //true/false 사용
 
 #define MAX_ACCOUNTS 100   //최대 계정수
 #define ANO_LEN 20         //계좌번호 크기
-#define OWNER_LEN 40       //계좌주 크기
+#define OWNER_LEN 30       //예금주 크기
 
 typedef struct {
 	char ano[ANO_LEN];     //계좌번호
-	char owner[OWNER_LEN]; //계좌주
+	char owner[OWNER_LEN]; //예금주
 	int balance;           //잔고
 }BankAccount;
 
-//전역 변수
+//전역 공간
 BankAccount accounts[MAX_ACCOUNTS]; //계좌 배열 생성
-int idxOfAccounts = 0; //배열의 인덱스
+int accountCount = 0; //현재 계좌 수
 
 //계좌 생성
 void createAccount() {
 	char accountNumber[ANO_LEN];  //입력(계좌번호)
 
-	if (idxOfAccounts >= MAX_ACCOUNTS) {
+	if (accountCount >= MAX_ACCOUNTS) {
 		printf("더 이상 계좌를 생성할 수 없습니다.\n");
 		return;
 	}
 
-	printf("계좌 번호(예: 000-000-0000): ");
+	printf("계좌 번호(예: xx-xx-xxxx): ");
 	scanf("%s", accountNumber);
 
 	//중복 검사
-	for (int i = 0; i < idxOfAccounts; i++) {
+	for (int i = 0; i < accountCount; i++) {
 		if (strcmp(accounts[i].ano, accountNumber) == 0) {
 			printf("이미 등록된 계좌입니다. 다시 입력하세요.\n");
 			return;
@@ -37,15 +38,15 @@ void createAccount() {
 	}
 
 	//중복 없을때 계좌 생성
-	strcpy(accounts[idxOfAccounts].ano, accountNumber); //계좌번호 복사
+	strcpy(accounts[accountCount].ano, accountNumber); //계좌번호 복사
 	printf("계좌주: ");
-	scanf("%s", accounts[idxOfAccounts].owner);
-	accounts[idxOfAccounts].balance = 0; //잔고
+	scanf("%s", accounts[accountCount].owner);
+	accounts[accountCount].balance = 0; //잔고
 
 	printf("결과: 계좌가 생성되었습니다. (계좌 번호: %s)\n",
-		accounts[idxOfAccounts].ano);
+		accounts[accountCount].ano);
 
-	idxOfAccounts++;  //다음 인덱스로 증가
+	accountCount++;  //다음 인덱스로 증가
 }
 
 //예금
@@ -53,10 +54,10 @@ void deposit() {
 	char accountNumber[ANO_LEN];  //외부 입력(계좌번호)
 	int amount;    //입금액
 
-	printf("입금할 계좌번호(예: 000-000-0000): ");
+	printf("입금할 계좌번호(예: xx-xx-xxxx): ");
 	scanf("%s", accountNumber);
 
-	for (int i = 0; i < idxOfAccounts; i++) {
+	for (int i = 0; i < accountCount; i++) {
 		//이미 등록된 계좌와 입력 계좌가 일치하면
 		if (strcmp(accounts[i].ano, accountNumber) == 0) { 
 			printf("입금액: ");
@@ -81,10 +82,10 @@ void withdraw() {
 	char accountNumber[ANO_LEN];  //외부 입력(계좌번호)
 	int amount;  //출금액
 
-	printf("출금할 계좌번호(예: 000-000-0000): ");
+	printf("출금할 계좌번호(예: xx-xx-xxxx): ");
 	scanf("%s", accountNumber);
 
-	for (int i = 0; i < idxOfAccounts; i++) {
+	for (int i = 0; i < accountCount; i++) {
 		if (strcmp(accounts[i].ano, accountNumber) == 0) {
 			printf("출금액: ");
 			scanf("%d", &amount);
@@ -108,13 +109,13 @@ void withdraw() {
 void displayAccounts() {
 	printf("********** 계     좌     목     록 **********\n");
 
-	if (idxOfAccounts == 0)
+	if (accountCount == 0)
 	{
 		printf("등록된 계좌가 없습니다.\n");
 		return;
 	}
 
-	for (int i = 0; i < idxOfAccounts; i++)
+	for (int i = 0; i < accountCount; i++)
 	{
 		printf("계좌 번호: %s, 계좌주: %s, 잔액: %d\n",
 			accounts[i].ano, accounts[i].owner, accounts[i].balance);
@@ -123,9 +124,10 @@ void displayAccounts() {
 
 int main()
 {
+	bool run = true;  //실행,종료
 	int choice; //메뉴
 
-	while (1)
+	while (run)
 	{
 		printf("====================================================\n");
 		printf("1.계좌생성 | 2.예금 | 3.출금 | 4.계좌목록 | 5.종료\n");
@@ -149,13 +151,14 @@ int main()
 			break;
 		case 5:
 			printf("프로그램을 종료합니다.\n");
-			return 0;  //정상 종료
+			run = false;
+			break;  //정상 종료
 		default:
 			printf("잘못된 입력입니다. 다시 선택하세요.\n");
 		}
 	}
 
-	//system("pause");  //콘솔창 닫힘 방지(파일 배포시)
+	system("pause");  //콘솔창 닫힘 방지(파일 배포시)
 
 	return 0;
 }

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\C_Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A7C5F98-708B-405C-9F54-8F94F7AE6ED8}|C_Arrays\\C_Arrays.vcxproj|D:\\korea_IT\\c2025\\C_Arrays\\C_Arrays\\coupon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3A7C5F98-708B-405C-9F54-8F94F7AE6ED8}|C_Arrays\\C_Arrays.vcxproj|solutionrelative:C_Arrays\\coupon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A7C5F98-708B-405C-9F54-8F94F7AE6ED8}|C_Arrays\\C_Arrays.vcxproj|D:\\korea_IT\\c2025\\C_Arrays\\C_Arrays\\coupon2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3A7C5F98-708B-405C-9F54-8F94F7AE6ED8}|C_Arrays\\C_Arrays.vcxproj|solutionrelative:C_Arrays\\coupon2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7C5F98-708B-405C-9F54-8F94F7AE6ED8}|C_Arrays\\C_Arrays.vcxproj|D:\\korea_IT\\c2025\\C_Arrays\\C_Arrays\\coupon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A7C5F98-708B-405C-9F54-8F94F7AE6ED8}|C_Arrays\\C_Arrays.vcxproj|solutionrelative:C_Arrays\\coupon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "coupon2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_Arrays\\C_Arrays\\coupon2.c",
               "RelativeDocumentMoniker": "C_Arrays\\coupon2.c",
               "ToolTip": "D:\\korea_IT\\c2025\\C_Arrays\\C_Arrays\\coupon2.c",
               "RelativeToolTip": "C_Arrays\\coupon2.c",
-              "ViewState": "AgIAABwAAAAAAAAAAAAuwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-24T21:21:21.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "coupon.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\C_Arrays\\C_Arrays\\coupon.c",
               "RelativeDocumentMoniker": "C_Arrays\\coupon.c",
               "ToolTip": "D:\\korea_IT\\c2025\\C_Arrays\\C_Arrays\\coupon.c",
               "RelativeToolTip": "C_Arrays\\coupon.c",
-              "ViewState": "AgIAABYAAAAAAAAAAAAuwCgAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-24T01:10:52.07Z",
               "EditorCaption": ""

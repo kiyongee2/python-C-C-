@@ -21,7 +21,7 @@
 //		switch (choice) {
 //		case 1:
 //			printf("학생수 입력: ");
-//			scanf_s("%d", &studentNum);
+//			scanf("%d", &studentNum);
 //			score = (int*)malloc(sizeof(int) * studentNum);
 //			if (score == NULL) {
 //				printf("동적 메모리 할당에 실패했습니다.\n");

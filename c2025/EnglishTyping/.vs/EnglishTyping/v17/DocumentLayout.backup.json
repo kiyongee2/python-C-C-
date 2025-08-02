@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\EnglishTyping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CAF4848-590E-4649-8762-90CDE58EDD86}|EnglishTyping\\EnglishTyping.vcxproj|D:\\korea_IT\\c2025\\EnglishTyping\\EnglishTyping\\gameMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5CAF4848-590E-4649-8762-90CDE58EDD86}|EnglishTyping\\EnglishTyping.vcxproj|solutionrelative:EnglishTyping\\gameMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5CAF4848-590E-4649-8762-90CDE58EDD86}|EnglishTyping\\EnglishTyping.vcxproj|D:\\korea_IT\\c2025\\EnglishTyping\\EnglishTyping\\arrayGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CAF4848-590E-4649-8762-90CDE58EDD86}|EnglishTyping\\EnglishTyping.vcxproj|solutionrelative:EnglishTyping\\arrayGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAF4848-590E-4649-8762-90CDE58EDD86}|EnglishTyping\\EnglishTyping.vcxproj|D:\\korea_IT\\c2025\\EnglishTyping\\EnglishTyping\\fileGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CAF4848-590E-4649-8762-90CDE58EDD86}|EnglishTyping\\EnglishTyping.vcxproj|solutionrelative:EnglishTyping\\fileGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "gameMain.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\EnglishTyping\\EnglishTyping\\gameMain.c",
-              "RelativeDocumentMoniker": "EnglishTyping\\gameMain.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\EnglishTyping\\EnglishTyping\\gameMain.c",
-              "RelativeToolTip": "EnglishTyping\\gameMain.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
+              "Title": "arrayGame.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\EnglishTyping\\EnglishTyping\\arrayGame.c",
+              "RelativeDocumentMoniker": "EnglishTyping\\arrayGame.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\EnglishTyping\\EnglishTyping\\arrayGame.c*",
+              "RelativeToolTip": "EnglishTyping\\arrayGame.c*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T01:14:51.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fileGame.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\EnglishTyping\\EnglishTyping\\fileGame.c",
+              "RelativeDocumentMoniker": "EnglishTyping\\fileGame.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\EnglishTyping\\EnglishTyping\\fileGame.c*",
+              "RelativeToolTip": "EnglishTyping\\fileGame.c*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwDgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-29T06:57:03.211Z",
               "EditorCaption": ""
