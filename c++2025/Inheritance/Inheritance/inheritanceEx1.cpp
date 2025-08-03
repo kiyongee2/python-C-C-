@@ -36,7 +36,7 @@
 //
 //	//자식 객체 생성
 //	Student st1;
-//	st1.setName("이정우");
+//	st1.setName("이정후");
 //	st1.setStudentId(101);
 //
 //	cout << "학생의 이름: " << st1.getName() <<

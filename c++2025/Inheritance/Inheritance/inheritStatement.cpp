@@ -54,13 +54,14 @@
 //	Drink drinks[2] = {coffee, tea};
 //	int total_drink = 0;
 //
-//	cout << "========== 매출 전표 ==========\n";
+//	cout << "=============== 매 출 전 표 ===============\n";
 //	Drink::printTitle();
 //	for (Drink drink : drinks) {
 //		drink.printData();
 //		total_drink += drink.calcPrice();
 //	}
-//	cout << "** 음료 합계 금액: " << total_drink << "원 **\n\n";
+//	cout << "** 음료 합계 금액: " << total_drink << "원 **\n";
+//	cout << "---------------------------------------\n";
 //		
 //	//Alcohol 인스턴스 생성
 //	Alcohol soju("소주", 4000, 2, 15.1f);

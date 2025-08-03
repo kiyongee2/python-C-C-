@@ -127,16 +127,32 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Alcohol.cpp" />
+    <ClCompile Include="AlcoholTest.cpp" />
     <ClCompile Include="autoDataType.cpp" />
+    <ClCompile Include="Drink.cpp" />
+    <ClCompile Include="DrinkTest.cpp" />
     <ClCompile Include="inheritanceEx1.cpp" />
     <ClCompile Include="inheritanceEx2.cpp" />
     <ClCompile Include="inheritStatement.cpp" />
     <ClCompile Include="multiInherit.cpp" />
     <ClCompile Include="operatorAdd.cpp" />
     <ClCompile Include="operatorCompare.cpp" />
+    <ClCompile Include="Person.cpp" />
     <ClCompile Include="polymorphismStatement.cpp" />
     <ClCompile Include="polyStatement2.cpp" />
+    <ClCompile Include="statementMain.cpp" />
+    <ClCompile Include="Student.cpp" />
+    <ClCompile Include="StudentMain.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="virtualFunction.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Alcohol.h" />
+    <ClInclude Include="Drink.h" />
+    <ClInclude Include="Person.h" />
+    <ClInclude Include="Student.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
