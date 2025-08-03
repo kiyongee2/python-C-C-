@@ -14,8 +14,6 @@ public class WriteExample2 {
 			writer.write(words);
 			
 			writer.flush();
-			writer.close();
-			
 			System.out.println("파일 쓰기 완료!");
 		}catch(IOException e) {
 			e.printStackTrace();

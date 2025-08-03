@@ -18,9 +18,9 @@ public class FileCopyTest1 {
 			start = System.currentTimeMillis(); //시작 시각
 			
 			while(true) {
-				int num = is.read();
+				int num = is.read(); //이미지 읽기
 				if(num == -1) break;
-				os.write(num);
+				os.write(num); //이미지 쓰기
 			}
 			os.flush();
 			end = System.currentTimeMillis();  //종료 시각

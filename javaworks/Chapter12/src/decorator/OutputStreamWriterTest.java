@@ -14,7 +14,7 @@ public class OutputStreamWriterTest {
 		try(OutputStreamWriter osw = 
 				new OutputStreamWriter(new FileOutputStream("memo.txt"))){
 			osw.write("오늘도 좋은 하루 되세요~");
-			System.out.println("test.txt 파일을 열어 보세요~");
+			System.out.println("memo.txt 파일을 열어 보세요~");
 		}catch(IOException e) {
 			System.out.println(e);
 		}
