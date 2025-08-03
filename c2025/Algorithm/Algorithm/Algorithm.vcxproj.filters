@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="fileio.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="struct.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -25,9 +22,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="arrayCalcAvg.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="fileio2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="coinGame.c">
@@ -39,16 +33,10 @@
     <ClCompile Include="factorial.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="printBin.c">
+    <ClCompile Include="printBinary.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="swapCalcSum.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="stackInt.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="queueEx.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="sortEx.c">
@@ -60,22 +48,7 @@
     <ClCompile Include="binSearch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="stackEx2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="stackChar.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="checkBracket.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="stack_reverseStr.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="queueInt.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="queueStr.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="sum1ToN.c">
@@ -94,6 +67,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="sum1ToN_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sortBubble2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

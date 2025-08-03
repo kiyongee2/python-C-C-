@@ -1,3 +1,4 @@
-﻿  stringReverse.c
-D:\korea_IT\c2025\Algorithm\Algorithm\stringReverse.c(26,6): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+﻿  sortBubble2.c
+  sortBubble.c
+  코드를 생성하고 있습니다...
   Algorithm.vcxproj -> D:\korea_IT\c2025\Algorithm\x64\Debug\Algorithm.exe

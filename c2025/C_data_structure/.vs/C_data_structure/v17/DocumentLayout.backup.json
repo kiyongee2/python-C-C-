@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\C_data_structure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\queueStr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|solutionrelative:C_data_structure\\queueStr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B83.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|solutionrelative:C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B83.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\queueInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|solutionrelative:C_data_structure\\queueInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\queueEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|solutionrelative:C_data_structure\\queueEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\stackEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|solutionrelative:C_data_structure\\stackEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\stackInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|solutionrelative:C_data_structure\\stackInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\stackChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|solutionrelative:C_data_structure\\stackChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B82.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|solutionrelative:C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B82.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,76 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "queueStr.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\queueStr.c",
-              "RelativeDocumentMoniker": "C_data_structure\\queueStr.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\queueStr.c",
-              "RelativeToolTip": "C_data_structure\\queueStr.c",
-              "ViewState": "AgIAACQAAAAAAAAAAAAswCkAAAAOAAAAAAAAAA==",
+              "Title": "\uC5F0\uACB0\uB9AC\uC2A4\uD2B83.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B83.c",
+              "RelativeDocumentMoniker": "C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B83.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B83.c*",
+              "RelativeToolTip": "C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B83.c*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwB4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-26T13:23:50.904Z",
+              "WhenOpened": "2025-08-02T22:05:30.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "queueInt.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\queueInt.c",
-              "RelativeDocumentMoniker": "C_data_structure\\queueInt.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\queueInt.c",
-              "RelativeToolTip": "C_data_structure\\queueInt.c",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDUAAAAAAAAAAAAAAA==",
+              "Title": "\uC5F0\uACB0\uB9AC\uC2A4\uD2B82.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B82.c",
+              "RelativeDocumentMoniker": "C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B82.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B82.c",
+              "RelativeToolTip": "C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B82.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-26T13:23:05.902Z",
+              "WhenOpened": "2025-08-02T22:04:22.242Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "queueEx.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\queueEx.c",
-              "RelativeDocumentMoniker": "C_data_structure\\queueEx.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\queueEx.c",
-              "RelativeToolTip": "C_data_structure\\queueEx.c",
-              "ViewState": "AgIAABEAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-26T13:22:27.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "stackEx.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\stackEx.c",
-              "RelativeDocumentMoniker": "C_data_structure\\stackEx.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\stackEx.c",
-              "RelativeToolTip": "C_data_structure\\stackEx.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAAmwD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-26T13:21:38.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "stackChar.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\stackChar.c",
-              "RelativeDocumentMoniker": "C_data_structure\\stackChar.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\stackChar.c",
-              "RelativeToolTip": "C_data_structure\\stackChar.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAswBkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-26T13:20:34.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "stackInt.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\stackInt.c",
-              "RelativeDocumentMoniker": "C_data_structure\\stackInt.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\stackInt.c",
-              "RelativeToolTip": "C_data_structure\\stackInt.c",
-              "ViewState": "AgIAABQAAAAAAAAAAAAmwBkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-26T13:19:26.397Z"
             }
           ]
         }

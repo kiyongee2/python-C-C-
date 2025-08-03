@@ -33,12 +33,6 @@
     <ClCompile Include="StructPerson3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="연결리스트1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="FileStructPerson.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="StructScore.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -52,6 +46,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="structEmployee2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structSubject.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structSubject2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

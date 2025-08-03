@@ -5,8 +5,8 @@
 //
 //int main()
 //{
-//	//구조체 객체 선언
-//	Student s1;
+//	//구조체 변수 생성
+//	Student s1, s2;
 //
 //	s1.number = 101;
 //	strcpy(s1.name, "이이슬");

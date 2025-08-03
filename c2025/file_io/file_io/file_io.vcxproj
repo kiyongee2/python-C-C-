@@ -147,6 +147,8 @@
     <ClCompile Include="typingGame.c" />
     <ClCompile Include="wordWriteRead.c" />
     <ClCompile Include="wordWriteRead2.c" />
+    <ClCompile Include="writeRead1.c" />
+    <ClCompile Include="writeRead2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

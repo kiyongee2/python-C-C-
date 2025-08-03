@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\asciiRead2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\fileRead1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\fileRead1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\writeRead1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\writeRead1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\asciiWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\asciiWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\fileRead1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\fileRead1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\writeRead2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\writeRead2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "writeRead2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\writeRead2.c",
+              "RelativeDocumentMoniker": "file_io\\writeRead2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\writeRead2.c",
+              "RelativeToolTip": "file_io\\writeRead2.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T21:45:13.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "writeRead1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\writeRead1.c",
+              "RelativeDocumentMoniker": "file_io\\writeRead1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\writeRead1.c",
+              "RelativeToolTip": "file_io\\writeRead1.c",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T21:44:36.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "asciiWrite.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\asciiWrite.c",
               "RelativeDocumentMoniker": "file_io\\asciiWrite.c",
@@ -34,8 +66,7 @@
               "RelativeToolTip": "file_io\\asciiWrite.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-03T08:18:51.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T08:18:51.486Z"
             },
             {
               "$type": "Document",
@@ -45,23 +76,22 @@
               "RelativeDocumentMoniker": "file_io\\asciiRead2.c",
               "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\asciiRead2.c",
               "RelativeToolTip": "file_io\\asciiRead2.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-06-03T08:18:24.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "fileRead1.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileRead1.c",
               "RelativeDocumentMoniker": "file_io\\fileRead1.c",
               "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileRead1.c",
               "RelativeToolTip": "file_io\\fileRead1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-03T08:17:35.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T08:17:35.095Z"
             }
           ]
         }

@@ -1,68 +1,79 @@
+//#define _CRT_SECURE_NO_WARNINGS //strcpy()
 //#include <stdio.h>
+//#define SIZE 3       //구조체 배열의 크기
+//#define NAME_LEN 20  //이름의 크기
 //
-//typedef struct
-//{
-//	int math;
-//	int eng;
-//}Score;
+//typedef struct{
+//	int kor;   //국어
+//	int math;  //수학
+//	int eng;   //영어
+//	float avg;  //평균
+//}Subject;
 //
-//typedef struct
-//{
-//	int number;
-//	char name[20];
-//	Score score;
+//typedef struct{
+//	int number;      //학번
+//	char name[NAME_LEN];   //이름
+//	Subject subject; //과목 구조체 변수(참조)
 //}Student;
 //
-//void showStudentInfo(Student);
+////학생의 정보
+//void printInfo(Student st){
+//	printf("%d\t%s\t%d\t%d\t%d\t%.1f\n", st.number, st.name,
+//		st.subject.kor, st.subject.math, st.subject.eng, st.subject.avg);
+//}
 //
 //int main()
 //{
-//	Student s[3];
-//	int i;
-//	int total[2] = {0, 0};  //수학 총점, 영어 총점
-//	double avg[2]; //수학 평균, 영어 평균 
+//	Student students[SIZE]; //구조체 배열 생성
+//	int i;      
+//	int subject_sum[3] = {0, 0, 0};  //국어, 수학, 영어 총점
+//	double subject_avg[3]; //국어, 수학, 영어 평균 
 //
-//	for (i = 0; i < 3; i++)
-//	{
+//	//사용자 입력
+//	for (i = 0; i < SIZE; i++){
 //		printf("학번 입력: ");
-//		scanf_s("%d", &s[i].number);
+//		scanf("%d", &students[i].number);
 //
 //		printf("이름 입력: ");
-//		scanf_s("%s", s[i].name, sizeof(s[i].name));
+//		scanf("%s", students[i].name);
+//
+//		printf("국어점수 입력: ");
+//		scanf("%d", &students[i].subject.kor);
 //
 //		printf("수학점수 입력: ");
-//		scanf_s("%d", &s[i].score.math);
+//		scanf("%d", &students[i].subject.math);
 //
 //		printf("영어점수 입력: ");
-//		scanf_s("%d", &s[i].score.eng);
+//		scanf("%d", &students[i].subject.eng);
+//
+//		//개인별 평균 계산
+//		students[i].subject.avg = (students[i].subject.kor +
+//			students[i].subject.math + students[i].subject.eng) / 3.0;
 //	}
 //
-//	printf("학번\t이름\t수학\t영어\n");
-//
-//	//총점 계산
-//	for (i = 0; i < 3; i++)
-//	{
-//		total[0] += s[i].score.math; //수학 총점
-//		total[1] += s[i].score.eng;  //영어 총점 
+//	//과목별 총점 계산
+//	for (i = 0; i < SIZE; i++){
+//		subject_sum[0] += students[i].subject.kor;  //국어 총점
+//		subject_sum[1] += students[i].subject.math; //수학 총점 
+//		subject_sum[2] += students[i].subject.eng;  //영어 총점 
 //	}
-//	//평균 계산
-//	avg[0] = (double)total[0] / 3;
-//	avg[1] = (double)total[1] / 3;
+//
+//	//과목별 평균 계산
+//	subject_avg[0] = (double)subject_sum[0] / SIZE; //국어 평균
+//	subject_avg[1] = (double)subject_sum[1] / SIZE; //수학 평균
+//	subject_avg[2] = (double)subject_sum[2] / SIZE; //영어 평균
 //
 //	//학생 정보 출력
-//	for (i = 0; i < 3; i++)
-//	{
-//		showStudentInfo(s[i]);  
+//	printf("\n================= 성 적 표 =================\n");
+//	printf("학번\t이름\t국어\t수학\t영어\t평균\n");
+//	for (i = 0; i < SIZE; i++){
+//		printInfo(students[i]);
 //	}
 //
-//	printf("수학 평균: %.1lf\n", avg[0]);
-//	printf("영어 평균: %.1lf\n", avg[1]);
+//	printf("\n========== 과목별 평균 점수 ==========\n");
+//	printf("국어 평균: %.1lf\n", subject_avg[0]);
+//	printf("수학 평균: %.1lf\n", subject_avg[1]);
+//	printf("영어 평균: %.1lf\n", subject_avg[2]);
 //
 //	return 0;
-//}
-//
-//void showStudentInfo(Student st)
-//{
-//	printf("%d\t%s\t%d\t%d\n", st.number, st.name, 
-//		st.score.math, st.score.eng);
 //}

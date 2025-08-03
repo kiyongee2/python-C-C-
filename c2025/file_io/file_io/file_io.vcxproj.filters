@@ -75,5 +75,11 @@
     <ClCompile Include="asciiRead2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="writeRead1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="writeRead2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

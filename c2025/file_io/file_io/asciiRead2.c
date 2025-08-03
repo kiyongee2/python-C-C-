@@ -27,11 +27,9 @@ int main()
 	}*/
 
 	//¹æ¹ý 2
-	while ((ch = fgetc(fp)) != EOF) {
+	/*while ((ch = fgetc(fp)) != EOF) {
 		printf("%c", ch);
-	}
-
-	fclose(fp);
+	}*/
 
 	/*while (1) {
 		if (fgets(str, sizeof(str), fp) == NULL) 
@@ -39,9 +37,11 @@ int main()
 		printf("%s", str);
 	}*/
 
-	/*while (fgets(str, sizeof(str), fp) != NULL) {
+	while (fgets(str, sizeof(str), fp) != NULL) {
 		printf("%s", str);
-	}*/
+	}
+
+	fclose(fp);
 
 	return 0;
 }

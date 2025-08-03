@@ -2,22 +2,38 @@
 //
 //void func(int n)
 //{
-//	printf("Help Me!\n");
+//	//방법 2
+//	if (n <= 0) { //종료 조건
+//		return;
+//	}
+//	else {
+//		printf("Help Me!\n");
+//		func(n - 1);
+//	}
+//
+//	//방법 1
+//	/*printf("Help Me!\n");
 //	n--;
-//	if (n > 0)  //종료 조건
+//	if (n <= 0)
+//		return; //종료 조건
+//	else
 //		func(n);
+//	*/
+//
 //	/*
-//	  n=4, func(4), Help Me!
-//	  n=3, func(3), Help Me!
-//	  n=2, func(2), Help Me!
-//	  n=1, func(1), Help Me!
-//	  n=0, 반복 종료
+//	  func(4), Help Me!
+//	  func(3), Help Me!
+//	  func(2), Help Me!
+//	  func(1), Help Me!
+//	  func(0), 반복 종료
 //	*/
 //}
 //
 //int main()
 //{
-//	func(4);
+//	int count = 4;
+//
+//	func(count);
 //
 //	return 0;
 //}

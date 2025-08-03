@@ -1,5 +1,4 @@
-﻿  stackInt.c
-  그래프2.c
+﻿  stackEx2.c
+  연결리스트3.c
   코드를 생성하고 있습니다...
-D:\korea_IT\c2025\C_data_structure\C_data_structure\stackInt.c(14,3): warning C4098: 'push': 'void' 함수에서 값을 반환하고 있습니다.
   C_data_structure.vcxproj -> D:\korea_IT\c2025\C_data_structure\x64\Debug\C_data_structure.exe

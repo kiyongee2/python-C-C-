@@ -133,24 +133,17 @@
     <ClCompile Include="checkBracket.c" />
     <ClCompile Include="coinGame.c" />
     <ClCompile Include="factorial.c" />
-    <ClCompile Include="fileio.c" />
-    <ClCompile Include="fileio2.c" />
+    <ClCompile Include="factorial2.c" />
+    <ClCompile Include="sortBubble2.c" />
     <ClCompile Include="swapCalcSum.c" />
     <ClCompile Include="arrayMakeBar.c" />
     <ClCompile Include="arrayMakeBar2.c" />
-    <ClCompile Include="printBin.c" />
-    <ClCompile Include="queueEx.c" />
-    <ClCompile Include="queueInt.c" />
-    <ClCompile Include="queueStr.c" />
+    <ClCompile Include="printBinary.c" />
     <ClCompile Include="recursive.c" />
-    <ClCompile Include="stack_reverseStr.c" />
     <ClCompile Include="sortBubble.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="sortEx.c" />
-    <ClCompile Include="stackChar.c" />
-    <ClCompile Include="stackInt.c" />
-    <ClCompile Include="stackEx2.cpp" />
     <ClCompile Include="stringConcat.c" />
     <ClCompile Include="stringReverse.c" />
     <ClCompile Include="struct.c" />

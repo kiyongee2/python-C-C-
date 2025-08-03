@@ -1,18 +1,14 @@
 //#include <stdio.h>
 ///*
-//    4! = 4 x 3 x 2 x 1
-//	4! = 4 x 3!
-//	3! = 3 x 2 x 1
-//	3! = 3 x 2!
-//	    
-//*/
-//
-//int factorial(int n) 
-//{
-//	if (n == 0)
-//		return 1;
-//	else
-//		return n * factorial(n - 1);
+//     - 1부터 5까지 곱하기
+//	   1x2x3x4x5 -> 5!
+//*/ 
+//int factorial(int n) {
+//	int i, facto = 1;
+//	for (i = 1; i <= n; i++) {
+//		facto *= i;
+//	}
+//	return facto;
 //}
 //
 //int main()

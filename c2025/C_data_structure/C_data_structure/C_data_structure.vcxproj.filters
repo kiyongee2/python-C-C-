@@ -57,7 +57,13 @@
     <ClCompile Include="queueStr.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="stackReverse.cpp">
+    <ClCompile Include="stackReverse.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stackEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

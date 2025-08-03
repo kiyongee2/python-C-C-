@@ -132,8 +132,10 @@
     <ClCompile Include="queueStr.c" />
     <ClCompile Include="stackChar.c" />
     <ClCompile Include="stackEx.c" />
+    <ClCompile Include="stackEx2.c" />
     <ClCompile Include="stackInt.c" />
-    <ClCompile Include="stackReverse.cpp" />
+    <ClCompile Include="stackReverse.c" />
+    <ClCompile Include="연결리스트3.c" />
     <ClCompile Include="연결리스트_사용자.cpp" />
     <ClCompile Include="이진검색트리.c" />
     <ClCompile Include="이진트리.c" />
