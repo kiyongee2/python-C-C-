@@ -41,4 +41,3 @@ print(calculator.div(10, 4))
 # food
 print(food.name)
 food.cook()
-food.eat()

@@ -23,7 +23,7 @@ import time
 str = "sky earth sun moon flower tree " \
     "mountain strawberry garlic potato"
 
-word = str.split(' ')
+word = str.split(' ')  #word 리스트 생성됨
 n = 1  #문제 번호
 
 print("[타자 게임] 준비되면 엔터")
@@ -53,7 +53,6 @@ print(f"게임 소요 시간: {et:.2f}초")
 """
 
 # os 모듈 - 디렉터리, 파일, 환경변수 등의 os 자원을 제어할 수 있게 해주는 모듈
-'''
 import os
 
 # 디렉터리 이동
@@ -65,12 +64,11 @@ print(dir.read())
 
 # 파일 목록을 리스트로 얻기
 files = os.listdir('c:/pyworks')
-# print(files)
+print(files)
 print(files[1]) #basic
 
 for file in files:
     print(file)
-'''
 
 '''
 import 모듈이름
