@@ -14,6 +14,7 @@ struct Transaction { // 거래 구조체
     TransactionType type; //거래 유형
     int amount;           //거래 금액
 
+    //생성자
     Transaction(TransactionType type, int amount);
 };
 

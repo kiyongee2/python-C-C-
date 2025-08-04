@@ -6,9 +6,15 @@ Student::Student(string name, int studentId)
 }
 
 void Student::greet() {
-    cout << "안녕하세요. 성명: " << name << ", 학번: " << studentId << endl;
+    cout << "안녕하세요. 성명: " << name 
+         << ", 학번: " << studentId << endl;
 }
 
 void Student::displayInfo() {
-    cout << "Student name: " << name << ", ID: " << studentId << endl;
+    cout << "Student name: " << name 
+         << ", ID: " << studentId << endl;
+}
+
+Student::~Student() {
+    cout << "Student 소멸자 호출됨: " << name << endl;
 }

@@ -10,10 +10,9 @@ protected:
 public:
     Person(string name);
 
-    virtual void greet();         // virtual
-    virtual void displayInfo();   // virtual
-    virtual ~Person();            // 가상 소멸자(필수)
+    virtual void greet();       // 가상 함수
+    virtual void displayInfo(); // virtual
+    virtual ~Person();          // 가상 소멸자(필수)
 };
-
 #endif
 

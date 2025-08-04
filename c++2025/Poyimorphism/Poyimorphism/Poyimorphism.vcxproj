@@ -125,12 +125,14 @@
   <ItemGroup>
     <ClInclude Include="Alcohol.h" />
     <ClInclude Include="Drink.h" />
+    <ClInclude Include="NonAlcohol.h" />
     <ClInclude Include="Person.h" />
     <ClInclude Include="Student.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Alcohol.cpp" />
     <ClCompile Include="Drink.cpp" />
+    <ClCompile Include="NonAlcohol.cpp" />
     <ClCompile Include="Person.cpp" />
     <ClCompile Include="statement.cpp" />
     <ClCompile Include="Student.cpp" />
