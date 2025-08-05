@@ -124,6 +124,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Alcohol.h" />
+    <ClInclude Include="Animal.h" />
+    <ClInclude Include="Cat.h" />
+    <ClInclude Include="Dog.h" />
     <ClInclude Include="Drink.h" />
     <ClInclude Include="NonAlcohol.h" />
     <ClInclude Include="Person.h" />
@@ -131,12 +134,18 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Alcohol.cpp" />
+    <ClCompile Include="Animal.cpp" />
+    <ClCompile Include="AnimalMain.cpp" />
+    <ClCompile Include="Cat.cpp" />
+    <ClCompile Include="Dog.cpp" />
     <ClCompile Include="Drink.cpp" />
     <ClCompile Include="NonAlcohol.cpp" />
     <ClCompile Include="Person.cpp" />
     <ClCompile Include="statement.cpp" />
+    <ClCompile Include="statement2.cpp" />
     <ClCompile Include="Student.cpp" />
     <ClCompile Include="StudentMain.cpp" />
+    <ClCompile Include="virtualAnimal.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

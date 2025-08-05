@@ -130,11 +130,15 @@
     <ClCompile Include="Alcohol.cpp" />
     <ClCompile Include="AlcoholTest.cpp" />
     <ClCompile Include="autoDataType.cpp" />
+    <ClCompile Include="Character.cpp" />
     <ClCompile Include="Drink.cpp" />
     <ClCompile Include="DrinkTest.cpp" />
     <ClCompile Include="inheritanceEx1.cpp" />
     <ClCompile Include="inheritanceEx2.cpp" />
     <ClCompile Include="inheritStatement.cpp" />
+    <ClCompile Include="Monster.cpp" />
+    <ClCompile Include="MonsterA.cpp" />
+    <ClCompile Include="MonsterMain.cpp" />
     <ClCompile Include="multiInherit.cpp" />
     <ClCompile Include="operatorAdd.cpp" />
     <ClCompile Include="operatorCompare.cpp" />
@@ -146,11 +150,13 @@
     <ClCompile Include="StudentMain.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="virtualFunction.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Alcohol.h" />
+    <ClInclude Include="Character.h" />
     <ClInclude Include="Drink.h" />
+    <ClInclude Include="Monster.h" />
+    <ClInclude Include="MonsterA.h" />
     <ClInclude Include="Person.h" />
     <ClInclude Include="Student.h" />
   </ItemGroup>
