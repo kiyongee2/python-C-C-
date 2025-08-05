@@ -1,10 +1,12 @@
 # 클래스 만들기
 class Car:
-    # 모델명, 연식 - 속성
-    # 생성자(필수 요소)
+    # 생성자
     def __init__(self, model, year):
-        self.model = model
-        self.year = year
+        self.model = model  #모델명
+        self.year = year    #연식
+        
+    def drive(self):
+        print(f"{self.model}가 달립니다.")
 
     # 인스턴의 문자열 정보
     def __str__(self):
@@ -14,7 +16,11 @@ if __name__ == "__main__":
     # Car의 인스턴스(객체) 생성
     c1 = Car("Ionic6", 2024)
     print(c1)
-
+    c1.drive()
+    
+    c2 = Car("Sportage", 2021);
+    print(c2)
+    c2.drive()
 
 # 쇼핑몰 장바구니 구현
 class Cart:

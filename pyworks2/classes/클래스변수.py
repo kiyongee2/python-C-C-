@@ -1,7 +1,7 @@
 # 클래스 변수와 인스턴스 변수
 # 카운터(Counter) 만들기
 # 카운터1
-"""
+
 class Counter:
     # 생성자
     def __init__(self):
@@ -20,14 +20,14 @@ class Counter2:
     def get_count(self):
         return self.x
 
-'''
+
 # 인스턴스 생성
 c1 = Counter()
 print(c1.get_count())  #1
 
 c2 = Counter()
 print(c2.get_count())  #1
-'''
+
 
 # 방법 2
 c1 = Counter2()
@@ -38,7 +38,7 @@ print(c2.get_count()) #2
 
 c3 = Counter2()
 print(c3.get_count()) #3
-"""
+
 
 class Cls:
     x, y = 10, 20  # 클래스 변수
