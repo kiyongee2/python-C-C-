@@ -21,16 +21,16 @@ def fire():
 
   d = t.distance(target, 0) #포탄과 목표지점과의 거리
   # t.write(d)
-  t.sety(random.randint(10, 100))  #y좌표 설정 - 성공, 실패를 표시할 위치 지정
+  t.sety(random.randint(10, 100))  #y좌표 설정-성공, 실패를 표시할 위치
   if d < 25: #목표 지점에 닿으면
     t.color('blue')
     # 문자열 쓰기 - 글꼴 크기 15, False-포탄의 위치를 옮기지 않음
-    t.write("Good!", False, 'center', ('', 15))
-  else:
+    t.write("Good!", False, 'center', ('', 17))
+  else: #목표 지점에 닿지 않으면
     t.color('red')
     t.write("Bad!", False, 'center', ('', 15))
     t.color('black')
-    t.goto(-200, 10)
+    t.goto(-200, 10)  #거북이를 처음 발사 위치로 보냄
     t.setheading(ang) #처음 기억한 각도로 되돌림
 
 # 땅 그리기

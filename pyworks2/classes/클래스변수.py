@@ -1,7 +1,22 @@
 # 클래스 변수와 인스턴스 변수
+class Dog:
+    kind = "말티즈" #클래스 변수
+    
+    def __init__(self, name):
+        self.name = name 
+        
+dog1 = Dog("백구")
+dog2 = Dog("콜라")
+
+print(dog1.name)
+print(dog2.name)
+
+print(Dog.kind)
+
+
 # 카운터(Counter) 만들기
 # 카운터1
-
+"""
 class Counter:
     # 생성자
     def __init__(self):
@@ -72,7 +87,7 @@ print(b.x, b.y) # 10, 20
 b.change2()
 print(b.x, b.y) # 20, 10
 
-
+"""
 
 
 
