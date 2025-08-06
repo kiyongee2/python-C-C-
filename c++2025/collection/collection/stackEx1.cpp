@@ -7,24 +7,24 @@
 //	//정수를 저장할 stack 컨테이너 생성
 //	stack<int> stack;
 //
-//	//요소 저장
+//	//요소 저장 (1 - 2 - 3)
 //	stack.push(1);
 //	stack.push(2);
 //	stack.push(3);
 //
 //	//스택의 크기
-//	cout << stack.size() << endl; //3
+//	cout << "스택 크기: " << stack.size() << endl; //3
 //
 //	//스택의 맨 위 요소
 //	cout << stack.top() << endl;  //3
 //
-//	stack.pop(); //스택에서 데이터 제거
+//	stack.pop(); //스택에서 데이터 제거(3 - 2 - 1)
 //	cout << stack.top() << endl; //2
 //
 //	stack.pop();
 //	cout << stack.top() << endl; //1
 //
-//	stack.pop();
+//	stack.pop(); //삭제
 //
 //	//스택이 비었는지 확인
 //	if (stack.empty()) {

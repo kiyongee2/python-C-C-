@@ -7,11 +7,11 @@
 //	vector<int> vec; //정수형 벡터 생성
 //
 //	//요소 저장
-//	/*vec.push_back(80);
+//	vec.push_back(80);
 //	vec.push_back(75);
-//	vec.push_back(90);*/
+//	vec.push_back(90);
 //
-//	vec = { 80, 75, 90 };
+//	//vec = { 80, 75, 90 };
 //
 //	//특정 요소 검색
 //	cout << "첫 번째: " << vec.front() << endl;
@@ -22,10 +22,10 @@
 //	cout << "크기: " << vec.size() << endl;
 //
 //	//전체 조회
-//	for (int i = 0; i < vec.size(); i++) {
+//	/*for (int i = 0; i < vec.size(); i++) {
 //		cout << vec[i] << endl;
 //	}
-//	cout << "----------------------\n";
+//	cout << "----------------------\n";*/
 //
 //	//반복자 설정
 //	vector<int>::iterator it = vec.begin();
@@ -37,6 +37,7 @@
 //	cout << "----------------------\n";
 //
 //	//반복자로 전체 조회
+//	cout << "iterator로 조회\n";
 //	cout << *vec.begin() << endl;  //첫번째 요소
 //	cout << *(vec.begin() + 1) << endl;  //두번째 요소
 //	cout << *(vec.end() - 1) << endl;  //마지막 요소
@@ -52,6 +53,7 @@
 //	vec.at(1) = 100;
 //
 //	//마지막 요소 삭제
+//	cout << "마지막 요소 삭제후\n";
 //	vec.pop_back();
 //
 //	//특정 요소 삭제
