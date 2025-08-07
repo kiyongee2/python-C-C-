@@ -7,7 +7,7 @@
 //
 //    stack<char> stk;
 //
-//   /*//요소 추가 : a - b - c
+//   //요소 추가 : a - b - c
 //    stk.push('a');
 //    stk.push('b');
 //    stk.push('c');
@@ -15,10 +15,10 @@
 //    while (!stk.empty()) {
 //        cout << stk.top() << " ";
 //        stk.pop();  //요소 삭제 : c - b - a
-//    }*/
+//    }
 //
 //    //문자열 뒤집기
-//    string str;
+//    /*string str;
 //    cout << "문자열 입력: ";
 //    cin >> str;
 //
@@ -33,7 +33,7 @@
 //        cout << stk2.top();
 //        stk2.pop();
 //    }
-//    cout << endl;
+//    cout << endl;*/
 //
 //    return 0;
 //}

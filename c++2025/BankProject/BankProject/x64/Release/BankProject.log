@@ -1,9 +1,7 @@
-﻿  bank.cpp
-  main.cpp
-  main2.cpp
-banking.obj : error LNK2005: "public: void __cdecl BankAccount::getTransactionHistory(void)" (?getTransactionHistory@BankAccount@@QEAAXXZ)이(가) bank.obj에 이미 정의되어 있습니다.
-banking.obj : error LNK2005: "public: void __cdecl BankAccount::displayInfo(void)" (?displayInfo@BankAccount@@QEAAXXZ)이(가) bank.obj에 이미 정의되어 있습니다.
-banking.obj : error LNK2005: "private: void __cdecl BankAccount::addTranscation(enum TransactionType,int)" (?addTranscation@BankAccount@@AEAAXW4TransactionType@@H@Z)이(가) bank.obj에 이미 정의되어 있습니다.
-banking.obj : error LNK2005: "public: void __cdecl BankAccount::withdraw(int)" (?withdraw@BankAccount@@QEAAXH@Z)이(가) bank.obj에 이미 정의되어 있습니다.
-banking.obj : error LNK2005: "public: void __cdecl BankAccount::deposit(int)" (?deposit@BankAccount@@QEAAXH@Z)이(가) bank.obj에 이미 정의되어 있습니다.
-D:\korea_IT\c++2025\BankProject\x64\Release\BankProject.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+﻿  BankAccount.cpp
+  BankMain.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 207 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  BankProject.vcxproj -> D:\korea_IT\c++2025\BankProject\x64\Release\BankProject.exe
