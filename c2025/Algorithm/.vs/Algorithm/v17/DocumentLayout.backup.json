@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\Algorithm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findMaxRand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\findMaxRand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findArrMax2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\findArrMax2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "findMaxRand.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findMaxRand.c",
+              "RelativeDocumentMoniker": "Algorithm\\findMaxRand.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findMaxRand.c*",
+              "RelativeToolTip": "Algorithm\\findMaxRand.c*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-08T01:16:05.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "findArrMax2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findArrMax2.c",
               "RelativeDocumentMoniker": "Algorithm\\findArrMax2.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findArrMax2.c*",
-              "RelativeToolTip": "Algorithm\\findArrMax2.c*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findArrMax2.c",
+              "RelativeToolTip": "Algorithm\\findArrMax2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-07T15:03:12.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "findArrMax.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findArrMax.c",
               "RelativeDocumentMoniker": "Algorithm\\findArrMax.c",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Algorithm\\findArrMax.c",
               "ViewState": "AgIAAAsAAAAAAAAAAAAiwCEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-07T14:05:04.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T14:05:04.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "findMax2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findMax2.c",
               "RelativeDocumentMoniker": "Algorithm\\findMax2.c",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "Algorithm\\findMax2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-07T13:53:24.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T13:53:24.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "findMax.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findMax.c",
               "RelativeDocumentMoniker": "Algorithm\\findMax.c",
@@ -77,8 +92,7 @@
               "RelativeToolTip": "Algorithm\\findMax.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-07T13:37:14.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T13:37:14.057Z"
             }
           ]
         }

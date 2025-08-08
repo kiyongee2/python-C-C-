@@ -138,6 +138,7 @@
     <ClCompile Include="findArrMax2.c" />
     <ClCompile Include="findMax.c" />
     <ClCompile Include="findMax2.c" />
+    <ClCompile Include="findMaxRand.c" />
     <ClCompile Include="sortBubble2.c" />
     <ClCompile Include="swapCalcSum.c" />
     <ClCompile Include="arrayMakeBar.c" />
