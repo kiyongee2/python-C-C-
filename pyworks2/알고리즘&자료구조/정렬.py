@@ -31,7 +31,6 @@ for val in a:
   print(val, end=' ')
 
 
-
 def sort_bubble(a):
   n = len(a)
   for i in range(0, n):
