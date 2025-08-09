@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\Struct2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2025\\Struct2\\Struct2\\StructScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\StructScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2025\\Struct2\\Struct2\\structHero.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\structHero.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2025\\Struct2\\Struct2\\structSubject2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\structSubject2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2025\\Struct2\\Struct2\\StructScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|solutionrelative:Struct2\\StructScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E69338D6-2003-4217-8B22-E77FD5F340E3}|Struct2\\Struct2.vcxproj|D:\\korea_IT\\c2025\\Struct2\\Struct2\\structSubject.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -47,12 +51,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "structHero.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Struct2\\Struct2\\structHero.c",
+              "RelativeDocumentMoniker": "Struct2\\structHero.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Struct2\\Struct2\\structHero.c*",
+              "RelativeToolTip": "Struct2\\structHero.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-09T01:31:53.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StructScore.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Struct2\\Struct2\\StructScore.c",
               "RelativeDocumentMoniker": "Struct2\\StructScore.c",
               "ToolTip": "D:\\korea_IT\\c2025\\Struct2\\Struct2\\StructScore.c",
               "RelativeToolTip": "Struct2\\StructScore.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-03T00:14:53.055Z",
               "EditorCaption": ""
@@ -65,14 +82,14 @@
               "RelativeDocumentMoniker": "Struct2\\structSubject2.c",
               "ToolTip": "D:\\korea_IT\\c2025\\Struct2\\Struct2\\structSubject2.c",
               "RelativeToolTip": "Struct2\\structSubject2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-02T23:42:38.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "structSubject.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Struct2\\Struct2\\structSubject.c",
               "RelativeDocumentMoniker": "Struct2\\structSubject.c",
@@ -80,12 +97,11 @@
               "RelativeToolTip": "Struct2\\structSubject.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-02T22:57:55.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T22:57:55.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Student.h",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Struct2\\Struct2\\Student.h",
               "RelativeDocumentMoniker": "Struct2\\Student.h",
@@ -97,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "StrudentScore.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Struct2\\Struct2\\StrudentScore.c",
               "RelativeDocumentMoniker": "Struct2\\StrudentScore.c",
@@ -109,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "studentScore2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Struct2\\Struct2\\studentScore2.c",
               "RelativeDocumentMoniker": "Struct2\\studentScore2.c",
@@ -121,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "structEmployee2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Struct2\\Struct2\\structEmployee2.c",
               "RelativeDocumentMoniker": "Struct2\\structEmployee2.c",
@@ -133,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "RectanglePoint.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Struct2\\Struct2\\RectanglePoint.c",
               "RelativeDocumentMoniker": "Struct2\\RectanglePoint.c",

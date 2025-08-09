@@ -81,7 +81,7 @@
     <ClCompile Include="ScoreCalcMain.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ScoreCalcMain2.cpp">
+    <ClCompile Include="ScoreCalcMain2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="CountUpperCase.c">

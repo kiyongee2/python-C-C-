@@ -1,11 +1,11 @@
 # 버블 정렬
 # 리스트에서 인접한 두 개의 요소를 비교하여 자리를 바꾸어 정렬하는 알고리즘이다.
 # 시간복잡도는 O의 n제곱
-
+"""
 a = [41, 8, 36, 77, 15]
-
-for i in range(0, 5):
-  for j in range(0, 4):
+n = len(a)
+for i in range(0, n):
+  for j in range(0, n-1):
     if a[j] > a[j+1]:
       a[j], a[j+1] = a[j+1], a[j]
 
@@ -43,4 +43,17 @@ a = [41, 8, 36, 77, 15]
 
 # a 출력 
 print(sort_bubble(a)) #[8, 15, 36, 41, 77]
+"""
 
+# 선택 정렬
+a = [41, 36, 8, 77, 15]
+
+n = len(a)
+for i in range(0, n-1):
+  min_idx = i  #현재 위치(행)를 최소값으로 설정
+  for j in range(i+1, n):
+    if a[j] < a[min_idx]:
+      min_idx = j
+  a[i], a[min_idx] = a[min_idx], a[i]
+
+print(a)

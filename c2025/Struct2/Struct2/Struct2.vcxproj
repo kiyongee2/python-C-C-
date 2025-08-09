@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="structEmployee2.c" />
     <ClCompile Include="StructFruit.c" />
+    <ClCompile Include="structHero.c" />
     <ClCompile Include="StructPerson.c" />
     <ClCompile Include="RectanglePoint.c" />
     <ClCompile Include="StructPerson3.c" />

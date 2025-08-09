@@ -149,7 +149,7 @@
     <ClCompile Include="GugudanWrite.c" />
     <ClCompile Include="InputBuffer.c" />
     <ClCompile Include="ScoreCalcMain.c" />
-    <ClCompile Include="ScoreCalcMain2.cpp" />
+    <ClCompile Include="ScoreCalcMain2.c" />
     <ClCompile Include="StructArrayPerson.c" />
     <ClCompile Include="StructBook.c" />
     <ClCompile Include="structFruit.c" />

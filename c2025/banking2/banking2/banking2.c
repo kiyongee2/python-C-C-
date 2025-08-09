@@ -15,7 +15,7 @@ typedef struct {
 
 //전역 공간
 BankAccount accounts[MAX_ACCOUNTS]; //계좌 배열 생성
-int accountCount = 0; //현재 계좌 수
+int accountCount = 0; //현재 계좌 수 
 
 //계좌 생성
 void createAccount() {
@@ -49,62 +49,6 @@ void createAccount() {
 	accountCount++;  //다음 인덱스로 증가
 }
 
-//예금
-void deposit() {
-	char accountNumber[ANO_LEN];  //외부 입력(계좌번호)
-	int amount;    //입금액
-
-	printf("입금할 계좌번호(예: xx-xx-xxxx): ");
-	scanf("%s", accountNumber);
-
-	for (int i = 0; i < accountCount; i++) {
-		//이미 등록된 계좌와 입력 계좌가 일치하면
-		if (strcmp(accounts[i].ano, accountNumber) == 0) { 
-			printf("입금액: ");
-			scanf("%d", &amount);
-			if (amount < 0) {
-				printf("올바른 금액이 아닙니다.\n");
-				return; //즉시 종료
-			}
-			else {
-				accounts[i].balance += amount;
-				printf("정상 처리 되었습니다. 현재 잔액: %d\n", 
-											accounts[i].balance);
-				return;  //for문 탈출
-			}
-		}
-	}
-	printf("계좌를 찾을 수 없습니다.\n");
-}
-
-//출금
-void withdraw() {
-	char accountNumber[ANO_LEN];  //외부 입력(계좌번호)
-	int amount;  //출금액
-
-	printf("출금할 계좌번호(예: xx-xx-xxxx): ");
-	scanf("%s", accountNumber);
-
-	for (int i = 0; i < accountCount; i++) {
-		if (strcmp(accounts[i].ano, accountNumber) == 0) {
-			printf("출금액: ");
-			scanf("%d", &amount);
-			if (amount > accounts[i].balance || amount < 0) {
-				printf("잔액이 부족하거나 올바른 금액이 아닙니다. " 
-								"현재 잔액: %d\n", accounts[i].balance);
-				return;
-			}
-			else {
-				accounts[i].balance -= amount;
-				printf("정상 처리 되었습니다. 현재 잔액: %d\n", 
-										accounts[i].balance);
-				return;  //for문 탈출
-			}
-		}
-	}
-	printf("계좌를 찾을 수 없습니다.\n");
-}
-
 //계좌 목록
 void displayAccounts() {
 	printf("********** 계     좌     목     록 **********\n");
@@ -121,6 +65,74 @@ void displayAccounts() {
 			accounts[i].ano, accounts[i].owner, accounts[i].balance);
 	}
 }
+
+//예금
+void deposit() {
+	char accountNumber[ANO_LEN];  //외부 입력(계좌번호)
+	int amount;    //입금액
+	bool found = false; //상태(계좌 찾음/못찾음)
+
+	printf("입금할 계좌번호(예: xx-xx-xxxx): ");
+	scanf("%s", accountNumber);
+
+	for (int i = 0; i < accountCount; i++) {
+		if (strcmp(accounts[i].ano, accountNumber) == 0) { 
+			found = true; //계좌 찾음
+
+			printf("입금액: ");
+			scanf("%d", &amount);
+			if (amount < 0) {
+				printf("올바른 금액이 아닙니다.\n");
+				return; //즉시 종료
+			}
+			else {
+				accounts[i].balance += amount;
+				printf("정상 처리 되었습니다. 현재 잔액: %d\n", 
+											accounts[i].balance);
+				return;  //for문 탈출
+			}
+		}
+	}
+
+	if (!found) {
+		printf("계좌를 찾을 수 없습니다.\n");
+	}
+}
+
+//출금
+void withdraw() {
+	char accountNumber[ANO_LEN];  //외부 입력(계좌번호)
+	int amount;  //출금액
+	bool found = false; //상태(계좌 찾음/못찾음)
+
+	printf("출금할 계좌번호(예: xx-xx-xxxx): ");
+	scanf("%s", accountNumber);
+
+	for (int i = 0; i < accountCount; i++) {
+		if (strcmp(accounts[i].ano, accountNumber) == 0) {
+			found = true; //계좌 찾음
+
+			printf("출금액: ");
+			scanf("%d", &amount);
+			if (amount > accounts[i].balance || amount < 0) {
+				printf("잔액이 부족하거나 올바른 금액이 아닙니다. " 
+								"현재 잔액: %d\n", accounts[i].balance);
+				return;
+			}
+			else {
+				accounts[i].balance -= amount;
+				printf("정상 처리 되었습니다. 현재 잔액: %d\n", 
+										accounts[i].balance);
+				return;  //for문 탈출
+			}
+		}
+	}
+
+	if (!found) {
+		printf("계좌를 찾을 수 없습니다.\n");
+	}
+}
+
 
 int main()
 {
