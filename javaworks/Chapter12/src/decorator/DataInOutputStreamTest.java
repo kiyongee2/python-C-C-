@@ -7,7 +7,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class DataInputStreamTest {
+public class DataInOutputStreamTest {
 	public static void main(String[] args) {
 		//데이터 쓰기
 		try (FileOutputStream fos = new FileOutputStream("object.dat");

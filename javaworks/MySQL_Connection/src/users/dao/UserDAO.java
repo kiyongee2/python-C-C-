@@ -92,7 +92,42 @@ public class UserDAO {
 		}
 		return user; //회원(user) 반환
 	}
-}
+	
+	//회원 수정
+	public void updateUser(Users user) {
+		String sql = "update users set userpassword = ?, username = ?, "
+				+ "userage = ? where userid = ?";
+		
+		try(Connection conn = DriverManager.getConnection(url, username, password);
+			PreparedStatement pstmt = conn.prepareStatement(sql)){
+			
+			pstmt.setString(1, user.getUserPassword());
+			pstmt.setString(2, user.getUserName());
+			pstmt.setInt(3, user.getUserAge());
+			pstmt.setString(4, user.getUserId());
+			
+			pstmt.executeUpdate();
+		}catch(SQLException e) {
+			e.printStackTrace();
+		}
+	}
+	
+	//회원 삭제
+	public void deleteUser(String userId) {
+		String sql = "delete from users where userid = ?";
+		
+		try(Connection conn = DriverManager.getConnection(url, username, password);
+			PreparedStatement pstmt = conn.prepareStatement(sql)){
+			
+			pstmt.setString(1, userId);  //입력된 아이디 바인딩
+			
+			pstmt.executeUpdate();
+		}catch(SQLException e) {
+			e.printStackTrace();
+		}
+	}
+	
+}//class 닫기
 
 
 

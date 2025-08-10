@@ -17,14 +17,16 @@ public class EcoClient {
 			//-----------------------------------------
 			//데이터 보내기
 			String sendMessage = "오늘도 즐거운 하루 되세요~";
-			/*OutputStream os = socket.getOutputStream();
+			OutputStream os = socket.getOutputStream();
 			byte[] bytes = sendMessage.getBytes("utf-8");
 			os.write(bytes);
-			os.flush();*/
+			os.flush();
 			
-			DataOutputStream dos = new DataOutputStream(socket.getOutputStream());
+			//보조 스트림 사용
+			/*DataOutputStream dos = new DataOutputStream(socket.getOutputStream());
 			dos.writeUTF(sendMessage);
-			dos.flush();
+			dos.flush();*/
+			
 			System.out.println("[클라이언트] 데이터 보냄: " + sendMessage);
 			
 			socket.close();

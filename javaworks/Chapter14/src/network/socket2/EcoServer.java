@@ -53,24 +53,26 @@ public class EcoServer {
 						System.out.println("[서버]" + clientIp + "의 연결 요청을 수락함");
 						//---------------------------------------------------------//
 						//데이터 받기
-						/*InputStream is = socket.getInputStream();
+						InputStream is = socket.getInputStream();
 						byte[] bytes = new byte[1024];
 						int readByteCount = is.read(bytes);
-						String message = new String(bytes, 0, readByteCount, "utf-8");*/
+						String message = new String(bytes, 0, readByteCount, "utf-8");
 						
-						DataInputStream dis = new DataInputStream(socket.getInputStream());
-						String message = dis.readUTF();
+						//보조 스트림 사용
+						/*DataInputStream dis = new DataInputStream(socket.getInputStream());
+						String message = dis.readUTF();*/
 						
 						//데이터 보내기
-						/*OutputStream os = socket.getOutputStream();
+						OutputStream os = socket.getOutputStream();
 						bytes = message.getBytes("utf-8");
 						os.write(bytes);
-						os.flush();*/
+						os.flush();
 						//---------------------------------------------------------//
 						
-						DataOutputStream dos = new DataOutputStream(socket.getOutputStream());
+						/*DataOutputStream dos = new DataOutputStream(socket.getOutputStream());
 						dos.writeUTF(message);
-						dos.flush();
+						dos.flush();*/
+						
 						socket.close(); //연결 종료
 						System.out.println("[서버] 받은 데이터를 다시 보냄, " + message);
 						System.out.println("[서버]" + clientIp + "의 연결을 끊음");
