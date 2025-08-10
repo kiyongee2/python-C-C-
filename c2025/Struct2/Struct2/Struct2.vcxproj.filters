@@ -33,7 +33,7 @@
     <ClCompile Include="StructPerson3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="StructScore.c">
+    <ClCompile Include="subjectStudent.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="typedefEmployee.c">
@@ -58,6 +58,21 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="structHero.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structTm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structPointer2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="subjectStudent2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BankSystem.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BankSystem2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

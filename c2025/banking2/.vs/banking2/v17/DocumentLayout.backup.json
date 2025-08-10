@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\banking2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FB147D9-C90E-4C52-A7DA-6F68822ACBF4}|banking2\\banking2.vcxproj|D:\\korea_IT\\c2025\\banking2\\banking2\\banking2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FB147D9-C90E-4C52-A7DA-6F68822ACBF4}|banking2\\banking2.vcxproj|solutionrelative:banking2\\banking2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7FB147D9-C90E-4C52-A7DA-6F68822ACBF4}|banking2\\banking2.vcxproj|D:\\korea_IT\\c2025\\banking2\\banking2\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FB147D9-C90E-4C52-A7DA-6F68822ACBF4}|banking2\\banking2.vcxproj|solutionrelative:banking2\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FB147D9-C90E-4C52-A7DA-6F68822ACBF4}|banking2\\banking2.vcxproj|D:\\korea_IT\\c2025\\banking2\\banking2\\banking.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FB147D9-C90E-4C52-A7DA-6F68822ACBF4}|banking2\\banking2.vcxproj|solutionrelative:banking2\\banking.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7FB147D9-C90E-4C52-A7DA-6F68822ACBF4}|banking2\\banking2.vcxproj|D:\\korea_IT\\c2025\\banking2\\banking2\\BankAccount.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FB147D9-C90E-4C52-A7DA-6F68822ACBF4}|banking2\\banking2.vcxproj|solutionrelative:banking2\\BankAccount.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB147D9-C90E-4C52-A7DA-6F68822ACBF4}|banking2\\banking2.vcxproj|D:\\korea_IT\\c2025\\banking2\\banking2\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FB147D9-C90E-4C52-A7DA-6F68822ACBF4}|banking2\\banking2.vcxproj|solutionrelative:banking2\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "banking2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\banking2\\banking2\\banking2.c",
-              "RelativeDocumentMoniker": "banking2\\banking2.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\banking2\\banking2\\banking2.c*",
-              "RelativeToolTip": "banking2\\banking2.c*",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAowF4AAAACAAAAAAAAAA==",
+              "Title": "Main.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\banking2\\banking2\\Main.c",
+              "RelativeDocumentMoniker": "banking2\\Main.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\banking2\\banking2\\Main.c",
+              "RelativeToolTip": "banking2\\Main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-13T23:12:14.476Z",
+              "WhenOpened": "2025-08-10T00:36:29.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.h",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\banking2\\banking2\\BankAccount.h",
+              "RelativeDocumentMoniker": "banking2\\BankAccount.h",
+              "ToolTip": "D:\\korea_IT\\c2025\\banking2\\banking2\\BankAccount.h",
+              "RelativeToolTip": "banking2\\BankAccount.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-10T00:31:04.772Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "banking.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\banking2\\banking2\\banking.c",
-              "RelativeDocumentMoniker": "banking2\\banking.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\banking2\\banking2\\banking.c",
-              "RelativeToolTip": "banking2\\banking.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Title": "BankAccount.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\banking2\\banking2\\BankAccount.c",
+              "RelativeDocumentMoniker": "banking2\\BankAccount.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\banking2\\banking2\\BankAccount.c",
+              "RelativeToolTip": "banking2\\BankAccount.c",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAjwHwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-22T07:53:03.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T00:30:47.677Z"
             }
           ]
         }

@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BankSystem.c" />
+    <ClCompile Include="BankSystem2.c" />
     <ClCompile Include="structEmployee2.c" />
     <ClCompile Include="StructFruit.c" />
     <ClCompile Include="structHero.c" />
@@ -135,11 +137,14 @@
     <ClCompile Include="StructPerson3.c" />
     <ClCompile Include="StructPerson2.c" />
     <ClCompile Include="structPointer.c" />
-    <ClCompile Include="StructScore.c" />
+    <ClCompile Include="structPointer2.c" />
+    <ClCompile Include="subjectStudent.c" />
     <ClCompile Include="structSubject2.c" />
+    <ClCompile Include="structTm.c" />
     <ClCompile Include="StrudentScore.c" />
     <ClCompile Include="studentScore2.c" />
     <ClCompile Include="structSubject.c" />
+    <ClCompile Include="subjectStudent2.cpp" />
     <ClCompile Include="typedefEmployee.c" />
     <ClCompile Include="typedefPerson.c" />
   </ItemGroup>

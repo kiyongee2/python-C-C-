@@ -2,10 +2,11 @@
 //
 //int main()
 //{
-//	//이분 탐색
+//	//이분 탐색 
 //	int low, high, mid;
 //	int x, found; 
 //
+//	//정렬된 배열
 //	int arr[9] = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 //
 //	low = 0;  //첫 인덱스
@@ -25,7 +26,7 @@
 //		else if (arr[mid] < x) {
 //			low = mid + 1;
 //		}
-//		else {
+//		else { //a[mid] > x
 //			high = mid - 1;
 //		}
 //		/*
@@ -40,3 +41,4 @@
 //
 //	return 0;
 //}
+//
