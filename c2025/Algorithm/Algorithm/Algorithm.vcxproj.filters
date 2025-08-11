@@ -90,5 +90,17 @@
     <ClCompile Include="findMaxRand.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="printBinary2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fibonacci.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="recusivePractice.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fibonacci2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

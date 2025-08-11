@@ -134,11 +134,15 @@
     <ClCompile Include="coinGame.c" />
     <ClCompile Include="factorial.c" />
     <ClCompile Include="factorial2.c" />
+    <ClCompile Include="fibonacci.c" />
+    <ClCompile Include="fibonacci2.c" />
     <ClCompile Include="findArrMax.c" />
     <ClCompile Include="findArrMax2.c" />
     <ClCompile Include="findMax.c" />
     <ClCompile Include="findMax2.c" />
     <ClCompile Include="findMaxRand.c" />
+    <ClCompile Include="printBinary2.c" />
+    <ClCompile Include="recusivePractice.c" />
     <ClCompile Include="sortBubble2.c" />
     <ClCompile Include="swapCalcSum.c" />
     <ClCompile Include="arrayMakeBar.c" />

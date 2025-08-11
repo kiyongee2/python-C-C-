@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sortBubble.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\sortBubble.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\fibonacci2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\fibonacci2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayMakeBar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\arrayMakeBar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\recusivePractice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\recusivePractice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayMakeBar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\arrayMakeBar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\fibonacci.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\fibonacci.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findMaxRand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\findMaxRand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\printBinary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\printBinary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findArrMax2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\findArrMax2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\printBinary2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\printBinary2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findArrMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\findArrMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findMax2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\findMax2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\findMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sortBubble2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\sortBubble2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,100 +39,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "sortBubble.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sortBubble.c",
-              "RelativeDocumentMoniker": "Algorithm\\sortBubble.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sortBubble.c",
-              "RelativeToolTip": "Algorithm\\sortBubble.c",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAiwEQAAAAAAAAAAAAAAA==",
+              "Title": "fibonacci2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\fibonacci2.c",
+              "RelativeDocumentMoniker": "Algorithm\\fibonacci2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\fibonacci2.c",
+              "RelativeToolTip": "Algorithm\\fibonacci2.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-08T13:53:34.471Z",
+              "WhenOpened": "2025-08-11T02:04:48.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "arrayMakeBar2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayMakeBar2.c",
-              "RelativeDocumentMoniker": "Algorithm\\arrayMakeBar2.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayMakeBar2.c",
-              "RelativeToolTip": "Algorithm\\arrayMakeBar2.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAADAAAAAAAAAA==",
+              "Title": "recusivePractice.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\recusivePractice.c",
+              "RelativeDocumentMoniker": "Algorithm\\recusivePractice.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\recusivePractice.c",
+              "RelativeToolTip": "Algorithm\\recusivePractice.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-08T02:06:15.153Z",
+              "WhenOpened": "2025-08-11T01:52:00.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "arrayMakeBar.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayMakeBar.c",
-              "RelativeDocumentMoniker": "Algorithm\\arrayMakeBar.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\arrayMakeBar.c",
-              "RelativeToolTip": "Algorithm\\arrayMakeBar.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB4AAAAEAAAAAAAAAA==",
+              "Title": "fibonacci.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\fibonacci.c",
+              "RelativeDocumentMoniker": "Algorithm\\fibonacci.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\fibonacci.c",
+              "RelativeToolTip": "Algorithm\\fibonacci.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-08T02:03:01.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "findMaxRand.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findMaxRand.c",
-              "RelativeDocumentMoniker": "Algorithm\\findMaxRand.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findMaxRand.c",
-              "RelativeToolTip": "Algorithm\\findMaxRand.c",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-08T01:16:05.451Z"
+              "WhenOpened": "2025-08-11T01:33:42.257Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "findArrMax2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findArrMax2.c",
-              "RelativeDocumentMoniker": "Algorithm\\findArrMax2.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findArrMax2.c",
-              "RelativeToolTip": "Algorithm\\findArrMax2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Title": "printBinary2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\printBinary2.c",
+              "RelativeDocumentMoniker": "Algorithm\\printBinary2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\printBinary2.c",
+              "RelativeToolTip": "Algorithm\\printBinary2.c",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-07T15:03:12.102Z"
+              "WhenOpened": "2025-08-11T01:24:26.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "printBinary.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\printBinary.c",
+              "RelativeDocumentMoniker": "Algorithm\\printBinary.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\printBinary.c",
+              "RelativeToolTip": "Algorithm\\printBinary.c",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-11T01:17:50.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "findArrMax.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findArrMax.c",
-              "RelativeDocumentMoniker": "Algorithm\\findArrMax.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findArrMax.c",
-              "RelativeToolTip": "Algorithm\\findArrMax.c",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCEAAAADAAAAAAAAAA==",
+              "Title": "sortBubble2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sortBubble2.c",
+              "RelativeDocumentMoniker": "Algorithm\\sortBubble2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sortBubble2.c",
+              "RelativeToolTip": "Algorithm\\sortBubble2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-07T14:05:04.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "findMax2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findMax2.c",
-              "RelativeDocumentMoniker": "Algorithm\\findMax2.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findMax2.c",
-              "RelativeToolTip": "Algorithm\\findMax2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-07T13:53:24.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "findMax.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findMax.c",
-              "RelativeDocumentMoniker": "Algorithm\\findMax.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\findMax.c",
-              "RelativeToolTip": "Algorithm\\findMax.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-07T13:37:14.057Z"
+              "WhenOpened": "2025-08-08T14:05:21.528Z",
+              "EditorCaption": ""
             }
           ]
         }
