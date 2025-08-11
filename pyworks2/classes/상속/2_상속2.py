@@ -14,18 +14,22 @@ class Dog(Animal):
         print("왈~ 왈~")
 
 class Cat(Animal):
+    # def cry(self):
+    #     print("야~ 옹!")
     pass
 
 # 부모클래스의 인스턴스 생성
 animal = Animal()
 animal.breathe()
+
+ # 자식클래스의 인스턴스 생성
 try:
-    # 자식클래스의 인스턴스 생성
     dog = Dog()
     dog.breathe() #부모 클래스의 메서드 호출
     dog.cry()
 
     cat = Cat()
+    dog.breathe()
     cat.cry()
 except NotImplementedError as e:
     print(f'오류: {e}')

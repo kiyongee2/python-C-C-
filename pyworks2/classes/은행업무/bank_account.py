@@ -1,17 +1,16 @@
 # 은행 계좌 클래스 활용
 class BankAccount:
-    # 생성자 함수
     def __init__(self):
         self.balance = 0 #잔고
         self.transaction_history = [] #거래 내역
 
-    # 입금
+    # 입금 기능
     def deposit(self, amount):
         self.balance += amount   #잔고 = 잔고 + 입금액
-        self.transaction_history.append(('입금', amount))
+        self.transaction_history.append(('입금', amount)) #튜플로 저장
         print(f"{amount}원 입금되었습니다. 현재 잔액: {self.balance}")
 
-    # 출금
+    # 출금 기능
     def withdraw(self, amount):
         if(amount > self.balance):
             print(f"잔액이 부족합니다. 현재 잔액: {self.balance}")
@@ -47,11 +46,15 @@ def main():
                 amount = int(input("출금액> "))
                 account.withdraw(amount)  #출금 함수 호출
             elif choice == '3':
-                print(f"현재 잔액> {account.get_balance()}")
+                print(f"현재 잔액> {account.get_balance()}원")
             elif choice == '4':
                 print("\n[거래 내역]")
+                '''
                 for type, amount in account.transaction_history:
                     print(f"- {type}: {amount}원")
+                '''
+                for transaction in account.transaction_history:
+                    print(f"- {transaction[0]}: {transaction[1]}원")
             elif choice == '5':
                 print("프로그램 종료")
                 break
