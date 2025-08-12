@@ -4,34 +4,36 @@
 import tkinter as tk
 
 def click():
-  # Entry에 입력된 문자 가져오기
-  text = entry.get()
-  # 0(첫째행), 0(시작문자) 에서 끝까지 삭제
-  output.delete(0.0, tk.END)
+  text = entry.get()  #Entry에 입력된 문자 가져옴
+  output.delete(0.0, tk.END) # 0(첫째행), 0(시작문자) 삭제
   # Text에 문자 삽입하기(END-끝까지 삭제후 문자 삽입)
   output.insert(tk.END, text)
 
 root = tk.Tk()
 root.title("입력과 출력")
 root.geometry("250x200+200+300")
-# 전체 글꼴 적용
-root.option_add("*font", "System 13")
+
+frame = tk.Frame(root) #프레임 생성
+frame.pack()
 
 # 이름 입력받기
-tk.Label(root, text="이름: ", height=3,).grid(row=0, column=0)
-entry = tk.Entry(root)
+tk.Label(frame, text="이름: ", height=3, font=('System', 12)) \
+    .grid(row=0, column=0)
+entry = tk.Entry(frame) #Entry - 입력상자
 entry.grid(row=0, column=1)
 
 # 버튼을 눌러 출력하기 - columnspan=2(병합)
-tk.Button(root, text="확인", command=click, width=10, height=2).grid(row=1, columnspan=2)
-tk.Label(root, text="").grid(row=2, column=0)  #빈 레이블 추가
-output = tk.Text(root, width=20, height=3)
+tk.Button(frame, text="확인", command=click, width=10, height=2) \
+      .grid(row=1, columnspan=2)
+tk.Label(frame, text="").grid(row=2, column=0) #빈 레이블 추가 
+output = tk.Text(frame, width=20, height=3) #Text - 출력상자
 output.grid(row=3, columnspan=2)
 
 root.mainloop()
 """
 
 # 컴퓨터 용어 사전 만들기
+
 from tkinter import *
 
 dic = {
@@ -67,3 +69,4 @@ output = Text(root, width=60, height=10, bg="yellowgreen")
 output.grid(row=4, column=0, sticky=W)
 
 root.mainloop()
+   

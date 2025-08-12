@@ -56,3 +56,16 @@ if __name__ == "__main__":
     my_cart.remove("콩나물")
 
     print(my_cart)
+    
+class ScaleConverter:
+    def __init__(self, units_from, units_to, factor):
+        self.units_from = units_from
+        self.units_to = units_to
+        self.factor = factor
+        
+    def convert(self, value):
+        return self.factor * value
+    
+if __name__ == "__main__":
+    sc1 = ScaleConverter("MB", "KB", 1024)
+    print(f"{sc1.convert(10)} {sc1.units_to}")

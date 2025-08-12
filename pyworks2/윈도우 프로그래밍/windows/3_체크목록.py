@@ -16,7 +16,7 @@ window = tk.Tk() # Tk() 클래스의 인스턴스(window) 생성
 window.title("목록 버튼")
 window.geometry("250x200")
 
-# 체크 버튼 클래스에서 생성,  pack() - 가운데 배치
+# 체크 버튼 클래스에서 생성
 # variable(변수)
 ck_val = tk.BooleanVar() #True or False를 저장함
 ck_val.set(False)
@@ -28,6 +28,7 @@ window.mainloop()
 """
 
 # 목록 (취미) 만들기
+
 def click():
   result = "* 선택된 취미\n\n"  #취미 저장
   for i in range(n):
@@ -52,7 +53,6 @@ for i in range(n): #0부터 n-1 까지 반복
   # 좌표로 이동하는 함수 - place(x = ?, y = ?)
   ck_btn[i].place(x = 100, y = 20 + (30 * i)) #y: 20, 50, 80, 110
 
-
 # 확인 버튼
 tk.Button(window, text="확인", command=click).place(x = 110, y = 160)
 
@@ -61,7 +61,6 @@ lbl_result = tk.Label(window, text="", font=("System", 13))
 lbl_result.place(x = 50, y = 200)
 
 window.mainloop()
-
 
 
 

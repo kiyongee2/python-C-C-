@@ -1,7 +1,7 @@
 # 처음 만드는 윈도우
 from tkinter import *  #'*'-모든 클래스, 함수
 
-'''
+"""
 # 레이 아웃(배치) - pack() 함수
 def click():
   # print("안녕~ 파이썬!")
@@ -25,9 +25,41 @@ lbl_result = Label(root)
 lbl_result.pack()
 
 root.mainloop()
-'''
+"""
+# 레이 아웃(배치) - pack() 함수
+"""
+window = Tk()
+window.title('pack')
+window.geometry('300x200')
+
+Label(window, text="안녕하세요").pack()
+btn = Button(window)
+btn.config(text="확인")
+# btn.pack()
+btn.pack(side='top')
+
+# btn.place(x = 130, y = 100)
+
+window.mainloop()
+"""
+
+# 버튼 2개 만들기
+window = Tk()
+window.title('pack')
+window.geometry('300x200')
+window.option_add("*font", "System 12")
+
+frame = Frame(window)
+frame.pack()
+
+Label(frame, text="안녕하세요").pack(pady=20) #side="top"
+Button(frame, text="변환", width=10).pack(side="left", padx=5)
+Button(frame, text="초기화", width=10).pack(side="left", padx=5)
+
+window.mainloop()
 
 # 레이 아웃(배치) - grid() 함수
+"""
 window = Tk()
 window.title('배치-grid')
 window.geometry("300x200")
@@ -40,8 +72,8 @@ Button(window, text="서", width=5, height=2).grid(row=1, column=0, sticky=W)
 Button(window, text="북", width=5, height=2).grid(row=2, column=0, sticky=N)
 Button(window, text="남", width=5, height=2).grid(row=3, column=0, sticky=S)
 
-
 window.mainloop()
+"""
 
 
 
