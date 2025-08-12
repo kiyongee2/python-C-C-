@@ -141,6 +141,10 @@
     <ClCompile Include="findMax.c" />
     <ClCompile Include="findMax2.c" />
     <ClCompile Include="findMaxRand.c" />
+    <ClCompile Include="gcd1.c" />
+    <ClCompile Include="gcd2.c" />
+    <ClCompile Include="gcd3.c" />
+    <ClCompile Include="lcm1.c" />
     <ClCompile Include="printBinary2.c" />
     <ClCompile Include="recusivePractice.c" />
     <ClCompile Include="sortBubble2.c" />

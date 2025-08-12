@@ -102,5 +102,17 @@
     <ClCompile Include="fibonacci2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="gcd1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gcd2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gcd3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lcm1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

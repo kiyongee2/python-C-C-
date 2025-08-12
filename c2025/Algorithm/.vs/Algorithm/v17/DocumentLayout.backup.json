@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\Algorithm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sortBubble2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\sortBubble2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sortBubble.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\sortBubble.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\fibonacci2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\fibonacci2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\fibonacci.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\fibonacci.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\gcd2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\gcd2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\gcd1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\gcd1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\lcm1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\lcm1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\recusivePractice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\recusivePractice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\fibonacci.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\fibonacci.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\gcd3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\gcd3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\printBinary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\printBinary2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\printBinary2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sortBubble2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB1F93AF-A916-4059-8073-36FE1B4A992B}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\sortBubble2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +54,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "sortBubble.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sortBubble.c",
+              "RelativeDocumentMoniker": "Algorithm\\sortBubble.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sortBubble.c",
+              "RelativeToolTip": "Algorithm\\sortBubble.c",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-11T23:57:57.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lcm1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\lcm1.c",
+              "RelativeDocumentMoniker": "Algorithm\\lcm1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\lcm1.c",
+              "RelativeToolTip": "Algorithm\\lcm1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-11T22:36:09.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gcd1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\gcd1.c",
+              "RelativeDocumentMoniker": "Algorithm\\gcd1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\gcd1.c",
+              "RelativeToolTip": "Algorithm\\gcd1.c",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-11T21:50:55.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gcd2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\gcd2.c",
+              "RelativeDocumentMoniker": "Algorithm\\gcd2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\gcd2.c",
+              "RelativeToolTip": "Algorithm\\gcd2.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-11T22:15:46.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "gcd3.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\gcd3.c",
+              "RelativeDocumentMoniker": "Algorithm\\gcd3.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\gcd3.c",
+              "RelativeToolTip": "Algorithm\\gcd3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-11T22:34:12.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "fibonacci2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\fibonacci2.c",
               "RelativeDocumentMoniker": "Algorithm\\fibonacci2.c",
               "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\fibonacci2.c",
               "RelativeToolTip": "Algorithm\\fibonacci2.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T02:04:48.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T02:04:48.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "recusivePractice.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\recusivePractice.c",
-              "RelativeDocumentMoniker": "Algorithm\\recusivePractice.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\recusivePractice.c",
-              "RelativeToolTip": "Algorithm\\recusivePractice.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T01:52:00.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "fibonacci.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\fibonacci.c",
               "RelativeDocumentMoniker": "Algorithm\\fibonacci.c",
@@ -72,12 +139,23 @@
               "RelativeToolTip": "Algorithm\\fibonacci.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T01:33:42.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T01:33:42.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "recusivePractice.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\recusivePractice.c",
+              "RelativeDocumentMoniker": "Algorithm\\recusivePractice.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\recusivePractice.c",
+              "RelativeToolTip": "Algorithm\\recusivePractice.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-11T01:52:00.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "printBinary2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\printBinary2.c",
               "RelativeDocumentMoniker": "Algorithm\\printBinary2.c",
@@ -85,12 +163,11 @@
               "RelativeToolTip": "Algorithm\\printBinary2.c",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAwBkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T01:24:26.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T01:24:26.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "printBinary.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\printBinary.c",
               "RelativeDocumentMoniker": "Algorithm\\printBinary.c",
@@ -98,18 +175,17 @@
               "RelativeToolTip": "Algorithm\\printBinary.c",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T01:17:50.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T01:17:50.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "sortBubble2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sortBubble2.c",
               "RelativeDocumentMoniker": "Algorithm\\sortBubble2.c",
               "ToolTip": "D:\\korea_IT\\c2025\\Algorithm\\Algorithm\\sortBubble2.c",
               "RelativeToolTip": "Algorithm\\sortBubble2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-08T14:05:21.528Z",
               "EditorCaption": ""
