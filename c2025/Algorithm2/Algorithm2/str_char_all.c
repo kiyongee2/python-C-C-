@@ -3,17 +3,17 @@
 //#include <string.h> // strlen(), strcspn()
 //
 //void str_chr_all(const char* s, int c) {
-//    int found = 0; // 찾은 개수
+//    int count = 0; // 찾은 개수
 //    int i;
 //
 //    for (i = 0; s[i] != '\0'; i++) {
 //        if (s[i] == (char)c) {
 //            printf("%d번째 ", i + 1); // 1부터 시작하는 위치 출력
-//            found++;
+//            count++;
 //        }
 //    }
 //
-//    if (found == 0) {
+//    if (count == 0) {
 //        printf("문자 '%c'는(은) 문자열에 없습니다.", c);
 //    }
 //    printf("\n");

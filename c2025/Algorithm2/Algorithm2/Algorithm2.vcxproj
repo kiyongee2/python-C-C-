@@ -123,13 +123,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="binarySearch1.c" />
+    <ClCompile Include="binarySearch2.c" />
+    <ClCompile Include="binarySearchAll.c" />
+    <ClCompile Include="bubbleSort0.c" />
     <ClCompile Include="bubbleSort1.c" />
     <ClCompile Include="bubbleSort2.c" />
     <ClCompile Include="insertSort1.c" />
     <ClCompile Include="insertSort2.c" />
+    <ClCompile Include="seqSearchAll.c" />
+    <ClCompile Include="sequentialSearch3.c" />
     <ClCompile Include="ranking.c" />
+    <ClCompile Include="ranking2.c" />
     <ClCompile Include="selectionSort1.c" />
     <ClCompile Include="selectionSort2.c" />
+    <ClCompile Include="sequentialSearch.c" />
+    <ClCompile Include="sequentialSearch2.c" />
+    <ClCompile Include="sortOrder.c" />
     <ClCompile Include="strlen.c" />
     <ClCompile Include="str_char.c" />
     <ClCompile Include="str_char2.c" />

@@ -48,5 +48,35 @@
     <ClCompile Include="insertSort2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ranking2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bubbleSort0.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sortOrder.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sequentialSearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sequentialSearch2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sequentialSearch3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="seqSearchAll.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="binarySearch1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="binarySearch2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="binarySearchAll.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
