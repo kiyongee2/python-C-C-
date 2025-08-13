@@ -30,5 +30,23 @@
     <ClCompile Include="selectionSort2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="strlen.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="str_char.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="str_char_all.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="str_char2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="insertSort1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="insertSort2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -125,9 +125,15 @@
   <ItemGroup>
     <ClCompile Include="bubbleSort1.c" />
     <ClCompile Include="bubbleSort2.c" />
+    <ClCompile Include="insertSort1.c" />
+    <ClCompile Include="insertSort2.c" />
     <ClCompile Include="ranking.c" />
     <ClCompile Include="selectionSort1.c" />
     <ClCompile Include="selectionSort2.c" />
+    <ClCompile Include="strlen.c" />
+    <ClCompile Include="str_char.c" />
+    <ClCompile Include="str_char2.c" />
+    <ClCompile Include="str_char_all.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

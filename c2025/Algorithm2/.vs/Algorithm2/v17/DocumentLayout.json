@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\Algorithm2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\ranking.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\ranking.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\bubbleSort1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\bubbleSort1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\selectionSort2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\selectionSort2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\selectionSort1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\selectionSort1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\bubbleSort2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\bubbleSort2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\insertSort2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\insertSort2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\insertSort1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\insertSort1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\bubbleSort1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\bubbleSort1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "selectionSort2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\selectionSort2.c",
-              "RelativeDocumentMoniker": "Algorithm2\\selectionSort2.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\selectionSort2.c",
-              "RelativeToolTip": "Algorithm2\\selectionSort2.c",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-12T00:03:28.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "selectionSort1.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\selectionSort1.c",
-              "RelativeDocumentMoniker": "Algorithm2\\selectionSort1.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\selectionSort1.c",
-              "RelativeToolTip": "Algorithm2\\selectionSort1.c",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-12T00:02:50.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "bubbleSort2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\bubbleSort2.c",
-              "RelativeDocumentMoniker": "Algorithm2\\bubbleSort2.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\bubbleSort2.c",
-              "RelativeToolTip": "Algorithm2\\bubbleSort2.c",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T23:58:59.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "bubbleSort1.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\bubbleSort1.c",
               "RelativeDocumentMoniker": "Algorithm2\\bubbleSort1.c",
               "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\bubbleSort1.c",
               "RelativeToolTip": "Algorithm2\\bubbleSort1.c",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAUwEAAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T23:58:20.764Z",
+              "WhenOpened": "2025-08-13T00:05:21.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ranking.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\ranking.c",
-              "RelativeDocumentMoniker": "Algorithm2\\ranking.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\ranking.c",
-              "RelativeToolTip": "Algorithm2\\ranking.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Title": "selectionSort1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\selectionSort1.c",
+              "RelativeDocumentMoniker": "Algorithm2\\selectionSort1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\selectionSort1.c",
+              "RelativeToolTip": "Algorithm2\\selectionSort1.c",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T23:54:35.371Z",
+              "WhenOpened": "2025-08-13T00:05:18.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "insertSort2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\insertSort2.c",
+              "RelativeDocumentMoniker": "Algorithm2\\insertSort2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\insertSort2.c",
+              "RelativeToolTip": "Algorithm2\\insertSort2.c",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-13T00:04:14.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "insertSort1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\insertSort1.c",
+              "RelativeDocumentMoniker": "Algorithm2\\insertSort1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\insertSort1.c",
+              "RelativeToolTip": "Algorithm2\\insertSort1.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwDEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-12T15:49:29.641Z",
               "EditorCaption": ""
             }
           ]
