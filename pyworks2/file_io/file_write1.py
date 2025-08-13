@@ -6,13 +6,18 @@
 # 파일 열기 - open(파일경로, 모드)
 # 절대경로, 상대경로
 # w - 쓰기 모드
-f = open("c:/pyfile/file1.txt", "w")
+try:
+  f = open("c:/pyfile/file1.txt", "w")
 
-# 파일에 문자 쓰기
-f.write("하늘\n")
-f.write("cloud\n")
-# f.write(100) # 숫자 불가
-f.write("100\n")
+  # 파일에 문자 쓰기
+  f.write("하늘\n")
+  f.write("cloud\n")
+  price = 5000 * 2
+  f.write(f'{price}\n')
+  # f.write(100) # 숫자 불가
+  f.write("3.14\n")
 
-# 파일 종료
-f.close()
+  # 파일 종료
+  f.close()
+except FileNotFoundError:
+  print("파일을 찾을 수 없습니다.")

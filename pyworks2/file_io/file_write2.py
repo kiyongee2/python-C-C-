@@ -1,5 +1,6 @@
 # 리스트 데이터를 파일에 쓰기
-f = open("c:/pyfile/cartlist.txt", "w")
+# try:
+f = open("c:/pyfil/cartlist.txt", "w")
 
 # 파일 쓰기
 cartlist = ["계란", "우유", "바나나", "라면"]
@@ -9,3 +10,6 @@ for cart in cartlist:
 
 print("쓰기 완료!")
 f.close()
+# except FileNotFoundError:
+#     print("파일을 찾을 수 없습니다.")
+    

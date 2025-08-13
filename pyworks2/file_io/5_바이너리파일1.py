@@ -20,7 +20,7 @@ except FileNotFoundError:
 
 # 쓰기
 try:
-    with open("./output2/tokyo.jpg", "wb") as f2:
+    with open("./output2/tokyo2.jpg", "wb") as f2:
         f2.write(image)
 except FileNotFoundError:
     print("파일을 찾을 수 없습니다.")
