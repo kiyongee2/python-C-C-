@@ -140,6 +140,7 @@
     <ClCompile Include="sequentialSearch.c" />
     <ClCompile Include="sequentialSearch2.c" />
     <ClCompile Include="sortOrder.c" />
+    <ClCompile Include="stringReverse.c" />
     <ClCompile Include="strlen.c" />
     <ClCompile Include="str_char.c" />
     <ClCompile Include="str_char2.c" />

@@ -3,8 +3,8 @@
 //
 //int str_char(const char* s, int c) {
 //	int i = 0;
-//	c = (char)c;
-//	while (s[i] != c) {
+//	c = (char)c; //코드값을 문자로 형변환
+//	while (s[i] != c) { //s[i] == c, 반복종료
 //		if (s[i] == '\0')
 //			return -1;  //검색 실패
 //		i++;
@@ -16,15 +16,15 @@
 //int main()
 //{
 //	char str[128]; //이 문자열에서 검색
-//	char tmp[128];
-//	int ch;        //검색할 문자
-//	int idx;
+//	char tmp[128]; //검색할 문자 지정
+//	int ch;        //검색할 문자(코드값)
+//	int idx;       //문자의 위치
 //
 //	printf("문자열: ");
-//	scanf("%s", str);
+//	scanf("%s", str);  //문자열 입력
 //
 //	printf("검색할 문자: ");
-//	scanf("%s", tmp); //먼저 문자열로 검색할 문자를 읽음
+//	scanf("%s", tmp); //검색할 문자 입력
 //	ch = tmp[0];      //첫 번째 문자를 검색할 문자로 지정
 //
 //	if ((idx = str_char(str, ch)) == -1)

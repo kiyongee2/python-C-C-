@@ -21,13 +21,10 @@
 //    int idx;
 //
 //    printf("문자열: ");
-//    fgets(str, sizeof(str), stdin);
-//    // 개행 문자 제거
-//    str[strcspn(str, "\n")] = '\0';
+//    fgets(str, sizeof(str), stdin);  //공백문자 허용
 //
 //    printf("검색할 문자: ");
 //    fgets(tmp, sizeof(tmp), stdin);
-//    tmp[strcspn(tmp, "\n")] = '\0';
 //
 //    ch = tmp[0]; // 첫 번째 문자를 검색할 문자로 지정
 //

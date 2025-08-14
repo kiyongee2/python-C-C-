@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\Algorithm2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\binarySearchAll.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\binarySearchAll.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\stringReverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\stringReverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\str_char2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\str_char.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char_all.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\str_char_all.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\strlen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\strlen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\binarySearch2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\binarySearch2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\binarySearch1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\binarySearch1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\seqSearchAll.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\seqSearchAll.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\sequentialSearch3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\sequentialSearch3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\sequentialSearch2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\sequentialSearch2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\sequentialSearch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\sequentialSearch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,90 +39,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "binarySearchAll.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\binarySearchAll.c",
-              "RelativeDocumentMoniker": "Algorithm2\\binarySearchAll.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\binarySearchAll.c*",
-              "RelativeToolTip": "Algorithm2\\binarySearchAll.c*",
-              "ViewState": "AgIAACMAAAAAAAAAAAAcwDYAAAAiAAAAAAAAAA==",
+              "Title": "stringReverse.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\stringReverse.c",
+              "RelativeDocumentMoniker": "Algorithm2\\stringReverse.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\stringReverse.c*",
+              "RelativeToolTip": "Algorithm2\\stringReverse.c*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-13T15:24:29.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "binarySearch2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\binarySearch2.c",
-              "RelativeDocumentMoniker": "Algorithm2\\binarySearch2.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\binarySearch2.c*",
-              "RelativeToolTip": "Algorithm2\\binarySearch2.c*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-13T15:15:15.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "binarySearch1.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\binarySearch1.c",
-              "RelativeDocumentMoniker": "Algorithm2\\binarySearch1.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\binarySearch1.c",
-              "RelativeToolTip": "Algorithm2\\binarySearch1.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-13T15:14:17.971Z",
+              "WhenOpened": "2025-08-14T01:57:34.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "seqSearchAll.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\seqSearchAll.c",
-              "RelativeDocumentMoniker": "Algorithm2\\seqSearchAll.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\seqSearchAll.c",
-              "RelativeToolTip": "Algorithm2\\seqSearchAll.c",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCIAAAAXAAAAAAAAAA==",
+              "Title": "str_char_all.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char_all.c",
+              "RelativeDocumentMoniker": "Algorithm2\\str_char_all.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char_all.c",
+              "RelativeToolTip": "Algorithm2\\str_char_all.c",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-13T15:04:22.343Z",
+              "WhenOpened": "2025-08-14T01:50:08.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "str_char2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char2.c",
+              "RelativeDocumentMoniker": "Algorithm2\\str_char2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char2.c*",
+              "RelativeToolTip": "Algorithm2\\str_char2.c*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-14T01:42:35.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "sequentialSearch3.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\sequentialSearch3.c",
-              "RelativeDocumentMoniker": "Algorithm2\\sequentialSearch3.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\sequentialSearch3.c",
-              "RelativeToolTip": "Algorithm2\\sequentialSearch3.c",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvxwAAAADAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "str_char.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char.c",
+              "RelativeDocumentMoniker": "Algorithm2\\str_char.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char.c",
+              "RelativeToolTip": "Algorithm2\\str_char.c",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-13T14:47:34.273Z"
+              "WhenOpened": "2025-08-14T01:33:23.734Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "sequentialSearch2.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\sequentialSearch2.c",
-              "RelativeDocumentMoniker": "Algorithm2\\sequentialSearch2.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\sequentialSearch2.c",
-              "RelativeToolTip": "Algorithm2\\sequentialSearch2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Title": "binarySearch2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\binarySearch2.c",
+              "RelativeDocumentMoniker": "Algorithm2\\binarySearch2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\binarySearch2.c",
+              "RelativeToolTip": "Algorithm2\\binarySearch2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-13T14:46:30.601Z"
+              "WhenOpened": "2025-08-14T01:22:58.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "sequentialSearch.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\sequentialSearch.c",
-              "RelativeDocumentMoniker": "Algorithm2\\sequentialSearch.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\sequentialSearch.c",
-              "RelativeToolTip": "Algorithm2\\sequentialSearch.c",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwvxcAAAADAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "strlen.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\strlen.c",
+              "RelativeDocumentMoniker": "Algorithm2\\strlen.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\strlen.c",
+              "RelativeToolTip": "Algorithm2\\strlen.c",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-13T14:45:40.003Z"
+              "WhenOpened": "2025-08-14T01:22:38.993Z"
             }
           ]
         }

@@ -1,4 +1,6 @@
+//#define _CRT_SECURE_NO_WARNINGS
 //#include <stdio.h>
+//#include <stdlib.h>
 //
 //void selectionSorting(int a[], int n) {
 //	int i, j, temp;
@@ -19,17 +21,26 @@
 //
 //int main()
 //{
-//	int arr[5] = { 41, 36, 8, 77, 15 };
-//	int i, j, temp, size;
+//	int size;  //배열의 크기
+//	int* arr;  //배열(동적 할당)
+//	int i;
 //
-//	size = sizeof(arr) / sizeof(arr[0]);
+//	puts("===== 선택 정렬 =====");
+//	printf("요소의 개수 입력: ");
+//	scanf("%d", &size);
+//	arr = (int*)malloc(sizeof(int) * size);
 //
-//	//선택 정렬 함수 호출
-//	selectionSorting(arr, size);
-//	
-//	//정렬 후 출력
-//	for (i = 0; i < size; i++)
+//	for (i = 0; i < size; i++) {
+//		printf("arr[%d]: ", i);
+//		scanf("%d", &arr[i]);
+//	}
+//
+//	selectionSorting(arr, size); //선택 정렬 함수 호출
+//
+//	for (i = 0; i < size; i++) {
 //		printf("%d ", arr[i]);
+//	}
+//	free(arr);
 //
 //	return 0;
 //}

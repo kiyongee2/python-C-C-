@@ -1,11 +1,11 @@
 //#include <stdio.h>
 //#include <stdlib.h>
 //
-//void calcRank(int arr[], int rank[], int size) {
+//void calcRank(int arr[], int rank[], int n) {
 //    int i, j;
-//    for (i = 0; i < size; i++) {
+//    for (i = 0; i < n; i++) {
 //        rank[i] = 1; // 초기 순위
-//        for (j = 0; j < size; j++) {
+//        for (j = 0; j < n; j++) {
 //            if (arr[i] < arr[j])
 //                rank[i]++;
 //        }
