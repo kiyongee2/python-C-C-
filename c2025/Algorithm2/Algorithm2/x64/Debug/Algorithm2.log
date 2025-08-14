@@ -1,5 +1,3 @@
-﻿  stringReverse.c
-D:\korea_IT\c2025\Algorithm2\Algorithm2\stringReverse.c(26,6): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  str_char2.c
-  코드를 생성하고 있습니다...
+﻿  str_char.c
+D:\korea_IT\c2025\Algorithm2\Algorithm2\str_char.c(26,1): warning C4715: 'str_char2': 모든 제어 경로에서 값을 반환하지는 않습니다.
   Algorithm2.vcxproj -> D:\korea_IT\c2025\Algorithm2\x64\Debug\Algorithm2.exe

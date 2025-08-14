@@ -27,11 +27,9 @@
 //
 //    printf("문자열: ");
 //    fgets(str, sizeof(str), stdin);
-//    str[strcspn(str, "\n")] = '\0'; // 개행 제거
 //
 //    printf("검색할 문자: ");
 //    fgets(tmp, sizeof(tmp), stdin);
-//    tmp[strcspn(tmp, "\n")] = '\0';
 //
 //    ch = tmp[0]; // 첫 번째 문자만 검색
 //

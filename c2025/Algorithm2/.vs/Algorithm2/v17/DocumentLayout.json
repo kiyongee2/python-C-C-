@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\Algorithm2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\stringReverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\stringReverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\str_char2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\str_char.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\stringReverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\stringReverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char_all.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\str_char_all.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\str_char2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{155284F7-1221-4453-8F53-2998101C3D6D}|Algorithm2\\Algorithm2.vcxproj|D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\strlen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,36 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "stringReverse.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\stringReverse.c",
               "RelativeDocumentMoniker": "Algorithm2\\stringReverse.c",
               "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\stringReverse.c",
               "RelativeToolTip": "Algorithm2\\stringReverse.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-14T01:57:34.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "str_char_all.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char_all.c",
               "RelativeDocumentMoniker": "Algorithm2\\str_char_all.c",
               "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char_all.c",
               "RelativeToolTip": "Algorithm2\\str_char_all.c",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-14T01:50:08.971Z"
+              "WhenOpened": "2025-08-14T01:50:08.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "str_char2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char2.c",
               "RelativeDocumentMoniker": "Algorithm2\\str_char2.c",
@@ -71,20 +72,20 @@
               "RelativeToolTip": "Algorithm2\\str_char2.c",
               "ViewState": "AgIAAA4AAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-14T01:42:35.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T01:42:35.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "str_char.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char.c",
               "RelativeDocumentMoniker": "Algorithm2\\str_char.c",
               "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char.c",
               "RelativeToolTip": "Algorithm2\\str_char.c",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-14T01:33:23.734Z"
+              "WhenOpened": "2025-08-14T01:33:23.734Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
