@@ -13,7 +13,6 @@
 //		return 1;
 //
 //	fprintf(fp, "%s", str);
-//
 //	fclose(fp);
 //
 //	//파일 읽기
@@ -25,16 +24,16 @@
 //		return 1;
 //
 //	//파일의 끝까지 읽기
-//	/*while (fgets(buf, sizeof(buf), fp) != NULL) {
-//		printf("%03d: %s", i, buf);
-//		i++;
-//	}*/
-//	
-//	while (1) {
-//		if (fgets(buf, sizeof(buf), fp) == NULL) break;
+//	while (fgets(buf, sizeof(buf), fp) != NULL) {
 //		printf("%03d: %s", i, buf);
 //		i++;
 //	}
+//	
+//	/*while (1) {
+//		if (fgets(buf, sizeof(buf), fp) == NULL) break;
+//		printf("%03d: %s", i, buf);
+//		i++;
+//	}*/
 //
 //	/*while (feof(fp) == 0) {
 //		fgets(buf, sizeof(buf), fp);

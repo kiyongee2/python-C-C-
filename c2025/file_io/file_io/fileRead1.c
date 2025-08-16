@@ -5,7 +5,7 @@
 //{
 //	FILE* fp; //파일 포인터 변수 
 //	int ch;  //읽은 문자 변수(코드값이므로 int형)
-//	char str[256];
+//	char str[128];
 //
 //	fp = fopen("c:/cfile/out.txt", "r"); //읽기 모드 - "r"
 //	if (fp == NULL) {
@@ -18,7 +18,6 @@
 //	printf("%c", ch);*/ //'H'
 //	
 //	//모든 글자 읽기
-//	//방법 1
 //	/*while (1) {
 //		ch = fgetc(fp);
 //		if (ch == EOF) break;
@@ -26,22 +25,25 @@
 //		printf("%c", ch);
 //	}*/
 //
-//	//방법 2
-//	while ((ch = fgetc(fp)) != EOF) {
-//		printf("%c", ch);
-//	}
+//	//while ((ch = fgetc(fp)) != EOF) { //-1
+//	//	printf("%c", ch);
+//	//}
 //
-//	fclose(fp);
-//
+//	//방법 2 - 배열을 이용 읽기
 //	/*while (1) {
 //		if (fgets(str, sizeof(str), fp) == NULL) 
 //			break;
 //		printf("%s", str);
 //	}*/
 //
+//	fgets(str, sizeof(str), fp);  //한 줄(라인) 읽기
+//	printf("%s", str);
+//
 //	/*while (fgets(str, sizeof(str), fp) != NULL) {
 //		printf("%s", str);
 //	}*/
+//
+//	fclose(fp);
 //
 //	return 0;
 //}

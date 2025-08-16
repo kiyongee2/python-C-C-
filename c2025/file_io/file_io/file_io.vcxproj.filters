@@ -30,9 +30,6 @@
     <ClCompile Include="fileWrite2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="asciiRead.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="wordWriteRead.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -79,6 +76,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="writeRead2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fileWriteRead1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structFile.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="binaryFile.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

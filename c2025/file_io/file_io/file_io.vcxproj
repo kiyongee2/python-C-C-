@@ -127,9 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="asciiRead.c" />
     <ClCompile Include="asciiRead2.c" />
     <ClCompile Include="asciiWrite.c" />
+    <ClCompile Include="binaryFile.c" />
     <ClCompile Include="binFile1.c" />
     <ClCompile Include="calcScorelist.c" />
     <ClCompile Include="fileCopy.c" />
@@ -140,10 +140,12 @@
     <ClCompile Include="fileWrite1.c" />
     <ClCompile Include="fileWrite2.c" />
     <ClCompile Include="fileWriteRead.c" />
+    <ClCompile Include="fileWriteRead1.c" />
     <ClCompile Include="imgfileCopy.c" />
     <ClCompile Include="imgFileCopy2.c" />
     <ClCompile Include="inputBuffer.c" />
     <ClCompile Include="fileScorelist1.c" />
+    <ClCompile Include="structFile.c" />
     <ClCompile Include="typingGame.c" />
     <ClCompile Include="wordWriteRead.c" />
     <ClCompile Include="wordWriteRead2.c" />

@@ -1,3 +1,4 @@
+//#define _CRT_SECURE_NO_WARNINGS
 //#include <stdio.h>
 //
 //int main()
@@ -5,9 +6,7 @@
 //	FILE* fp; //파일 포인터 변수 
 //	int i;
 //
-//	//fopen_s(파일포인터, 파일이름, 쓰기모드)
-//	//상대 경로(프로젝트 폴더 안에 저장됨)
-//	fopen_s(&fp, "ascii.txt", "w"); 
+//	fp = fopen("c:/cfile/ascii.txt", "w"); 
 //	if (fp == NULL) {
 //		printf("파일 열기에 실패함\n");
 //		return 1;  //에러시 1 or -1
@@ -20,8 +19,23 @@
 //		fputc(i, fp);
 //		fputc('\t', fp);
 //	}
-//
 //	fclose(fp);
+//
+//	//파일 읽기
+//	/*int ch;
+//	FILE* file;
+//
+//	file = fopen("c:/cfile/ascii.txt", "r");
+//	if (file == NULL) {
+//		printf("파일 열기에 실패함\n");
+//		return 1;  //에러시 1 or -1
+//	}
+//
+//	//파일 읽기
+//	/*while ((ch = fgetc(file)) != EOF) {
+//		printf("%c", ch);
+//	}*/
+//	//fcolse(file);
 //
 //	return 0;
 //}

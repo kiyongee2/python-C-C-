@@ -7,6 +7,8 @@
 //} Node;
 //
 //void append(Node** head, int value) { // 연결 리스트에 노드 추가
+//    // Node** head : 이중 포인터를 사용하는 이유는,
+//    // 첫 노드가 비어 있는 경우 *head = newNode로 직접 갱신해야 하기 때문
 //    Node* newNode = (Node*)malloc(sizeof(Node));
 //    if (newNode == NULL) {
 //        printf("메모리 할당 실패!\n");

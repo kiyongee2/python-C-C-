@@ -21,7 +21,7 @@
 //	printf("파일 추가 쓰기 완료!\n");
 //
 //	//파일 읽기
-//	int ch;
+//	char str[128];  //배열에 저장
 //
 //	fp = fopen("c:/cfile/out.txt", "r"); 
 //	if (fp == NULL) {
@@ -29,10 +29,13 @@
 //		return 1;
 //	}
 //
-//	while (1) {
-//		ch = fgetc(fp);
-//		if (ch == EOF) break;
-//		printf("%c", ch);
+//	//한 줄 읽기
+//	fgets(str, sizeof(str), fp);  
+//	printf("%s", str);
+//
+//	//모든 라인 읽기
+//	while ((fgets(str, sizeof(str), fp)) != NULL) {
+//		printf("%s", str);
 //	}
 //
 //	fclose(fp);

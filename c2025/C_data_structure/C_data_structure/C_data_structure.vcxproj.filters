@@ -36,7 +36,7 @@
     <ClCompile Include="이진검색트리.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="연결리스트_사용자.cpp">
+    <ClCompile Include="연결리스트_사용자.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="stackInt.c">
@@ -45,7 +45,7 @@
     <ClCompile Include="stackChar.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="stackEx.c">
+    <ClCompile Include="stackInt2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="queueEx.c">
@@ -54,17 +54,52 @@
     <ClCompile Include="queueInt.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="queueStr.c">
+    <ClCompile Include="고객대기열1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="stackReverse.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="stackEx2.c">
+    <ClCompile Include="문자열뒤집기.2c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="연결리스트3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stackGraphic.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="intStack.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stackIntStruct.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열뒤집기1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="queueStruct.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="고객대기열2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="원형연결리스트_큐.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="원형큐시각화.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="단순연결리스트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="단순연결리스트2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트_학생성적.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IntStack.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

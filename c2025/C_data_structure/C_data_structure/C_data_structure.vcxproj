@@ -127,16 +127,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="intStack.c" />
     <ClCompile Include="queueEx.c" />
     <ClCompile Include="queueInt.c" />
-    <ClCompile Include="queueStr.c" />
+    <ClCompile Include="고객대기열1.c" />
+    <ClCompile Include="고객대기열2.c" />
+    <ClCompile Include="queueStruct.c" />
     <ClCompile Include="stackChar.c" />
-    <ClCompile Include="stackEx.c" />
-    <ClCompile Include="stackEx2.c" />
+    <ClCompile Include="stackInt2.c" />
+    <ClCompile Include="stackGraphic.c" />
     <ClCompile Include="stackInt.c" />
-    <ClCompile Include="stackReverse.c" />
+    <ClCompile Include="stackIntStruct.c" />
+    <ClCompile Include="단순연결리스트.c" />
+    <ClCompile Include="단순연결리스트2.c" />
+    <ClCompile Include="문자열뒤집기.2c" />
+    <ClCompile Include="문자열뒤집기1.c" />
     <ClCompile Include="연결리스트3.c" />
-    <ClCompile Include="연결리스트_사용자.cpp" />
+    <ClCompile Include="연결리스트_사용자.c" />
+    <ClCompile Include="연결리스트_학생성적.c" />
+    <ClCompile Include="원형연결리스트_큐.c" />
+    <ClCompile Include="원형큐시각화.c" />
     <ClCompile Include="이진검색트리.c" />
     <ClCompile Include="이진트리.c" />
     <ClCompile Include="그래프1.c" />
@@ -144,6 +154,9 @@
     <ClCompile Include="연결리스트.c" />
     <ClCompile Include="연결리스트2.c" />
     <ClCompile Include="연결리스트_큐.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IntStack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
