@@ -96,6 +96,15 @@
     <ClCompile Include="연결리스트_학생성적.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="연결리스트_메뉴.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트_사용자입력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트_메뉴2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IntStack.h">

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c2025\\DataStructure2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6CECB2-187B-48C3-A5AB-D9911B1AC7BD}|DataStructure2\\DataStructure2.vcxproj|D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\queueInt2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C6CECB2-187B-48C3-A5AB-D9911B1AC7BD}|DataStructure2\\DataStructure2.vcxproj|solutionrelative:DataStructure2\\queueInt2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6CECB2-187B-48C3-A5AB-D9911B1AC7BD}|DataStructure2\\DataStructure2.vcxproj|D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\queueInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C6CECB2-187B-48C3-A5AB-D9911B1AC7BD}|DataStructure2\\DataStructure2.vcxproj|solutionrelative:DataStructure2\\queueInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 375,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "queueInt2.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\queueInt2.c",
+              "RelativeDocumentMoniker": "DataStructure2\\queueInt2.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\queueInt2.c*",
+              "RelativeToolTip": "DataStructure2\\queueInt2.c*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-17T00:29:45.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "queueInt.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\queueInt.c",
+              "RelativeDocumentMoniker": "DataStructure2\\queueInt.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\queueInt.c",
+              "RelativeToolTip": "DataStructure2\\queueInt.c",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-16T23:47:15.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -143,7 +143,10 @@
     <ClCompile Include="문자열뒤집기.2c" />
     <ClCompile Include="문자열뒤집기1.c" />
     <ClCompile Include="연결리스트3.c" />
+    <ClCompile Include="연결리스트_메뉴2.c" />
     <ClCompile Include="연결리스트_사용자.c" />
+    <ClCompile Include="연결리스트_메뉴.c" />
+    <ClCompile Include="연결리스트_사용자입력.c" />
     <ClCompile Include="연결리스트_학생성적.c" />
     <ClCompile Include="원형연결리스트_큐.c" />
     <ClCompile Include="원형큐시각화.c" />

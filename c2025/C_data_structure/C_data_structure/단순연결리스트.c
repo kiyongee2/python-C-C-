@@ -29,7 +29,7 @@
 //        printf("%d -> ", current->data);
 //        current = current->next; 
 //    }
-//    printf("NULL\n"); //10 -> 20 -> 30->NULL
+//    printf("NULL\n"); //10 -> 20 -> 30 -> NULL
 //    
 //    // 메모리 해제
 //    free(third);

@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\file_io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\typingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\typingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\imgFileCopy2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\imgFileCopy2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,8 +11,20 @@
       "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\imgfileCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\binFile1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\binFile1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\binaryFile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\binaryFile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\fileScorelist1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\fileScorelist1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\typingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|solutionrelative:file_io\\typingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{208BAFAC-FD10-4BF4-8F22-94501A8DF7B2}|file_io\\file_io.vcxproj|D:\\korea_IT\\c2025\\file_io\\file_io\\calcScorelist.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,42 +42,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "binFile1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\binFile1.c",
+              "RelativeDocumentMoniker": "file_io\\binFile1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\binFile1.c*",
+              "RelativeToolTip": "file_io\\binFile1.c*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-17T01:10:48.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fileScorelist1.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileScorelist1.c",
+              "RelativeDocumentMoniker": "file_io\\fileScorelist1.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\fileScorelist1.c",
+              "RelativeToolTip": "file_io\\fileScorelist1.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-17T01:09:07.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "typingGame.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\typingGame.c",
               "RelativeDocumentMoniker": "file_io\\typingGame.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\typingGame.c*",
-              "RelativeToolTip": "file_io\\typingGame.c*",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAqwD0AAAAtAAAAAAAAAA==",
+              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\typingGame.c",
+              "RelativeToolTip": "file_io\\typingGame.c",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswEUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-16T00:27:23.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "imgFileCopy2.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\imgFileCopy2.c",
               "RelativeDocumentMoniker": "file_io\\imgFileCopy2.c",
               "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\imgFileCopy2.c*",
               "RelativeToolTip": "file_io\\imgFileCopy2.c*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBsAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-16T00:24:37.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "imgfileCopy.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\imgfileCopy.c",
               "RelativeDocumentMoniker": "file_io\\imgfileCopy.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\imgfileCopy.c*",
-              "RelativeToolTip": "file_io\\imgfileCopy.c*",
+              "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\imgfileCopy.c",
+              "RelativeToolTip": "file_io\\imgfileCopy.c",
               "ViewState": "AgIAAAgAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-16T00:23:34.114Z",
@@ -83,14 +117,14 @@
               "RelativeDocumentMoniker": "file_io\\binaryFile.c",
               "ToolTip": "D:\\korea_IT\\c2025\\file_io\\file_io\\binaryFile.c",
               "RelativeToolTip": "file_io\\binaryFile.c",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-16T00:19:58.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "calcScorelist.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\calcScorelist.c",
               "RelativeDocumentMoniker": "file_io\\calcScorelist.c",
@@ -98,12 +132,11 @@
               "RelativeToolTip": "file_io\\calcScorelist.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-16T00:12:16.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T00:12:16.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "structFile.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\file_io\\file_io\\structFile.c",
               "RelativeDocumentMoniker": "file_io\\structFile.c",
@@ -111,8 +144,7 @@
               "RelativeToolTip": "file_io\\structFile.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-16T00:10:14.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T00:10:14.083Z"
             }
           ]
         }
