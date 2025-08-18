@@ -30,7 +30,7 @@
     <ClCompile Include="selectionSort2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="strlen.c">
+    <ClCompile Include="strlenEx.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="str_char.c">
@@ -79,6 +79,18 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="stringReverse.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quickSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quickSort2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quickSort3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="str_char_all2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
