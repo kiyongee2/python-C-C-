@@ -63,5 +63,14 @@
 //    push(100);
 //    printStackVisual();
 //
+//    pop();
+//    printStackVisual();
+//
+//    pop();
+//    printStackVisual();
+//
+//    pop();
+//    printStackVisual();
+//
 //    return 0;
 //}

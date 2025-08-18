@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Algorithm2\\str_char_all2.c",
               "ToolTip": "D:\\korea_IT\\c2025\\Algorithm2\\Algorithm2\\str_char_all2.c",
               "RelativeToolTip": "Algorithm2\\str_char_all2.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-18T00:46:29.269Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Algorithm2\\str_char_all.c",
               "ViewState": "AgIAABcAAAAAAAAAAAAkwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-18T00:38:30.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T00:38:30.901Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Algorithm2\\str_char.c",
               "ViewState": "AgIAABkAAAAAAAAAAAAYwCsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-18T00:28:38.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T00:28:38.827Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Algorithm2\\strlenEx.c",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-18T00:28:59.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T00:28:59.349Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Algorithm2\\stringReverse.c",
               "ViewState": "AgIAAA0AAAAAAAAAAAAYwCMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-18T00:26:44.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T00:26:44.928Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Algorithm2\\quickSort2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-17T22:26:22.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T22:26:22.845Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Algorithm2\\quickSort3.c",
               "ViewState": "AgIAACQAAAAAAAAAAAAYwDoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-17T22:24:09.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T22:24:09.575Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "Algorithm2\\quickSort.c",
               "ViewState": "AgIAABkAAAAAAAAAAAAYwC8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-17T21:23:16.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T21:23:16.539Z"
             }
           ]
         }

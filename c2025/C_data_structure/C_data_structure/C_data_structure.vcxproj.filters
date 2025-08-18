@@ -48,10 +48,10 @@
     <ClCompile Include="stackInt2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="queueEx.c">
+    <ClCompile Include="queueInt1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="queueInt.c">
+    <ClCompile Include="queueInt2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="고객대기열1.c">
@@ -78,7 +78,7 @@
     <ClCompile Include="queueStruct.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="고객대기열2.c">
+    <ClCompile Include="고객대기열3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="원형연결리스트_큐.c">
@@ -103,6 +103,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="연결리스트_메뉴2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="고객대기열2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

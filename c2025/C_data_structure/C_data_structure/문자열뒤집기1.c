@@ -3,7 +3,6 @@
 //
 //#define MAX_LEN 128  // 문자열 최대 길이
 //
-//// 스택 구조체 정의
 //typedef struct {
 //    char data[MAX_LEN];
 //    int top;
@@ -20,28 +19,28 @@
 //        return;
 //    }
 //    else
-//        s->data[++(s->top)] = ch;
+//        s->data[++(s->top)] = ch; //문자 저장
 //}
 //
 //int pop(Stack* s) {
 //    if (s->top < 0) {
-//        printf("스택이 비어 있습니다. POP 실패\n");
+//        printf("스택이 비어 있습니다.\n");
 //        return -1;
 //    }
 //    else 
-//        return s->data[(s->top)--];
+//        return s->data[(s->top)--]; //문자 반환
 //}
 //
 //int main() {
 //
 //    Stack stack;  //스택 구조체 변수 생성
-//    initStack(&stack);
+//    char str[MAX_LEN]; //문자열 배열
 //
-//    char str[MAX_LEN];
+//    initStack(&stack); //초기화 함수 호출
+//
+//    //사용자 입력
 //    printf("문자열 입력: ");
 //    fgets(str, MAX_LEN, stdin);  //공백 포함 문자 입력
-//
-//    str[strcspn(str, "\n")] = '\0'; // 개행 문자 제거
 //
 //    // 문자열을 한 글자씩 push
 //    for (int i = 0; str[i] != '\0'; i++) {

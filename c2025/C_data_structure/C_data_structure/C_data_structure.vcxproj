@@ -128,10 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="intStack.c" />
-    <ClCompile Include="queueEx.c" />
-    <ClCompile Include="queueInt.c" />
+    <ClCompile Include="queueInt1.c" />
+    <ClCompile Include="queueInt2.c" />
     <ClCompile Include="고객대기열1.c" />
     <ClCompile Include="고객대기열2.c" />
+    <ClCompile Include="고객대기열3.c" />
     <ClCompile Include="queueStruct.c" />
     <ClCompile Include="stackChar.c" />
     <ClCompile Include="stackInt2.c" />

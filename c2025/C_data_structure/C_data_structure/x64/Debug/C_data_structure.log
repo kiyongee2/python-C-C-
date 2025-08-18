@@ -1,3 +1,2 @@
-﻿  stackInt.c
-D:\korea_IT\c2025\C_data_structure\C_data_structure\stackInt.c(31,6): warning C4101: 'value' :참조되지 않은 지역 변수입니다.
+﻿  고객대기열1.c
   C_data_structure.vcxproj -> D:\korea_IT\c2025\C_data_structure\x64\Debug\C_data_structure.exe

@@ -1,6 +1,7 @@
 //#include <stdio.h>
 //
 //#define MAX_LEN 3
+//
 //char stack[MAX_LEN];
 //int top = -1;
 //  
@@ -10,13 +11,13 @@
 //		return;  //return '\0' (널문자, 비어있음)
 //	}
 //	stack[++top] = c;
-//	printf("%c\n", stack[top]);
+//	printf("%c ", stack[top]);
 //}
 //
-//int pop() { //요소 삭제(빼기)
+//char pop() { //요소 삭제(빼기)
 //	if (top < 0) {
 //		printf("스택이 비었습니다!!\n");
-//		return -1; 
+//		return '\0';
 //	}
 //	return stack[top--];
 //}
@@ -32,10 +33,15 @@
 //
 //	//c - b - a
 //	printf("스택에서 자료 삭제\n");
+//	/*printf("%c\n", pop());
 //	printf("%c\n", pop());
 //	printf("%c\n", pop());
-//	printf("%c\n", pop());
-//	printf("%c\n", pop()); //비었을 때 처리 확인
+//	printf("%c\n", pop()); //비었을 때 처리 확인*/
+//
+//	while (top != -1) { //안전한 삭제
+//        printf("%c ", stack[top]);
+//        pop();
+//    }
 //
 //	return 0;
 //}

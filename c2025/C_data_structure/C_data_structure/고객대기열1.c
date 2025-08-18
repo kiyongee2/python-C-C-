@@ -5,6 +5,17 @@
 //#define MAX_QUEUE 4
 //#define NAME_LEN 20
 //
+///*
+//queue[MAX_QUEUE][NAME_LEN]; //ÀÌÂ÷¿ø ¹è¿­
+//queue[4][20] = {"°í°´A", "°í°´B", "°í°´C", ""};
+//
+//queue[0] ¡æ {'°í','°´','A','\0', ¡¦ }  // °í°´A
+//queue[1] ¡æ {'°í','°´','B','\0', ¡¦ }  // °í°´B
+//queue[2] ¡æ {'°í','°´','C','\0', ¡¦ }  // °í°´C
+//queue[3] ¡æ { ?, ?, ?, ¡¦ }            // ºñ¾îÀÖÀ½
+//
+//*/
+//
 //// Å¥ Á¤ÀÇ
 //char queue[MAX_QUEUE][NAME_LEN];
 //int front = 0;
@@ -48,6 +59,7 @@
 //    enQueue("°í°´A");
 //    enQueue("°í°´B");
 //    enQueue("°í°´C");
+//    //enQueue("°í°´D");
 //
 //    // ´ë±â¿­ Ã³¸®
 //    while (!isEmpty()) {

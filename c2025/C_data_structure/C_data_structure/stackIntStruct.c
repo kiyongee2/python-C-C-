@@ -49,6 +49,7 @@
 //    Stack stack;   // 스택 변수 생성
 //    initStack(&stack); // 초기화
 //
+//    puts("=== 스택에 자료 삽입 ===");
 //    // 값 추가 (push) : 80 - 70 - 95 - 85
 //    push(&stack, 80);
 //    push(&stack, 70);
@@ -56,15 +57,18 @@
 //    push(&stack, 85);
 //    //push(&stack, 100); // 초과 입력 시 실패
 //
+//    puts("\n=== 스택에서 자료 삭제 ===");
 //    // 값 제거 (pop) : 85 - 95 - 70 - 80
+//    /*pop(&stack);
 //    pop(&stack);
-//    pop(&stack);
-//    pop(&stack);
+//    pop(&stack);*/
 //    //pop(&stack);
 //    //pop(&stack); // 빈 상태에서 pop 시도
 //
-//    // 최종 상태 출력
-//    printStack(&stack);
+//    while (stack.top != -1) {
+//        printf("%d\n", pop(&stack));
+//    }
+//    printStack(&stack); // 최종 상태 출력
 //
 //    return 0;
 //}
