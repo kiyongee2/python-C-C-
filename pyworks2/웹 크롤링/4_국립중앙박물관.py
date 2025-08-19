@@ -16,10 +16,10 @@ first_ul = html.select_one('ul.display-content')
 # '>' - 자식 태그, ' ' - 공백은 후손 태그(범위가 넓다)
 contents = html.select('ul.display-content-area > li > ul')
 # contents = html.select('ul.display-content-area li ul')
-print(contents)
+# print(contents)
 
 # for content in contents:
 #   print(content.text)
 
-# 관람료
-# print(contents[2].text)
+# 휴관일
+print(contents[1].text)

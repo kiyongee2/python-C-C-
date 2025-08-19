@@ -5,7 +5,6 @@ from tkinter import *
 from tkinter import messagebox
 
 # 최신 회차
-"""
 latest_url = "https://dhlottery.co.kr/gameResult.do?method=byWin"
 resp = requests.get(latest_url)
 
@@ -31,7 +30,6 @@ print(win_num_list[:-1]) #실제 0 ~ -2 인덱스
 
 print("보너스 번호")
 print(win_num_list[-1]) 
-"""
 
 # 회차 선택
 '''
@@ -51,8 +49,9 @@ print(win_num_list[:-1]) #실제 0 ~ -2 인덱스
 print("보너스 번호")
 print(win_num_list[-1]) 
 '''
-# 윈도우 앱 만들기
 
+# 윈도우 앱 만들기
+'''
 def lotto_win():
   try:
     num = int(entry.get()) #입력된 회차 번호 가져옴
@@ -97,3 +96,4 @@ output = Text(window, bg="lightgreen", width=50, height=6)
 output.grid(row=3, column=0, sticky=W)
 
 window.mainloop()
+'''
