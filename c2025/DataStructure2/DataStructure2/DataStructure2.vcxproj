@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="circularQueue.c" />
     <ClCompile Include="queueInt.c" />
     <ClCompile Include="queueInt2.c" />
   </ItemGroup>

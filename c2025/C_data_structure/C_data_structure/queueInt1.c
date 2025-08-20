@@ -23,8 +23,8 @@
 //	}
 //	queue[rear] = x; //뒤에서 데이터 넣기
 //	rear = (rear + 1) % MAX_QUEUE; //rear를 다음 위치로 이동
-//	//printf("front=%d, rear=%d, x=%d\n", queue[front], queue[rear], x);
-//	printf("%d ", x);
+//	printf("front=%d, rear=%d, x=%d\n", queue[front], queue[rear], x);
+//	//printf("%d ", x);
 //}
 //
 //int deQueue() {

@@ -2,6 +2,7 @@
 //#include <stdio.h>
 //#include <stdlib.h>
 //#include <string.h>
+//#include <stdbool.h>
 //
 //#define MAX_QUEUE 4
 //#define NAME_LEN 20
@@ -12,12 +13,12 @@
 //int rear = 0;
 //
 //// 큐가 비었는지 확인
-//int isEmpty() {
+//bool isEmpty() {
 //    return front == rear;
 //}
 //
 //// 큐가 가득 찼는지 확인
-//int isFull() {
+//bool isFull() {
 //    return (rear + 1) % MAX_QUEUE == front;
 //}
 //
@@ -28,7 +29,7 @@
 //        return;
 //    }
 //    // 문자열 길이만큼 메모리 동적 할당
-//    queue[rear] = (char*)malloc(strlen(name) + 1);
+//    queue[rear] = (char*)malloc(strlen(name) + 1); //'\0' 포함
 //    if (queue[rear] == NULL) {
 //        printf("메모리 할당 실패!\n");
 //        exit(1);
