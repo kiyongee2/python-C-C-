@@ -2,16 +2,18 @@
 //#include <stdlib.h>
 //
 //// 노드 구조 정의
-//typedef struct Node {
+//typedef struct{
 //    int data;           // 노드가 저장하는 값
 //    struct Node* next;  // 다음 노드의 주소(자기 참조)
 //} Node;
 //
 //int main() {
-//    // 노드 3개 생성
-//    Node* head = (Node*)malloc(sizeof(Node));
-//    Node* second = (Node*)malloc(sizeof(Node));
-//    Node* third = (Node*)malloc(sizeof(Node));
+//    // 노드 3개 생성 - 동적 할당(힙 메모리 영역)
+//    Node* head, * second, * third;
+//
+//    head = (Node*)malloc(sizeof(Node));  //첫 노드
+//    second = (Node*)malloc(sizeof(Node));
+//    third = (Node*)malloc(sizeof(Node));
 //
 //    // 데이터 저장
 //    head->data = 10;

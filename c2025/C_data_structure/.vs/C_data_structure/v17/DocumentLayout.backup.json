@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\C_data_structure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\queueStruct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|solutionrelative:C_data_structure\\queueStruct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB2742.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|solutionrelative:C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB2742.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uACE0\uAC1D\uB300\uAE30\uC5F41.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|solutionrelative:C_data_structure\\\uACE0\uAC1D\uB300\uAE30\uC5F41.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB274.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|solutionrelative:C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB274.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uB2E8\uC21C\uC5F0\uACB0\uB9AC\uC2A4\uD2B83_\uC0BD\uC785,\uC0AD\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|solutionrelative:C_data_structure\\\uB2E8\uC21C\uC5F0\uACB0\uB9AC\uC2A4\uD2B83_\uC0BD\uC785,\uC0AD\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uB2E8\uC21C\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0AC\uC6A9\uC790\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{394240F6-C2EB-46B1-86A7-6C5994A4619A}|C_data_structure\\C_data_structure.vcxproj|solutionrelative:C_data_structure\\\uB2E8\uC21C\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0AC\uC6A9\uC790\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +31,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "queueStruct.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\queueStruct.c",
-              "RelativeDocumentMoniker": "C_data_structure\\queueStruct.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\queueStruct.c",
-              "RelativeToolTip": "C_data_structure\\queueStruct.c",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFQAAAAUAAAAAAAAAA==",
+              "Title": "\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB2742.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB2742.c",
+              "RelativeDocumentMoniker": "C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB2742.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB2742.c",
+              "RelativeToolTip": "C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB2742.c",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwEAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-18T23:03:19.034Z",
+              "WhenOpened": "2025-08-19T23:00:39.416Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "\uACE0\uAC1D\uB300\uAE30\uC5F41.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uACE0\uAC1D\uB300\uAE30\uC5F41.c",
-              "RelativeDocumentMoniker": "C_data_structure\\\uACE0\uAC1D\uB300\uAE30\uC5F41.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uACE0\uAC1D\uB300\uAE30\uC5F41.c*",
-              "RelativeToolTip": "C_data_structure\\\uACE0\uAC1D\uB300\uAE30\uC5F41.c*",
-              "ViewState": "AgIAADMAAAAAAAAAAAAmwEkAAAAAAAAAAAAAAA==",
+              "Title": "\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB274.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB274.c",
+              "RelativeDocumentMoniker": "C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB274.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB274.c",
+              "RelativeToolTip": "C_data_structure\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB274.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-18T22:58:16.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T23:00:26.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uB2E8\uC21C\uC5F0\uACB0\uB9AC\uC2A4\uD2B83_\uC0BD\uC785,\uC0AD\uC81C.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uB2E8\uC21C\uC5F0\uACB0\uB9AC\uC2A4\uD2B83_\uC0BD\uC785,\uC0AD\uC81C.c",
+              "RelativeDocumentMoniker": "C_data_structure\\\uB2E8\uC21C\uC5F0\uACB0\uB9AC\uC2A4\uD2B83_\uC0BD\uC785,\uC0AD\uC81C.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uB2E8\uC21C\uC5F0\uACB0\uB9AC\uC2A4\uD2B83_\uC0BD\uC785,\uC0AD\uC81C.c",
+              "RelativeToolTip": "C_data_structure\\\uB2E8\uC21C\uC5F0\uACB0\uB9AC\uC2A4\uD2B83_\uC0BD\uC785,\uC0AD\uC81C.c",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-19T22:59:33.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\uB2E8\uC21C\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0AC\uC6A9\uC790\uC785\uB825.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uB2E8\uC21C\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0AC\uC6A9\uC790\uC785\uB825.c",
+              "RelativeDocumentMoniker": "C_data_structure\\\uB2E8\uC21C\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0AC\uC6A9\uC790\uC785\uB825.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\C_data_structure\\C_data_structure\\\uB2E8\uC21C\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0AC\uC6A9\uC790\uC785\uB825.c",
+              "RelativeToolTip": "C_data_structure\\\uB2E8\uC21C\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0AC\uC6A9\uC790\uC785\uB825.c",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwDAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-19T21:04:08.958Z"
             }
           ]
         }
