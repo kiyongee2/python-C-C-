@@ -2,7 +2,7 @@
 //#include <stdlib.h>
 //
 //// 노드 구조 정의
-//typedef struct {
+//typedef struct Node {
 //    int data;           // 노드가 저장하는 값
 //    struct Node* next;  // 다음 노드의 주소(자기 참조)
 //} Node;
@@ -14,9 +14,20 @@
 //        printf("메모리 할당 실패!\n");
 //        exit(1);
 //    }
-//    newNode->data = value;
-//    newNode->next = NULL;
+//    newNode->data = value;  //노드의 데이터 값
+//    newNode->next = NULL;   //다음 노드의 주소 초기화
 //    return newNode;
+//}
+//
+//// 노드 개수 구하는 함수
+//int getLength(Node* head) {
+//    int count = 0;
+//    Node* current = head;  //head 노드를 현재 노드에 저장
+//    while (current != NULL) {
+//        count++;
+//        current = current->next; //현재 노드를 다음 노드로 이동
+//    }
+//    return count;
 //}
 //
 //// 리스트 출력 함수
@@ -30,23 +41,30 @@
 //}
 //
 //int main() {
+//
 //    // 노드 3개 생성 (동적 할당)
 //    Node* head = createNode(10);
 //    Node* second = createNode(20);
 //    Node* third = createNode(30);
 //
-//    // 노드 연결
+//    // 노드 연결(link)
 //    head->next = second;
 //    second->next = third;
+//
+//    // 노드의 개수
+//    printf("노드의 개수: %d\n", getLength(head));
 //
 //    // 출력
 //    printf("연결 리스트 출력: ");
 //    printList(head); // 10 -> 20 -> 30 -> NULL
 //
-//    // 메모리 해제
-//    free(third);
-//    free(second);
-//    free(head);
-//
+//    // 큐 방식(FIFO) 해제
+//    Node* current;
+//    while (head != NULL) {
+//        current = head;     // 맨 앞 노드를 임시 저장
+//        head = head->next;  // head를 다음 노드로 이동
+//        printf("free(%d)\n", current->data);
+//        free(current);      // 맨 앞 노드 해제
+//    }
 //    return 0;
 //}

@@ -1,15 +1,6 @@
+#include "CircularQueue.h"
 #include <stdio.h>
-#include <stdbool.h>
 
-#define QUEUE_SIZE 10
-
-typedef struct {
-	int data[QUEUE_SIZE];
-	int front;
-	int rear;
-}CircularQueue;
-
-//큐 초기화
 void initQueue(CircularQueue* q) {
 	q->front = 0;
 	q->rear = 0;
@@ -54,24 +45,4 @@ void printQueue(CircularQueue* q) {
 		i = (i + 1) % QUEUE_SIZE;
 	}
 	printf("\n");
-}
-
-int main()
-{
-	CircularQueue q1;
-
-	initQueue(&q1);
-
-	puts("큐1에 데이터 넣기");
-	enQueue(&q1, 10);
-	enQueue(&q1, 20);
-	enQueue(&q1, 30);
-	printQueue(&q1);
-
-	puts("큐1에 데이터 빼기");
-	printf("%d ", deQueue(&q1));
-	printf("%d ", deQueue(&q1));
-	printQueue(&q1);
-
-	return 0;
 }

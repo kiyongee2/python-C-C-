@@ -3,7 +3,7 @@
 //#include <stdlib.h>
 //
 //// 노드 구조 정의
-//typedef struct Node {
+//typedef struct{
 //    int data;
 //    struct Node* next;
 //} Node;
@@ -59,8 +59,8 @@
 //    }
 //}
 //
-//// 맨 뒤 삽입
-//void insertNodeEnd(int value) {
+//
+//void insertNodeEnd(int value) { // 맨 뒤 삽입
 //    Node* newNode = (Node*)malloc(sizeof(Node));
 //    if (!newNode) {
 //        printf("메모리 할당 실패\n");
@@ -81,8 +81,7 @@
 //    printf("%d 맨 뒤 삽입 완료\n", value);
 //}
 //
-//// 맨 앞 삽입
-//void insertNodeFront(int value) {
+//void insertNodeFront(int value) { // 맨 앞 삽입
 //    Node* newNode = (Node*)malloc(sizeof(Node));
 //    if (!newNode) {
 //        printf("메모리 할당 실패\n");
@@ -94,12 +93,13 @@
 //    printf("%d 맨 앞 삽입 완료\n", value);
 //}
 //
-//// 노드 삭제 (값 기준)
-//void deleteNode(int value) {
-//    Node* current = head;
-//    Node* prev = NULL;
+//void deleteNode(int value) { // 노드 삭제 (값 기준)
+//    Node* current = head; //현재 탐색중인 노드를 가리킴
+//    Node* prev = NULL; //current의 이전 노드
 //
+//    //노드 탐색 - current의 값과 삭제하려는 값이 다를때까지 탐색
 //    while (current != NULL && current->data != value) {
+//        //다음 노드로 이동
 //        prev = current;
 //        current = current->next;
 //    }
@@ -109,14 +109,15 @@
 //        return;
 //    }
 //
-//    if (prev == NULL) {
+//    //삭제하려는 값을 찾음 -> 링크 재연결
+//    if (prev == NULL) { //첫 노드(head)인 경우 삭제
 //        head = current->next;
 //    }
 //    else {
 //        prev->next = current->next;
 //    }
 //
-//    free(current);
+//    free(current); //현재 노드 메모리 해제
 //    printf("%d 삭제 완료\n", value);
 //}
 //
@@ -133,7 +134,7 @@
 //        current = current->next;
 //    }
 //    printf("NULL\n");
-//}
+//} 
 //
 //// 메모리 해제
 //void freeList() {

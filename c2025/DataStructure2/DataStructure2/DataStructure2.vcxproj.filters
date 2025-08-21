@@ -21,8 +21,22 @@
     <ClCompile Include="queueInt2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="circularQueue.c">
+    <ClCompile Include="circularQueue1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CircularQueue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularQueueMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CircularQueue.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

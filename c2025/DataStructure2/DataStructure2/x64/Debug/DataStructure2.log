@@ -1,2 +1,5 @@
-﻿  circularQueue.c
+﻿  LinkedList1.c
+D:\korea_IT\c2025\DataStructure2\DataStructure2\LinkedList1.c(30,17): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\DataStructure2\DataStructure2\LinkedList1.c(51,11): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\DataStructure2\DataStructure2\LinkedList1.c(60,11): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
   DataStructure2.vcxproj -> D:\korea_IT\c2025\DataStructure2\x64\Debug\DataStructure2.exe
