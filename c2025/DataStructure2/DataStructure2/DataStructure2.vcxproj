@@ -127,6 +127,7 @@
     <ClCompile Include="circularQueue1.c" />
     <ClCompile Include="CircularQueueMain.c" />
     <ClCompile Include="LinkedList1.c" />
+    <ClCompile Include="linkedList2.c" />
     <ClCompile Include="queueInt.c" />
     <ClCompile Include="queueInt2.c" />
   </ItemGroup>

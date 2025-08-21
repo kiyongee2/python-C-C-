@@ -33,6 +33,9 @@
     <ClCompile Include="LinkedList1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="linkedList2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CircularQueue.h">
