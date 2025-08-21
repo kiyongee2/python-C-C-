@@ -3,19 +3,20 @@
 # 예)주민번호 뒷자리 등을 마스킹 처리(*문자로 변경)
 import re
 
-"""
 # 'korea'란 문자열을 정규표현식으로 조사
+
 pattern = re.compile("[a-z]+") #정규표현식
 # match() - 문자의 처음부터 일치하는지 검색
 match = pattern.match("korea")
 print(match) #<re.Match object; span=(0, 5), match='k'>
 # print(match.group()) #k
-# print(match.start()) #0
-# print(match.end())   #5
+print(match.start()) #0
+print(match.end())   #5
 if match:
     print("일치하는 문자열 있음: ", match.group())
 else:
     print("일치하는 문자열 없음")
+
 
 # 전화번호 검증 - "010-1234-5678"
 phone_pat = re.compile("010-[0-9]{3,4}-[0-9]{4}")
@@ -24,13 +25,14 @@ mat = phone_pat.match("010-12-5678")
 print(bool(mat)) #False
 
 # 한글이름 검증
-name_pat = "제갈수연동우"
+name_pat = "을지문덕장군"
 pat = re.compile("[가-힣]{2,5}")
-mat = pat.fullmatch(name_pat)
+# mat = pat.match(name_pat)
+# mat = pat.fullmatch(name_pat)
 print(bool(mat)) #False
-"""
 
 # 전화번호 패턴의 유효성(validation) 검사
+
 def validate_phone_number(phone):
     # phone_pat = re.compile("010-[0-9]{3,4}-[0-9]{4}")
     phone_pat = re.compile("010-\d{3,4}-\d{4}")  #\d-[0-9]와 같음

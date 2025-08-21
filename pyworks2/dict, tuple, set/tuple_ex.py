@@ -14,7 +14,7 @@ print(t[1:3])  #(2, 3)
 print(t[:])    #(1, 2, 3)
 
 # 수정 불가
-t[1] = 4
+# t[1] = 4
 
 # 삭제 불가
 # del t[1]
@@ -41,3 +41,21 @@ print(a[-1]) #3
 # 수정
 a[1] = 4
 print(a)
+
+# 은행 거래 내역에 튜플 사용
+transaction_history = [] #빈 리스트 생성
+transaction_history.append(("입금", 10000))
+transaction_history.append(("출금", 5000))
+print(transaction_history) #[('입금', 10000), ('출금', 5000)]
+
+# 요소 조회(검색)
+print(transaction_history[0]) #('입금', 10000)
+print(transaction_history[1]) #('출금', 5000)
+
+# 이차원 검색
+print(transaction_history[0][1]) #10000
+print(transaction_history[1][1]) #5000
+
+# 전체 요소 검색
+for transaction in transaction_history:
+    print(f"|{transaction[0]}|: {transaction[1]}원")
