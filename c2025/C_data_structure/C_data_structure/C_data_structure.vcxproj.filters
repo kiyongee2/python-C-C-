@@ -117,6 +117,12 @@
     <ClCompile Include="단순연결리스트3_삽입,삭제.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="고객대기열_구조체.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="고객대기열_구조체_메뉴.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IntStack.h">

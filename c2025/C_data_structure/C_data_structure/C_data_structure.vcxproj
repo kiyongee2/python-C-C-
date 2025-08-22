@@ -139,6 +139,8 @@
     <ClCompile Include="stackGraphic.c" />
     <ClCompile Include="stackInt.c" />
     <ClCompile Include="stackIntStruct.c" />
+    <ClCompile Include="고객대기열_구조체.c" />
+    <ClCompile Include="고객대기열_구조체_메뉴.c" />
     <ClCompile Include="단순연결리스트.c" />
     <ClCompile Include="단순연결리스트2_생성,출력.c" />
     <ClCompile Include="단순연결리스트3_삽입,삭제.c" />

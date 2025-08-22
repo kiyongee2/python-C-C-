@@ -1,4 +1,2 @@
-﻿  LinkedList1.c
-  linkedList2.c
-  코드를 생성하고 있습니다...
-  DataStructure2.vcxproj -> D:\korea_IT\c2025\DataStructure2\x64\Debug\DataStructure2.exe
+﻿  고객대기열_연결리스트기반_큐.c
+LINK : fatal error LNK1168: D:\korea_IT\c2025\DataStructure2\x64\Debug\DataStructure2.exe을(를) 쓰기용으로 열 수 없습니다.
