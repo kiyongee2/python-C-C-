@@ -134,6 +134,12 @@
     <ClCompile Include="고객대기열_원형큐.c" />
     <ClCompile Include="고객대기열_원형큐_메뉴.c" />
     <ClCompile Include="고객대기열_원형큐_연결리스트.c" />
+    <ClCompile Include="이진검색트리_메뉴.c" />
+    <ClCompile Include="이진검색트리_중위순회.c" />
+    <ClCompile Include="이진검색트리_탐색_삭제.c" />
+    <ClCompile Include="이진트리.c" />
+    <ClCompile Include="트리_도서관리.c" />
+    <ClCompile Include="트리_도서관리_메뉴.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CircularQueue.h" />

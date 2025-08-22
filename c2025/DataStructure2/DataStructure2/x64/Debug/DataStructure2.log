@@ -1,2 +1,6 @@
-﻿  고객대기열_연결리스트기반_큐.c
-LINK : fatal error LNK1168: D:\korea_IT\c2025\DataStructure2\x64\Debug\DataStructure2.exe을(를) 쓰기용으로 열 수 없습니다.
+﻿  이진검색트리_메뉴.c
+  이진검색트리_중위순회.c
+  이진검색트리_탐색_삭제.c
+  이진트리.c
+  코드를 생성하고 있습니다...
+  DataStructure2.vcxproj -> D:\korea_IT\c2025\DataStructure2\x64\Debug\DataStructure2.exe

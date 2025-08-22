@@ -48,6 +48,24 @@
     <ClCompile Include="고객대기열_연결리스트기반_큐.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="트리_도서관리.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="트리_도서관리_메뉴.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이진검색트리_메뉴.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이진검색트리_중위순회.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이진트리.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이진검색트리_탐색_삭제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CircularQueue.h">
