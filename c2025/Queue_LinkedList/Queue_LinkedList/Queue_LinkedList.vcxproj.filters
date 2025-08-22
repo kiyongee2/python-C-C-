@@ -27,5 +27,8 @@
     <ClCompile Include="연결리스트_메뉴선택2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="고객대기열_연결리스트 연습.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
