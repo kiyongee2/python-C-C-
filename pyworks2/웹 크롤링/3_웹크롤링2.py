@@ -1,5 +1,5 @@
 # 서울 시청 사이트 스크래핑
-
+"""
 import requests
 from bs4 import BeautifulSoup
 
@@ -32,3 +32,37 @@ print(all_li[-2].text) # 평생학습포털
 # 전체 서비스 출력
 # for li in all_li:
 #   print(li.text)
+"""
+
+# KBS 뉴스 기사
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+
+url = "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8337098"
+response = requests.get(url)
+html = BeautifulSoup(response.text, 'html.parser')
+
+# 제목
+title = html.select_one("h4.headline-title")
+print(title)
+print(title.text)
+
+# 기사 내용
+content = html.select_one("div.detail-body")
+print(content.text)
+print(content.text.strip())
+
+# 데이터프레임 생성
+data = {
+  '뉴스 url': [url],
+  '제목': [title.text],
+  '내용': [content.text]
+}
+
+df = pd.DataFrame(data)
+
+df.to_csv("kbs_news.csv", index=False, encoding="utf-8")
+
+news = pd.read_csv("kbs_news.csv")
+print(news)

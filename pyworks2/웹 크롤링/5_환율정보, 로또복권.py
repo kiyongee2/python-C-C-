@@ -11,7 +11,7 @@ soup = BeautifulSoup(resp.text, "html.parser")
 # select() 함수 사용
 all_li = soup.select("div.market1 ul li") 
 # all_li = soup.select("ul.data_lst li") #차이 비교
-# print(all_li)
+print(all_li)
 
 # 환율 종류 - select_one() : 1개 선택
 exchange = soup.select_one("span.blind")
