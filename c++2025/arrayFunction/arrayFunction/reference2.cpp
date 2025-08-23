@@ -31,7 +31,7 @@
 //	b = temp;
 //}
 //
-//void swapRef(int& a, int& b) {
+//void swapRef(int& a, int& b) { //참조자 전달(복사)
 //	int temp;
 //	temp = a;
 //	a = b;

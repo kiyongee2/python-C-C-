@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1toGob.cpp" />
     <ClCompile Include="constantEx.cpp" />
     <ClCompile Include="forEx.cpp" />
     <ClCompile Include="forEx0.cpp" />

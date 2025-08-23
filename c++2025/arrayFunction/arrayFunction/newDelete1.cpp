@@ -11,10 +11,14 @@
 //
 //	cout << n << endl;  //3
 //	cout << *p << endl; //3
-//	cout << *p + 10 << endl; //13
+//
+//	*p = *p + 10;
+//	cout << *p << endl; //13
+//	cout << n<< endl; //13
 //	cout << "===============\n";
 //
 //	//동적 포인터 변수 - new 키워드 사용
+//	int n2 = 4;
 //	int* ptr;
 //	ptr = new int;
 //	if (ptr == nullptr) { //C언어 - NULL, C++ - nullptr
@@ -23,8 +27,9 @@
 //	}
 //
 //	*ptr = 5;
+//
 //	cout << *ptr << endl;  //5
-//	cout << *ptr + 5 << endl;  //6
+//	cout << *ptr + 10 << endl;  //10
 //
 //	delete ptr;  //메모리 해제
 //
