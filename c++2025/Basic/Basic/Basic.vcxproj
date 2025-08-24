@@ -129,7 +129,7 @@
   <ItemGroup>
     <ClCompile Include="1toGob.cpp" />
     <ClCompile Include="constantEx.cpp" />
-    <ClCompile Include="forEx.cpp" />
+    <ClCompile Include="nestedFor.cpp" />
     <ClCompile Include="forEx0.cpp" />
     <ClCompile Include="ifelseEx1.cpp" />
     <ClCompile Include="inputData.cpp" />
@@ -142,6 +142,7 @@
     <ClCompile Include="seatAllocation.cpp" />
     <ClCompile Include="myPow.cpp" />
     <ClCompile Include="variableEx.cpp" />
+    <ClCompile Include="whileEx.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

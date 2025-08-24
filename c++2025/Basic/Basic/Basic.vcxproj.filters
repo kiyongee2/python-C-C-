@@ -33,7 +33,7 @@
     <ClCompile Include="ifelseEx1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="forEx.cpp">
+    <ClCompile Include="nestedFor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="myPow.cpp">
@@ -52,6 +52,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1toGob.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="whileEx.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

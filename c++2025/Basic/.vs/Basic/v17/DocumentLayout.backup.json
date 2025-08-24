@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\inputDtat0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\inputDtat0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\nestedFor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\nestedFor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\forEx0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\forEx0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\whileEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\whileEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\1toGob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A00BD198-9661-4C6F-8776-59064A4DA747}|Basic\\Basic.vcxproj|solutionrelative:Basic\\1toGob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,6 +39,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "nestedFor.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\nestedFor.cpp",
+              "RelativeDocumentMoniker": "Basic\\nestedFor.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\nestedFor.cpp*",
+              "RelativeToolTip": "Basic\\nestedFor.cpp*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-24T01:19:56.906Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inputDtat0.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\inputDtat0.cpp",
+              "RelativeDocumentMoniker": "Basic\\inputDtat0.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\inputDtat0.cpp*",
+              "RelativeToolTip": "Basic\\inputDtat0.cpp*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-24T01:30:43.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "forEx0.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\forEx0.cpp",
+              "RelativeDocumentMoniker": "Basic\\forEx0.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\forEx0.cpp",
+              "RelativeToolTip": "Basic\\forEx0.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-24T01:20:08.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "whileEx.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\whileEx.cpp",
+              "RelativeDocumentMoniker": "Basic\\whileEx.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\whileEx.cpp",
+              "RelativeToolTip": "Basic\\whileEx.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-24T01:16:17.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "keyRepeat.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\keyRepeat.cpp",
               "RelativeDocumentMoniker": "Basic\\keyRepeat.cpp",
@@ -30,12 +97,11 @@
               "RelativeToolTip": "Basic\\keyRepeat.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-22T23:44:40.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T23:44:40.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "1toGob.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Basic\\Basic\\1toGob.cpp",
               "RelativeDocumentMoniker": "Basic\\1toGob.cpp",
@@ -43,8 +109,7 @@
               "RelativeToolTip": "Basic\\1toGob.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-22T23:42:47.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T23:42:47.748Z"
             }
           ]
         }
