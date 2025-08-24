@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\DataStructure2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C6CECB2-187B-48C3-A5AB-D9911B1AC7BD}|DataStructure2\\DataStructure2.vcxproj|D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\\uD574\uC26C_\uC0AC\uC804.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C6CECB2-187B-48C3-A5AB-D9911B1AC7BD}|DataStructure2\\DataStructure2.vcxproj|solutionrelative:DataStructure2\\\uD574\uC26C_\uC0AC\uC804.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C6CECB2-187B-48C3-A5AB-D9911B1AC7BD}|DataStructure2\\DataStructure2.vcxproj|D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\\uD574\uC26C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3C6CECB2-187B-48C3-A5AB-D9911B1AC7BD}|DataStructure2\\DataStructure2.vcxproj|solutionrelative:DataStructure2\\\uD574\uC26C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -39,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "\uD574\uC26C_\uC0AC\uC804.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\\uD574\uC26C_\uC0AC\uC804.c",
+              "RelativeDocumentMoniker": "DataStructure2\\\uD574\uC26C_\uC0AC\uC804.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\\uD574\uC26C_\uC0AC\uC804.c*",
+              "RelativeToolTip": "DataStructure2\\\uD574\uC26C_\uC0AC\uC804.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-24T08:20:42.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "\uD574\uC26C.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\\uD574\uC26C.c",
               "RelativeDocumentMoniker": "DataStructure2\\\uD574\uC26C.c",
               "ToolTip": "D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\\uD574\uC26C.c*",
               "RelativeToolTip": "DataStructure2\\\uD574\uC26C.c*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-24T00:02:35.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "\uD2B8\uB9AC_\uB3C4\uC11C\uAD00\uB9AC.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\\uD2B8\uB9AC_\uB3C4\uC11C\uAD00\uB9AC.c",
               "RelativeDocumentMoniker": "DataStructure2\\\uD2B8\uB9AC_\uB3C4\uC11C\uAD00\uB9AC.c",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "DataStructure2\\\uD2B8\uB9AC_\uB3C4\uC11C\uAD00\uB9AC.c",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-23T22:53:56.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T22:53:56.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uD0D0\uC0C9_\uC0AD\uC81C.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uD0D0\uC0C9_\uC0AD\uC81C.c",
               "RelativeDocumentMoniker": "DataStructure2\\\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uD0D0\uC0C9_\uC0AD\uC81C.c",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "DataStructure2\\\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uD0D0\uC0C9_\uC0AD\uC81C.c",
               "ViewState": "AgIAAHQAAAAAAAAAAAAswIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-22T22:45:35.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T22:45:35.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "\uC774\uC9C4\uD2B8\uB9AC.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\\uC774\uC9C4\uD2B8\uB9AC.c",
               "RelativeDocumentMoniker": "DataStructure2\\\uC774\uC9C4\uD2B8\uB9AC.c",
@@ -89,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uBA54\uB274.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uBA54\uB274.c",
               "RelativeDocumentMoniker": "DataStructure2\\\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uBA54\uB274.c",
@@ -101,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uC911\uC704\uC21C\uD68C.c",
               "DocumentMoniker": "D:\\korea_IT\\c2025\\DataStructure2\\DataStructure2\\\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uC911\uC704\uC21C\uD68C.c",
               "RelativeDocumentMoniker": "DataStructure2\\\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uC911\uC704\uC21C\uD68C.c",
