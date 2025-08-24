@@ -126,8 +126,10 @@
     <ClCompile Include="고객대기열_연결리스트 연습.c" />
     <ClCompile Include="고객대기열_연결리스트_큐.c" />
     <ClCompile Include="고객대기열_연결리스트_큐2.c" />
+    <ClCompile Include="도서관리_트리.cpp" />
     <ClCompile Include="연결리스트_메뉴선택.c" />
     <ClCompile Include="연결리스트_메뉴선택2.c" />
+    <ClCompile Include="이진검색트리_삭제.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

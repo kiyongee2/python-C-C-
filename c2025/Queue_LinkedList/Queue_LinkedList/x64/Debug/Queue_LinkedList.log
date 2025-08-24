@@ -1,5 +1,22 @@
-﻿  고객대기열_연결리스트 연습.c
-D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\고객대기열_연결리스트 연습.c(42,23): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
-D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\고객대기열_연결리스트 연습.c(56,14): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
-D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\고객대기열_연결리스트 연습.c(73,13): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+﻿  이진검색트리_삭제.c
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(32,27): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(32,14): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(34,28): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(34,15): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(42,15): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(44,15): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(55,21): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(57,21): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(63,8): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(73,27): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(73,14): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(75,28): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(75,15): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(88,29): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(90,29): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(90,16): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(78,10): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(83,10): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(101,16): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\korea_IT\c2025\Queue_LinkedList\Queue_LinkedList\이진검색트리_삭제.c(102,16): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
   Queue_LinkedList.vcxproj -> D:\korea_IT\c2025\Queue_LinkedList\x64\Debug\Queue_LinkedList.exe

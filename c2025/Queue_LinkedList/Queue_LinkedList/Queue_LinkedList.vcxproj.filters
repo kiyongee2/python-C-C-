@@ -30,5 +30,11 @@
     <ClCompile Include="고객대기열_연결리스트 연습.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="이진검색트리_삭제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="도서관리_트리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

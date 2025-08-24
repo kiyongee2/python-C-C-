@@ -66,6 +66,9 @@
     <ClCompile Include="이진검색트리_탐색_삭제.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="해쉬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CircularQueue.h">

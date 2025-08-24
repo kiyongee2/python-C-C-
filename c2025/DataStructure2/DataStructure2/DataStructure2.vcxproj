@@ -140,6 +140,7 @@
     <ClCompile Include="이진트리.c" />
     <ClCompile Include="트리_도서관리.c" />
     <ClCompile Include="트리_도서관리_메뉴.c" />
+    <ClCompile Include="해쉬.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CircularQueue.h" />

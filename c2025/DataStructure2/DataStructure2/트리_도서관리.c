@@ -80,6 +80,7 @@
 //    printf("도서 전체 목록 (ISBN 순):\n");
 //    inorder(root);
 //
+//    //도서 검색
 //    int searchIsbn = 9781002;
 //    Node* result = search(root, searchIsbn);
 //    if (result != NULL)
@@ -90,6 +91,6 @@
 //
 //    // 메모리 해제
 //    freeTree(root);
-//
+//       
 //    return 0;
 //}

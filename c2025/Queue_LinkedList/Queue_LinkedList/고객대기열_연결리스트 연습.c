@@ -1,129 +1,129 @@
-#define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <stdbool.h>
-
-typedef struct {
-	char name[20];
-	struct Node* next;
-}Node;
-
-typedef struct {
-	Node* front; 
-	Node* rear;
-}Queue;
-
-void initQueue(Queue* q) {
-	q->front = NULL;
-	q->rear = NULL;
-}
-
-bool isEmpty(Queue* q) {
-    return q->front == NULL;
-}
-
-void enQueue(Queue* q, const char* name) {
-    Node* newNode = (Node*)malloc(sizeof(Node));
-    if (newNode == NULL) {
-        printf("메모리 할당 실패!\n");
-        exit(1);
-    }
-
-    strcpy(newNode->name, name);
-    newNode->next = NULL;
-
-    //큐가 비었을때 첫번째 만든 노드는 front이자 rear임
-    if (isEmpty(q)) {
-        q->front = newNode;  
-        q->rear = newNode;
-    }
-    else { //새 노드를 기존 마지막 노드에 연결 시킴
-        q->rear->next = newNode;
-        q->rear = newNode;
-    }
-    printf("%s님이 대기열에 추가되었습니다.\n", name);
-}
-
-int deQueue(Queue* q, char* name) {
-    if (isEmpty(q)) {
-        puts("대기열이 비어 있습니다.\n");
-        return -1;
-    }
-    Node* temp = q->front;
-    strcpy(name, temp->name);
-
-    q->front = q->front->next;
-    if (q->front == NULL) {
-        q->rear = NULL;
-    }
-    free(temp);
-    return 0;
-}
-
-void printQueue(Queue* q) {
-    if (isEmpty(q)) {
-        puts("대기열이 비어 있습니다.\n");
-        return;
-    }
-    printf("현재 대기열: ");
-    Node* cur = q->front;
-    while (cur != NULL) {
-        printf("[%s] ", cur->name);
-        cur = cur->next;
-    }
-    printf("\n");
-}
-
-
-int main() {
-    Queue q;
-    char name[20];
-    bool run = true;
-    int choice;
-
-    initQueue(&q); //큐 초기화
-
-    while (run) {
-        printf("\n==== 고객 대기열 관리 ====\n");
-        printf("1. 고객 추가\n");
-        printf("2. 고객 처리\n");
-        printf("3. 대기열 출력\n");
-        printf("4. 종료\n");
-        printf("메뉴 선택: ");
-        scanf("%d", &choice);
-        getchar(); // 버퍼 정리
-
-        switch (choice) {
-        case 1:
-            printf("고객 이름 입력: ");
-            fgets(name, sizeof(name), stdin);
-            name[strcspn(name, "\n")] = '\0'; // 개행 제거
-            enQueue(&q, name);
-            break;
-
-        case 2:
-            if (deQueue(&q, name) == 0) {
-                printf("%s님 업무 처리 완료.\n", name);
-            }
-            break;
-
-        case 3:
-            printQueue(&q);
-            break;
-
-        case 4:
-            printf("프로그램을 종료합니다.\n");
-            // 남은 고객 메모리 해제
-            while (!isEmpty(&q)) {
-                deQueue(&q, name);
-            }
-            run = false;
-            break;
-
-        default:
-            printf("잘못된 선택입니다. 다시 입력하세요.\n");
-        }
-    }
-}
- 
+//#define _CRT_SECURE_NO_WARNINGS
+//#include <stdio.h>
+//#include <stdlib.h>
+//#include <string.h>
+//#include <stdbool.h>
+//
+//typedef struct {
+//	char name[20];
+//	struct Node* next;
+//}Node;
+//
+//typedef struct {
+//	Node* front; 
+//	Node* rear;
+//}Queue;
+//
+//void initQueue(Queue* q) {
+//	q->front = NULL;
+//	q->rear = NULL;
+//}
+//
+//bool isEmpty(Queue* q) {
+//    return q->front == NULL;
+//}
+//
+//void enQueue(Queue* q, const char* name) {
+//    Node* newNode = (Node*)malloc(sizeof(Node));
+//    if (newNode == NULL) {
+//        printf("메모리 할당 실패!\n");
+//        exit(1);
+//    }
+//
+//    strcpy(newNode->name, name);
+//    newNode->next = NULL;
+//
+//    //큐가 비었을때 첫번째 만든 노드는 front이자 rear임
+//    if (isEmpty(q)) {
+//        q->front = newNode;  
+//        q->rear = newNode;
+//    }
+//    else { //새 노드를 기존 마지막 노드에 연결 시킴
+//        q->rear->next = newNode;
+//        q->rear = newNode;
+//    }
+//    printf("%s님이 대기열에 추가되었습니다.\n", name);
+//}
+//
+//int deQueue(Queue* q, char* name) {
+//    if (isEmpty(q)) {
+//        puts("대기열이 비어 있습니다.\n");
+//        return -1;
+//    }
+//    Node* temp = q->front;
+//    strcpy(name, temp->name);
+//
+//    q->front = q->front->next;
+//    if (q->front == NULL) {
+//        q->rear = NULL;
+//    }
+//    free(temp);
+//    return 0;
+//}
+//
+//void printQueue(Queue* q) {
+//    if (isEmpty(q)) {
+//        puts("대기열이 비어 있습니다.\n");
+//        return;
+//    }
+//    printf("현재 대기열: ");
+//    Node* cur = q->front;
+//    while (cur != NULL) {
+//        printf("[%s] ", cur->name);
+//        cur = cur->next;
+//    }
+//    printf("\n");
+//}
+//
+//
+//int main() {
+//    Queue q;
+//    char name[20];
+//    bool run = true;
+//    int choice;
+//
+//    initQueue(&q); //큐 초기화
+//
+//    while (run) {
+//        printf("\n==== 고객 대기열 관리 ====\n");
+//        printf("1. 고객 추가\n");
+//        printf("2. 고객 처리\n");
+//        printf("3. 대기열 출력\n");
+//        printf("4. 종료\n");
+//        printf("메뉴 선택: ");
+//        scanf("%d", &choice);
+//        getchar(); // 버퍼 정리
+//
+//        switch (choice) {
+//        case 1:
+//            printf("고객 이름 입력: ");
+//            fgets(name, sizeof(name), stdin);
+//            name[strcspn(name, "\n")] = '\0'; // 개행 제거
+//            enQueue(&q, name);
+//            break;
+//
+//        case 2:
+//            if (deQueue(&q, name) == 0) {
+//                printf("%s님 업무 처리 완료.\n", name);
+//            }
+//            break;
+//
+//        case 3:
+//            printQueue(&q);
+//            break;
+//
+//        case 4:
+//            printf("프로그램을 종료합니다.\n");
+//            // 남은 고객 메모리 해제
+//            while (!isEmpty(&q)) {
+//                deQueue(&q, name);
+//            }
+//            run = false;
+//            break;
+//
+//        default:
+//            printf("잘못된 선택입니다. 다시 입력하세요.\n");
+//        }
+//    }
+//}
+// 
