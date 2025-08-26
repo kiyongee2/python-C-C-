@@ -6,8 +6,8 @@
 //
 //// 고객 노드 정의
 //typedef struct Node {
-//    char name[20];
-//    struct Node* next;
+//    char name[20];     //고객 이름
+//    struct Node* next; //다음 고객
 //} Node;
 //
 //// 대기열 구조체
@@ -21,7 +21,7 @@
 //    q->rear = NULL;
 //}
 //
-//int isEmpty(Queue* q) { // 큐가 비었는지 확인
+//bool isEmpty(Queue* q) { // 큐가 비었는지 확인
 //    return q->front == NULL;
 //}
 //

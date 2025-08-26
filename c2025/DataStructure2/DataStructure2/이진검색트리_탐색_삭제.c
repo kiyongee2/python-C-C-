@@ -53,7 +53,7 @@
 //    return (leftH > rightH ? leftH : rightH) + 1;
 //}
 //
-//// 최소값 찾기
+//// 최소값 찾기 - 루트의 왼쪽서 최소값 찾기
 //Node* findMin(Node* root) {
 //    while (root->left != NULL)
 //        root = root->left;
@@ -70,7 +70,7 @@
 //    else if (key > root->data) {
 //        root->right = delete(root->right, key);
 //    }
-//    else {
+//    else { //key == root->data, 값을 찾음
 //        // (1) 자식이 없는 경우
 //        if (root->left == NULL && root->right == NULL) {
 //            free(root);
@@ -78,8 +78,8 @@
 //        }
 //        // (2) 자식이 하나만 있는 경우
 //        else if (root->left == NULL) { //왼쪽 자식이 없음
-//            Node* temp = root->right;
-//            free(root); //현재 노드 삭제
+//            Node* temp = root->right;  //오른쪽 자식을 임시 노드에 저장
+//            free(root);  //현재 노드 삭제
 //            return temp; //오른쪽 자식 반환(부모와 연결)
 //        }
 //        else if (root->right == NULL) { //오른쪽 자식이 없음
@@ -111,8 +111,8 @@
 //    Node* root = NULL;
 //
 //    // 데이터 삽입
-//    int values[] = { 50, 30, 70, 20, 40, 60, 80 };
-//    for (int i = 0; i < 7; i++) {
+//    int values[] = { 50, 30, 70, 20, 40, 60, 80, 90 };
+//    for (int i = 0; i < 8; i++) {
 //        root = insert(root, values[i]);
 //    }
 //
@@ -127,8 +127,8 @@
 //    else printf("%d 없음!\n", key);
 //
 //    // 삭제
-//    root = delete(root, 30);
-//    printf("30 삭제 후 중위 순회: ");
+//    root = delete(root, 70);
+//    printf("70 삭제 후 중위 순회: ");
 //    inorder(root);
 //    printf("\n");
 //

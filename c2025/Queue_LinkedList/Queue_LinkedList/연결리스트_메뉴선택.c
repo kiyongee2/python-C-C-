@@ -76,10 +76,10 @@
 //        head = newNode;
 //    }
 //    else {
-//        Node* current = head;
+//        Node* current = head;  //현재 노드가 head가 됨
 //        while (current->next != NULL)
-//            current = current->next;
-//        current->next = newNode;
+//            current = current->next; //다음 노드로 이동
+//        current->next = newNode; //새 노드를 다음 노드와 연결
 //    }
 //    printf("%d 맨 뒤 삽입 완료\n", value);
 //}

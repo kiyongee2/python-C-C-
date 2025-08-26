@@ -24,7 +24,7 @@
 //// 이진 트리에 노드 삽입 (정렬된 이진 트리)
 //Node* insert(Node* root, int data) {
 //    if (root == NULL) {
-//        return createNode(data); //새 노드 반환
+//        return createNode(data); //새 노드 반환(최상위 루트노드)
 //    }
 //
 //    //재귀 호출

@@ -114,7 +114,7 @@
 //        case 3:
 //            printQueue(&q);
 //            break;
-//        case 4:
+//        case 4: 
 //            freeQueue(&q);
 //            printf("프로그램 종료\n");
 //            return 0;
