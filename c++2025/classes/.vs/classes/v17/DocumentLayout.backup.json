@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\subjectStudent2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|solutionrelative:classes\\subjectStudent2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\structStudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|solutionrelative:classes\\structStudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|solutionrelative:classes\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\MyClassMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|solutionrelative:classes\\MyClassMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|solutionrelative:classes\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\MyClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|solutionrelative:classes\\MyClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\CarMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|solutionrelative:classes\\CarMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\subjectStudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|solutionrelative:classes\\subjectStudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\MyClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7D8D871-0C8E-4DF6-BC87-19E07D386872}|classes\\classes.vcxproj|solutionrelative:classes\\MyClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,63 +31,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "subjectStudent2.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\subjectStudent2.cpp",
-              "RelativeDocumentMoniker": "classes\\subjectStudent2.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\subjectStudent2.cpp",
-              "RelativeToolTip": "classes\\subjectStudent2.cpp",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Title": "structStudent.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\structStudent.cpp",
+              "RelativeDocumentMoniker": "classes\\structStudent.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\structStudent.cpp",
+              "RelativeToolTip": "classes\\structStudent.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-29T13:14:01.741Z",
+              "WhenOpened": "2025-08-30T01:01:12.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "subjectStudent.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\subjectStudent.cpp",
-              "RelativeDocumentMoniker": "classes\\subjectStudent.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\subjectStudent.cpp",
-              "RelativeToolTip": "classes\\subjectStudent.cpp",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowDwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-29T12:10:29.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.h",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\Car.h",
-              "RelativeDocumentMoniker": "classes\\Car.h",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\Car.h",
-              "RelativeToolTip": "classes\\Car.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-29T00:33:24.527Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Car.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\Car.cpp",
-              "RelativeDocumentMoniker": "classes\\Car.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\Car.cpp",
-              "RelativeToolTip": "classes\\Car.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "MyClass.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\MyClass.cpp",
+              "RelativeDocumentMoniker": "classes\\MyClass.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\MyClass.cpp",
+              "RelativeToolTip": "classes\\MyClass.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-29T00:34:25.213Z"
+              "WhenOpened": "2025-08-30T01:00:20.127Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CarMain.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\CarMain.cpp",
-              "RelativeDocumentMoniker": "classes\\CarMain.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\CarMain.cpp",
-              "RelativeToolTip": "classes\\CarMain.cpp",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxEAAAAsAAAAAAAAAA==",
+              "Title": "MyClass.h",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\MyClass.h",
+              "RelativeDocumentMoniker": "classes\\MyClass.h",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\MyClass.h",
+              "RelativeToolTip": "classes\\MyClass.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-30T00:59:48.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyClassMain.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\MyClassMain.cpp",
+              "RelativeDocumentMoniker": "classes\\MyClassMain.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\classes\\classes\\MyClassMain.cpp",
+              "RelativeToolTip": "classes\\MyClassMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-29T00:36:49.197Z"
+              "WhenOpened": "2025-08-30T00:59:11.939Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -75,5 +75,20 @@
     <ClCompile Include="calcScore2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="datetimeFunction.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="datetime.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="datetime2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="datetime3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

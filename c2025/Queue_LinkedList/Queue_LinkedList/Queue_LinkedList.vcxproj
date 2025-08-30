@@ -126,6 +126,7 @@
     <ClCompile Include="고객대기열_연결리스트 연습.c" />
     <ClCompile Include="고객대기열_연결리스트_큐.c" />
     <ClCompile Include="고객대기열_연결리스트_큐2.c" />
+    <ClCompile Include="그래프_지도_길찾기.c" />
     <ClCompile Include="도서관리_트리.c" />
     <ClCompile Include="연결리스트_메뉴선택.c" />
     <ClCompile Include="연결리스트_메뉴선택2.c" />

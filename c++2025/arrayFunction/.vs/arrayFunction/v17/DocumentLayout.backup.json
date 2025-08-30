@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\typingGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|solutionrelative:arrayFunction\\typingGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|solutionrelative:arrayFunction\\pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\newDelete1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|solutionrelative:arrayFunction\\newDelete1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\timeFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|solutionrelative:arrayFunction\\timeFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\intArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|solutionrelative:arrayFunction\\intArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\datetimeFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|solutionrelative:arrayFunction\\datetimeFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\datetime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|solutionrelative:arrayFunction\\datetime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\datetime2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|solutionrelative:arrayFunction\\datetime2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\datetime3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|solutionrelative:arrayFunction\\datetime3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\stringFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|solutionrelative:arrayFunction\\stringFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\intArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6EF88EA-89E3-41C0-ACD6-E9DD56663F38}|arrayFunction\\arrayFunction.vcxproj|solutionrelative:arrayFunction\\intArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,32 +51,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "typingGame.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\typingGame.cpp",
-              "RelativeDocumentMoniker": "arrayFunction\\typingGame.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\typingGame.cpp*",
-              "RelativeToolTip": "arrayFunction\\typingGame.cpp*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
+              "Title": "pointer.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\pointer.cpp",
+              "RelativeDocumentMoniker": "arrayFunction\\pointer.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\pointer.cpp",
+              "RelativeToolTip": "arrayFunction\\pointer.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-24T01:29:12.894Z",
+              "WhenOpened": "2025-08-29T23:00:22.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "newDelete1.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\newDelete1.cpp",
+              "RelativeDocumentMoniker": "arrayFunction\\newDelete1.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\newDelete1.cpp",
+              "RelativeToolTip": "arrayFunction\\newDelete1.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-29T22:59:21.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "datetime3.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\datetime3.cpp",
+              "RelativeDocumentMoniker": "arrayFunction\\datetime3.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\datetime3.cpp",
+              "RelativeToolTip": "arrayFunction\\datetime3.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-29T20:38:49.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "datetime2.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\datetime2.cpp",
+              "RelativeDocumentMoniker": "arrayFunction\\datetime2.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\datetime2.cpp",
+              "RelativeToolTip": "arrayFunction\\datetime2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-29T20:31:42.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "datetime.c",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\datetime.c",
+              "RelativeDocumentMoniker": "arrayFunction\\datetime.c",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\datetime.c",
+              "RelativeToolTip": "arrayFunction\\datetime.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-29T20:23:22.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "datetimeFunction.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\datetimeFunction.cpp",
+              "RelativeDocumentMoniker": "arrayFunction\\datetimeFunction.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\datetimeFunction.cpp",
+              "RelativeToolTip": "arrayFunction\\datetimeFunction.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-29T20:10:49.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "timeFunction.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\timeFunction.cpp",
               "RelativeDocumentMoniker": "arrayFunction\\timeFunction.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\timeFunction.cpp*",
-              "RelativeToolTip": "arrayFunction\\timeFunction.cpp*",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAiwDMAAAADAAAAAAAAAA==",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\timeFunction.cpp",
+              "RelativeToolTip": "arrayFunction\\timeFunction.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwDAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-24T01:27:58.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "intArray.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\intArray.cpp",
               "RelativeDocumentMoniker": "arrayFunction\\intArray.cpp",
@@ -64,12 +149,11 @@
               "RelativeToolTip": "arrayFunction\\intArray.cpp",
               "ViewState": "AgIAAAQAAAAAAAAAAAAiwBoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-24T01:26:42.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T01:26:42.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "stringFunctions.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\arrayFunction\\arrayFunction\\stringFunctions.cpp",
               "RelativeDocumentMoniker": "arrayFunction\\stringFunctions.cpp",
@@ -77,8 +161,7 @@
               "RelativeToolTip": "arrayFunction\\stringFunctions.cpp",
               "ViewState": "AgIAAB4AAAAAAAAAAAAiwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-23T00:01:59.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T00:01:59.712Z"
             }
           ]
         }

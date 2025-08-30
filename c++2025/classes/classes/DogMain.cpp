@@ -3,6 +3,7 @@
 //using namespace std;
 //
 //int main() {
+//
 //    const int SIZE = 3;
 //
 //    // Dog 객체 배열 생성
@@ -24,9 +25,6 @@
 //
 //    return 0;
 //}
-//
-//
-//
 //
 //
 ////#include <iostream>

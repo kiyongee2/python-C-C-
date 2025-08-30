@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c2025\\Queue_LinkedList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uC0AD\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|solutionrelative:Queue_LinkedList\\\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uC0AD\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD0502.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|solutionrelative:Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD0502.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD050.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|solutionrelative:Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD050.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB274\uC120\uD0DD.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|solutionrelative:Queue_LinkedList\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB274\uC120\uD0DD.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8 \uC5F0\uC2B5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|solutionrelative:Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8 \uC5F0\uC2B5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uD574\uC2DC\uD14C\uC774\uBE14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|solutionrelative:Queue_LinkedList\\\uD574\uC2DC\uD14C\uC774\uBE14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uB3C4\uC11C\uAD00\uB9AC_\uD2B8\uB9AC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|solutionrelative:Queue_LinkedList\\\uB3C4\uC11C\uAD00\uB9AC_\uD2B8\uB9AC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uADF8\uB798\uD504_\uC9C0\uB3C4_\uAE38\uCC3E\uAE30.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA4D3C84-B246-48AA-B88D-CF123935E960}|Queue_LinkedList\\Queue_LinkedList.vcxproj|solutionrelative:Queue_LinkedList\\\uADF8\uB798\uD504_\uC9C0\uB3C4_\uAE38\uCC3E\uAE30.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,96 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 462,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB274\uC120\uD0DD.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB274\uC120\uD0DD.c",
-              "RelativeDocumentMoniker": "Queue_LinkedList\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB274\uC120\uD0DD.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB274\uC120\uD0DD.c",
-              "RelativeToolTip": "Queue_LinkedList\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uBA54\uB274\uC120\uD0DD.c",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-25T01:44:27.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD050.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD050.c",
-              "RelativeDocumentMoniker": "Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD050.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD050.c",
-              "RelativeToolTip": "Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD050.c",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-25T01:24:10.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD0502.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD0502.c",
-              "RelativeDocumentMoniker": "Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD0502.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD0502.c",
-              "RelativeToolTip": "Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD0502.c",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAAAIMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-25T01:24:02.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "\uD574\uC2DC\uD14C\uC774\uBE14.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uD574\uC2DC\uD14C\uC774\uBE14.c",
-              "RelativeDocumentMoniker": "Queue_LinkedList\\\uD574\uC2DC\uD14C\uC774\uBE14.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uD574\uC2DC\uD14C\uC774\uBE14.c",
-              "RelativeToolTip": "Queue_LinkedList\\\uD574\uC2DC\uD14C\uC774\uBE14.c",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAAEsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-24T10:37:55.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "\uB3C4\uC11C\uAD00\uB9AC_\uD2B8\uB9AC.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uB3C4\uC11C\uAD00\uB9AC_\uD2B8\uB9AC.c",
-              "RelativeDocumentMoniker": "Queue_LinkedList\\\uB3C4\uC11C\uAD00\uB9AC_\uD2B8\uB9AC.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uB3C4\uC11C\uAD00\uB9AC_\uD2B8\uB9AC.c",
-              "RelativeToolTip": "Queue_LinkedList\\\uB3C4\uC11C\uAD00\uB9AC_\uD2B8\uB9AC.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-23T23:15:13.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8 \uC5F0\uC2B5.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8 \uC5F0\uC2B5.c",
-              "RelativeDocumentMoniker": "Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8 \uC5F0\uC2B5.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8 \uC5F0\uC2B5.c",
-              "RelativeToolTip": "Queue_LinkedList\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uC5F0\uACB0\uB9AC\uC2A4\uD2B8 \uC5F0\uC2B5.c",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-23T22:53:04.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uC0AD\uC81C.c",
-              "DocumentMoniker": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uC0AD\uC81C.c",
-              "RelativeDocumentMoniker": "Queue_LinkedList\\\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uC0AD\uC81C.c",
-              "ToolTip": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uC0AD\uC81C.c",
-              "RelativeToolTip": "Queue_LinkedList\\\uC774\uC9C4\uAC80\uC0C9\uD2B8\uB9AC_\uC0AD\uC81C.c",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIoAAAAKAAAAAAAAAA==",
+              "Title": "\uADF8\uB798\uD504_\uC9C0\uB3C4_\uAE38\uCC3E\uAE30.c",
+              "DocumentMoniker": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uADF8\uB798\uD504_\uC9C0\uB3C4_\uAE38\uCC3E\uAE30.c",
+              "RelativeDocumentMoniker": "Queue_LinkedList\\\uADF8\uB798\uD504_\uC9C0\uB3C4_\uAE38\uCC3E\uAE30.c",
+              "ToolTip": "D:\\korea_IT\\c2025\\Queue_LinkedList\\Queue_LinkedList\\\uADF8\uB798\uD504_\uC9C0\uB3C4_\uAE38\uCC3E\uAE30.c",
+              "RelativeToolTip": "Queue_LinkedList\\\uADF8\uB798\uD504_\uC9C0\uB3C4_\uAE38\uCC3E\uAE30.c",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAAAAoBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-23T11:03:29.077Z",
+              "WhenOpened": "2025-08-26T21:41:50.898Z",
               "EditorCaption": ""
             }
           ]

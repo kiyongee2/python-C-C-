@@ -8,8 +8,7 @@
 //
 //public:
 //	//생성자 초기화 목록(기본 생성자 포함)
-//	Car(string model = "", int year = 0) : 
-//				model(model), year(year) {}
+//	Car(string model = "", int year = 0) : model(model), year(year) {}
 //
 //	//설정자
 //	void setModel(string model) { this->model = model; }

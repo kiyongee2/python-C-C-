@@ -131,6 +131,10 @@
     <ClCompile Include="calcScore.cpp" />
     <ClCompile Include="calcScore2.cpp" />
     <ClCompile Include="coupon.cpp" />
+    <ClCompile Include="datetime.c" />
+    <ClCompile Include="datetime2.cpp" />
+    <ClCompile Include="datetime3.cpp" />
+    <ClCompile Include="datetimeFunction.cpp" />
     <ClCompile Include="defaultParm.cpp" />
     <ClCompile Include="newDelete1.cpp" />
     <ClCompile Include="findMin.cpp" />
@@ -139,6 +143,7 @@
     <ClCompile Include="intArray.cpp" />
     <ClCompile Include="mathFunctions.cpp" />
     <ClCompile Include="newDelete2.cpp" />
+    <ClCompile Include="pointer.cpp" />
     <ClCompile Include="randFunction.cpp" />
     <ClCompile Include="reference.cpp" />
     <ClCompile Include="reference2.cpp" />

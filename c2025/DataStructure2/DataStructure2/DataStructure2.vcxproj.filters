@@ -72,6 +72,24 @@
     <ClCompile Include="해쉬_사전.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="해시_회원.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="그래프_인접행렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="그래프_인접리스트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="그래프_지하철길찾기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="지하철길찾기_csv연동.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="지하철길찾기_사용자입력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CircularQueue.h">

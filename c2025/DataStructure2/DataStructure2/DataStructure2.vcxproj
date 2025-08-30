@@ -134,14 +134,20 @@
     <ClCompile Include="고객대기열_원형큐.c" />
     <ClCompile Include="고객대기열_원형큐_메뉴.c" />
     <ClCompile Include="고객대기열_원형큐_연결리스트.c" />
+    <ClCompile Include="그래프_인접리스트.c" />
+    <ClCompile Include="그래프_인접행렬.c" />
+    <ClCompile Include="그래프_지하철길찾기.c" />
     <ClCompile Include="이진검색트리_메뉴.c" />
     <ClCompile Include="이진검색트리_중위순회.c" />
     <ClCompile Include="이진검색트리_탐색_삭제.c" />
     <ClCompile Include="이진트리.c" />
+    <ClCompile Include="지하철길찾기_csv연동.c" />
+    <ClCompile Include="지하철길찾기_사용자입력.c" />
     <ClCompile Include="트리_도서관리.c" />
     <ClCompile Include="트리_도서관리_메뉴.c" />
     <ClCompile Include="해쉬.c" />
     <ClCompile Include="해쉬_사전.c" />
+    <ClCompile Include="해시_회원.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CircularQueue.h" />

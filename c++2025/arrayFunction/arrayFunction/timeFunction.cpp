@@ -31,22 +31,19 @@
 //
 //	//수행 시간 측정(실수)
 //	time_t start, end;
-//	double elapsedTime;
+//	int sum = 0;
 //
 //	start = clock();
-//	for (int i = 1; i <= 10; i++) {
-//		cout << i << endl;
-//		//0.5초 간격으로 대기
-//		this_thread::sleep_for(chrono::milliseconds(500));
+//	for (int i = 1; i <= 1000000; i++) {
+//		sum += i;
 //	}
-//
 //	end = clock();
-//	//CLOCKS_PER_SEC - 초 단위 변환 상수
-//	elapsedTime = (double)(end - start) / CLOCKS_PER_SEC;
 //
-//	cout << fixed;
-//	cout.precision(2);
-//	cout << "수행시간: " << elapsedTime << "초\n";
+//	//CLOCKS_PER_SEC - 초 단위 변환 상수
+//	double duration = (double)(end - start) / CLOCKS_PER_SEC;
+//
+//	cout << "sum = " << sum << endl;
+//	cout << "수행시간: " << duration << "초\n";
 //
 //	return 0;
 //}
