@@ -21,7 +21,7 @@
     <ClInclude Include="Student.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Students..h">
+    <ClInclude Include="Students.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
@@ -33,6 +33,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Students.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Main2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

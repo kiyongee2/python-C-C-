@@ -127,18 +127,36 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Bus.cpp" />
+    <ClCompile Include="Car.cpp" />
     <ClCompile Include="carArray.cpp" />
+    <ClCompile Include="Card.cpp" />
+    <ClCompile Include="CardMain.cpp" />
+    <ClCompile Include="CardMain2.cpp" />
+    <ClCompile Include="CarMain.cpp" />
+    <ClCompile Include="CarMain2.cpp" />
     <ClCompile Include="classBankAccount.cpp" />
     <ClCompile Include="classCar.cpp" />
     <ClCompile Include="classMath.cpp" />
     <ClCompile Include="defineMath.cpp" />
+    <ClCompile Include="Person.cpp" />
     <ClCompile Include="staticCard.cpp" />
     <ClCompile Include="staticCardArray.cpp" />
     <ClCompile Include="enumValue.cpp" />
     <ClCompile Include="structPoint.cpp" />
     <ClCompile Include="structStudent.cpp" />
+    <ClCompile Include="Student.cpp" />
+    <ClCompile Include="StudnetMain.cpp" />
+    <ClCompile Include="transport.cpp" />
     <ClCompile Include="vectorString.cpp" />
     <ClCompile Include="vetcotInt.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bus.h" />
+    <ClInclude Include="Car.h" />
+    <ClInclude Include="Card.h" />
+    <ClInclude Include="Person.h" />
+    <ClInclude Include="Student.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
