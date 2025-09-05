@@ -5,12 +5,11 @@ import sqlite3 as sql
 # db 생성 및 연결
 # member.db 자동 생성됨
 try:
-    with sql.connect("./mydb/member.db") as conn:
-        print("DB 생성 및 연결 성공!!")
+    sql.connect("./mydb/member.db")
+    print("DB 생성 및 연결 성공!!")
 except sql.Error as e:
      print(f"DB 오류 발생: {e}")
     
-
 # DB 연결 함수 정의
 def getconn():
     try:
@@ -112,10 +111,10 @@ def drop_table():
 
 # create_table()
 # insert_member()
-insert_members()
+# insert_members()
 # update_member()
 # delete_member()
-select_all()
+# select_all()
 # select_one()
 # drop_table()
 

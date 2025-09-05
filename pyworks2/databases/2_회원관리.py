@@ -3,16 +3,19 @@
 import sqlite3 as sql
 
 # db 생성 및 연결
-'''
-with sql.connect("./mydb/member.db") as conn:
+
+try:
+    sql.connect("./mydb/member.db")
     print("DB 생성 및 연결 성공!!")
-'''
+except sql.Error as e:
+     print(f"DB 오류 발생: {e}")
+
 
 # DB 연결 함수 정의
 def getconn():
     try:
-        with sql.connect("./mydb/member.db") as conn:
-            return conn
+        conn = sql.connect("./mydb/member.db")  # 연결 객체 생성
+        return conn
     except sql.Error as e:
         print(f"DB 오류 발생: {e}")
         return None

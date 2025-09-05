@@ -1,4 +1,4 @@
-#include <iostream>
+
 #include "Person.h"
 
 Person::Person(string name, int money) {

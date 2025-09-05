@@ -1,4 +1,4 @@
-#include <iostream>
+
 #include "Students.h"
 
 Students::Students(int studentId, string studentName) {
@@ -7,10 +7,10 @@ Students::Students(int studentId, string studentName) {
 }
 
 void Students::addSubject(string name, int score) {
-	if (subjectCount < 10) {
+	if (subjectCount < 10) { //과목수 제한
 		subjects[subjectCount].setSubjectName(name);
 		subjects[subjectCount].setScorePoint(score);
-		subjectCount++;
+		subjectCount++;  //과목수 1 증가
 	}
 }
 
@@ -23,3 +23,4 @@ void Students::showInfo() {
 	}
 	cout << "------------------------------\n";
 }
+

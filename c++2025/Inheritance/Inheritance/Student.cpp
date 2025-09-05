@@ -1,4 +1,3 @@
-#include <iostream>
 #include "Student.h"
 
 //부모 클래스의 생성자 상속

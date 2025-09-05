@@ -1,8 +1,8 @@
 
 #include "BankAccount.h"
 
-//Transaction 생성자 목록
-Transaction::Transaction() {}
+//Transaction 생성자 목록(초기화)
+Transaction::Transaction() : type(입금), amount(0) {}
 
 Transaction::Transaction(TransactionType type, int amount) :
 	type(type), amount(amount) {}
@@ -24,7 +24,8 @@ void BankAccount::addTransaction(TransactionType type, int amount) {
 
 // 거래 내역 출력
 void BankAccount::getTransactionHistory() {
-	cout << "\n[" << owner << "] 계좌 거래 내역 (총 " << transactionCount << "건)\n";
+	cout << "\n[" << owner << "] 계좌 거래 내역 (총 " 
+		<< transactionCount << "건)\n";
 
 	if (transactionCount == 0) {
 		cout << "거래 내역이 없습니다.\n";
@@ -35,21 +36,37 @@ void BankAccount::getTransactionHistory() {
 		string typeStr = (transactions[i].type == 입금 ? "입금" : "출금");
 		cout << " | " << typeStr << " | " << transactions[i].amount << "원\n";
 	}
+	cout << "========================================\n";
 }
 
-
-
+//입금 기능
 void BankAccount::deposit(int amount) {
 	if (amount < 0) {
 		cout << "유효한 금액을 입력하세요.\n";
 	}
 	else {
 		balance += amount;
-		cout << amount << "원이 입금되었습니다. 현재 잔액: " << balance << "원\n";
+		cout << amount << "원이 입금되었습니다. 현재 잔액: " 
+			<< balance << "원\n";
 		addTransaction(입금, amount);
 	}
 }
 
+//출금 기능
+void BankAccount::withdraw(int amount) {
+	if (amount < 0) {
+		cout << "유효한 금액을 입력하세요.\n";
+	}
+	else if (amount > balance) {
+		cout << "잔액이 부족합니다. 다시 입력하세요\n";
+	}
+	else {
+		balance -= amount;
+		cout << amount << "원이 출금되었습니다. 현재 잔액: " 
+			<< balance << "원\n";
+		addTransaction(출금, amount);
+	}
+}
 
 //계좌 정보 출력 
 void BankAccount::displayInfo() {
@@ -57,5 +74,6 @@ void BankAccount::displayInfo() {
 	cout << "    계좌 번호: " << accountNumber << endl;
 	cout << "    예금주: " << owner << endl;
 	cout << "    현재 잔고: " << balance << endl;
-	cout << "-----------------------------\n";
+	cout << "----------------------------------------\n";
 }
+

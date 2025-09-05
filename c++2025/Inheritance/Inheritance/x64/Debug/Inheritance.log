@@ -1,7 +1,6 @@
-﻿  Character.cpp
-  Monster.cpp
-  MonsterA.cpp
-  MonsterMain.cpp
-  multiInherit.cpp
+﻿  Alcohol.cpp
+  Drink.cpp
+  StudentMain.cpp
+  statementMain.cpp
   코드를 생성하고 있습니다...
   Inheritance.vcxproj -> D:\korea_IT\c++2025\Inheritance\x64\Debug\Inheritance.exe

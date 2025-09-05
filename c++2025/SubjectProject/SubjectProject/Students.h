@@ -5,10 +5,10 @@
 
 class Students {
 private:
-	int studentId;
-	string studentName;
-	Subject subjects[10];
-	int subjectCount = 0;
+	int studentId;        //학생 아이디
+	string studentName;   //학생 이름
+	Subject subjects[10]; //과목(배열)
+	int subjectCount = 0; //현재 과목수
 
 public:
 	Students(int studentId, string studentName);
@@ -17,3 +17,4 @@ public:
 	void showInfo();
 };
 #endif 
+

@@ -2,10 +2,11 @@
 # sqlite3 언어 사용 DB 브라우저에 접속
 import sqlite3
 
-# mydb.db에 연결
-
-# sqlite3.connect("c:/pydb/testdb.db")
-# print("DB 연결 성공!!")
+try:
+    sqlite3.connect("c:/pydb/testdb.db")
+    print("DB 생성 및 연결 성공!!")
+except sqlite3.Error as e:
+     print(f"DB 오류 발생: {e}")
 
 # 사원 전체 검색
 def select_all():
