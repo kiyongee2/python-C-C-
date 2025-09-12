@@ -1,4 +1,3 @@
-#include <iostream>
 #include "Drink.h"
 
 Drink::Drink(string name, int price, int quantity) :

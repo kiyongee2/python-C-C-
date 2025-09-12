@@ -1,5 +1,5 @@
 //#include <iostream>
-//#include <stack>
+//#include <stack> //stack 헤더 파일 추가
 //using namespace std;
 //
 //int main()
@@ -22,26 +22,14 @@
 //
 //	//스택에서 데이터 삭제(3 - 2 - 1)
 //	stk.pop(); 
+//
 //	cout << stk.top() << endl; //2
 //
-//	stk.pop();
-//	cout << stk.top() << endl; //1
-//
-//	stk.pop(); 
-//
-//	// 스택이 비어 있는 상태에서 pop() 호출 방지
-//	if (!stk.empty()) {
-//		stk.pop();
-//	}
-//	else {
-//		cout << "스택이 비어 있어서 삭제 할 수 없습니다.\n";
-//	}
-//
 //	//안전한 삭제 처리
-//	while (!stk.empty()) {
+//	/*while (!stk.empty()) {
 //		cout << stk.top() << " ";
 //		stk.pop();
-//	}
+//	}*/
 //
 //	return 0;
 //}

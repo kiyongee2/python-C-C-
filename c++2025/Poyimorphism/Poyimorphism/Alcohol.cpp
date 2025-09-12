@@ -1,4 +1,3 @@
-#include <iostream>
 #include "Alcohol.h"
 
 //멤버 변수 상속

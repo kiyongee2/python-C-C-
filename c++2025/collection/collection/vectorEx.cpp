@@ -12,7 +12,6 @@
 //
 //	cout << "첫 번째: " << vec.front() << endl;
 //	cout << "마지막: " << vec.back() << endl;
-//
 //	cout << "크기: " << vec.size() << endl;
 //
 //	vec.pop_back();  // 30 제거

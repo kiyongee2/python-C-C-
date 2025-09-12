@@ -136,6 +136,7 @@
     <ClCompile Include="Alcohol.cpp" />
     <ClCompile Include="Animal.cpp" />
     <ClCompile Include="AnimalMain.cpp" />
+    <ClCompile Include="auto.cpp" />
     <ClCompile Include="Cat.cpp" />
     <ClCompile Include="Dog.cpp" />
     <ClCompile Include="Drink.cpp" />

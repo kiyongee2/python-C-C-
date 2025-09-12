@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sortEx2.cpp">
+    <ClCompile Include="algorithm-sort.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="dictionary.cpp">
@@ -51,10 +51,13 @@
     <ClCompile Include="vectorEx.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="sortEx1.cpp">
+    <ClCompile Include="split.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="split.cpp">
+    <ClCompile Include="bubbleSort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bubbleSort2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,4 +1,3 @@
-#include <iostream>
 #include "NonAlcohol.h"
 
 NonAlcohol::NonAlcohol(string name, int price, int quantity) :

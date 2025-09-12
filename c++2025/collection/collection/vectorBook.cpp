@@ -64,12 +64,12 @@
 //	auto it = books.begin() + 1; //1번 요소
 //	it->showBookInfo();
 //
-//	cout << "********** 책의 정보 **********\n";
+//	/*cout << "********** 책의 정보 **********\n";
 //	for (int i = 0; i < books.size(); i++) {
 //		books[i].showBookInfo();
 //		cout << "===============================\n";
 //	}
-//	cout << endl;
+//	cout << endl;*/
 //
 //	//도서 삭제 - 2번 요소
 //	books.erase(books.begin() + 2);

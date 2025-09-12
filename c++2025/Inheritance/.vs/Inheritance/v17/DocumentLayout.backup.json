@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\operatorCompare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\operatorCompare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\operatorAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\operatorAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\autoDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\autoDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\statementMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\statementMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\Drink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Drink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\AlcoholTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\Alcohol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Alcohol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\Drink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{63536579-4A7A-4E15-8E81-FAA5F80D7F24}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Drink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,25 +45,63 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 523,
+          "DockedWidth": 602,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "statementMain.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\statementMain.cpp",
-              "RelativeDocumentMoniker": "Inheritance\\statementMain.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\statementMain.cpp*",
-              "RelativeToolTip": "Inheritance\\statementMain.cpp*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Title": "operatorCompare.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\operatorCompare.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\operatorCompare.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\operatorCompare.cpp*",
+              "RelativeToolTip": "Inheritance\\operatorCompare.cpp*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-05T06:54:54.727Z",
+              "WhenOpened": "2025-09-07T01:57:47.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "operatorAdd.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\operatorAdd.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\operatorAdd.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\operatorAdd.cpp",
+              "RelativeToolTip": "Inheritance\\operatorAdd.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-07T01:56:25.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "autoDataType.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\autoDataType.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\autoDataType.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\autoDataType.cpp",
+              "RelativeToolTip": "Inheritance\\autoDataType.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-07T01:40:36.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "statementMain.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\statementMain.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\statementMain.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\statementMain.cpp",
+              "RelativeToolTip": "Inheritance\\statementMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-05T06:54:54.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AlcoholTest.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\AlcoholTest.cpp",
               "RelativeDocumentMoniker": "Inheritance\\AlcoholTest.cpp",
@@ -59,25 +109,23 @@
               "RelativeToolTip": "Inheritance\\AlcoholTest.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-05T06:54:40.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T06:54:40.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Alcohol.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\Alcohol.cpp",
               "RelativeDocumentMoniker": "Inheritance\\Alcohol.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\Alcohol.cpp*",
-              "RelativeToolTip": "Inheritance\\Alcohol.cpp*",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\Alcohol.cpp",
+              "RelativeToolTip": "Inheritance\\Alcohol.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-05T06:54:11.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T06:54:11.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Drink.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\Drink.cpp",
               "RelativeDocumentMoniker": "Inheritance\\Drink.cpp",
@@ -85,31 +133,30 @@
               "RelativeToolTip": "Inheritance\\Drink.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-05T06:52:57.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T06:52:57.492Z"
             }
           ]
         },
         {
-          "DockedWidth": 163,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 83,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Drink.h",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\Drink.h",
               "RelativeDocumentMoniker": "Inheritance\\Drink.h",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\Drink.h",
               "RelativeToolTip": "Inheritance\\Drink.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-05T06:52:25.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Alcohol.h",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Inheritance\\Inheritance\\Alcohol.h",
               "RelativeDocumentMoniker": "Inheritance\\Alcohol.h",
@@ -117,8 +164,7 @@
               "RelativeToolTip": "Inheritance\\Alcohol.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-05T06:53:44.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T06:53:44.202Z"
             }
           ]
         }
