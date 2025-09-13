@@ -45,7 +45,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 340,
+          "DockedWidth": 270,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -54,9 +54,9 @@
               "Title": "auto.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\auto.cpp",
               "RelativeDocumentMoniker": "Poyimorphism\\auto.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\auto.cpp*",
-              "RelativeToolTip": "Poyimorphism\\auto.cpp*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\auto.cpp",
+              "RelativeToolTip": "Poyimorphism\\auto.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-07T01:55:06.204Z",
               "EditorCaption": ""
@@ -80,8 +80,8 @@
               "Title": "statement.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\statement.cpp",
               "RelativeDocumentMoniker": "Poyimorphism\\statement.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\statement.cpp*",
-              "RelativeToolTip": "Poyimorphism\\statement.cpp*",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\statement.cpp",
+              "RelativeToolTip": "Poyimorphism\\statement.cpp",
               "ViewState": "AgIAACMAAAAAAAAAAAAYwDgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-07T01:51:33.634Z",
@@ -126,7 +126,7 @@
           ]
         },
         {
-          "DockedWidth": 60,
+          "DockedWidth": 130,
           "SelectedChildIndex": 2,
           "Children": [
             {

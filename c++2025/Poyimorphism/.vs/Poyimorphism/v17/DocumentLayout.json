@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|solutionrelative:Poyimorphism\\auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\statement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|solutionrelative:Poyimorphism\\statement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\AnimalMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|solutionrelative:Poyimorphism\\AnimalMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Drink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|solutionrelative:Poyimorphism\\Drink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Alcohol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|solutionrelative:Poyimorphism\\Alcohol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\NonAlcohol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|solutionrelative:Poyimorphism\\NonAlcohol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Alcohol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|solutionrelative:Poyimorphism\\Alcohol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Drink.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|solutionrelative:Poyimorphism\\Drink.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\NonAlcohol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|solutionrelative:Poyimorphism\\NonAlcohol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Drink.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|solutionrelative:Poyimorphism\\Drink.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Alcohol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|solutionrelative:Poyimorphism\\Alcohol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Drink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91D386DE-5351-4C8E-BEE0-D9398C4472FA}|Poyimorphism\\Poyimorphism.vcxproj|solutionrelative:Poyimorphism\\Drink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,105 +29,57 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 270,
+          "DockedWidth": 226,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "auto.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\auto.cpp",
-              "RelativeDocumentMoniker": "Poyimorphism\\auto.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\auto.cpp",
-              "RelativeToolTip": "Poyimorphism\\auto.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-07T01:55:06.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AnimalMain.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\AnimalMain.cpp",
-              "RelativeDocumentMoniker": "Poyimorphism\\AnimalMain.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\AnimalMain.cpp",
-              "RelativeToolTip": "Poyimorphism\\AnimalMain.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-07T01:51:42.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "statement.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\statement.cpp",
-              "RelativeDocumentMoniker": "Poyimorphism\\statement.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\statement.cpp",
-              "RelativeToolTip": "Poyimorphism\\statement.cpp",
-              "ViewState": "AgIAACMAAAAAAAAAAAAYwDgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-07T01:51:33.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Alcohol.cpp",
-              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Alcohol.cpp",
-              "RelativeDocumentMoniker": "Poyimorphism\\Alcohol.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Alcohol.cpp",
-              "RelativeToolTip": "Poyimorphism\\Alcohol.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-07T01:51:11.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "NonAlcohol.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\NonAlcohol.cpp",
               "RelativeDocumentMoniker": "Poyimorphism\\NonAlcohol.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\NonAlcohol.cpp",
               "RelativeToolTip": "Poyimorphism\\NonAlcohol.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-07T01:50:14.285Z"
+              "WhenOpened": "2025-09-13T00:48:28.208Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Drink.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Drink.cpp",
               "RelativeDocumentMoniker": "Poyimorphism\\Drink.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Drink.cpp",
               "RelativeToolTip": "Poyimorphism\\Drink.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-07T01:48:44.869Z"
+              "WhenOpened": "2025-09-07T01:48:44.869Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 130,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 174,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Alcohol.h",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Alcohol.h",
               "RelativeDocumentMoniker": "Poyimorphism\\Alcohol.h",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Alcohol.h",
               "RelativeToolTip": "Poyimorphism\\Alcohol.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-04T00:15:42.549Z"
+              "WhenOpened": "2025-08-04T00:15:42.549Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "NonAlcohol.h",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\NonAlcohol.h",
               "RelativeDocumentMoniker": "Poyimorphism\\NonAlcohol.h",
@@ -151,17 +87,18 @@
               "RelativeToolTip": "Poyimorphism\\NonAlcohol.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-04T00:15:40.872Z"
+              "WhenOpened": "2025-08-04T00:15:40.872Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Drink.h",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Drink.h",
               "RelativeDocumentMoniker": "Poyimorphism\\Drink.h",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\Poyimorphism\\Poyimorphism\\Drink.h",
               "RelativeToolTip": "Poyimorphism\\Drink.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-04T00:15:34.026Z",
               "EditorCaption": ""

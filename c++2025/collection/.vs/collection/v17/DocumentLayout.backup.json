@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\template1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|solutionrelative:collection\\template1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\algorithm-sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{45BD7129-1F06-46A9-A0AB-5D644D243F1C}|collection\\collection.vcxproj|solutionrelative:collection\\algorithm-sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,32 +31,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "template1.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\template1.cpp",
+              "RelativeDocumentMoniker": "collection\\template1.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\template1.cpp*",
+              "RelativeToolTip": "collection\\template1.cpp*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-13T00:50:33.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "algorithm-sort.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\algorithm-sort.cpp",
               "RelativeDocumentMoniker": "collection\\algorithm-sort.cpp",
               "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\algorithm-sort.cpp*",
               "RelativeToolTip": "collection\\algorithm-sort.cpp*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-12T10:55:58.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "bubbleSort2.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\bubbleSort2.cpp",
               "RelativeDocumentMoniker": "collection\\bubbleSort2.cpp",
-              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\bubbleSort2.cpp*",
-              "RelativeToolTip": "collection\\bubbleSort2.cpp*",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\bubbleSort2.cpp",
+              "RelativeToolTip": "collection\\bubbleSort2.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAAkwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-12T10:49:53.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-12T10:49:53.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "bubbleSort.cpp",
               "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\collection\\collection\\bubbleSort.cpp",
               "RelativeDocumentMoniker": "collection\\bubbleSort.cpp",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "collection\\bubbleSort.cpp",
               "ViewState": "AgIAABAAAAAAAAAAAAAkwCcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-12T10:36:33.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-12T10:36:33.625Z"
             }
           ]
         }

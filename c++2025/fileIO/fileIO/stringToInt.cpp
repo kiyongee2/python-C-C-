@@ -30,7 +30,6 @@
 //		cout << str << " 처리에서 예외 발생!" << endl;
 //	}
 //
-//	/*
 //	char s[] = "apple";
 //	cout << strlen(s) << endl;
 //
@@ -39,7 +38,6 @@
 //
 //	cout << x << ", " << y << endl; //48, 49
 //	cout << y - x << endl;  //1
-//	*/
 //	
 //	return 0;
 //}

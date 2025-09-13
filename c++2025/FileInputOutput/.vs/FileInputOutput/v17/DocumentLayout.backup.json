@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\korea_IT\\c\u002B\u002B2025\\FileInputOutput\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{947AA183-3EE1-4E57-A222-5EDFF0443948}|FileInputOutput\\FileInputOutput.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\FileInputOutput\\FileInputOutput\\studentMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{947AA183-3EE1-4E57-A222-5EDFF0443948}|FileInputOutput\\FileInputOutput.vcxproj|solutionrelative:FileInputOutput\\studentMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947AA183-3EE1-4E57-A222-5EDFF0443948}|FileInputOutput\\FileInputOutput.vcxproj|D:\\korea_IT\\c\u002B\u002B2025\\FileInputOutput\\FileInputOutput\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{947AA183-3EE1-4E57-A222-5EDFF0443948}|FileInputOutput\\FileInputOutput.vcxproj|solutionrelative:FileInputOutput\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "studentMain.cpp",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\FileInputOutput\\FileInputOutput\\studentMain.cpp",
+              "RelativeDocumentMoniker": "FileInputOutput\\studentMain.cpp",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\FileInputOutput\\FileInputOutput\\studentMain.cpp",
+              "RelativeToolTip": "FileInputOutput\\studentMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-13T23:15:14.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.h",
+              "DocumentMoniker": "D:\\korea_IT\\c\u002B\u002B2025\\FileInputOutput\\FileInputOutput\\Student.h",
+              "RelativeDocumentMoniker": "FileInputOutput\\Student.h",
+              "ToolTip": "D:\\korea_IT\\c\u002B\u002B2025\\FileInputOutput\\FileInputOutput\\Student.h",
+              "RelativeToolTip": "FileInputOutput\\Student.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-13T23:04:53.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
